@@ -78,7 +78,7 @@ If you do contribute, please stick to the following simple rules:
   2. Don’t repeat yourself! [(DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
   3. Tell others (and future self) why you are doing what you are doing.
   
-Go to: [Python](https://www.python.org/dev/peps/pep-0020/) to get inspired.
+Go to: [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/) to get inspired.
 
 # Requirements – What you will need
 ## Formats and Norms
