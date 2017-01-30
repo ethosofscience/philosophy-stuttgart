@@ -31,7 +31,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # ethos
-**e**thos des ins**t**ituts für philosophie und der fac**h**gruppe phil**os**ophie der universät stuttgart
+**E**thos des ins**T**ituts für philosophie und der fac**H**gruppe phil**OS**ophie der universät stuttgart
 
 FACHGRUPPE PHILOSPPHIE
 
@@ -39,8 +39,8 @@ FACHGRUPPE PHILOSPPHIE
 
 Stuttgart, 2017-01-28
 
-(Work in Progress)
-(Go to: **[Sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/notions.md)** to see the early stages.)
+(Work in Progress)  
+**(Go to: [sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/notions.md))**
 
 **Abstract**: Dies ist das Gemeinsames Ethos des Instituts für Pilosophie und der Fachgruppe Philosophie der Universät Stuttgart. In diesem Ethos erklären wir unsere Selbstverpfichtung. …
 
@@ -76,7 +76,7 @@ If you do contribute, please stick to the following simple rules:
 
   1. Keep it super simple! [(KISS)](https://en.wikipedia.org/wiki/KISS_principle),
   2. Don’t repeat yourself! [(DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
-  3. Tell others (and future self) why you are doing what you are doing.
+  3. Tell others (and your future self) why you are doing what you are doing.
   
 Go to: [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/) to get inspired.
 
