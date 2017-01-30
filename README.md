@@ -40,7 +40,7 @@ FACHGRUPPE PHILOSPPHIE
 Stuttgart, 2017-01-28
 
 (Work in Progress)
-Go to: [Sketches](ethos/sketches/notions.md) to see early stages.
+Go to: [Sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/notions.md) to see the early stages.
 
 **Abstract**: Dies ist das Gemeinsames Ethos des Instituts für Pilosophie und der Fachgruppe Philosophie der Universät Stuttgart. In diesem Ethos erklären wir unsere Selbstverpfichtung. …
 
