@@ -23,7 +23,7 @@ E-Mail: develop@martinmaga.de, …
   COPYRIGHT - The COPYRIGHT holder of this project is:
 COPYRIGHT (c) 2016 Martin Maga
 
-  LICENSE - This project ist LICENSED under the following license:
+  LICENSE - This project is LICENSED under the following license:
 Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
   INFO - For more INFORMATION on this project go to:
@@ -73,8 +73,12 @@ Stuttgart, 2017-01-28
 # Contribution
 We want you to *be part of this project*. If you want to contribute, please let us know (see Contact).
 If you do contribute, please stick to the following simple rules:
+
   1. Keep it super simple! [(KISS)](https://en.wikipedia.org/wiki/KISS_principle),
-  2. Don’t repeat yourself! [(DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
+  2. Don’t repeat yourself! [(DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
+  3. Tell others (and future self) why you are doing what you are doing.
+  
+Go to: [Python](https://www.python.org/dev/peps/pep-0020/) to get inspired.
 
 # Requirements – What you will need
 ## Formats and Norms
