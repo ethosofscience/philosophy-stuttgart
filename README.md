@@ -31,103 +31,150 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # ethos
-**E**thos des ins**T**ituts für philosophie und der fac**H**gruppe phil**OS**ophie der universät stuttgart
-
-FACHGRUPPE PHILOSPPHIE
+*Institute for Pilosophy and
+Student Council of Philosophy
+University of Stuttgart*
 
 [develop@martinmaga.de](develop@martinmaga.de)
 
 Stuttgart, 2017-01-28
 
-(Work in Progress)  
-**(Go to: [sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/notions.md))**
+(Work in Progress! Go to:
+[sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/notions.md))
 
-**Abstract**: Dies ist das Gemeinsames Ethos des Instituts für Pilosophie und der Fachgruppe Philosophie der Universät Stuttgart. In diesem Ethos erklären wir unsere Selbstverpfichtung. …
+**Abstract**: This is the joint ethos of the Institute for Pilosophy and the
+Student Council of Philosophy at the University of Stuttgart.
+In this ethos we declare our commitment. …
 
-**Keywords**: Kommunikation, Kooperation, Redlichkeit, Werte, Ethik, Haltung, Institut für Philosophie, Fachgruppe Philosophie, Universität Stuttgart, …
+**Keywords**: Ethos, Communication, Cooperation, Integrity, Values, Ethics,
+Attitude, …
+
+# You are reading …
+… the *README.md* file of this project, the *landing page* of this project.
+The README.md file is a [Markdown](https://en.wikipedia.org/wiki/Markdown) file
+that contains the most important information and metainformation on this project
+and its development.
 
 # Project Description - What it is and why it is
-## Main Characteristic
-…
+## Characteristics and aim
+This project is a joint project of the Institute of Philosophy and the
+Student Council of Philosophy at the University of Stuttgart.
+Jointly, we want to
 
-## Main Aim
-### Formal Aim
-…
+  1. develop a set of values and rules and
+  2. voluntarily commit ourselves to this set of values and rules.
 
-### Contentual Aim
-…
+# Main content
+## Leading question
+The leading question for now is:
 
-# Main Content
-## Leading Question
-…
+  1. Which values and rules do we want ourselves to commit to?
+  2. What is a good or effective procedure to develop those values and rules?
+  3. How do we argue for our set of values and rules?
+  4. How do we deploy those values and norms?
 
-## Main Thesis
-…
+## Main concepts, values and rules
+  For now the main concepts, values and rules we want to oparate with are:
 
-## Main Argument
-…
-     
+  1. Openness,
+  2. Transparency,
+  3. Intellectual integrity,
+  4. Liveliness (social),
+  7. Koherence,
+  6. …
+
+## Main arguments
+For now the best reasons that support those concepts, values and rules in
+[Main concepts, values and rules](#main-concepts-values-and-rules) are the
+following:
+
+  1. …
+  2. …
+  3. …
+  4. …
+
+
 ## Discussion
-…
+  1. Can we do it this way?
+  2. Are there better ways?
+  3. …
+
 
 # Contribution
-We want you to *be part of this project*. If you want to contribute, please let us know (see Contact).
-If you do contribute, please stick to the following simple rules:
+We want you to *be part of this project*. If you want to contribute, then
+please let us know (see [Contact](#contact)).
+If you do contribute, then please stick to the following three simple rules:
 
   1. Keep it super simple! [(KISS)](https://en.wikipedia.org/wiki/KISS_principle),
   2. Don’t repeat yourself! [(DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
   3. Tell others (and your future self) why you are doing what you are doing.
-  
-Go to: [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/) to get inspired.
+
+Go to:
+[PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+to get inspired.
+
+Go to:
+[guidlines](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/meta/guidlines/)
+to see the fine print.
 
 # Requirements – What you will need
-## Formats and Norms
-This project uses the following formats and norms:  
+## Standards, formats and norms
+This project uses the following standards, formats and norms:
+
   1. Character Encoding: 8-Bit Universal Character Set Transformation
      Format (UTF-8);  
   2. Line Ending: Unix/Linux.  
   3. Times are repersented in ISO format: Coordinated Universal Time (UTC)
-  (former Greenwich Mean Time (GMT))
-  
+     (former Greenwich Mean Time (GMT))
+
 ## Tools
 This project is designed to be handled with the following tools:
+
   1. Texlive 2016 (or later),  
   2. TeXstudio 2.10.8 (or later),  
   3. XeLaTeX (contained in TeXlive),  
   4. xindy (contained in TeXlive),  
   5. biber (contained in TeXlive),  
   6. mkglossary (contained in TeXlive),  
-  7. okular (contained in TeXlive),  
-  8. vi(m) or gedit (contained in Ubuntu Linux OS),  
-  9. git (contained in Ubuntu Linux OS).  
+  7. Okular (contained in TeXlive),  
+  8. Atom text editor (contained in Ubuntu Linux OS),  
+  9. Git (contained in Ubuntu Linux OS).  
 
 ### Reading
 To *read* this project you need:
-  1. A Webbrowser like [Firefox](https://www.mozilla.org/en-US/firefox/products/).
-  2. A PDF reader like [Okular](https://okular.kde.org/).
-Please go to [PDFreaders.org](https://pdfreaders.org/pdfreaders.en.html) for more information on PDF readers.
-**To read** the all the other files files you just need a simple text editor like [Vim](http://www.vim.org/) or [gedit](www.gedit.org).
+  1. A simple text editor like [Vim](http://www.vim.org/) or
+  2. A [gedit](www.gedit.org),
+  3. A Webbrowser like [Firefox](https://www.mozilla.org/en-US/firefox/products/).
+  4. A PDF reader like [Okular](https://okular.kde.org/).
+
+Go to:
+[PDFreaders.org](https://pdfreaders.org/pdfreaders.en.html)
+for more information on PDF readers.
 
 ### Writing
 To *write* to this project you need:
-  1. A LaTeX editor like [TeXstudio](http://texstudio.sourceforge.net/) or simple text editor like [Vim](http://www.vim.org/).
+
+  1. A simple text editor like [Vim](http://www.vim.org/) or
+  2. A [gedit](www.gedit.org) or
+  2. A more advanced text editor like [Atom](https://atom.io/),
+  1. A LaTeX editor like [TeXstudio](http://texstudio.sourceforge.net/) or
   2.  …
-  
+
 ### Compiling
 To *compile* this project you need:
-  1. A new version of LaTeX like: [TeXlive 2016](https://www.tug.org/texlive/).
+
+  1. A new version of LaTeX like: [TeXlive 2016](https://www.tug.org/texlive/),
+  2. pandoc
 
 In particular you need at least the following tools that are contained in the
-TeXlive 2016 distribution:
+TeXlive 2016 distribution to compile this project correctly:
 
   1. *XeLaTeX*,
   2. *xindy*,
   3. *biber* and
   4. *mkglossary*
 
-to compile this project correctly.
-
-#### Compiling Sequence
+#### Compiling sequence
   1. XeLaTeX main.tex
   2. xindy main.tex
   3. biber main.tex
@@ -142,57 +189,72 @@ in directory "/main/" to see all packages you need.
 Please read the section *Project Structure and File Dependency* in the current
 README file.
 
-# Project Structure and File Dependency
-/computational-cognition [The root directory "/" of this project]  
+# Project structure and file dependency
+/ethos                   [The root directory "/" of this project]  
 | README.md              (You are here!)  
 | LICENSE.md             (The full license text)  
 | VERSION.md             (The current version and description of the  
 |                        versioning scheme of this project)  
 |  
-+--controls              [The main directory of this project]
-|  main.tex              (This file controls and combines all (sub)files in  
-|                        /contents/, /figures/, /glossaries/, /tables/ and  
-|                        /utilities/)  
-|
++--sketches              [Conains sketches, ideas, concepts, …]  
+|  | sketches.md  
+|  
+|  
++--controls              [The main directory of this project]  
+|  
+|  
 +--contents              [Contains the actual contents in LaTeX (sub)files.]  
 |  
-|
-\\
+|  
++--meta                  [Contains meta information on this project]  
+|  |  
+|  +--guidlines          [Contains guidlines we commit to]  
+|  |  
+|  +--how2               [Contains how-tos related to this project]  
+|     |--join_ethos_on_github_tik  
+|     | join_ethos_on_github_tik.md  
+|     | join_ethos_on_github_tik.pdf  
+|     | 1.png  
+|     | 2.png  
+|     | 3.png  
+|     | 4.png  
+|     | 5.png  
+|     | 6.png  
+|     | 7.png  
+|     | 8.png  
+|     | 9.png  
+|  
+\\  
 
-## Key – Filename Extensions
+## Key – Filename extensions
 ### Generic filename suffix (filename extensions)
-  1. *.txt                (Plain text file)  
-  2. *.md                 (Markdown file)  
-  3. *.tex                (LaTeX file)  
-  4. *.png                (Lossless digital image)  
-  5. *.eps                (Graphics file format)  
-  6. *.jpg                (Lossy compressed digital image)  
-  7. *.svg                (Scalable Vector Graphics)  
-  8. *.pdf                (Portable Document Format; PDF is the output/ result
-                           of compiling .tex (LaTeX source code) files with
-                           a LaTeX-Compiler like XeLaTeX)
+  1. \*.txt                (Plain text file)  
+  2. \*.md                 (Markdown file)  
+  3. \*.tex                (LaTeX file)  
+  4. \*.png                (Lossless digital image)  
+  5. \*.eps                (Graphics file format)  
+  6. \*.jpg                (Lossy compressed digital image)  
+  7. \*.svg                (Scalable Vector Graphics)  
+  8. \*.pdf                (Portable Document Format; PDF is the output/ result
+                            of compiling .tex (LaTeX source code) files with
+                            a LaTeX-Compiler like XeLaTeX)  
 
-Please go to [Filename extension - Wikipedia, the free encyclopedia](en.wikipedia.org/wiki/Filename_extension) for more Information.
+Go to:
+[Filename extension - Wikipedia, the free encyclopedia](en.wikipedia.org/wiki/Filename_extension)
+for more Information.
 
-### Custom filename präfix (pseudo filename extensions)
-  1. part_*.tex           (Parts of this book project)  
-  2. chap_*.tex           (Chapters of this book project)  
-  3. sec_*.tex            (Sections of this book project)  
-  4. subsec_*.tex         (Subsections of this book project)  
-  5. anx_*.tex            (Annex of this book project)  
-  6. util_*.tex           (Utilities of this book project)  
-  7. *.fallback.*         (If something went wrong)  
-
-# Creation and Development
-## Author(s) and Creator(s)
+# Creation and development
+## Author(s) and creator(s)
 The project at hand was originally created by MICHAEL CZECHOWSKI and MARTIN MAGA.
 
 ## Development
 The project at hand is currently maintained and developed by MARTIN MAGA.
 
-Go to section: Contact for more information.
+Go to:
+[Contact](#contact)
+for more information.
 
-# Copyright and License
+# Copyright and license
 ## Copyright
 *Copyright (c) 2016 Martin Maga*
 
@@ -201,15 +263,18 @@ The project at hand is hereby released under the following License:
 *Martin Maga 2016 Creative Commons Attribution-ShareAlike 4.0 International*
 *(CC BY-SA 4.0) [Creative Commons](https://creativecommons.org)*
 
-Please go to file: "/LICENSE.md" for more information.
+Go to: [/LICENSE.md](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/LICENSE.md)
+For more information.
 
-# Version and Versioning
+# Version and versioning
 ## Verision
 The current VERSION of this project is:
 
 <git-commit-hash>-2017-01-28-16:15:00 UTC
 
-Please go to file: "/VERSION.md" for more information.
+Go to:
+[/VERSION.md](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/VERSION.md).
+For more information.
 
 ## Versioning
 The current versioning scheme of this project roughly speaking mainly consists
@@ -218,7 +283,9 @@ of two parts:
   1. A unique *hexadecimal number* and  
   2. A **timestamp**.  
 
-Please go to file: "/VERSION.md" for more information.
+Go to:
+[/VERSION.md](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/VERSION.md)
+for more information.
 
 # Contact
 Martin Maga  
@@ -231,7 +298,8 @@ Seidenstraße 36
 D-70174 Stuttgart
 
 ## Index
-**Ethos**: „vom Bewusstsein sittlicher Werte geprägte Gesinnung, Gesamthaltung; ethisches Bewusstsein“. [(Duden 2017)](http://www.duden.de/rechtschreibung/Ethos)
+**Ethos**: „vom Bewusstsein sittlicher Werte geprägte Gesinnung, Gesamthaltung;
+ethisches Bewusstsein“. [(Duden 2017)](http://www.duden.de/rechtschreibung/Ethos)
 
 ## Referenzen
 1. Das ursprüngliche Logo unseres [ethos auf Overleaf](https://www.overleaf.com/661442shqnsp#/1393290/).
