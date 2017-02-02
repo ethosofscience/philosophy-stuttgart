@@ -39,8 +39,6 @@ University of Stuttgart*
 
 Stuttgart, 2017-01-28
 
-hallo test
-
 (Work in Progress! Go to:
 [sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/notions.md))
 
@@ -56,8 +54,6 @@ Attitude, …
 The README.md file is a [Markdown](https://en.wikipedia.org/wiki/Markdown) file
 that contains the most important information and metainformation on this project
 and its development.
-
-testing
 
 # Project Description - What it is and why it is
 ## Characteristics and aim
