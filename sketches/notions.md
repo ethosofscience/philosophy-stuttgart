@@ -33,7 +33,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Offenheit
 ## Transparenz
 ## Klarheit
-## Einfachheit (vielleicht eine eigen Kategorie)
+## Einfachheit (vielleicht eine eigene Kategorie)
 ## Zugänglichkeit
 
 # Kohärenz (Stimmigkeit)
@@ -52,7 +52,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Lebendigkeit
 ## Originalität (Eigenständigkeit)
 ## Kritisch
-## Sozial 
+## Sozial
 ## Kommunitaktion
 ## Feedback
 ## Gerechtigkeit (Fairness)
