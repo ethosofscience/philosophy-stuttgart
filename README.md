@@ -197,7 +197,7 @@ README file.
 |                        versioning scheme of this project)  
 |  
 +--sketches              [Conains sketches, ideas, concepts, …]  
-|  | sketches.md  
+|  | notions.md  
 |  
 |  
 +--controls              [The main directory of this project]  
@@ -224,7 +224,7 @@ README file.
 |     | 8.png  
 |     | 9.png  
 |  
-\\  
+=
 
 ## Key – Filename extensions
 ### Generic filename suffix (filename extensions)

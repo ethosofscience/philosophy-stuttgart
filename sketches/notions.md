@@ -52,7 +52,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Lebendigkeit
 ## Originalität (Eigenständigkeit)
 ## Kritisch
-## Sozial 
+## Sozial
 ## Kommunitaktion
 ## Feedback
 ## Gerechtigkeit (Fairness)
