@@ -38,6 +38,7 @@ University of Stuttgart*
 [develop@martinmaga.de](develop@martinmaga.de)
 
 Stuttgart, 2017-01-28
+hallo test
 
 (Work in Progress! Go to:
 [sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/notions.md))
