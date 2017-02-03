@@ -39,10 +39,10 @@ University of Stuttgart*
 
 Stuttgart, 2017-01-28
 
-**Work in Progress!**  
+**Work in Progress!**
 **Go to:**
-  1. [TODO](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/TODO.md)
-  2.  [Sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/concepts.md)
+  1. [Projects Tab](https://github.tik.uni-stuttgart.de/martinmaga/ethos/projects/1)
+  2. [Sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/concepts.md)
 
 **Abstract**: This is the joint ethos of the Institute for Pilosophy and the
 Student Council of Philosophy at the University of Stuttgart.
@@ -197,9 +197,14 @@ README file.
     2. LICENSE.md (The full license text)
     3. VERSION.md (The current version and description of the versioning scheme of this project)
     4. sketches [Conains sketches, ideas, concepts, …]
-        1. concepts.md
-        2. reasons.md
-        3. rules.md
+        1. alexandra_struc
+        2. louis_struc
+        3. martin_struc
+            1. values.md
+            2. reasons.md
+            3. rules.md
+        4. michale_struc
+        5. simon_struc
     5. controls [The main directory of this project]
     6. contents [Contains the actual contents in LaTeX (sub)files.]
     7. meta [Contains meta information on this project]
