@@ -219,7 +219,7 @@ README file.
      10. 7.png
      11. 8.png
      12. 9.png
- 
+
 ## Key – Filename extensions
 ### Generic filename suffix (filename extensions)
   1. \*.txt                (Plain text file)  
@@ -229,9 +229,7 @@ README file.
   5. \*.eps                (Graphics file format)  
   6. \*.jpg                (Lossy compressed digital image)  
   7. \*.svg                (Scalable Vector Graphics)  
-  8. \*.pdf                (Portable Document Format; PDF is the output/ result
-                            of compiling .tex (LaTeX source code) files with
-                            a LaTeX-Compiler like XeLaTeX)  
+  8. \*.pdf                (Portable Document Format; PDF is the output/ result                             of compiling .tex (LaTeX source code) files with a LaTeX-Compiler like XeLaTeX)  
 
 Go to:
 [Filename extension - Wikipedia, the free encyclopedia](en.wikipedia.org/wiki/Filename_extension)
