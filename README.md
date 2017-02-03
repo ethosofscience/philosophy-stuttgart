@@ -39,8 +39,10 @@ University of Stuttgart*
 
 Stuttgart, 2017-01-28
 
-(Work in Progress! Go to:
-[sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/notions.md))
+**Work in Progress!**  
+**Go to:**
+  1. [TODO](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/TODO.md)
+  2.  [Sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/concepts.md)
 
 **Abstract**: This is the joint ethos of the Institute for Pilosophy and the
 Student Council of Philosophy at the University of Stuttgart.
@@ -49,10 +51,8 @@ In this ethos we declare our commitment. …
 **Keywords**: Ethos, Communication, Cooperation, Integrity, Values, Ethics,
 Attitude, …
 
-*Test simon 2*
-
 # You are reading …
-… the *README.md* file of this project, the *landing page* of this project.
+… the *README.md* file of this project, this is the *landing page* of this project.
 The README.md file is a [Markdown](https://en.wikipedia.org/wiki/Markdown) file
 that contains the most important information and metainformation on this project
 and its development.
@@ -192,42 +192,34 @@ Please read the section *Project Structure and File Dependency* in the current
 README file.
 
 # Project structure and file dependency
-/ethos                   [The root directory "/" of this project]  
-| README.md              (You are here!)  
-| LICENSE.md             (The full license text)  
-| VERSION.md             (The current version and description of the  
-|                        versioning scheme of this project)  
-|  
-+--sketches              [Conains sketches, ideas, concepts, …]  
-|  | notions.md  
-|  
-|  
-+--controls              [The main directory of this project]  
-|  
-|  
-+--contents              [Contains the actual contents in LaTeX (sub)files.]  
-|  
-|  
-+--meta                  [Contains meta information on this project]  
-|  |  
-|  +--guidlines          [Contains guidlines we commit to]  
-|  |  
-|  +--how2               [Contains how-tos related to this project]  
-|     |--join_ethos_on_github_tik  
-|     | join_ethos_on_github_tik.md  
-|     | join_ethos_on_github_tik.pdf  
-|     | 1.png  
-|     | 2.png  
-|     | 3.png  
-|     | 4.png  
-|     | 5.png  
-|     | 6.png  
-|     | 7.png  
-|     | 8.png  
-|     | 9.png  
-|  
-=
-
+1. ethos [The root directory "/" of this project]
+    1. README.md (You are here!)
+    2. LICENSE.md (The full license text)
+    3. VERSION.md (The current version and description of the versioning scheme of this project)
+    4. sketches [Conains sketches, ideas, concepts, …]
+        1. concepts.md
+        2. reasons.md
+        3. rules.md
+    5. controls [The main directory of this project]
+    6. contents [Contains the actual contents in LaTeX (sub)files.]
+    7. meta [Contains meta information on this project]
+    8. guidlines [Contains guidlines we commit to]
+        1. Hübl, Philipp
+        2. typokurz
+    9. how2 [Contains how-tos related to this project]
+      1. join_ethos_on_github_tik
+      2. join_ethos_on_github_tik.md
+      3. join_ethos_on_github_tik.pdf
+      4. 1.png
+      5. 2.png
+      6. 3.png
+      7. 4.png
+      8. 5.png
+      9. 6.png
+     10. 7.png
+     11. 8.png
+     12. 9.png
+ 
 ## Key – Filename extensions
 ### Generic filename suffix (filename extensions)
   1. \*.txt                (Plain text file)  
@@ -303,7 +295,7 @@ D-70174 Stuttgart
 **Ethos**: „vom Bewusstsein sittlicher Werte geprägte Gesinnung, Gesamthaltung;
 ethisches Bewusstsein“. [(Duden 2017)](http://www.duden.de/rechtschreibung/Ethos)
 
-## Referenzen
-1. Das ursprüngliche Logo unseres [ethos auf Overleaf](https://www.overleaf.com/661442shqnsp#/1393290/).
+## References
+1. Just for reference the original logo of this project [ethos auf Overleaf](https://www.overleaf.com/661442shqnsp#/1393290/).
 2. [Duden](http://www.duden.de/rechtschreibung/Ethos).
 3. [...](...)
