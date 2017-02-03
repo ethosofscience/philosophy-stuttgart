@@ -1,1 +1,0 @@
-## Material der Uni Stuttgart
