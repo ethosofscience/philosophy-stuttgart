@@ -3,7 +3,7 @@
 ethos
 
   FILE - The FILENAME of the current file is:
-/README.md
+/reasons.md
 
   CREATION - This project was CREATED on:
 2017-01-28-16:15:00 UTC
@@ -29,7 +29,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
   SUBFILE – This is a SUBFILE! For more INFORMATION on this project go to:
 /README.md
 --->
-# Und und und …
+
 # Nur ein Spiel mit ein paar Ideen
 # Offenheit
   1. Wissen ist wahre, gerechtfertigte Überzeugung.

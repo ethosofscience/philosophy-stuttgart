@@ -3,7 +3,7 @@
 ethos
 
   FILE - The FILENAME of the current file is:
-/README.md
+/LICESE.md
 
   CREATION - This project was CREATED on:
 2017-01-28-16:15:00 UTC

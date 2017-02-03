@@ -3,7 +3,7 @@
 ethos
 
   FILE - The FILENAME of the current file is:
-/README.md
+/VERSION.md
 
   CREATION - This project was CREATED on:
 2017-01-28-16:15:00 UTC
@@ -75,36 +75,36 @@ the following four *subnames*:
 
   1. <TAG>
   is one and only one of the following strings (without quotation marks):
-  
+
      “*alpha*”, *“beta”*, *“*stable*”.
-     
+
      Where:
-     
+
      *alpha* denotes the project state in which the *set of the main features*
      of the project is *not* fully specified yet and the main features are *not*
      fully implemented yet.
-     
+
      *beta* denotes the successor state of the *alpha state* and it denotes
      the project state in which the *set of the main features* of the project
      *is* fully specified and this features *are* fully implemented and the main
      *bugs* are known but *not* all of them are fixed yet.
-     
+
      *stable* denotes the successor state of the *beta state* and it describes
      the project state in which most of the known bugs are fixed.
-     
+
   2. <CURRENT GIT COMMIT NUMBER>
   is a unique natural number that is a simple counter that represents the number
   of the total commits of this project so far.
-  
+
   3. <CURRENT UNIQUE GIT COMMIT HASH>
   is a unique 11 digit abbreviated git commit hash that uniquely identifies
   exactly one state of the project.
   It is important to note that this subname, the 10 digit git hash is suficient
   at its own to uniquely identify every single project state.
-  
+
   4. the current date and time stamp in ISO format (Coordinated
     Universal Time (former Greenwich Mean Time (GMT)).
-    
+
 # Examples and Explanations
 Here are three examples of valid version names:
 
@@ -139,7 +139,7 @@ It runs *git describe* to get the latest (abbreviated but unique) commit hash
 with tags of the project by issuing “describe” and giving the following optional
 arguments. Here is what the man page of “git describe” says about those options
 (see: https://git-scm.com/docs/git-describe for more information):
- 
+
    describe:
    Describe a commit using the most recent tag reachable
    from it.

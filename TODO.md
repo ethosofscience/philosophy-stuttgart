@@ -3,7 +3,7 @@
 ethos
 
   FILE - The FILENAME of the current file is:
-/README.md
+/TODO.md
 
   CREATION - This project was CREATED on:
 2017-01-28-16:15:00 UTC
@@ -30,33 +30,11 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Offenheit
-## Transparenz
-## Klarheit
-## Einfachheit (vielleicht eine eigene Kategorie)
-## Zugänglichkeit
-
-# Kohärenz (Stimmigkeit)
-## Konsistenz
-## Logik
-## Semantik
-## Systematik (Methodik)
-
-# Authentizität
-## Redlichkeit
-## Integrität
-## Verantwortlichkeit
-## Ehrlichkeit
-## Verlässlichkeit (vielleicht zu Konsistenz)
-
-# Lebendigkeit
-## Originalität (Eigenständigkeit)
-## Kritisch
-## Sozial
-## Kommunitaktion
-## Feedback
-## Gerechtigkeit (Fairness)
-
-# Klugheit(?)
-
-…
+# To do
+  1. ~~Create a to do list.~~
+  2. Create a (Gantt chart) project roadmap.
+  3. Write how-to install git on mswindows.
+  4. Write how-to install git on osx.
+  5. Write how to install atom (and plugins) on mswindows.
+  6. Write how to install atom (and plugins) on osx.
+  7. …
