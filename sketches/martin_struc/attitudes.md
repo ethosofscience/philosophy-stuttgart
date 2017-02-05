@@ -3,7 +3,7 @@
 ethos
 
   FILE - The FILENAME of the current file is:
-/rules.md
+/attitudes.md
 
   CREATION - This project was CREATED on:
 2017-01-28-16:15:00 UTC
@@ -29,3 +29,18 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
   SUBFILE – This is a SUBFILE! For more INFORMATION on this project go to:
 /README.md
 --->
+
+# Attitudes
+  1. Wir sind aktiver Teil einer Gemeinschaft.
+  1. Wir sind offen.
+  2. Wir wollen zu erst aandere verstehen, dann verstanden werden.
+  3. Wir sind klar.
+  4. Wir sind transparent.
+  6. Wir sind authentisch.
+      7.   Wir sind ehrlich/ aufrichtig.
+  7. Wir sind kohärent.
+  8. Wir sind lebendig.
+  9. Wir sind originell.
+  10. Wir ehren den anderen.
+  11. Wir ehren die Gedanken, die Worte und die Handlungen der anderen.
+  12. …

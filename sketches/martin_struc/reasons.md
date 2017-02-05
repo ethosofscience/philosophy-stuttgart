@@ -32,7 +32,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Nur ein Spiel mit ein paar Ideen
 # Offenheit
-  1. Wissen ist wahre, gerechtfertigte Überzeugung.
+  1. Wissen ist wahre, gerechtfertigte Überzeugung, synonym:
     a. Ein Erkenntnissubjekt *S* weiß, dass *X*, genau dann, wenn
       i. es der Fall ist, dass *X*,
       ii. *S* die Überzeugung hat, das *X* der Fall ist,
@@ -42,13 +42,17 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
   4. Insbesondere muss die Bedingung (iii) erfüllt sein.
   5. Um zu entscheiden, ob ein Erkenntnissubjekt *S* gerechtfertigt darin ist
      überzeugt zu sein, dass *X* der Fall ist, muss die *Rechtfertigung*
-     grundsätzlich *zugänglich* sein.
+     grundsätzlich einem Erkenntnissubjekt *T* *zugänglich* beziehungsweise
+     *verfügbar* sein.
+     (Wobei nicht aus geschlossen ist, dass *S = T*.)
   5. Es liegt im Begriff der der Rechtfertigung, dass die Rechtfertigung
-     grundsätzlich zugänglich ist.
-  2. Wissenschaft ist die Menge allen Wissens und die systematische
+     grundsätzlich einem Erkenntnissubjekt *T* *zugänglich* beziehungsweise
+     *verfügbar* ist.
+     (Wobei nicht aus geschlossen ist, dass *S = T*.)
+  6. Wissenschaft ist die Menge allen Wissens und die systematische
      Erweiterung derselben. …
-  3. Der Begriff der Rechtfertigung ist im Begriff des Wissens enthalten.
-  4. Der Begriff der der Offenheit ist im Begriff der Rechtfertigung enthalten.
+  7. Der Begriff der Rechtfertigung ist im Begriff des Wissens enthalten.
+  8. Der Begriff der der Offenheit ist im Begriff der Rechtfertigung enthalten.
 
 #  Off-topic – Ein paar andere Ideen
 ## Wissenschaftsfreiheit
