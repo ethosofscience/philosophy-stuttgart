@@ -35,7 +35,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 …
 
 ## Proposition
-Wir sind offen.
+p01: Wir sind offen.
 
 ## Was es ist
   1. (Psychologie, Big Five): Persönlichkeitsmerkmal:
@@ -81,10 +81,9 @@ weiß, dass *X*, genau dann, wenn
 …
 
 ## Proposition
-Jeder, ungeachtet etwas anderem als dem Interesse an der Partizipation am
-philosophischen Leben des Instituts, ist vollumfänglich willkommen.
+p02: Jeder, ungeachtet etwas anderem als dem Interesse an der Partizipation am philosophischen Leben des Instituts, ist vollumfänglich willkommen.
 
-Wir sehen uns alle als *gestaltende* Mitglieder_innen des Institut.
+p03: Wir sehen uns alle als *gestaltende* Mitglieder_innen des Institut.
 
 ## Gründe
 …
@@ -98,10 +97,9 @@ Wir sehen uns alle als *gestaltende* Mitglieder_innen des Institut.
 …
 
 ## Proposition
-Wir bekennen uns zur Redefreiheit und zur Freiheit der Forschung.
-Die Redefreiheit ist die Bedingung jeder wissenschaftlichen Auseinandersetzung.
-Wir sehen das philosophische Seminar als Raum, der einen besonderen Schutz der
-Redefreiheit bedingt.
+p04: Wir bekennen uns zur Redefreiheit und zur Freiheit der Forschung.
+p05: Die Redefreiheit ist die Bedingung jeder wissenschaftlichen Auseinandersetzung.
+p06: Wir sehen das philosophische Seminar als Raum, der einen besonderen Schutz der Redefreiheit bedingt.
 
 ## Gründe
 …
@@ -115,10 +113,10 @@ Redefreiheit bedingt.
 …
 
 ## Proposition
-Aktive Kommunikation vor Erraten des Verhaltens des Gegenübers.
-Probleme werden offen kommuniziert.
-Kommunikation ist sinnvoll, offen und durchdacht.
-Wir pflegen eine direkte und vielfältige Feedback-Kultur.
+p07: Aktive Kommunikation vor Erraten des Verhaltens des Gegenübers.
+p08: Probleme werden offen kommuniziert.
+p09: Kommunikation ist sinnvoll, offen und durchdacht.
+p10: Wir pflegen eine direkte und vielfältige Feedback-Kultur.
 
 ## Gründe
 …
@@ -132,16 +130,10 @@ Wir pflegen eine direkte und vielfältige Feedback-Kultur.
 …
 
 ## Proposition
-Wir arbeiten eigenständig und verantwortungsvoll. Wir achten die geistige
-Arbeit der Anderen.
+p11: Wir arbeiten eigenständig und verantwortungsvoll. Wir achten die geistige Arbeit der Anderen.
 
-Wir begreifen die Redefreiheit als Aufforderung zur rationalen
-Auseinandersetzung.
-Die Philosophie ist die Wissenschaft, die sich argumentativ mit Positionen und
-Konzepten auseinandersetzt.
-Dies bedeutet, (1) dass wir unsere Position und unsere Kritik an Positionen
-durch Argumente stützen und dies bedeutet, (2) dass wir stets über Positionen
-streiten und nicht über Personen.
+p12: Wir begreifen die Redefreiheit als Aufforderung zur rationalen Auseinandersetzung.
+p13: Die Philosophie ist die Wissenschaft, die sich argumentativ mit Positionen und Konzepten auseinandersetzt. Dies bedeutet, (1) dass wir unsere Position und unsere Kritik an Positionen durch Argumente stützen und dies bedeutet, (2) dass wir stets über Positionen streiten und nicht über Personen.
 
 ## Gründe
 …
@@ -155,9 +147,9 @@ streiten und nicht über Personen.
 …
 
 ## Proposition
-Wir versuchen zu verstehen und uns verständlich zu machen.
+p14: Wir versuchen zu verstehen und uns verständlich zu machen.
 
-"Es ist schon alles gesagt, nur noch nicht von allen."
+p15: "Es ist schon alles gesagt, nur noch nicht von allen."
 [(Karl Valentin)](…)
 
 ## Gründe
@@ -172,11 +164,9 @@ Wir versuchen zu verstehen und uns verständlich zu machen.
 …
 
 ## Proposition
-Wir übernehmen die Verantwortung für unser Verhalten am Institut.
-Wir stehen für unserer Handlungen ein und geben anderen die Möglichkeiten
-dasselbe zu tun.
+p16: Wir übernehmen die Verantwortung für unser Verhalten am Institut. Wir stehen für unserer Handlungen ein und geben anderen die Möglichkeiten dasselbe zu tun.
 
-Wir kommunizieren Erwartungen.
+p17: Wir kommunizieren Erwartungen.
 
 
 ## Gründe
@@ -191,11 +181,10 @@ Wir kommunizieren Erwartungen.
 …
 
 # Proposition
-Wir sind bestrebt uns so klar, begründet und strukturiert wir können zu äußern.
-Wir gehen davon aus, dass der Andere sich so klar, begründet und strukturiert
-äußert, wie er kann, und helfen ihm/ihr dabei, dies zu tun.
+p18: Wir sind bestrebt uns so klar, begründet und strukturiert wir können zu äußern.
+p19: Wir gehen davon aus, dass der Andere sich so klar, begründet und strukturiert äußert, wie er kann, und helfen ihm/ihr dabei, dies zu tun.
 
-Wir äußern uns so explizit wie nötig zum Verständnis und so knapp wie möglich.
+p20: Wir äußern uns so explizit wie nötig zum Verständnis und so knapp wie möglich.
 
 ## Gründe
 …
@@ -209,9 +198,8 @@ Wir äußern uns so explizit wie nötig zum Verständnis und so knapp wie mögli
 …
 
 ## Proposition
-Wir ehren das Streben nach Weisheit als gemeinschaftliches Unternehmen.
-Wir lernen voneinander.
-Wir sind vereint im Streben danach.
+p21: Wir ehren das Streben nach Weisheit als gemeinschaftliches Unternehmen. Wir sind vereint im Streben danach.
+p22: Wir lernen voneinander.
 
 ## Gründe
 …
@@ -225,10 +213,7 @@ Wir sind vereint im Streben danach.
 …
 
 ## Proposition
-Wir verstehen Toleranz als ein Grundwert des wissenschaftlichen
-Zusammenarbeitens.
-Das bedeutet: Grundsätzliche Toleranz gegenüber anderen Meinungen,
-Positionen oder Theorien, (insofern diese gut begründet werden können).
+p23: Wir verstehen Toleranz als ein Grundwert des wissenschaftlichen Zusammenarbeitens. Das bedeutet: Grundsätzliche Toleranz gegenüber anderen Meinungen, Positionen oder Theorien, (insofern diese gut begründet werden können).
 
 ## Gründe
 …
@@ -242,10 +227,7 @@ Positionen oder Theorien, (insofern diese gut begründet werden können).
 …
 
 ## Proposition
-Wir konstituieren gemeinsam das Institut für Philosophie und wollen offen und
-transparent miteinander umgehen.
-Wünsche, Kritik oder Vorschläge können gemeinsam diskutiert werden.
-(sowohl strukturell, als auch inhaltlich..?)
+p24: Wir konstituieren gemeinsam das Institut für Philosophie und wollen offen und transparent miteinander umgehen. Wünsche, Kritik oder Vorschläge können gemeinsam diskutiert werden. (sowohl strukturell, als auch inhaltlich..?)
 
 ## Gründe
 …
@@ -259,11 +241,7 @@ Wünsche, Kritik oder Vorschläge können gemeinsam diskutiert werden.
 …
 
 ## Proposition
-Wir verstehen Philosophie als eine gemeinsame Tätigkeit, die sich durch
-Gespräche und Diskussionen auszeichnet.
-Diese Form des Philosophierens wollen wir stützen, indem wir Freiraum für
-Diskussionen und Fragestellungen lassen, die begründete Meinung anderer
-akzeptieren (siehe Toleranz) und das Philosophieren aktiv praktizieren.
+p25: Wir verstehen Philosophie als eine gemeinsame Tätigkeit, die sich durch Gespräche und Diskussionen auszeichnet. Diese Form des Philosophierens wollen wir stützen, indem wir Freiraum für Diskussionen und Fragestellungen lassen, die begründete Meinung anderer akzeptieren (siehe Toleranz) und das Philosophieren aktiv praktizieren.
 
 ## Gründe
 …
