@@ -86,7 +86,6 @@ philosophischen Leben des Instituts, ist vollumfänglich willkommen.
 
 Wir sehen uns alle als *gestaltende* Mitglieder_innen des Institut.
 
-
 ## Gründe
 …
 
@@ -272,3 +271,30 @@ akzeptieren (siehe Toleranz) und das Philosophieren aktiv praktizieren.
 ## Links
 1. […](…)
 2. …
+
+# Wissenschaftsfreiheit (Publikationsfreiheit, Lehrfreiheit)
+## Handlungsfelder
+…
+
+# Proposition
+
+## Gründe
+Ergibt sich die Forschungsfreiheit direkt aus der Redefreiheit, wenn man
+Forschen als Fragenstellen formuliert?
+
+Ansonsten könnte man versuchen wie folgt zu argumentieren:
+
+  1. Die meisten Fragen in der Wissenschaft können in die folgende Form *F*
+     gebracht werden: *Is es der Fall, dass X?*.
+  2. Sei *MF* diejenige Menge aller Fragen der der Form *F*.
+  3. Die meisten Antworten in der Wissenschaft können in die zu *F* passende
+     Form *A* gebracht werden: *Es ist (nicht) der Fall, dass X!*.
+  4. Sei *AM* diejenige Menge aller Antworten der Form *A*.
+  5. Die …
+
+Methodenwahl: Analog zu [Gegenstandsbereich](#egenstandsbereich)?
+
+
+## Links
+  1. […](…)
+  2. …
