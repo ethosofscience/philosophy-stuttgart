@@ -32,7 +32,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Offenheit
 ## Handlungsfelder
-…
+h05: Wirken, Auftreten nach Außen
 
 ## Proposition
 p01: Wir sind offen.
@@ -78,7 +78,7 @@ weiß, dass *X*, genau dann, wenn
 
 # Partizipation
 ## Handlungsfelder
-…
+h03: Institutsleben und Institutspolitik, Gestaltung desselben
 
 ## Proposition
 p02: Jeder, ungeachtet etwas anderem als dem Interesse an der Partizipation am philosophischen Leben des Instituts, ist vollumfänglich willkommen.
@@ -94,7 +94,8 @@ p03: Wir sehen uns alle als *gestaltende* Mitglieder_innen des Institut.
 
 # Freiheit
 ## Handlungsfelder
-…
+h01: Reden, Diskutieren, Schreiben, Lesen
+
 
 ## Proposition
 p04: Wir bekennen uns zur Redefreiheit und zur Freiheit der Forschung.
@@ -110,7 +111,9 @@ p06: Wir sehen das philosophische Seminar als Raum, der einen besonderen Schutz 
 
 # Kommunikation
 ## Handlungsfelder
-…
+h01: Reden, Diskutieren, Schreiben, Lesen
+h02: Lehre und Lernen
+h04: Kommunikation und Umgang, Zwischenmenschliches
 
 ## Proposition
 p07: Aktive Kommunikation vor Erraten des Verhaltens des Gegenübers.
@@ -127,7 +130,7 @@ p10: Wir pflegen eine direkte und vielfältige Feedback-Kultur.
 
 # Wissenschaftliches Arbeiten
 ## Handlungsfelder
-…
+h01: Reden, Diskutieren, Schreiben, Lesen
 
 ## Proposition
 p11: Wir arbeiten eigenständig und verantwortungsvoll. Wir achten die geistige Arbeit der Anderen.
@@ -144,7 +147,8 @@ p13: Die Philosophie ist die Wissenschaft, die sich argumentativ mit Positionen 
 
 # Dialog
 ## Handlungsfelder
-…
+h01: Reden, Diskutieren, Schreiben, Lesen
+h04: Kommunikation und Umgang, Zwischenmenschliches
 
 ## Proposition
 p14: Wir versuchen zu verstehen und uns verständlich zu machen.
@@ -161,7 +165,9 @@ p15: "Es ist schon alles gesagt, nur noch nicht von allen."
 
 # Verantwortung
 ## Handlungsfelder
-…
+h03: Institutsleben und Institutspolitik, Gestaltung desselben
+h04: Kommunikation und Umgang
+
 
 ## Proposition
 p16: Wir übernehmen die Verantwortung für unser Verhalten am Institut. Wir stehen für unserer Handlungen ein und geben anderen die Möglichkeiten dasselbe zu tun.
@@ -178,7 +184,8 @@ p17: Wir kommunizieren Erwartungen.
 
 # Klarheit
 ## Handlungsfelder
-…
+h01: Reden, Diskutieren, Schreiben, Lesen
+
 
 # Proposition
 p18: Wir sind bestrebt uns so klar, begründet und strukturiert wir können zu äußern.
@@ -195,7 +202,8 @@ p20: Wir äußern uns so explizit wie nötig zum Verständnis und so knapp wie m
 
 # Lernen
 ## Handlungsfelder
-…
+h02: Lehre und Lerne
+
 
 ## Proposition
 p21: Wir ehren das Streben nach Weisheit als gemeinschaftliches Unternehmen. Wir sind vereint im Streben danach.
@@ -210,7 +218,8 @@ p22: Wir lernen voneinander.
 
 # Toleranz (Respekt?)
 ## Handlungsfelder
-…
+h01: Reden, Diskutieren, Schreiben, Lesen
+h04: Kommunikation und Umgang
 
 ## Proposition
 p23: Wir verstehen Toleranz als ein Grundwert des wissenschaftlichen Zusammenarbeitens. Das bedeutet: Grundsätzliche Toleranz gegenüber anderen Meinungen, Positionen oder Theorien, (insofern diese gut begründet werden können).
@@ -224,7 +233,10 @@ p23: Wir verstehen Toleranz als ein Grundwert des wissenschaftlichen Zusammenarb
 
 # Kommunikation (Transparenz und Miteinander?)
 ## Handlungsfelder
-…
+h01: Reden, Diskutieren, Schreiben, Lesen
+h02: Lehre und Lernen (im Kontrast zu h1 in der Rollenfunktion, hingegen schlicht zwischen Philosphinnen?)
+h03: Institutsleben und Institutspolitik, Gestaltung desselben
+h04: Kommunikation und Umgang, Zwischenmenschliches
 
 ## Proposition
 p24: Wir konstituieren gemeinsam das Institut für Philosophie und wollen offen und transparent miteinander umgehen. Wünsche, Kritik oder Vorschläge können gemeinsam diskutiert werden. (sowohl strukturell, als auch inhaltlich..?)
@@ -238,7 +250,8 @@ p24: Wir konstituieren gemeinsam das Institut für Philosophie und wollen offen 
 
 # Diskussion
 ## Handlungsfelder
-…
+h01: Reden, Diskutieren, Schreiben, Lesen
+h04: Kommunikation und Umgang
 
 ## Proposition
 p25: Wir verstehen Philosophie als eine gemeinsame Tätigkeit, die sich durch Gespräche und Diskussionen auszeichnet. Diese Form des Philosophierens wollen wir stützen, indem wir Freiraum für Diskussionen und Fragestellungen lassen, die begründete Meinung anderer akzeptieren (siehe Toleranz) und das Philosophieren aktiv praktizieren.
@@ -252,8 +265,8 @@ p25: Wir verstehen Philosophie als eine gemeinsame Tätigkeit, die sich durch Ge
 
 # Wissenschaftsfreiheit (Publikationsfreiheit, Lehrfreiheit)
 ## Handlungsfelder
-…
-
+h01: Reden, Diskutieren, Schreiben, Lesen
+h02: Lehre und Lernen
 # Proposition
 
 ## Gründe
