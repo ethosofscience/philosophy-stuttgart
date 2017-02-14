@@ -82,11 +82,17 @@ h03: Institutsleben und Institutspolitik, Gestaltung desselben
 
 ## Proposition
 p02: Jeder, ungeachtet etwas anderem als dem Interesse an der Partizipation am philosophischen Leben des Instituts, ist vollumfänglich willkommen.
-
 p03: Wir sehen uns alle als *gestaltende* Mitglieder_innen des Institut.
 
 ## Gründe
-…
+
+(Argumentationsskizze) Für p03: Das Institut für Philosophie ist  zusammengesetzt aus den Dozierenden, den Angestellten und den Studierenden. (?) Aufgaben des Instituts sind Forschung und Lehre. Als Mitglieder des Instituts gestalten wir alle mit.
+
+
+( ? Lehre besteht aus der Vermittlung bestimmter Inhalte. Hierin ist impliziert, dass es eine Lehrperson und eine "Lernperson" gibt.
+Beide Teile sind notwendige Bestandteile der Lehre.
+... ?
+
 
 ## Links
   2. […](…)
@@ -103,7 +109,11 @@ p05: Die Redefreiheit ist die Bedingung jeder wissenschaftlichen Auseinandersetz
 p06: Wir sehen das philosophische Seminar als Raum, der einen besonderen Schutz der Redefreiheit bedingt.
 
 ## Gründe
-…
+
+Für p06: Universität als öffentlicher Raum. Philosophische Seminare u.a. als Möglichkeit eine eigenen Meinung zu entwickeln und Diskurse zu verstehen.
+Zudem: Univesität als der Ort, an dem auf eine argumentative und rationale Weise miteinander diskutiert wird.
+
+Dafür notwendig: Redefreiheit
 
 ## Links
 1. […](…)
