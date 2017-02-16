@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="ethos" company="Fachgruppe Philosophie" webLink="https://github.tik.uni-stuttgart.de/martinmaga/ethos" view-date="2017-02-01" view-index="0" gantt-divider-location="445" resource-divider-location="300" version="2.8.1" locale="en_GB">
+<?xml version="1.0" encoding="UTF-8"?><project name="ethos" company="Fachgruppe Philosophie" webLink="https://github.tik.uni-stuttgart.de/martinmaga/ethos" view-date="2017-02-01" view-index="0" gantt-divider-location="525" resource-divider-location="300" version="2.8.1" locale="en_GB">
     <description><![CDATA[ethos
 
 Institute for Pilosophy and Student Council of Philosophy University of Stuttgart
@@ -13,10 +13,10 @@ Abstract: This is the joint ethos of the Institute for Pilosophy and the Student
 
 Keywords: Ethos, Communication, Cooperation, Integrity, Values, Ethics, Attitude, …]]></description>
     <view zooming-state="default:9" id="gantt-chart">
-        <field id="tpd3" name="Name" width="284" order="0"/>
-        <field id="tpd4" name="Begin date" width="63" order="1"/>
-        <field id="tpd5" name="End date" width="79" order="2"/>
-        <timeline><![CDATA[158,3,44,18,101,0,17,5]]></timeline>
+        <field id="tpd3" name="Name" width="310" order="0"/>
+        <field id="tpd4" name="Begin date" width="91" order="1"/>
+        <field id="tpd5" name="End date" width="105" order="2"/>
+        <timeline><![CDATA[18,0,17,158,44,3,101,5]]></timeline>
         <option id="color.recent"><![CDATA[#00ff33 #cc00cc #000000 #ff3300 #ffcc00 #666666]]></option>
     </view>
     <view id="resource-table">
@@ -67,37 +67,37 @@ Keywords: Ethos, Communication, Cooperation, Integrity, Values, Ethics, Attitude
                 <depend id="87" type="2" difference="0" hardness="Strong"/>
             </task>
             <task id="44" name="Adding Features" color="#8cb6ce" shape="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" meeting="false" start="2017-02-06" duration="42" complete="0" expand="true">
-                <task id="87" name="Produce Propositions#1" color="#8cb6ce" meeting="false" start="2017-02-06" duration="7" complete="0" expand="true">
+                <task id="87" name="Sprint: Produce Propositions#1" color="#8cb6ce" meeting="false" start="2017-02-06" duration="8" complete="0" expand="true">
                     <depend id="158" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="158" name="Meeting#5" color="#00ff33" meeting="true" start="2017-02-13" duration="0" complete="0" expand="true">
+                <task id="158" name="Meeting#5" color="#00ff33" meeting="true" start="2017-02-14" duration="0" complete="0" expand="true">
                     <depend id="196" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="196" name="Produce Propositions#2" color="#8cb6ce" meeting="false" start="2017-02-13" duration="7" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+                <task id="196" name="Sprint: Produce Propositions#2" color="#8cb6ce" meeting="false" start="2017-02-14" duration="6" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
                     <depend id="163" type="2" difference="0" hardness="Strong"/>
                 </task>
                 <task id="163" name="Meeting#6" color="#00ff33" meeting="true" start="2017-02-20" duration="0" complete="0" expand="true">
                     <depend id="198" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="198" name="Produce Propositions#3" color="#8cb6ce" meeting="false" start="2017-02-20" duration="7" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+                <task id="198" name="Sprint: Produce Propositions#3" color="#8cb6ce" meeting="false" start="2017-02-20" duration="7" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
                     <depend id="165" type="2" difference="0" hardness="Strong"/>
                 </task>
                 <task id="165" name="Meeting#7" color="#00ff33" meeting="true" start="2017-02-27" duration="0" complete="0" expand="true">
                     <depend id="92" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="92" name="Organize Propositions#1" color="#8cb6ce" meeting="false" start="2017-02-27" duration="7" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+                <task id="92" name="Sprint: Organize Propositions#1" color="#8cb6ce" meeting="false" start="2017-02-27" duration="7" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
                     <depend id="167" type="2" difference="0" hardness="Strong"/>
                 </task>
                 <task id="167" name="Meeting#8" color="#00ff33" meeting="true" start="2017-03-06" duration="0" complete="0" expand="true">
                     <depend id="201" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="201" name="Organize Propositions#2" color="#8cb6ce" meeting="false" start="2017-03-06" duration="7" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+                <task id="201" name="Sprint: Organize Propositions#2" color="#8cb6ce" meeting="false" start="2017-03-06" duration="7" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
                     <depend id="169" type="2" difference="0" hardness="Strong"/>
                 </task>
                 <task id="169" name="Meeting#9" color="#00ff33" meeting="true" start="2017-03-13" duration="0" complete="0" expand="true">
                     <depend id="203" type="2" difference="0" hardness="Strong"/>
                 </task>
-                <task id="203" name="Organize Propositions#3" color="#8cb6ce" meeting="false" start="2017-03-13" duration="7" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
+                <task id="203" name="Sprint: Organize Propositions#3" color="#8cb6ce" meeting="false" start="2017-03-13" duration="7" complete="0" expand="true" cost-manual-value="0.0" cost-calculated="true">
                     <depend id="171" type="2" difference="0" hardness="Strong"/>
                 </task>
                 <task id="171" name="Meeting#10" color="#00ff33" meeting="true" start="2017-03-20" duration="0" complete="0" expand="true">
