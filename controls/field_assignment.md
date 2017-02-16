@@ -67,6 +67,10 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 4. **Lebendigkeit** und **Studieren** [v3a4](ethos/contents/v3a4.md)
 5. **Lebendigkeit** und **Zusammenleben** [v3a5](ethos/contents/v3a5.md)
 
+[übernommen von Martin:]
+9. **Qualität** und **Studieren** [v5a4](ethos/contents/v5a4.md)
+10. **Qualität** und **Zusammenleben** [v5a5](ethos/contents/v5a5.md)
+
 ## MARTIN MAGA
 ## Werte
 1. **Offenheit** **v4**
@@ -82,8 +86,6 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 6. **Qualität** und **Forschen** [v5a1](ethos/contents/v5a1.md)
 7. **Qualität** und **Lehren** [v5a2](ethos/contents/v5a2.md)
 8. **Qualität** und **Rollenwahrnehmung** [v5a3](ethos/contents/v5a3.md)
-9. **Qualität** und **Studieren** [v5a4](ethos/contents/v5a4.md)
-10. **Qualität** und **Zusammenleben** [v5a5](ethos/contents/v5a5.md)
 
 ## MICHAEL CZECHOWSKI
 ## Werte
