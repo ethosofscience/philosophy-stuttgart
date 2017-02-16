@@ -32,7 +32,34 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Offenheit (Ehrlichkeit, Transparenz, Zugänglichkeit, Neugier, Forschergeist) **v4**
 ## Wir verstehen unter Offenheit …
-…
+… zweierlei:
+1. Die Zugänglichkeit beziehungsweise Verfügbarkeit von Informationen;
+2. Die Bereitschaft Informationen 
+
+## Wir begründen Offenheit …
+… wie folgt:
+
+1. Wissen ist wahre, gerechtfertigte Überzeugung, synonym:
+  Ein Erkenntnissubjekt *S* weiß, dass *X*, genau dann, wenn
+    1. es der Fall ist, dass *X*,
+    2. *S* die Überzeugung hat, das *X* der Fall ist,
+    3. *S* darin gerechtfertigt ist überzeugt zu sein, dass *X* der Fall ist.
+2. Um zu entscheiden, ob ein Erkenntnissubjekt *S* weiß, dass *X*,
+  müssen alle drei Bedingungen erfüllt sein.
+4. Insbesondere muss die Bedingung (1.3) erfüllt sein.
+5. Um zu entscheiden, ob ein Erkenntnissubjekt *S* gerechtfertigt darin ist
+  überzeugt zu sein, dass *X* der Fall ist, muss die *Rechtfertigung*
+  grundsätzlich einem Erkenntnissubjekt *T* *zugänglich* beziehungsweise
+  *verfügbar* sein.
+  (Wobei nicht aus geschlossen ist, dass *S = T*.)
+6. Es liegt im Begriff der der Rechtfertigung, dass die Rechtfertigung
+  grundsätzlich einem Erkenntnissubjekt *T* *zugänglich* beziehungsweise
+  *verfügbar* ist.
+  (Wobei nicht aus geschlossen ist, dass *S = T*.)
+7. Wissenschaft ist die Menge allen Wissens und die systematische Erweiterung
+  derselben. …
+8. Der Begriff der Rechtfertigung ist im Begriff des Wissens enthalten.
+9. Der Begriff der der Offenheit ist im Begriff der Rechtfertigung enthalten.
 
 # Links
 1. […](…)
