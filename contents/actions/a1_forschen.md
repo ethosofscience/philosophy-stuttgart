@@ -32,7 +32,18 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Forschen (Lesen, Schreiben, Seminar, Zuhören, Reden, … ) a1
 ## Wir verstehen unter Forschen …
-…
+
+Forschen umfasst alle zielgerichteten und systematischen Tätigkeiten zum Erwerb von Wissen.
+
+Handlungen des Forschens sind das Lesen, Schreiben, Zuhören und Vortragen.
+
+Zur Forschung gehört der Austausch sowohl innerhalb des Instituts und der Universität, als auch mit Forschenden anderer Universitäten. Hierzu bedeutend sind: Vorträge, Tagungen, Workshops, Ausschreibungen, öffentliche Diskussionen, ...
+
+Orte des Forschens können in der Philosophie überall sein. Insbesondere ist hier die Institutsbibliothek hervorzuheben, welche das Herz des Instituts darstellt. Weiterhin sind Arbeitsräume und Büros Orte der Forschung. Aber auch der Seminarraum kann Ort von Forschung sein.
+
+Forschen unterscheidet sich von der Lehre und dem Studieren [a2 & a3] dadurch, dass es ein weitestgehend selbstständiger Lernprozess darstellt. Dieser findet selbstverständlich im Austausch mit anderen statt und kann gemeinsames Tun umfassen. Während allerdings Lehre ein Lernen unter Anleitung ist, ist Forschung die eigenständige Suche nach Erkenntnissen.
+
+
 
 # Links
 1. […](…)
