@@ -78,7 +78,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 3. …
 
 ## Datein
-1. **Offenheit** und **Forschen** [v4a1](../fields/v4a1.md)
+1. **Offenheit** und **Forschen** [v4a1](../contents/fields/v4a1.md)
 2. **Offenheit** und **Lehren** [v4a2](ethos/contents/fields/v4a2.md)
 3. **Offenheit** und **Rollenwahrnehmung** [v4a3](ethos/contents/fields/v4a3.md)
 4. **Offenheit** und **Studieren** [v4a4](ethos/contents/fields/v4a4.md)
