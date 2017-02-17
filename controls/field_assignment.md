@@ -33,7 +33,8 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Zuordnung (alphabetisch)
 ## ALEXANDRA HAAS
 ## Werte
-1. **Fairness** **v1**
+1. **Fairness** (Gerechtikeit, Gleicheit, Toleranz, Respekt)
+  [v1](/../contents/values/v1_fairness.md)
 2. …
 
 ## Datein
@@ -45,7 +46,8 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 ## LOUIS KOHLMANN
 ## Werte
-1. **Freiheit** **v2**
+1. **Freiheit** (Wissenschaftsfreiheit, Forschung, Lehre, Studium)
+  [v2](../contents/values/v2_freedom.md)
 2. …
 
 ## Datein
@@ -57,8 +59,12 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 ## SIMON HOLLNAICHER
 ## Werte
-1. **Lebendigkeit** **v3**
-2. …
+1. **Lebendigkeit** (Konstruktivität, Kritik, Schöpfergeist, Wachstum,
+  Interdependenz)
+  [v3](../contents/values/v3_liveliness.md)
+2. **Qualität** (Klarheit, Einfacheit, Struktur, Kohärenz)
+  [v5](../contents/values/v5_quality.md)
+3. …
 
 ## Datein
 1. **Lebendigkeit** und **Forschen** [v3a1](../contents/fields/v3a1.md)
@@ -73,8 +79,11 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 ## MARTIN MAGA
 ## Werte
-1. **Offenheit** **v4**
-2. **Qualität** **v5**
+1. **Offenheit** (Ehrlichkeit, Transparenz, Zugänglichkeit, Neugier,
+  Forschergeist)
+  [v4](../contents/values/v4_openness.md)
+2. **Qualität** (Klarheit, Einfacheit, Struktur, Kohärenz)
+  [v5](../contents/values/v5_quality.md)
 3. …
 
 ## Datein
@@ -89,7 +98,8 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 ## MICHAEL CZECHOWSKI
 ## Werte
-1. **Verantwortung** **v6**
+1. **Verantwortung** (Verlässlichkeit, Souveränität, Engagement)
+  [v6](../contents/values/v6_responsibility.md)
 2. …
 
 ## Datein
