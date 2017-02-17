@@ -32,35 +32,59 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Offenheit (Ehrlichkeit, Transparenz, Zugänglichkeit, Neugier, Forschergeist) **v4**
 ## Wir verstehen unter Offenheit …
-… zweierlei:
-1. Die Zugänglichkeit beziehungsweise Verfügbarkeit von Informationen;
-2. Die Bereitschaft Informationen
+… zweierlei Aspekte:
+
+1. **Transparenz** Die Zugänglichkeit beziehungsweise Verfügbarkeit von
+  Information;
+2. **Fortschritt** Die Bereitschaft neue Information in alte Information zu   
+  integrieren.
 
 ## Wir begründen Offenheit …
-… wie folgt:
+… in ihren beiden Aspekten wie folgt:
 
-1. Wissen ist wahre, gerechtfertigte Überzeugung, synonym:
-  Ein Erkenntnissubjekt *S* weiß, dass *X*, genau dann, wenn
-    1. es der Fall ist, dass *X*,
-    2. *S* die Überzeugung hat, das *X* der Fall ist,
-    3. *S* darin gerechtfertigt ist überzeugt zu sein, dass *X* der Fall ist.
-2. Um zu entscheiden, ob ein Erkenntnissubjekt *S* weiß, dass *X*,
-  müssen alle drei Bedingungen erfüllt sein.
-4. Insbesondere muss die Bedingung (1.3) erfüllt sein.
-5. Um zu entscheiden, ob ein Erkenntnissubjekt *S* gerechtfertigt darin ist
-  überzeugt zu sein, dass *X* der Fall ist, muss die *Rechtfertigung*
-  grundsätzlich einem Erkenntnissubjekt *T* *zugänglich* beziehungsweise
-  *verfügbar* sein.
-  (Wobei nicht aus geschlossen ist, dass *S = T*.)
-6. Es liegt im Begriff der der Rechtfertigung, dass die Rechtfertigung
-  grundsätzlich einem Erkenntnissubjekt *T* *zugänglich* beziehungsweise
-  *verfügbar* ist.
-  (Wobei nicht aus geschlossen ist, dass *S = T*.)
-7. Wissenschaft ist die Menge allen Wissens und die systematische Erweiterung
-  derselben. …
-8. Der Begriff der Rechtfertigung ist im Begriff des Wissens enthalten.
-9. Der Begriff der der Offenheit ist im Begriff der Rechtfertigung enthalten.
+### Offenheit 1 – Transparenz
+Wenn ein Erkenntnissubjekt *T* die Menge seines Wissens – das ist die Menge
+seiner wahren, gerechtfertigten Übezeugungen –, erweitern will (Fortschritt),
+und zu diesem Zweck auf bereits bestehendes Wissen eines Erkenntnissubjekts *S* zurükgreifen will, dann ist es notwendig, dass mindestens die Überzeugung und
+die Rechtfertigung von *S* für *T* verfügbar beziehungsweise zugänglich ist
+(Transparenz).
+
+1. **Wissen** ist wahre, gerechtfertigte Überzeugung; synonym:
+  Das Erkenntnissubjekt *S* weiß, dass *X* der Fall ist, genau dann, wenn
+  1. es der Fall ist, dass *X*, **(Wahrheit)**
+  2. *S* die Überzeugung hat, dass *X* der Fall ist, **(Überzeugung)**
+  3. *S* darin gerechtfertigt ist überzeugt zu sein,
+    dass *X* der Fall ist. **(Rechtfertigung)**
+
+2. **Wissen über Wissen** Das Erkenntnissubjekt *T* weiß, dass *S* weiß, genau
+  dann, wenn
+  1. es der Fall ist, dass *S* weiß, dass *X*, **(Wahrheit)**
+  2. *T* die Überzeugung hat, dass *S* weiß, dass *X*, **(Überzeugung)**
+  3. *T* darin gerechtfertigt ist überzeugt zu sein,
+    dass *S* weiß, dass *X*. **(Rechtfertigung)**
+
+3. Das Erkenntnissubjekt *T* ist gerechtfertigt überzeugt zu sein, dass *S*
+  weiß, dass *X*, wenn *T* entscheiden kann, ob alle drei Bedingungen
+  (Wahrheit, Überzeugung, Rechtfertigung) für *S* erfüllt sind.
+
+4. Das Erkenntnissubjekt *T* kann entscheiden, dass alle drei Bedingungen
+  (Wahrheit, Überzeugung, Rechtfertigung) für *S* erfüllt sind, wenn die
+  *Überzeugung* und die *Rechtfertigung* von *S* dem Erkenntnissubjekt *T*
+  **zugänglich** beziehungsweise **verfügbar** ist.
+
+Wobei nicht aus geschlossen ist, dass *S = T* – dem Erkenntnissubjekt muss
+seine eigene Überzeugung und seine eigene Rechtfertigung zugänglich
+beziehungsweise verfügbar sein.
+Bei diesem Argument werden nur minimale Anforderungen an den Wissensbegriff,
+den Begriff der Wissenschaft und das Erkenntnissubjekt gestellt.
+Das heißt natürlich, dass anspruchsvollere Konzeptionen die Eigenschaft der
+Offenheit erben.
+
+Es gibt viele weitere gute Gründe für die Offenheit.
 
 # Links
-1. […](…)
-2. …
+1. [Muhlen, Marcio von. 2017. We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/)
+2. [Wikipedia. 2017. Open science](https://en.wikipedia.org/wiki/Open_science)
+3. [Wikipedia. 2017. Open research](https://en.wikipedia.org/wiki/Open_research)
+4. [Wikipedia. 2017. Open notebook science](Open notebook science)
+5. [Wikipedia. 2017. Science](https://en.wikipedia.org/wiki/Science)
