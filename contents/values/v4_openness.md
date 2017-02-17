@@ -34,7 +34,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 ## Wir verstehen unter Offenheit …
 … zweierlei:
 1. Die Zugänglichkeit beziehungsweise Verfügbarkeit von Informationen;
-2. Die Bereitschaft Informationen 
+2. Die Bereitschaft Informationen
 
 ## Wir begründen Offenheit …
 … wie folgt:
