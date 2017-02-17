@@ -32,8 +32,9 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Qualität (Klarheit, Einfacheit, Struktur, Kohärenz) **v5**
 ## Wir verstehen unter Qualität …
-…
+… die Güte eines Objekts oder eines Prozesses?
+
 
 # Links
-1. […](…)
+1. [Wikipedia. 2017. Quality](https://en.wikipedia.org/wiki/Quality)
 2. …
