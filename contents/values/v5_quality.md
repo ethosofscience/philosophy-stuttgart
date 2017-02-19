@@ -32,9 +32,22 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Qualität (Klarheit, Einfacheit, Struktur, Kohärenz) **v5**
 ## Wir verstehen unter Qualität …
-… die Güte eines Objekts oder eines Prozesses?
+… die Güte von Informationen.
+Eine bestimmInformation
 
+1. [Offenheit](../contents/values/v4_openness.md)
+2. Klarheit, Einfachheit, Exaktheit (Grice)
+3. Struktur,
+4. Kohärenz,
+5. Explizitheit,
+6. Korrektheit, Vollständigkeit, Wahrheit (Grice)
+7. Quantität (Grice)
+6. Relevanz (Grice)
+8. Proportionalität
+
+## Wir Begründen Qualität …
+…
 
 # Links
 1. [Wikipedia. 2017. Quality](https://en.wikipedia.org/wiki/Quality)
-2. …
+2. [Wikipedia. 2017. Cooperative principle](https://en.wikipedia.org/wiki/Cooperative_principle)
