@@ -1,4 +1,4 @@
-<!---
+﻿<!---
    NAME - The NAME of this project is:
 ethos
 
@@ -30,10 +30,9 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Verantwortung** (Verlässlichkeit, Souveränität, Engagement) **v6**
-## Wir verstehen unter Verantwortung …
-…
+# Verantwortung** (Verlässlichkeit, Souveränität, Engagement) **v6**	
+Wir verstehen unter Verantwortung die proaktive Haltung für die eigenen Handlungen und Entscheidungen einzutreten und sich zu jeder Zeit für diese zu verantworten. Zusagen jeglicher Art werden verlässlich eingehalten und nach bestem Gewissen, falls nötig, rechtzeitig abgesagt. Eigenständiges und zuvorkommendes Handeln ist wünschenswert und steigert das Engagement.
 
 # Links
-1. […](…)
-2. …
+1. [Verantwortung - Wiktionary](https://de.wiktionary.org/wiki/Verantwortung)
+2. [Souveranität - Wiktionary](https://de.wiktionary.org/wiki/Souver%C3%A4nit%C3%A4t)
