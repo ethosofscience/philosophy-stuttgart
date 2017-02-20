@@ -30,8 +30,17 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Verantwortung** (Verlässlichkeit, Souveränität, Engagement) **v6**	
-Wir verstehen unter Verantwortung die proaktive Haltung für die eigenen Handlungen und Entscheidungen einzutreten und sich zu jeder Zeit für diese zu verantworten. Zusagen jeglicher Art werden verlässlich eingehalten und nach bestem Gewissen, falls nötig, rechtzeitig abgesagt. Eigenständiges und zuvorkommendes Handeln ist wünschenswert und steigert das Engagement.
+# Verantwortung** (Verlässlichkeit, Souveränität, Engagement) **v6**
+Wir verstehen unter Verantwortung die eigenständige und proaktive Haltung für die eigenen Handlungen und Entscheidungen einzutreten und sich zu jeder Zeit für diese zu verantworten.
+
+Verantwortung bezeichnet die eigenständige Orientierung des eigenen Verhaltens an den Werten, die sich aus den eingenommenen Rollen (Rollenverantwortung) und grundsätzlich aus dem Mensch-sein ergeben (Personale Verantwortung). Verantwortliche Menschen kommen den gerechtfertigten Ansprüchen an sie von sich aus nach.
+
+Zusagen jeglicher Art werden verlässlich eingehalten und nach falls nötig rechtzeitig abgesagt.
+
+Zuvorkommendes Handeln ist wünschenswert und zeichnet besonderes Engagement aus.
+
+<!-- Kommentare Simon: "verantworten" im hinteren Teil des Satzes ersetzen, sonst V. durch V. erklärt. Eigenständig essentiel im Gegensatz als zuvorkommend. "bestes Gewissen rausgenommen." -->
+
 
 # Links
 1. [Verantwortung - Wiktionary](https://de.wiktionary.org/wiki/Verantwortung)
