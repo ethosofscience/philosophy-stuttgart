@@ -34,6 +34,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 ## Wir verstehen unter Freiheit …
 
 ...die Unabhängigkeit von äußeren Faktoren, die nicht willentlich als Faktoren in Entscheidungen mit aufgenommen wurden.
+Unterscheidung Freiheit von / Freiheit zu (positive / negative Freiheit)
 
 # Links
 1. […](…)
