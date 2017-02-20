@@ -33,6 +33,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Rollenwahrnehmung (Rollen einnehmen, Rollen sehen, …) a3
 ## Wir verstehen unter Rollenwahrnehmung …
 …
+Hier auch Aufzählung der Rollen (u.a. auch Verwaltungskräfte, etc)
 
 # Links
 1. […](…)
