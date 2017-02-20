@@ -34,20 +34,30 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 ## Wir verstehen unter Offenheit …
 … zweierlei Aspekte:
 
-1. **Transparenz** Die Zugänglichkeit beziehungsweise Verfügbarkeit von
-  Information;
-2. **Fortschritt** Die Bereitschaft neue Information in alte Information zu   
-  integrieren.
+1. **Transparenz** Offenheit als Transparenz hat wiederum zwei Aspekte:
+    1. **Passive** Transparenz ist die Zugänglichkeit
+     beziehungsweise Verfügbarkeit von Information für einen Menschen;
+    2. **Aktive** Transparenz ist die Zugänglichmachung beziehungsweise
+      Verfügbarmachung von Information.
+2. **Fortschritt** Offenheit als Fortschritt die Bereitschaft
+  neue Information in alte Information zu integrieren.
 
 ## Wir begründen Offenheit …
 … in ihren beiden Aspekten wie folgt:
 
-### Offenheit 1 – Transparenz
+### Ein Argument für die Transparenz und Fortschritt
+Im folgenden Argumentieren wir für die Offenheit als Transparenz und als Fortschritt am Beispiel des Begriffs des Wissens.
+
 Wenn ein Erkenntnissubjekt *T* die Menge seines Wissens – das ist die Menge
-seiner wahren, gerechtfertigten Übezeugungen –, erweitern will (Fortschritt),
-und zu diesem Zweck auf bereits bestehendes Wissen eines Erkenntnissubjekts *S* zurükgreifen will, dann ist es notwendig, dass mindestens die Überzeugung und
-die Rechtfertigung von *S* für *T* verfügbar beziehungsweise zugänglich ist
-(Transparenz).
+ihrer wahren, gerechtfertigten Übezeugungen –, erweitern will, und zu diesem
+Zweck auf bereits bestehendes Wissen eines Erkenntnissubjekts *S*
+zurükgreifen will, dann ist es notwendig, dass
+
+1. *T* zumindest bereit ist, in ihre bereits bestehenden wahren,
+gerechtfertigten Überzeugungen neue Überzeugungen und Rechtvertigungen zu
+integriegen;
+2. *S* mindestens ihre Überzeugungen und ihre Rechtfertigungen aktiv für *T*
+verfügbar beziehungsweise zugänglich zu machen.
 
 1. **Wissen** ist wahre, gerechtfertigte Überzeugung; synonym:
   Das Erkenntnissubjekt *S* weiß, dass *X* der Fall ist, genau dann, wenn
