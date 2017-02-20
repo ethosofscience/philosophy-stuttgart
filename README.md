@@ -42,7 +42,7 @@ Stuttgart, 2017-01-28
 **Work in Progress!**
 **Go to:**
   1. [Projects Tab](https://github.tik.uni-stuttgart.de/martinmaga/ethos/projects/1)
-  2. [Sketches](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/concepts.md)
+  2. [Propositions](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/contents/propositions.md)
 
 **Abstract**: This is the joint ethos of the Institute for Pilosophy and the
 Student Council of Philosophy at the University of Stuttgart.
@@ -242,10 +242,21 @@ for more Information.
 
 # Creation and development
 ## Author(s) and creator(s)
-The project at hand was originally created by MICHAEL CZECHOWSKI and MARTIN MAGA.
+The project at hand was originally created by:
+1. ALEXANDRA HAAS <haasalexandra@gmx.de>;
+2. LOUIS KOHLMANN <louiskohlmann@posteo.de>;
+3. SIMON HOLLNAICHER <simonhollnaicher@posteo.de>;
+4. MARTIN MAGA <develop@martinmaga.de>;
+5. MICHAEL CZECHOWSKI <michaelwerner@mailoo.org>.
 
 ## Development
-The project at hand is currently maintained and developed by MARTIN MAGA.
+The project at hand is currently maintained and developed by
+the following contributors (alphabetical):
+1. ALEXANDRA HAAS <haasalexandra@gmx.de>;
+2. LOUIS KOHLMANN <louiskohlmann@posteo.de>;
+3. SIMON HOLLNAICHER <simonhollnaicher@posteo.de>;
+4. MARTIN MAGA <develop@martinmaga.de>;
+5. MICHAEL CZECHOWSKI <michaelwerner@mailoo.org>.
 
 Go to:
 [Contact](#contact)
@@ -285,8 +296,12 @@ Go to:
 for more information.
 
 # Contact
-Martin Maga  
-E-Mail: [develop@martinmaga.de](develop@martinmaga.de)  
+# Contributors (alphabetisch)
+  1. Alexandra Haas <haasalexandra@gmx.de>
+  2. Louis Kohlmann <louiskohlmann@posteo.de>
+  3. Simon Hollnaicher <simonhollnaicher@posteo.de>
+  4. Martin Maga <develop@martinmaga.de>
+  5. Michael Czechowski <michaelwerner@mailoo.org>
 
 University of Stuttgart  
 Faculty 9: Philosophisch – Historische Fakultät  
