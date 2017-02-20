@@ -35,9 +35,12 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 Lebendigkeit ist eine Eigenschaft von Beziehungen. Sie stellt einen Wert für Beziehungen zwischen den Mitgliedern des Instituts dar und bezieht sich gleichermaßen auf die Beziehung der Tätigen zu ihrem Tätigkeitsfeld, der Philosohpie.
 
-Lebendiges zeichnet sich durch Anpassungsfähigkeit aus. Es reagiert auf sich verändernde Umweltbedingungen und hat die Fähigkeit sein Wohlergehen aus sich selbst heraus zu befördern. Ein lebendiges Institut weist Strukturen auf, welche die Form und Funktion des Instituts aus sich selbst heraus fördern.
+Lebendiges zeichnet sich durch Anpassungsfähigkeit aus. Es reagiert auf sich verändernde Umweltbedingungen und hat die Fähigkeit sein Wohlergehen aus sich selbst heraus zu befördern.
+ Ein lebendiges Institut weist Strukturen auf, welche die Form und Funktion des Instituts aus sich selbst heraus fördern.
 
-Lebendiges zeichnet sich durch Spontanität und die Bereitschaft zum Engagement aus. Ein lebendiges Institut ist bereit sich für gute Ideen einzusetzen und sich aktiv um den Erhalt und das Wachstum des Instituts zu kümmern.
+Lebendiges zeichnet sich durch Spontanität und die Bereitschaft zum Engagement aus.
+Ein lebendiges Institut ist bereit sich für gute Ideen einzusetzen und sich aktiv um den Erhalt und das Wachstum des Instituts zu kümmern.
+Inneres Wachstum > äußeres Wachstum.
 
 Lebendige Beziehungen haben Freude am gegenseitigen Austausch und an der gemeinsamen Beschäftigung. Sie erkennen die Wechselseitigkeit von Beziehungen positiv an.
 
