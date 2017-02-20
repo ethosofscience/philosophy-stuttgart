@@ -46,6 +46,10 @@ Lebendige Beziehungen haben Freude am gegenseitigen Austausch und an der gemeins
 
 Philosophie als *Liebe* zur Weisheit trägt unserer Meinung nach einen besonderen Aufruf zur *lebendigen* Beschäftigung mit der Welt, dem Mensch und der Sprache in sich.
 
+# Begründung
+...
+siehe zum Teil auch [Begründung des Wertes Offenheit](..\values\v4.openness.md)
+
 
 # Links
 1. [Zeit-Artikel zur Lebendigkeit vom 1.4.2015](http://www.zeit.de/2015/14/lebendigkeit-beziehung-soziologie-kunst-tod)
