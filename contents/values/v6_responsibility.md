@@ -31,13 +31,14 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Verantwortung** (Verlässlichkeit, Souveränität, Engagement) **v6**
-Wir verstehen unter Verantwortung die eigenständige und proaktive Haltung für die eigenen Handlungen und Entscheidungen einzutreten und sich zu jeder Zeit für diese zu verantworten.
+Wir verstehen unter Verantwortung die eigenständige und proaktive Haltung, für die eigenen Handlungen und Entscheidungen einzutreten. Verantwortlich zu handeln bedeutet, den gerechtfertigten Ansprüchen an sich von sich aus nachzukommen. Verlässlichkeit, Integrität und Ehrlichkeit sind Vorraussetzungen für verantwortliches Handeln. Ein Ziel für integeres Verhalten ist es, kongruent zu seinen eigenen Wertvorstellungen zu agieren. Für gemeinsame und gemeinschaftliche Handlungen und Entscheidungen wird genauso eingestanden wie für die eigenen.
 
-Verantwortung bezeichnet die eigenständige Orientierung des eigenen Verhaltens an den Werten, die sich aus den eingenommenen Rollen (Rollenverantwortung) und grundsätzlich aus dem Mensch-sein ergeben (Personale Verantwortung). Verantwortliche Menschen kommen den gerechtfertigten Ansprüchen an sie von sich aus nach.
+Verantwortung bezeichnet die eigenständige Orientierung des eigenen Verhaltens an den Werten, die sich aus den eingenommenen Rollen (Rollenverantwortung) und grundsätzlich aus dem Mensch-sein ergeben (Personale Verantwortung) [_MC: Ist damit Integrität gemeint?_]. Verantwortliche Menschen kommen den gerechtfertigten Ansprüchen an sie von sich aus nach. und sich zu jeder Zeit für diese zu verantworten.
 
-Zusagen jeglicher Art werden verlässlich eingehalten und nach falls nötig rechtzeitig abgesagt.
-
-Zuvorkommendes Handeln ist wünschenswert und zeichnet besonderes Engagement aus.
+__Ideen:__
+- Zusagen jeglicher Art werden verlässlich eingehalten und falls nötig rechtzeitig abgesagt.
+- Zuvorkommendes Handeln ist wünschenswert und zeichnet besonderes Engagement aus.
+- Voraussschauend handeln, so dass man sich in der Zukunft dafür einstehen kann.
 
 <!-- Kommentare Simon: "verantworten" im hinteren Teil des Satzes ersetzen, sonst V. durch V. erklärt. Eigenständig essentiel im Gegensatz als zuvorkommend. "bestes Gewissen rausgenommen." -->
 
