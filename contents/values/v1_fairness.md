@@ -32,8 +32,17 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Fairness (Gerechtikeit, Gleicheit, Toleranz, Respekt) **v1**
 ## Wir verstehen unter Fairness …
-…
+
+Fairness bezeichnet die Orientierung im Handeln an gerechten und transparenten Spielregeln. (wikipedia)
+
+Fairness schließt Nicht-Diskriminierung ein, geht aber über diese hinaus. Sie bindet die Mitglieder an einen durch Respekt geprägten Umgang miteinander.
+
+Die Regeln des Instituts sind in ihrer Anwendung und in ihrer Begründung für Alle transparent. (Vllt eher v4?)
+
+
+
+
 
 # Links
-1. […](…)
-2. …
+1. [dt. Wikipedia: Fairness](https://de.wikipedia.org/wiki/Fairness)
+2.
