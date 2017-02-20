@@ -42,7 +42,7 @@ Stuttgart, 2017-01-28
 **Work in Progress!**
 **Go to:**
   1. [Projects Tab](https://github.tik.uni-stuttgart.de/martinmaga/ethos/projects/1)
-  2. [Propositions](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/contents/propositions.md)
+  2. [Contents](../contents/)
 
 **Abstract**: This is the joint ethos of the Institute for Pilosophy and the
 Student Council of Philosophy at the University of Stuttgart.
@@ -82,7 +82,7 @@ The leading question for now is:
   2. Transparency,
   3. Intellectual integrity,
   4. Liveliness (social),
-  7. Koherence,
+  7. Coherence,
   6. …
 
 ## Main arguments
@@ -292,11 +292,11 @@ of two parts:
   2. A **timestamp**.  
 
 Go to:
-[/VERSION.md](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/VERSION.md)
+[/VERSION.md](../VERSION.md)
 for more information.
 
 # Contact
-# Contributors (alphabetisch)
+# Contributors (alphabetical)
   1. Alexandra Haas <haasalexandra@gmx.de>
   2. Louis Kohlmann <louiskohlmann@posteo.de>
   3. Simon Hollnaicher <simonhollnaicher@posteo.de>
