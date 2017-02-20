@@ -32,7 +32,8 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Freiheit (Wissenschaftsfreiheit, Forschung, Lehre, Studium) **v2**
 ## Wir verstehen unter Freiheit …
-…
+
+...die Unabhängigkeit von äußeren Faktoren, die nicht willentlich als Faktoren in Entscheidungen mit aufgenommen wurden.
 
 # Links
 1. […](…)
