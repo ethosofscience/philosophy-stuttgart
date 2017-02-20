@@ -32,7 +32,8 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Lehren (…) a2
 ## Wir verstehen unter Lehren …
-…
+
+das systematische (strukturierte?) Vermitteln von Wissen, Zusammenhängen, Fragestellungen (...), das vor allem in Lehrveranstaltungen stattfindet und auf verschiedene Art und Weise erreicht werden kann.
 
 # Links
 1. […](…)
