@@ -35,17 +35,21 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 Fairness bezeichnet die Orientierung im Handeln an gerechten und transparenten Spielregeln.
 
-Fairness schließt Nicht-Diskriminierung ein, geht aber über diese hinaus. Sie bindet die Mitglieder an einen durch Respekt geprägten Umgang miteinander.
+Fairness schließt Nicht-Diskriminierung ein, geht aber über diese hinaus.
+Sie bindet die Mitglieder an einen durch Respekt geprägten Umgang miteinander.
 
 Gerechtigkeit...
 Gleichheit...
 Toleranz...
 Respekt...
 
+<<<<<<< HEAD
+=======
 Relevante Regeln für das Handeln am Institut sind in ihrer Anwendung und in ihrer Begründung für Alle transparent.
 
 
 
+>>>>>>> 88909c28e1c5233a5a2d8b567210f74d035598d0
 # Links
 1. [dt. Wikipedia: Fairness](https://de.wikipedia.org/wiki/Fairness)
 2.
