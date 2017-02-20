@@ -45,8 +45,13 @@ Eine bestimmInformation
 6. Relevanz (Grice)
 8. Proportionalität
 
-## Wir Begründen Qualität …
-…
+
+Qualität bezeichnet (hier) die Güte hinsichtlich den wesentlichen Eigenschaften. Qualitative Lehre ... gut sein hinsichtlich dessen was Lehre ausmacht. Etc.
+
+
+
+## Wir Begründen Qualität
+Gut sein ist gut.
 
 # Links
 1. [Wikipedia. 2017. Quality](https://en.wikipedia.org/wiki/Quality)
