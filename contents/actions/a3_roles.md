@@ -39,7 +39,7 @@ Unter *Rollenwahrnehmung* verstehen wir das Wahrnehmen dieser Rolle, sowohl als 
 
 Prinzipiell kann es sein, dass eine Person verschiedene Rollen einnimmt, wie zum Beispiel als TutorIn und als StudentIn. In manchen Fällen kann es zudem sein, dass zwischen verschiedenen Rollen und den damit verbundenen Rechten und Pflichten abgewägt werden muss, vor allem wenn sich durch zwei verschiedene Rollen Spannungsfelder oder Konflikte ergeben.
 
-verschiedene Rollen im Institut sind (alphabetisch)
+verschiedene Rollen im Institut sind (alphabetisch):
 
 DozentIn
 FachgruppensprecherIn
