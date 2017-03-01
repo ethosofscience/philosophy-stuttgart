@@ -53,7 +53,18 @@ ProfessorIn
 StudentIn
 TutorIn
 Verwaltungskraft
+InstitutsleiterIn
 ...
+
+
+###Rolle StudentIn:
+Rechte: Studieren, Wissenserwerb, freie Planung des Studiums, freie Meinungsäußerung,...
+Pflichten: Einhaltung der Prüfungsordnung (?) ... (Engagement?)
+
+###Rolle DozentIn
+Rechte: ...
+Pflichten: ...
+
 
 
 
