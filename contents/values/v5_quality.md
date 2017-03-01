@@ -85,7 +85,7 @@ Klarheit zerfällt in mindestens die folgenden Dimensionen:
 
 ## Zur Exaktheit (Präzesion)
 
-## Zur Eindeutigkeit (Interpretationsunabhängigkeit)
+## Zur Eindeutigkeit (Interpretationsunabhängigkeit, Kontextinvarinanz)
 
 ## Zur Bedeutungsstabilität)
 
