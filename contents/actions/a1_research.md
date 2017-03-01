@@ -50,10 +50,10 @@ Weiterhin sind Arbeitsräume und Büros Orte der Forschung.
 Aber auch der Seminarraum kann Ort von Forschung sein.
 
 Forschen unterscheidet sich von der Lehre und dem Studieren [a2 & a3] dadurch,
-dass es ein weitestgehend selbstständiger Lernprozess darstellt.
+dass es einen weitestgehend selbstständigen Lernprozess darstellt.
 Dieser findet selbstverständlich im Austausch mit anderen statt und kann
 gemeinsames Tun umfassen.
-Während allerdings Lehre ein Lernen unter Anleitung ist, ist Forschung die
+Während Lehre ein Lernen unter Anleitung ist, ist Forschung die
 eigenständige Suche nach Erkenntnissen.
 
 
