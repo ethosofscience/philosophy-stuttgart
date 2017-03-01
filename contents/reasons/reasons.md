@@ -56,6 +56,26 @@ indem wir zeigen, dass sie bei pradigmatischen (repräsentativen) Handlungen
 [Zusammenleben a5](../contents/actions/a5_live.md))
 die Handlung selbst erst möglich machen oder die Handlung selbst zu einer besseren Handlung.
 
+<!---
+Unser Bekenntnis zu unseren Werten sowohl die Begründungsleistung unser Werte.
+--->
+
+<!---
+Wertegleichgewicht, Überlegungsgleichgewicht, Wertekonflikte, …
+--->
+
+<!---
+De facto Wrete versus Werte als Ideale
+--->
+
+<!---
+Nicht Was sonder Wie!
+--->
+
+<!---
+One thought too many. Es geht um die richtigen Gründe.
+--->
+
 ## Wertcharakter
 Wir gehen davon aus, dass einige der Werte, zu denen wir uns hier bekennen, *intrinsisch wertvoll* sind. (vgl. SEP 2017)
 Deshalb glauben wir, dass die entsprechenden Werte nicht rechtfertigungsbedürftig und auch nicht rechtfertigungswürdig sind.
