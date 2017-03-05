@@ -33,7 +33,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Freiheit (Wissenschaftsfreiheit, Forschung, Lehre, Studium) **v2**
 ## Wir verstehen unter Freiheit …
 
-...die Unabhängigkeit von äußeren Faktoren, die nicht willentlich als Faktoren in Entscheidungen mit aufgenommen wurden. Diese Entscheidungen beziehen sich hier in erster Linie auf Studium, Lehre, Forschung und Arbeit am Institut.
+...die Unabhängigkeit von äußeren Faktoren, die nicht willentlich als Faktoren in Entscheidungen mit aufgenommen wurden. Diese Entscheidungen beziehen sich hier in erster Linie auf Studium, Lehre, Forschung und Arbeit am Institut. 
 
 Wir sind sowohl frei bestimmte Dinge zu tun (positive Freiheit), als auch frei von Einschränkungen (negative Freiheit) -> Brauchen wir das wirklich? Reicht nicht der erste Satz im Prinzip aus?
 
