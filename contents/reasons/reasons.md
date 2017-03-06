@@ -56,6 +56,10 @@ indem wir zeigen, dass sie bei pradigmatischen (repräsentativen) Handlungen
 [Zusammenleben a5](../contents/actions/a5_live.md))
 die Handlung selbst erst möglich machen oder die Handlung selbst zu einer besseren Handlung.
 
+Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werden im Ethos formuliert und stehen deshalb in einem bestimmten Kontext.
+Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelder hin formuliert und sollen keine allgemeine Definition o.ä. des Wertes darstellen.
+
+
 <!---
 Unser Bekenntnis zu unseren Werten sowohl die Begründungsleistung unser Werte.
 --->
