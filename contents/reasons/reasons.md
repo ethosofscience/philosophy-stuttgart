@@ -60,17 +60,8 @@ indem wir zeigen, dass sie bei pradigmatischen (repräsentativen) Handlungen
 [Zusammenleben a5](../contents/actions/a5_live.md))
 die jeweilige Handlung selbst erst ermöglicht oder die Handlung selbst zu einer besseren Handlung.
 
-
-
-
-
-<!---
-Nicht Was sonder Wie!
---->
-
-<!---
-One thought too many. Es geht um die richtigen Gründe.
---->
+Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werden im Ethos formuliert und stehen deshalb in einem bestimmten Kontext.
+Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelder hin formuliert und sollen keine allgemeine Definition oder ähnliches der Werte darstellen.
 
 ## Wertcharakter
 Wir gehen davon aus, dass einige der Werte, zu denen wir uns hier bekennen, *intrinsisch wertvoll* sind. (vgl. SEP 2017)

@@ -33,7 +33,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Rollenwahrnehmung (Rollen einnehmen, Rollen sehen, …) a3
 ## Wir verstehen unter Rollenwahrnehmung …
 …
-Eine Rolle wird konstituiert durch die (sozialen) Erwartungen, Handlungsmuster, Ansprüche, Anforderungen, Rechte und Plfichten (...). Am Institut arbeiten und leben(?) wir alle als Menschen zusammen, befinden uns jedoch alle in bestimmten Rollen.
+Eine Rolle wird konstituiert durch (soziale) Erwartungen, Handlungsmuster, Ansprüche, Anforderungen, Rechte und Plfichten (...). Am Institut arbeiten und leben wir alle vor allem als Menschen zusammen, befinden uns jedoch alle auch in bestimmten Rollen.
 Mit jeder Rolle gehen Freiheiten, Rechte und Pflichten einher.
 
 Unter *Rollenwahrnehmung* verstehen wir das Wahrnehmen dieser Rolle, sowohl
@@ -63,7 +63,7 @@ Pflichten: Einhaltung der Prüfungsordnung (?) Eigenverantwortung, (Engagement?)
 
 ###Rolle DozentIn:
 Rechte: Freie Gestaltung der Lehrinhalte, sofern sie den vom Institut verordneten Anforderungen gerecht werden, freie Meinungsäußerung,
-Pflichten: Einhaltung der Prüfungsordnung, gesteigertes Rollenbewusstsein und damit einhergehende Verantwortung, tolerantes und respektvolles Auftreten
+Pflichten: Einhaltung der Prüfungsordnung, gesteigertes Rollenbewusstsein und damit einhergehende Verantwortung, tolerantes und respektvolles Auftreten, objektive Bewertung
 
 
 

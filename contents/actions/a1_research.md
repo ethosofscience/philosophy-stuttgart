@@ -36,7 +36,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 Forschen umfasst alle zielgerichteten und systematischen Tätigkeiten zum Erwerb
 von Wissen.
 
-Handlungen des Forschens sind das Lesen, Schreiben, Zuhören und Vortragen.
+Handlungen des philosophischen Forschens sind vor allem das Lesen, Schreiben, Zuhören und Vortragen.
 
 Zur Forschung gehört der Austausch sowohl innerhalb des Instituts und der
 Universität, als auch mit Forschenden anderer Universitäten.
