@@ -33,8 +33,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Forschen (Lesen, Schreiben, Seminar, Zuhören, Reden, … ) a1
 ## Wir verstehen unter Forschen …
 
-Forschen umfasst alle zielgerichteten und systematischen Tätigkeiten zum Erwerb
-von Wissen.
+Forschen umfasst alle zielgerichteten und systematischen Tätigkeiten zum Erwerb von Wissen.
 
 Handlungen des philosophischen Forschens sind vor allem das Lesen, Schreiben, Zuhören und Vortragen.
 
