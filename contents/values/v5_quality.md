@@ -29,28 +29,33 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Qualität (Klarheit, Einfacheit, Struktur, Kohärenz) **v5**
+# Qualität (Klarheit, Einfacheit, Struktur, Kohärenz, …) **v5**
 ## Wir verstehen unter Qualität …
-… die *Güte* von Gedanken, Ideen, Begriffen, Propositionen, Überzeugungen, Hypothesen, Argumenten, Fragen, Fragestellungen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Medien, Daten, Prozessen, Informationen, Werkzeugen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera in relativ zu Zwecken, Normen, Standards, Gebräuchen, Regeln und anderen Werten.
+… die *Güte* von *X* relativ zu *Y* (wobei natürlich nicht ausgeschlossen ist, dass *X* = *Y*).
 
-Hinweise auf die Güte, die in Bezug auf die hier angeführten Gegenstände als Gütekriterien dienen können, sind unter anderen die folgenden beispielhaften Dimensionen der Güte:
+Die von uns hier salopp eingeführte Pseudovariable *X* steht im Normalfall stellvertretend für Gedanken, Ideen, Begriffen, Propositionen, Überzeugungen, Hypothesen, Argumenten, Fragen, Fragestellungen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Medien, Daten, Prozessen, Informationen, Werkzeugen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera.
+
+Die von uns hier salopp eingeführte Pseudovariable *Y* steht im Normalfall stellvertretend für Normen, Standards, Gebräuchen, Regeln und anderen Werten et cetera.
+
+Die Relativität der Güte kommt in in den folgenden beispielhaften Dimensionen der Güte zum Ausdruck:
 
 1. Wissenschaftlichkeit,
 2. [Offenheit](../contents/values/v4_openness.md)
 3. Klarheit
-8. Korrektheit, Vollständigkeit, Wahrheit (Grice)
-9. Quantität (Grice)
-10. Relevanz (Grice)
-11. Proportionalität
-12. Exaktheit, Präzision
-13. Reproduzierbarkeit
-14. Verifizierbarkeit, Falsifizierbarkeit
+4. Korrektheit, Vollständigkeit, Wahrheit (Grice)
+5. Quantität (Grice)
+6. Relevanz (Grice)
+7. Proportionalität
+8. Exaktheit, Präzision
+9. Reproduzierbarkeit
+10. Verifizierbarkeit, Falsifizierbarkeit
 
 # Zur Wissenschaftlichkeit
-Gedanken, Ideen, Begriffe, Propositionen, Überzeugungen, Hypothesen, Argumente, Fragen, Fragestellungen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Daten, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera sind wissenschaftlich, wenn sie den *de facto* Standards der Wissenschaft genügen.
-Diese Standards im Detail hier aufzulisten ist vielleicht nicht unmöglich, aber es wäre wahrscheinlich äußerst aufwändig und liegt definitiv nicht im Fokus unseres Ethos.
+Gedanken, Ideen, Begriffe, Propositionen, Überzeugungen, Hypothesen, Argumente, Fragen, Fragestellungen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Daten, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera sind *wissenschaftlich*, wenn sie den *de facto* Standards der Wissenschaft genügen.
+Wir können und wollen diese Standards hier nicht aufzulisten, da dies nicht im Fokus unseres Ethos.
+(siehe [Gründe über Gründe](../contents/reasons/reasons.md)
 
-Allerdings sind wir davon überzeugt, dass die Wissenschaftlichkeit ein Wert für sich ist.
+Allerdings sind wir davon überzeugt, dass die Wissenschaftlichkeit nicht nur eine Dimension der Güte ist, sondern ein Wert für sich.
 Wir glauben, der Wert der Wissenschaftlichkeit zerfällt in mindestens die zwei folgenden Dimensionen:
 
 1. (Reflexivität) Der Wert der Wissenschaftlichkeit hat explizt sich selbst zum Gegenstand. Das heißt, zweierelei:
@@ -61,6 +66,7 @@ Wir glauben, der Wert der Wissenschaftlichkeit zerfällt in mindestens die zwei 
 
 2. (Transitivität) Wissenschaftlich ist alles dasjenige, das, unter der Einschränkung anderer (moralischer) Werte, dem Erkenntisgewinn dient.
 
+Die Wissenschaftlichkeit enthält einige, vielleicht alle und noch mehr, Dimensionen der Güte, die wir hier aufführen.
 
 [zlw Universität Stuttgart 2013](http://www.uni-stuttgart.de/zlw/ueberuns/dokumente/Wissenschaftlichkeit.pdf)
 

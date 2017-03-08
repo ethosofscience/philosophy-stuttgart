@@ -49,17 +49,19 @@ verschiedene Rollen im Institut sind (alphabetisch):
 DozentIn
 FachgruppensprecherIn
 HiWi
+InstitutsleiterIn
 ProfessorIn
 StudentIn
 TutorIn
 Verwaltungskraft
-InstitutsleiterIn
+
 ...
 
+Evtl. exemplarisch auf die Rechte und Pflichten von Studierenden und Dozierenden eingehen, da diese die am häufigsten angenommenen Rollen sind?
 
 ###Rolle StudentIn:
 Rechte: Studieren, Wissenserwerb, freie Planung des Studiums, freie Meinungsäußerung,
-Pflichten: Einhaltung der Prüfungsordnung (?) Eigenverantwortung, (Engagement?)
+Pflichten: Einhaltung der Prüfungsordnung (?) Eigenverantwortung, (Engagement?), Einhaltung von Vereinbarungen (z.B. Fristen)
 
 ###Rolle DozentIn:
 Rechte: Freie Gestaltung der Lehrinhalte, sofern sie den vom Institut verordneten Anforderungen gerecht werden, freie Meinungsäußerung,

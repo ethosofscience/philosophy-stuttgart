@@ -31,18 +31,14 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Gründe über Gründe
-Hier führen wir einige Gründe (Argumente) an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
+Hier führen wir einige Gründe (Argumente) an, warum wir nicht jeden Begriff, jede Handlung beziehungsweise nicht jeden Wert begründen, Gründe also gegen weitere Gründe.
 
-Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten weil dies nicht im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
+Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten weil dies nicht im Fokus unseres Ethos liegt (siehe [Wertcharakter](#wertcharakter)).
 
-## Lebendige Werte
-Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
-Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
-Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten denselben ihre normative und motivationale Kraft verleiht, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
+Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie
 (siehe [Relevanz](#relevanz))
 
-## Unsere Werte
-Wir möchten im Rahmen unseres Ethos lediglich exemplarisch begründen, warum wir diejenigen Werte anführen, die wir anführen; das heißt, warum und inwiefern jene Werte *für uns* relevant sind – warum jene Werte, *Werte für uns* sind.
+Wir möchten im Rahmen unseres Ethos lediglich exemplarisch begründen, warum wir diejenigen Werte anführen, die wir anführen; das heißt, warum und inwiefern jene Werte *für uns relevant* sind – warum jene Werte, *Werte für uns sind*.
 Wir glauben, dass eine derartige Begründung unserer Werte nicht ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status (siehe [Wertcharkter](#wertcharakter)) unterminiert, sondern im Gegenteil eben ihre Relevanz und ihre universelle Werthaftigkeit unterstreicht.
 
 Wir begründen die Relevanz unserer Werte,
@@ -58,10 +54,32 @@ indem wir zeigen, dass sie bei pradigmatischen (repräsentativen) Handlungen
 [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
 [Studieren a4](../contents/actions/a4_study.md),
 [Zusammenleben a5](../contents/actions/a5_live.md))
-die jeweilige Handlung selbst erst ermöglicht oder die Handlung selbst zu einer besseren Handlung.
+die Handlung selbst erst möglich machen oder die Handlung selbst zu einer besseren Handlung.
 
 Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werden im Ethos formuliert und stehen deshalb in einem bestimmten Kontext.
-Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelder hin formuliert und sollen keine allgemeine Definition oder ähnliches der Werte darstellen.
+Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelder hin formuliert und sollen keine allgemeine Definition o.ä. des Wertes darstellen.
+
+
+
+<!---
+Unser Bekenntnis zu unseren Werten sowohl die Begründungsleistung unser Werte.
+--->
+
+<!---
+Wertegleichgewicht, Überlegungsgleichgewicht, Wertekonflikte, …
+--->
+
+<!---
+De facto Wrete versus Werte als Ideale
+--->
+
+<!---
+Nicht Was sonder Wie!
+--->
+
+<!---
+One thought too many. Es geht um die richtigen Gründe.
+--->
 
 ## Wertcharakter
 Wir gehen davon aus, dass einige der Werte, zu denen wir uns hier bekennen, *intrinsisch wertvoll* sind. (vgl. SEP 2017)
@@ -88,36 +106,22 @@ Wir schließen nicht aus, dass die hier angeführten Werte, trotz ihres intrinsi
 Das heißt, wir schließen nicht die Möglichkeit aus, dass es sowohl *basic* als auch *non-basic values* gibt. (vgl. SEP 2017)
 
 Wir gehen davon aus, dass der intrinsische Wertcharakter bestimmter Werte weder notwendige noch hinreichende Bedingung für den Status unseres Ethos ist.
-Entscheidendt ist unserer Meinung nach, dass wir die Intuition haben, dass unsere Werte intrinsisch wertvoll sind.
 Entscheident ist für uns die Werthaftigkeit des Werts *ipso facto*.
 
 ## Werte als Ideale
-Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen, nach denen wir streben.
-Wir glauben, dass die normative und motivationale Krauft unserer Werte davon abhängt, ob wir sie *de facto* leben.
-Und sie zu leben begreifen wir als bewusstes Streben nach der Erfüllung jener Werte.
-Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
-Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
-(siehe [Wertekonflikte im Überlegungsgleichgewicht](##wertekonflikte-im-überlegungsgleichgewicht))
+Wir fassen unsere Werte nicht als Selbstzweck auf sondern als Ideale nach denen wir streben, zu denen wir uns bekennen.
+…
 
-## Wertekonflikte im Überlegungsgleichgewicht
-Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
-
-1. ihre normative und motivationale Kraft (ihre Lebenigkeit) betonen sowie
-
-2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner) verlangt.
-
-Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigem Wettstreit stehen können.
-Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausfordrung Überlegungsgleichgewichte zu erreichen.
+## Überlegungsgleichgewicht
+1. Trivialität der Grundannahmen und Grundbedingungen.
+2. Klugheit (vgl. Luckner)[Klugheit]
+3. …
 
 ## Intuitionen
-Wir sind uns darüber bewusst, dass wir uns häufig auf unsere Intuitionen berufen.
-Wir versuchen unsere Intuitionen immer explizit (siehe [Qualität](../contents/v4_quality.md) und [Offenheit](../contents/v5_openness.md)) zu machen.
-Wir sind uns jedoch darüber bewusst, dass wir uns nicht über jeden unserer Hintergrundanahmen, Vorraussetzungen und grundlegenden Intuitionen bewusst sund. (siehe [Ehrlichkeit](../contents/v5_openness.md))
-
-Wenn wir uns implizit oder explizit auf unsere Intuitionen berufen, dann soll das keine Rechtfertigung oder Prüfstein sein, sondern es soll:
-
-1. unseren Ausgangspunkt klarstellen;
-2. die Richtschnur verdeutlichen an der wir uns orientieren.
+1. Keine Rechtfertigung
+2. Ausgangspunkt
+3. Richtschnur aber kein Prüfstein.
+4. …
 
 # Quellen
 1. [Stanford Encyclopedia of Philosophy. 2017. Intrinsic vs. Extrinsic Value](https://plato.stanford.edu/entries/value-intrinsic-extrinsic)
