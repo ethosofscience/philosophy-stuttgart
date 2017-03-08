@@ -89,20 +89,26 @@ Wir gehen davon aus, dass der intrinsische Wertcharakter bestimmter Werte weder 
 Entscheident ist für uns die Werthaftigkeit des Werts *ipso facto*.
 
 ## Werte als Ideale
-Wir fassen unsere Werte nicht als Selbstzweck auf sondern als Ideale nach denen wir streben, zu denen wir uns bekennen.
-…
+Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen, nach denen wir streben.
+Wir glauben, dass die normative und motivationale Krauft unserer Werte davon abhängt, ob wir sie *de facto* leben; und sie zu leben begreifen wir als bewusstes Bestreben zu jenen Werten.
+Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen, auf den wir uns gemeinsam geeinigt haben.
+Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
 
-## Überlegungsgleichgewicht
-1. Trivialität der Grundannahmen und Grundbedingungen.
-2. Klugheit (vgl. Luckner)[Klugheit]
-3. …
+## Wertekonflikte im Überlegungsgleichgewicht
+Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
+
+1. ihre normative und motivationale Kraft (Lebenigkeit) betonen sowie
+2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen Achtsamkeit und Klugheit (vgl. Luckner) verlangt.
+
+Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigem Wettstreit stehen können.
+Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausfordrung Überlegungsgleichgewichte zu erreichen.
 
 ## Intuitionen
+Wir sind uns darüber bewusst, dass wir uns häufig auf unsere Intuitionen berufen.
 1. Keine Rechtfertigung
 2. Ausgangspunkt
 3. Richtschnur aber kein Prüfstein.
-4. …
-
+4. Trivialität der Grundannahmen und Grundbedingungen.
 <--!
 Wir kennen nicht alles Wertekonflikte sehen.
 --->
