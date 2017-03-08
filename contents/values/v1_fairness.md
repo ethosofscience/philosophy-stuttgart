@@ -44,7 +44,7 @@ Gleichheit herrscht in erster Linie im Bezug auf das Menschsein. Das heißt, das
 
 Um die Werte Toleranz und Respekt unter dem allgemeinen Wert der Fairness zu erläutern, bedarf es zunächst einer Unterscheidung von Toleranz und Respekt.
 Toleranz umfasst vorrangig die Duldung von anderen, (von der eigenen Position abweichenden) Einstellungen, Überzeugungen und Haltungen.
-Respekt hingegen bleibt nicht bei der lediglichen Duldung, sondern geht in den Bereich der Wertschätzung hinein. Das heißt, währen Toleranz weitestgehend neutral zu sein scheint, kommt dem beispielsweise respektvollen Umgang eine deutlich positive Komponente zu.
+Respekt hingegen bleibt nicht bei der lediglichen Duldung, sondern geht in den Bereich der Wertschätzung hinein. Das heißt, währen Toleranz weitestgehend neutral zu sein scheint, kommt dem beispielsweise respektvollen Umgang eine deutlich positive Komponente mit Wertcharakter zu.
 
 
 
