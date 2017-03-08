@@ -36,7 +36,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 Eine Rolle wird konstituiert durch (soziale) Erwartungen, Handlungsmuster, Ansprüche, Anforderungen, Rechte und Plfichten (...). Am Institut arbeiten und leben wir alle vor allem als Menschen zusammen, befinden uns jedoch alle auch in bestimmten Rollen.
 Mit jeder Rolle gehen Freiheiten, Rechte und Pflichten einher.
 
-Unter *Rollenwahrnehmung* verstehen wir das Wahrnehmen dieser Rolle, sowohl
+Unter *Rollenwahrnehmung* verstehen wir das Wahrnehmen dieser Rolle, sowohl:
 
 1. als reflektiertes und aufmerksames *Erkennen* der Rolle und der damit verbundenen Freiheiten, Rechte und Pflichten,
 
@@ -49,17 +49,19 @@ verschiedene Rollen im Institut sind (alphabetisch):
 DozentIn
 FachgruppensprecherIn
 HiWi
+InstitutsleiterIn
 ProfessorIn
 StudentIn
 TutorIn
 Verwaltungskraft
-InstitutsleiterIn
+
 ...
 
+Evtl. exemplarisch auf die Rechte und Pflichten von Studierenden und Dozierenden eingehen, da diese die am häufigsten angenommenen Rollen sind?
 
 ###Rolle StudentIn:
 Rechte: Studieren, Wissenserwerb, freie Planung des Studiums, freie Meinungsäußerung,
-Pflichten: Einhaltung der Prüfungsordnung (?) Eigenverantwortung, (Engagement?)
+Pflichten: Einhaltung der Prüfungsordnung (?) Eigenverantwortung, (Engagement?), Einhaltung von Vereinbarungen (z.B. Fristen)
 
 ###Rolle DozentIn:
 Rechte: Freie Gestaltung der Lehrinhalte, sofern sie den vom Institut verordneten Anforderungen gerecht werden, freie Meinungsäußerung,
