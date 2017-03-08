@@ -66,6 +66,7 @@ Wir glauben, der Wert der Wissenschaftlichkeit zerfällt in mindestens die zwei 
 
 2. (Transitivität) Wissenschaftlich ist alles dasjenige, das, unter der Einschränkung anderer (moralischer) Werte, dem Erkenntisgewinn dient.
 
+Die Wissenschaftlichkeit enthält einige, vielleicht alle und noch mehr, Dimensionen der Güte, die wir hier aufführen.
 
 [zlw Universität Stuttgart 2013](http://www.uni-stuttgart.de/zlw/ueberuns/dokumente/Wissenschaftlichkeit.pdf)
 
