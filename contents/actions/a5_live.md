@@ -34,7 +34,9 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 ## Wir verstehen unter Zusammenleben …
 
 .. das Miteinander *als* Personen.
+.. die Selbstorganisation als Institut, d. h. im weiten Sinne die Politik des Instituts.
 .. das Miteinander leglicher Formen, welche nicht durch die anderen, spezielleren "actions" abgedeckt ist.
+
 
 ## Abgrenzung
 [Unterscheidung zu a1, a2 und a4:] Zusammenleben betrifft wesentlich das "zwischen", d. h. es betrifft Kommunikation, Kollaboration und Interaktion. a1, a2 & a4 hingegen beschäftigen sich mit Tätigkeiten von Individuen (welche natürlich in wiederrum in speziellen (zwischenmenschlichen) Gefügen verortet sind).
