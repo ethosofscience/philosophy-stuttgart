@@ -37,8 +37,8 @@ Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweilig
 
 ## Lebendige Werte
 Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
-Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie jene Werte zu leben.
-Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten denselben ihre normative und motivationale Kraft verleiht, ebenso wie jene Werte zu leben.
+Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
+Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten denselben ihre normative und motivationale Kraft verleiht, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
 (siehe [Relevanz](#relevanz))
 
 ## Unsere Werte
@@ -88,30 +88,36 @@ Wir schließen nicht aus, dass die hier angeführten Werte, trotz ihres intrinsi
 Das heißt, wir schließen nicht die Möglichkeit aus, dass es sowohl *basic* als auch *non-basic values* gibt. (vgl. SEP 2017)
 
 Wir gehen davon aus, dass der intrinsische Wertcharakter bestimmter Werte weder notwendige noch hinreichende Bedingung für den Status unseres Ethos ist.
+Entscheidendt ist unserer Meinung nach, dass wir die Intuition haben, dass unsere Werte intrinsisch wertvoll sind.
 Entscheident ist für uns die Werthaftigkeit des Werts *ipso facto*.
 
 ## Werte als Ideale
 Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen, nach denen wir streben.
-Wir glauben, dass die normative und motivationale Krauft unserer Werte davon abhängt, ob wir sie *de facto* leben; und sie zu leben begreifen wir als bewusstes Bestreben zu jenen Werten.
-Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen, auf den wir uns gemeinsam geeinigt haben.
+Wir glauben, dass die normative und motivationale Krauft unserer Werte davon abhängt, ob wir sie *de facto* leben.
+Und sie zu leben begreifen wir als bewusstes Streben nach der Erfüllung jener Werte.
+Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
 Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
+(siehe [Wertekonflikte im Überlegungsgleichgewicht](##wertekonflikte-im-überlegungsgleichgewicht))
 
 ## Wertekonflikte im Überlegungsgleichgewicht
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
 
-1. ihre normative und motivationale Kraft (Lebenigkeit) betonen sowie
-2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen Achtsamkeit und Klugheit (vgl. Luckner) verlangt.
+1. ihre normative und motivationale Kraft (ihre Lebenigkeit) betonen sowie
+
+2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner) verlangt.
 
 Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigem Wettstreit stehen können.
 Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausfordrung Überlegungsgleichgewichte zu erreichen.
 
 ## Intuitionen
 Wir sind uns darüber bewusst, dass wir uns häufig auf unsere Intuitionen berufen.
-1. Keine Rechtfertigung
-2. Ausgangspunkt
-3. Richtschnur aber kein Prüfstein.
-4. Trivialität der Grundannahmen und Grundbedingungen.
+Wir versuchen unsere Intuitionen immer explizit (siehe [Qualität](../contents/v4_quality.md) und [Offenheit](../contents/v5_openness.md)) zu machen.
+Wir sind uns jedoch darüber bewusst, dass wir uns nicht über jeden unserer Hintergrundanahmen, Vorraussetzungen und grundlegenden Intuitionen bewusst sund. (siehe [Ehrlichkeit](../contents/v5_openness.md))
 
+Wenn wir uns implizit oder explizit auf unsere Intuitionen berufen, dann soll das keine Rechtfertigung oder Prüfstein sein, sondern es soll:
+
+1. unseren Ausgangspunkt klarstellen;
+2. die Richtschnur verdeutlichen an der wir uns orientieren.
 
 # Quellen
 1. [Stanford Encyclopedia of Philosophy. 2017. Intrinsic vs. Extrinsic Value](https://plato.stanford.edu/entries/value-intrinsic-extrinsic)
