@@ -40,8 +40,6 @@ __Ideen:__
 - Zuvorkommendes Handeln ist wünschenswert und zeichnet besonderes Engagement aus.
 - Voraussschauend handeln, so dass man sich in der Zukunft dafür einstehen kann.
 
-<!-- Kommentare Simon: "verantworten" im hinteren Teil des Satzes ersetzen, sonst V. durch V. erklärt. Eigenständig essentiel im Gegensatz als zuvorkommend. "bestes Gewissen rausgenommen." -->
-
 
 # Links
 1. [Verantwortung - Wiktionary](https://de.wiktionary.org/wiki/Verantwortung)
