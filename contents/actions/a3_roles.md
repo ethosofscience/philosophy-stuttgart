@@ -36,7 +36,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 Eine Rolle wird konstituiert durch (soziale) Erwartungen, Handlungsmuster, Ansprüche, Anforderungen, Rechte und Plfichten (...). Am Institut arbeiten und leben wir alle vor allem als Menschen zusammen, befinden uns jedoch alle auch in bestimmten Rollen.
 Mit jeder Rolle gehen Freiheiten, Rechte und Pflichten einher.
 
-Unter *Rollenwahrnehmung* verstehen wir das Wahrnehmen dieser Rolle, sowohl
+Unter *Rollenwahrnehmung* verstehen wir das Wahrnehmen dieser Rolle, sowohl:
 
 1. als reflektiertes und aufmerksames *Erkennen* der Rolle und der damit verbundenen Freiheiten, Rechte und Pflichten,
 
