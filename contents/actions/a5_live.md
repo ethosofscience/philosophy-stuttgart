@@ -33,9 +33,16 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Zusammenleben (Kollaborieren, Kommunizieren, Zusammensein) a5
 ## Wir verstehen unter Zusammenleben …
 
+<<<<<<< HEAD
+Zusammenleben schließt alle Bereiche ein, in denen es zu persönlicher Interaktion kommt. Das heißt das Miteinander im Institut betrifft auch Veranstaltung die außerhalb des Institutslebens und, gegebenenfalls, dem wissenschaftlichen Diskurs liegen.
+Genannt seien hier externe Vorträge, Seminare, Vorlesungen, Gespräche, Kolloquien und Workshops...sowie interne Feste und Veranstaltung, in denen es zu persönlicher Interaktion kommt.
+Somit heißt Zusammenleben nicht notwendig zusammen arbeiten, sondern es betrifft auch den persönlichen Bereich der Interaktion.
+Jedoch stellt Zusammenleben in jedem Fall einen der Grundpfeiler dar, für, sowohl wissenschaftlichen Fortschritt, als auch persönliches Wachstum.
+=======
 .. das Miteinander *als* Personen.
 .. die Selbstorganisation als Institut, d. h. im weiten Sinne die Politik des Instituts.
 .. das Miteinander leglicher Formen, welche nicht durch die anderen, spezielleren "actions" abgedeckt ist.
+>>>>>>> bfb508795dcf7c6dc14fa3c55aeba1edd9c7f4cd
 
 
 ## Abgrenzung
