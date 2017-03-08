@@ -35,6 +35,14 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 das systematische (strukturierte?) Vermitteln von Wissen, Zusammenhängen, Fragestellungen (...), das vor allem in Lehrveranstaltungen stattfindet und auf verschiedene Art und Weise erreicht werden kann.
 
+Lehren beinhaltet:
+- Vermittlung von Wissen
+- Vermittlung von Methoden
+- Dazu nötige Vor- und Nachbereitung
+- Prüfungen
+- Feedback und Korrektur
+
+
 # Links
 1. […](…)
 2. …

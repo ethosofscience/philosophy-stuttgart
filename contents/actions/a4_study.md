@@ -32,7 +32,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Studieren (…) a4
 ## Wir verstehen unter Studieren …
-Studieren ist die wissenschaftliche Beschäftigung mit einem Forschungsfach in einem inhaltlich vorstrukturierten Studiengang. Studieren findet im Austausch mit Lehrenden statt. Rückmeldungen hinsichtlich der Qualität der eigenen Arbeit sind ein wichtiger Bestandteil des Studiums. (Feedback) Dafür gibt es neben informellen Kanälen offizielle Prüfungsleistungen.
+Studieren ist die wissenschaftliche Beschäftigung mit einem Forschungsfach in einem inhaltlich vorstrukturierten Studiengang. Studieren findet im Austausch mit Lehrenden und anderen Studierenden statt. Rückmeldungen hinsichtlich der Qualität der eigenen Arbeit sind ein wichtiger Bestandteil des Studiums. (Feedback) Dafür gibt es neben informellen Kanälen offizielle Prüfungsleistungen.
 
 Ziel des Philosophie-Studiums ist es Wissen und bestimmte Fähigkeiten zu erlangen ("Weisheit", persönliches Wachstum), so wie eine allgemeine Orientierung im Denken. Dies kann auf verschiedene Weise erreicht werden.
 
