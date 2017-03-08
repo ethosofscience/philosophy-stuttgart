@@ -34,7 +34,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 ## Wir verstehen unter Zusammenleben …
 
 Zusammenleben schließt alle Bereiche ein, in denen es zu persönlicher Interaktion kommt. Das heißt das Miteinander im Institut betrifft auch Veranstaltung die außerhalb des Institutslebens und, gegebenenfalls, dem wissenschaftlichen Diskurs liegen.
-Genannt seien hier externe Vorträge, Seminare, Vorlesungen, Gespräche, Kolloquien und Workshops...sowie interne Feste und Veranstaltung, in denen es zu persönlicher Interaktion kommt.
+Genannt seien hier externe Vorträge, Seminare, Vorlesungen, Gespräche, Kolloquien und Workshops...sowie Sprechstunden, Lerngruppen, interne Feste und Verantstaltung, in denen es zu persönlicher Interaktion kommt.
 Somit heißt Zusammenleben nicht notwendig zusammen arbeiten, sondern es betrifft auch den persönlichen Bereich der Interaktion.
 Jedoch stellt Zusammenleben in jedem Fall einen der Grundpfeiler dar, für, sowohl wissenschaftlichen Fortschritt, als auch persönliches Wachstum.
 =======
