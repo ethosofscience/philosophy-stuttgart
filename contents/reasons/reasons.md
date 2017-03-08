@@ -101,6 +101,10 @@ Wir fassen unsere Werte nicht als Selbstzweck auf sondern als Ideale nach denen 
 3. Richtschnur aber kein Prüfstein.
 4. …
 
+<--!
+Wir kennen nicht alles Wertekonflikte sehen.
+--->
+
 # Quellen
 1. [Stanford Encyclopedia of Philosophy. 2017. Intrinsic vs. Extrinsic Value](https://plato.stanford.edu/entries/value-intrinsic-extrinsic)
 2. [Wikipedia. 2017. Intrinsic value (ethics)](https://en.wikipedia.org/wiki/Intrinsic_value_(ethics))

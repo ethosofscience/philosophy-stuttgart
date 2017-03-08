@@ -124,6 +124,11 @@ Jede Handlung strebt danach als Handlung selbst gut zu sein.
 
 [Gründe über Gründe](../contents/reasons/reasons.md)
 
+
+<!---
+Feedback
+--->
+
 # Links
 1. [Wikipedia. 2017. Quality](https://en.wikipedia.org/wiki/Quality)
 2. [Wikipedia. 2017. Cooperative principle](https://en.wikipedia.org/wiki/Cooperative_principle)
