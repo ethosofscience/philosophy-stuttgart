@@ -61,6 +61,10 @@ Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelde
 
 Viele der Handlungsfelder verweisen aufeinander, einige der Werte stehen im Kontext bestimmter Handlungen möglicherweise im Konflikt zueinander. Für diese Fälle gilt es, reflektiert und verantwortungsvoll abzuwägen, welcher Wert in diesem Kontext die höhere Relevanz hat.
 
+Wir glauben an die Fähigkeit der argumentativen, rationalen und freien Auseinandersetzung derartige Konflikte erfolgreich zu lösen sind.
+Der Ethos ist ein selbstgegebener Leitfaden und demnach ein Mittel zur Orientierung.
+Er kann keine Anleitung zur Vermeidung solcher Konflikte sein.
+
 ## Wertcharakter
 Wir gehen davon aus, dass einige der Werte, zu denen wir uns hier bekennen, *intrinsisch wertvoll* sind. (vgl. SEP 2017)
 Deshalb glauben wir, dass die entsprechenden Werte nicht rechtfertigungsbedürftig und auch nicht rechtfertigungswürdig sind.
