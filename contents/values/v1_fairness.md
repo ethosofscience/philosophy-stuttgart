@@ -58,6 +58,10 @@ Respekt hingegen bleibt nicht bei der lediglichen Duldung, sondern geht in den B
 
 Aus dem oben beschriebenen ergibt sich, dass für die Anerkennung der Gleichheit und Gerechtigkeit im mindesten Toleranz erforderlich ist. Wer sich entscheidet am Institutsleben und dem darüber hinaus philosophischen Diskurs teilzuhaben, bringt somit in erster Linie eine Toleranz gegenüber den, schon vor meiner Zeit dort existierenden, Regeln mit. Darüber hinaus durchwebt Toleranz und Respekt alle Wirkungs- und Schaffensbereiche des philosophischen Instituts. Allem voran, die soziale Interaktion, die letztlich als notwendig Basis angesehen wird, um überhaupt wissenschatflichen Fortschritt und persönlichen, inneren Wachstum erreichen zu können.  
 
+# Kritikfähigkeit als Garant für Fairness
+
+Die Offenheit für Kritik bezüglich allen Bereichen des Institutslebens stellt eine notwendigkeit für Fairness dar. Das heißt, es sollen Möglichkeiten und Plattformen gegeben sein, um Kritik zu äußer, ungeachtet der vertretenen Rolle oder der Art der Veranstaltung. 
+
 
 
 >>>>>>> 88909c28e1c5233a5a2d8b567210f74d035598d0
