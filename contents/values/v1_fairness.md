@@ -37,21 +37,24 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 Fairness heißt die verantwortungsbewusste Orientierung im Handeln an Gerechtigkeit, Gleichheit, Toleranz und Respekt.
 
 # Fairness als Gerechtigkeit
+
 Alle Handlungen, im Rahmen eines institutionellen, sozialen Zusammenlebens, sind notwendig eingebettet in ein vom Institut gebenenes, gerechtes Regelwerk, unter dem alle Teilnehmer gleich behandelt werden. Auch fordert es einen gerechten Umgang mit diesem, und es liegt an jedem Einzelnen dieses anzuerkennen und so zu handeln, dass das Regelwerk bestehen bleiben kann und nicht in seiner Funktion hintergangen und verletzt wird.
 Damit sind zunächst formale Regeln gemeint, wie beispielsweise die Vorgaben in den Modulhandbüchern, das Einhalten von Fristen, Abgabetermine für Hausarbeiten...etc.
 Abgesehen davon, muss es aber auch Gerechtigkeit fern von Fristen, Lehraufträgen und zu erbringendenen ECTS Punkten geben. Hier sind Handlungen gemeint, die nicht nur das bloße Beachten von Regeln darstellen, sondern damit verschränkt und dadurch begründet, eine Haltung, einen *Ethos* zum Audruck bringen.
-Diese Gerechtigkeit im Ethos findet sich sowohl, in der Einhaltung der institutionellen Regeln und der qualitativen Standarts im wissenschaftlich- philosophischen Diskurs wieder, als auch, im damit einhergehenden sozialen Miteinander und Austausch.
-Alle diese Bereiche überschneiden sich und hängen von einander ab. Gemeinsam ist allen, das streben nach wissenschaftlichem Fortschritt und persönlichen, inneren Wachstum unter dem Wert Fairness.
+Diese Gerechtigkeit im Ethos findet sich sowohl, in der Einhaltung der institutionellen Regeln und der qualitativen Standarts im wissenschaftlich- philosophischen Diskurs wieder, als auch, im damit einhergehenden, sozialen Miteinander und Austausch.
+Alle diese Bereiche überschneiden sich und hängen von einander ab. Gemeinsam ist allen, das streben nach wissenschaftlichem Fortschritt und persönlichen, inneren Wachstum unter dem Wert der Fairness.
 
-# Gerechtigkeit und Gleichheit
+## Gerechtigkeit und Gleichheit
+
 Gerechtigkeit ist eine Grundnorm eines fairen und sozialen Zusammenlebens. Gleichheit ist mit Gerechtigkeit eng verbunden und kann als eine Grundvoraussetzung für Gerechtigkeit gesehen werden. Das heißt, auch Gleichheit ist in den vom Institut beschlossenen Regeln verankert. [Modulhandbücher und Prüfungsordnung](http://www.uni-stuttgart.de/bologna/modulhandbuecher/index.html) Insofern, dass in bestimmten Merkmalen die Teilnehmer des Instituts, gleich behandelt werden, beziehungsweise sich, gemäß den Vorgaben, gleich verhalten müssen. Jedoch kann es innerhalb dieser gleichen Merkmale auch Ungleichheiten geben.
 Gleichheit herrscht in aller erster Linie im Bezug auf das Menschsein. Das heißt, dass jeder, ungeachtet des Geschlechts, der Herkunft und der sexuellen Orientierung gleich behandelt wird und ihm oder ihr gleiche Rechte und Pflichten zukommen. Dadurch, dass die Regeln für alle Teilnehmer in ihrer jeweiligen Rolle und darüber hinaus gleich sind, besteht Chancengleichheit für alle. (Rollen: [Rollenwahrnehmung](../contents/actions/a3_roles.md) )
-Das heißt, es gibt also Richtlinien, die für jeden gleichmaßen gelten und jeder sich auch gleichermaßen danach richten muss. Dann entsteht Gerechtigkeit. Das heißt aber nicht, dass es Ungerecht ist, dass es auch Merkmale der Ungleichheit gibt, zum Beispiel, dass jeder die Freiheit hat, nach seinem Ermessen, mit seinen individuelle Fähigkeiten, die Leistungen zu erzielen, die vorgegeben sind, beziehungsweise gegebenenfalls darüber hinaus gehen. (siehe auch : [Freiheit](../contents/values/v2_freedom.md) [Verantwortung](../contents/values/v6_responsibility.md) )
-Somit generiert sich die Begründung, die Regeln einzuhalten, dadurch, dass man Chanchengleichheit im Bildungswesen vorausgesetzt hat uns erhalten möchte, (d.h. keine Studiengebühren, Barfög usw.), und dem oben bereits postulierten *Ethos*, der zusätzlich als Motivation, beziehungsweise Begründung der Einhaltung der Regeln dienen soll. Dieser besteht aus den von uns gesetzten Werten, die als *intrinsisch wertvoll* gelten. [Gründe übder Gründe](../contents/reasons/reasons.md)
+Das heißt, es gibt also Richtlinien, die für jeden gleichmaßen gelten und jeder sich auch gleichermaßen danach richten muss. Dann entsteht Gerechtigkeit. Das heißt aber nicht, dass es ungerecht ist, dass es auch Merkmale der Ungleichheit gibt, zum Beispiel, dass jeder die Freiheit hat, nach seinem Ermessen, mit seinen individuelle Fähigkeiten, die Leistungen zu erzielen, die vorgegeben sind, beziehungsweise gegebenenfalls darüber hinaus gehen. (siehe auch : [Freiheit](../contents/values/v2_freedom.md) [Verantwortung](../contents/values/v6_responsibility.md) )
+Somit generiert sich die Begründung, die Regeln einzuhalten, dadurch, dass man Chanchengleichheit im Bildungswesen vorausgesetzt hat uns erhalten möchte, (d.h. keine Studiengebühren, Barfög, Bologna usw.), und dem oben bereits postulierten *Ethos*, der zusätzlich als Motivation, beziehungsweise Begründung der Einhaltung der Regeln dienen soll. Dieser besteht aus den von uns gesetzten Werten, die als *intrinsisch wertvoll* gelten. [Gründe übder Gründe](../contents/reasons/reasons.md)
 
 # Toleranz und Respekt
+
 Um die Werte Toleranz und Respekt unter dem allgemeinen Wert der Fairness zu erläutern, bedarf es zunächst einer Unterscheidung von Toleranz und Respekt.
-Toleranz umfasst vorrangig die Duldung von anderen, das heißt von ihren (von der eigenen Position abweichenden) Einstellungen, Überzeugungen und Haltungen.
+Toleranz umfasst vorrangig die Duldung von Anderem, das heißt von (von der eigenen Position abweichenden) Einstellungen, Regeln, Überzeugungen und Haltungen.
 Respekt hingegen bleibt nicht bei der lediglichen Duldung, sondern geht in den Bereich der Wertschätzung hinein. Das heißt, während Toleranz weitestgehend neutral zu sein scheint, kommt dem beispielsweise respektvollen Umgang eine deutlich positive Komponente mit Wertcharakter zu. Insofern dass man zum Beispiel eine andere Meinung, als gleich bedeutsam oder gut wie die eigene einschätzt, oder sogar noch besser als die eigene.
 
 ## Toleranz und Respekt im Zusammenhang mit Gleichheit und Gerechtigkeit
@@ -60,7 +63,7 @@ Aus dem oben beschriebenen ergibt sich, dass für die Anerkennung der Gleichheit
 
 # Kritikfähigkeit als Garant für Fairness
 
-Die Offenheit für Kritik bezüglich allen Bereichen des Institutslebens stellt eine notwendigkeit für Fairness dar. Das heißt, es sollen Möglichkeiten und Plattformen gegeben sein, um Kritik zu äußer, ungeachtet der vertretenen Rolle oder der Art der Veranstaltung. 
+Die Offenheit für Kritik bezüglich allen Bereichen des Institutslebens stellt eine Notwendigkeit für Fairness dar. Das heißt, es sollen Möglichkeiten und Plattformen gegeben sein, um Kritik zu äußern, ungeachtet der vertretenen Rolle oder der Art der Veranstaltung. 
 
 
 
