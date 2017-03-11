@@ -36,6 +36,9 @@ Studieren ist die wissenschaftliche Beschäftigung mit einem Forschungsfach in e
 
 Ziel des Philosophie-Studiums ist es Wissen und bestimmte Fähigkeiten zu erlangen ("Weisheit", persönliches Wachstum), so wie eine allgemeine Orientierung im Denken. Dies kann auf verschiedene Weise erreicht werden.
 
+Studieren ist keine unnötige Pflicht, sondern die privilegierte Möglichkeit, Wissen, Inhalte und Methoden zu lernen, die andere Menschen vor uns erarbeitet haben und den eigenen Wissensdurst (meistens immer nur kurzzeitig) zu stillen.
+
+
 
 
 
