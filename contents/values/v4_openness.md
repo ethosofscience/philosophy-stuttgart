@@ -44,6 +44,9 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 3. **Erfahrung** Offenheit als Bereitschaft und Unvoreingenhommenheit zu zwischenmenschliche (sozialer) Erfahrung.
 
+„Auf das Erheben von Warheitsansprüchen ist weder sind weder die Wissenschaften noch die Alltagskenntnis spezialisiert; was die ersteren den lerzteren voraushaben, ist eher schon in der besonderen Rolle zu suchen, die das dem Wahrheitsstreben inhärente fallibilistische Prinzip der steten Offenheit für Selbstkorrekturen spielt – oder spielen sollte.“
+(Keil 1996, S. 47)
+
 ## Wir begründen Offenheit …
 … in ihren beiden Aspekten wie folgt:
 

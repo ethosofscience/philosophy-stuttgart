@@ -29,57 +29,13 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Qualität (Klarheit, Einfacheit, Struktur, Kohärenz, …) **v5**
-## Wir verstehen unter Qualität …
-<!--
-DISCLAIMER
+# Professionalität (Klarheit, Einfacheit, Struktur, Kohärenz, …) **v5**
+## Wir verstehen unter Professionalität …
+… diejenige Eigenschaft der Ausübung einer Tätigkeit oder einer Person in Bezug auf die Ausübung einer Tätigkeit, welche die Ausübung der Tätigkeit oder die Person zu einer kunstfertigen macht, die über dem Niveau eines Amateurs oder Leihen liegt.
 
-BLUF
-Aus guten Gründen (siehe TL;DR)
+Jemand, der bezüglich einer Tätigkeit professionell ist, der übt die Tätigkeit beruflich aus.
+Er zeichnet sich durch Fachkenntnis, Erfahrung, Können (Fertigkeit und Fähigkeit) aus (Kunstfertigkeit) und kann eine formale Ausbildung und Qualifikation vorweisen.
 
-1. habe ich einen großen Teil der Qualitätssektion zur internen Dokumentation für diesen Commit auskommentiert und werde den entsprechenden Anteil im nächsten Commit löschen;
-
-2. werde ich die Qualitätssektion im nächsten Commit umbenennen in „Professionalität“.
-
-TL;DR
-2. Der Verdach von Simon hat sich bestätigt.
-
-3. Qualität im Sinne der Güte ist als der Wert beziehungsweise die Werthaftigkeit eines Wertes selbst anzuhsehen.
-Oder anders gesagt: das was einen Wert zu einem Wert macht, ist seine Güte.
-
-4. Die Relativität der Güte von X zu einem Y, wobei Y hier – wie Louis angemekt hat – immer eine paradigmatische Handlung repräsentiert hat zur Folge, dass wir eine Verdopplung und Verschachtelung unserer Werte erhalten.
-Beispielsweise wäre die Güte der Forschung die Wissenschaftilchkeit. (trivial)
-Wissenschahftlichkeit wäre dann aber ein Wert, der auf unsere Handlungen abgebildet wird.
-Aber genau das haben wir ja bereits mit unserer Handlungsfeldmatrix erledigt. …
-
-5. Ein Problem ist auch, dass wir zwar auf der einen Seite die in der Qualitätssektion neu entstehenden Werte nicht noch zusätzlich unter unsere values subsumieren wollen wir allerdings auf der anderen Seite sie nicht fallen
-lassen wollen.
-Das heißt, dass wir, ähnlich wie besprochen eigentlich eine andere Überschrift für diese Sektion brauchen, die als Sylabus für alle diejenigen Werte herhalten kann, die wir nicht direkt unter values haben.
-
-6. Alexandra hat für diese Probleme die Lösung gefunden:
-Die Lösung besteht darin, „Qualität“ in „Professionalität“ umzutaufen – das heißt gleich zu Anfang den move von Keil zu machen und den Overhead rauszulöschen.
-
-9. Gelöscht wird:
-… die *Güte* von *X* relativ zu *Y* (wobei natürlich nicht ausgeschlossen ist, dass *X* = *Y*).
-
-Die von uns hier salopp eingeführte Pseudovariable *X* steht im Normalfall stellvertretend für beispielsweise Gedanken, Ideen, Begriffen, Propositionen, Überzeugungen, Hypothesen, Argumenten, Fragen, Fragestellungen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Medien, Daten, Prozessen, Informationen, Werkzeugen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera.
-
-Die von uns hier salopp eingeführte Pseudovariable *Y* steht im Normalfall stellvertretend beispielsweise für Normen, Standards, Gebräuchen, Regeln und andere Werten et cetera oder eben wiederum Gedanken, Ideen, Begriffe, Handlungen et cetera.
-
-Insbesondere kann *Y* für unsere paradigmatischen Handlungen:
-
-1. Forschung,
-2. Lehre,
-3. Rollenwahrnehmung,
-4. Studieren,
-5. Leben
-
-stehen.
-
-Und insbesondere ergeben sich durch Tupel (*X*, *Y*) bei denen *Y* für eine paradigmatische Handlung steht Werte, die in besonderem Maße relevant für uns  sind.
---->
-
-#
 1. Wissenschaftlichkeit,
 2. [Offenheit](../contents/values/v4_openness.md)
 3. Klarheit
@@ -201,3 +157,5 @@ Feedback
 # Links
 1. [Wikipedia. 2017. Quality](https://en.wikipedia.org/wiki/Quality)
 2. [Wikipedia. 2017. Cooperative principle](https://en.wikipedia.org/wiki/Cooperative_principle)
+3. [Wikipedia. 2017. Profi](https://de.wikipedia.org/wiki/Profi)
+4. [Wikipedia. 2017. Techne](https://de.wikipedia.org/wiki/Techne)
