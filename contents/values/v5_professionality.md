@@ -29,32 +29,105 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Professionalität (Klarheit, Einfacheit, Struktur, Kohärenz, …) **v5**
+# Professionalität (Klarheit, Einfachheit, Struktur, Kohärenz, …) **v5**
 ## Wir verstehen unter Professionalität …
-… diejenige Eigenschaft der Ausübung einer Tätigkeit oder einer Person in Bezug auf die Ausübung einer Tätigkeit, welche die Ausübung der Tätigkeit oder die Person zu einer kunstfertigen macht, die über dem Niveau eines Amateurs oder Leihen liegt.
+… diejenige Eigenschaft der Ausübung einer Tätigkeit oder einer Person in Bezug auf die Ausübung einer Tätigkeit, welche die Ausübung derselben Tätigkeit beziehungsweise derselben Person zu einer *kunstfertigen* im Sinne der *téchne* macht.
 
-Jemand, der bezüglich einer Tätigkeit professionell ist, der übt die Tätigkeit beruflich aus.
-Er zeichnet sich durch Fachkenntnis, Erfahrung, Können (Fertigkeit und Fähigkeit) aus (Kunstfertigkeit) und kann eine formale Ausbildung und Qualifikation vorweisen.
+Jemand, der bezüglich einer Tätigkeit professionell ist, der übt die Tätigkeit oft beruflich oder als Erwerbstätigkeit aus.
+Sie zeichnet sich durch Fachkenntnis, Erfahrung, Fähigkeiten und Fertigkeiten und Fähigkeit im Sinne der Kunstfertigkeit (téchne) aus und kann in Bezug auf die entsprechenden Tätigkeitsfelder oft eine formale Ausbildung und Qualifikation vorweisen.
+Häufig wird sie als Expertin in ihrem Gebiet angesehen und konsultiert.
 
-1. Wissenschaftlichkeit,
-2. [Offenheit](../contents/values/v4_openness.md)
-3. Klarheit
-4. Korrektheit, Vollständigkeit, Wahrheit (Grice)
-5. Quantität (Grice)
-6. Relevanz (Grice)
-7. Proportionalität
-8. Exaktheit, Präzision
-9. Reproduzierbarkeit
-10. Verifizierbarkeit, Falsifizierbarkeit
+## Wir sind professionell
+Die in unseren paradigmatisch Handlungen auftretenden Tätigkeiten können grundsätzlich professionell ausgeübt werden, sowohl:
 
-# Zur Wissenschaftlichkeit
-Gedanken, Ideen, Begriffe, Propositionen, Überzeugungen, Hypothesen, Argumente, Fragen, Fragestellungen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Daten, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera sind *wissenschaftlich*, wenn sie den *de facto* Standards der Wissenschaft genügen.
-Wir können und wollen diese Standards hier nicht aufzulisten, da dies nicht im Fokus unseres Ethos liegt.
-(siehe [Gründe über Gründe](../contents/reasons/reasons.md)
+1. unsere Forschung,
+2. unsere Lehre,
+3. unsere Rollenwahrnehmung,
+4. unsere Studieren als auch
+5. unsere Zusammenleben (siehe [Notiz zum Zusammenleben](###notiz-zum-zusammenleben)).
 
+Wir glauben, dass alle unsere Handlungen von Professionalität geprägt sein können und sollen.
+Das heißt, wir glauben, dass wir
+
+1. professionell forschen,
+2. professionell lehren,
+3. professionell unsere Rollen wahrnehmen,
+4. professionell studieren und
+5. professionell zusammenleben (siehe [Notiz zum Zusammenleben](###notiz-zum-zusammenleben))
+
+können und sollen.
+Was es heißt, professionell zu forschen, professionell zu lehren, professionell unsere Rollen wahrzunehmen, professionell zu studieren und professionell zusammenzuleben, das entscheidet sich immer jeweils in Bezug zur entsprechenden Handlung.
+
+Die Ausübung einer Handlung (oder eine Tätigkeit) ist professionell, wenn
+
+1. sie im Einklang mit den für diese Handlung relevanten Werten
+[Fairness](../contents/values/v1_fairness.md), [Freiheit](../contents/values/v12_freedom.md), [Lebendigkeit](../contents/values/v3_liveliness.md), [Offenheit](../contents/values/v4_openness.md), [Verantwortung](../contents/values/v5_responsibility.md)
+stehen und
+
+2. sie im Einklang mit den im Folgenden gelisteten Dimensionen der Professionalität steht.
+
+Im Folgenden listen wir Dimensionen (Merkmale) der Professionalität.
+Diese Dimensionen sind nicht an eine einzige paradigmatische Handlung
+gebunden, sondern können Dimensionen der Professionalität vieler Handlungen sein.
+Unsere Liste ist höchstwahrscheinlich nicht vollständig aber sie enthält ein Bündel all derjenigen Dimensionen der Professionalität, die für uns wichtig sind.
+
+## Professionalität 1 – Wissenschaftlichkeit
+###  Wir sind wissenschaftlich
+Wir sind davon überzeugt, dass unsere Forschung, unsere Lehre und unser Studium wissenschaftlich ist, wenn wir professionell forschen, professionell lehren und professionell studieren.
+Professionell forschen, lehren, und studieren heißt, wissenschaftlich zu forschen, wissenschaftlich zu lehren, wissenschaftlich zu studieren.
 Sowohl in Bezug auf die Frage nach den Standards der Wissenschaften als auch in Bezug auf die Frage nach der Philosophie als Wissenschaft schließen wir uns im Folgenden den Überlegungen Geert Keils (1996) an.
 
-Wir sind davon überzeugt, dass die Wissenschaftlichkeit nicht nur eine Dimension der Güte ist, sondern ein Wert für sich, dem eine besondere Rolle zukommt.
+Gedanken, Ideen, Begriffe, Propositionen, Überzeugungen, Hypothesen, Argumente, Fragen, Fragestellungen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Daten, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera sind *wissenschaftlich*, wenn sie den *de facto* Standards der Wissenschaft genügen.
+[Wissenschaftlichkeit und mehr](###wissenschaftlichkeit-und-mehr)
+
+Wir sind davon überzeugt, dass es *de facto* Standards innherhalb der Wissenschaften gibt, denen sich zumindest die jeweilige Wissenschaft selbst verpflichtet. (Keil 1996)
+Wir wissen nicht, ob es möglich ist, die Menge dieser Standards volltändig aufzulisten.
+Davon unabhängig können und wollen wir diese Standards hier nicht aufzulisten, da dies nicht im Fokus unseres Ethos liegt.
+(siehe [Gründe über Gründe](../contents/reasons/reasons.md))
+
+Außerdem wissen wir nicht, ob es eine Menge notwendiger und zusammengenommen hinreichender Bedingungen der Wissenschaftlichkeit gibt.
+Aber wir glauben, dass weder die Auflistung noch das Bestehen oder Nichtbestehen derartiger Bedingungen relevant dafür sind ### Notiz zum Zusammenleben
+Eine Sonderrolle nimmt in diesem Zusammenhang die repräsentative Handlung Zusammenleben ein.
+Meistens sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wie der alltäglichen Zusammenarbeit.
+Wir sind aber überzeugt, dass unser Zusammenleben (das Institutsleben) über alle Rollen (Positionen) hinweg in ein professionelles Umfeld eingebettet ist.
+Wir sind davon überzeugt, dass unser freundschaftliches Verhältnis, nicht durch unseren professionellen Hintergrund und das Bewusstsein darüber unterminiert oder beschränkt wird, sondern dass unsere Professionalität (beispielsweise in der professionellen Kommunikation und der professionellen Rollenwahrnehmung) und unser Bewusstsein darüber unseren Freundschaften ein Zugewinn ist.
+Indem wir uns über unsere jeweiligen professionellen Hintergründe bewusst sind, können wir eben gerade diese Hintergründe auf professionelle Art, proaktiv wegfallen lassen und damit Freiraum für das Persönliche schaffen können.
+Dadurch schaffen wir uns den Raum für authentische Freundschaften.
+Wir möchten allerdings betonen, dass diese Auffassung, authentische Freundschaften in rein professionellen Kontexten natürlich nicht ausschließt.
+Mehr noch, glauben wir, dass es Teil der Professionalität ist, sich um authentische Freundschaften zu bemühen.sich auf eben diese *de facto* Standards der Wissenschaften zu berufen.
+
+Insbesondere glauben wir:
+„Aus dem Fehlen einer Menge von notwendigen und hinreichenden Bedingungen folgt kein »Anything goes«.“
+(Keil 1996, S. 43)
+
+Zwischen den Forschungsstilen, Forschungsmethoden, Forschungsgenständen und Forschungsvorhaben der einzelnen Wissenschaften besteht unserer Meinung nach eine Intradisziplinäre sowie eine Interdisziplinäre Familienähnlichkeit.
+Diese Famlienähnlichkeit macht die Wissenschaft zu einer pluralistischen Einheit.
+Standards, die in der einen Wissenschaft gelten, können aber müssen nicht in einer anderen Wissenschaft gelten.
+
+„Der rote Faden ›Wissenschaftlichkeit‹ ist aus vielen einzelnen Fasern zusammengesetzt.“
+(Keil 1996, S. 45) und (Wittgenstein PU § 67)
+
+### Wir sind wissenschaftliche Philosophinnen
+Wir sind insbesondere davon überzeugt, dass unsere philosophische Forschung, unsere philosophische Lehre und unser philosophisches Studium wissenschaftlich ist, wenn wir professionell forschen, professionell lehren und professionell studieren.
+Professionell philosophisch zu forschen, philosophisch zu lehren und philosophisch zu studieren heißt, wissenschaftlich zu forschen, wissenschaftlich zu lehren und wissenschaftlich zu studieren.
+
+Die Philosophie ist unserer Überzeugung nach mindestens eine Wissenschaft;
+wir wissen nicht, ob sie mehr ist – Aufklärung oder Orientierung beispielsweise –, um es in Geert Keils Worten zu sagen.
+(Keil 1996, S. 48)
+Allerdings sind wir ebenfalls wie Geert Keil davon überzeugt:
+„Auch um dessentwillen, was an der Philosophie nicht Wissenschaft ist, wäre es besser, wenn sie eine Wissenschaft wäre.“
+(Keil 1996, S. 50)
+
+Wir sind davon überzeugt, dass die Philosophie eine Wissenschaft ist, dass sie *eine* ist unter vielen.
+Die wissenschaftlichen Standards denen sie sich verpflichtet sind ihre ganz eigenen Standards genau so wie die wissenschaftlichen Standards beispielsweise der Mathematik oder der Biologie die jeweiligen, ganz eigenen wissenschaftlichen Standards sind, denen sie sich jeweils verpflichten.
+
+Wir sind davon überzeugt, dass insofern die Philosphie professionell betrieben wird, sie ein Höchstmaß an Wissenschaftlichkeit verlangt.
+„Wer das philosophische Geschäft professionell betreibt, unterwirft sich nicht einem heteronomen Wissenschaftsideal oder einem »Szientismus«, sondern hat sich dafür entschieden, die Standards, die er mit guten Gründen anerkannt hat, nicht wissentlich zu unterbieten.“
+(Keil 1996, S. 48)
+
+### Die Wissenschaftlichkeit als Wert an sich
+Wir sind davon überzeugt, dass die Wissenschaftlichkeit nicht nur eine Dimension der Professionalität in Bezug auf die Forschung ist, sondern ein Wert für sich, dem eine besondere Rolle zukommt.
+
 Wir glauben, der Wert der Wissenschaftlichkeit zerfällt in mindestens die zwei folgenden Dimensionen:
 
 1. (Reflexivität) Der Wert der Wissenschaftlichkeit hat explizt sich selbst zum Gegenstand. Das heißt, zweierelei:
@@ -65,43 +138,7 @@ Wir glauben, der Wert der Wissenschaftlichkeit zerfällt in mindestens die zwei 
 
 2. (Transitivität) Wissenschaftlich ist alles dasjenige, das, unter der Einschränkung anderer (moralischer) Werte, dem Erkenntisgewinn dient.
 
-
-Wir glauben, dass ein Kontinuum zwichen Alltag und Wissenschaft besteht.
-(Keil 1996, S. 46)
-Das Bestehen dieses Kontinumus stellt unserer Meinung nach die wissenschaftlichkeit der Wissenschaften selbst keinesfalls in Abrede, sondern zeigt die Wichtigkeit der Einbettung jeder Wissenschaft in eine prosperierende Gesellschaft.
-Mehr noch, wir sind davon überzeugt, dass unsere Gesellschaft und die Wissenschaften in einem gesunden gegenseitigem Abhängigkeitsverhältnis stehen, dass prosperierende Gesellschaften prosperierende Wissenschaften hervorbringen und umgekehrt, dass sie einander bedürfen. (Quelle)
-
-Wir sind davon überzeugt, dass es *de facto* Standards innherhalb der Wissenschaften gibt, denen sich zumindest die jeweilige Wissenschaft selbst unterwirft. (Keil 1996)
-Wir wissen nicht, ob es möglich ist, die Menge dieser Standards volltändig aufzulisten.
-Wir wissen nicht, ob es eine Menge notwendiger und zusammengenommen hinreichender Bedingungen der Wissenschaftlichkeit gibt.
-Aber wir glauben, dass weder die Auflistung noch das Bestehen oder Nichtbestehen derartiger Bedingungen relevant dafür sind sich auf eben diese *de facto* Standards der Wissenschaften zu berufen.
-
-Insbesondere glauben wir:
-„Aus dem Fehlen einer Menge von notwendigen und hinreichenden Bedingungen folgt kein »Anything goes«.“
-(Keil 1996, S. 43)
-
-Zwischen den Forschungsstilen, Forschungsmethoden, Forschungsgenständen und Forschungsvorhaben der einzelnen Wissenschaften besteht unserer Meinung nach eine Intradisziplinäre sowie eine Interdisziplinäre Familienähnlichkeit.
-Diese Famlienähnlichkeit macht die Wissenschaft zu einer pluralistischen Einheit.
-
-„Der rote Faden ›Wissenschaftlichkeit‹ ist aus vielen einzelnen Fasern zusammengesetzt.“
-(Keil 1996, S. 45) und (Wittgenstein PU § 67)
-
-Die Philosophie ist unserer Überzeugung nach mindestens eine Wissenschaft;
-wir wissen nicht, ob sie mehr ist – Aufklärung oder Orientierung beispielsweise –, um es in Geert Keils Worten zu sagen.
-(Keil 1996, S. 48)
-Allerdings sind wir wie Geert Keil davon überzeugt:
-„Auch um dessentwillen, was an der Philosophie nicht Wissenschaft ist, wäre es besser, wenn sie eine Wissenschaft wäre.“
-(Keil 1996, S. 50)
-
-Wir sind davon überzeugt, dass die Philosophie eine Wissenschaft ist, dass sie *eine* ist unter vielen.
-Die wissenschaftlichen Standards denen sie sich verpflichtet sind ihre ganz eigenen Standards genau so wie die wissenschaftlichen Standards beispielsweise der Mathematik oder der Biologie die wissenschaftlichen Standards.
-
-
-Profesionalität.
-„Wer das philosophische Geschäft professionell betreibt, unterwirft sich nicht einem heteronomen Wissenschaftsideal oder einem »Szientismus«, sondern hat sich dafür entschieden, die Standards, die er mit guten Gründen anerkannt hat, nicht wissentlich zu unterbieten.“
-(Keil 1996, S. 48)
-
-# Zu Klarheit
+## Professionalität 2 – Klarheit
 Klarheit zerfällt in mindestens die folgenden Dimensionen:
 
 1. Einfachheit,
@@ -112,35 +149,45 @@ Klarheit zerfällt in mindestens die folgenden Dimensionen:
 6. Kohärenz,
 7. Expliztheit.
 
-## Zur Einfachheit
+### Zur Einfachheit
 
-## Zur Exaktheit (Präzesion)
+### Zur Exaktheit (Präzesion)
 
-## Zur Eindeutigkeit (Interpretationsunabhängigkeit, Kontextinvarinanz)
+### Zur Eindeutigkeit (Interpretationsunabhängigkeit, Kontextinvarinanz)
 
-## Zur Bedeutungsstabilität)
+### Zur Bedeutungsstabilität)
 
-## Zur Struktur
+### Zur Struktur
 
-## Zur Kohärenz
+### Zur Kohärenz
 Kohärenz zerfällt in mindestens die folgenden Dimensionen:
 
 1. Konsistenz (Nichtwidersprüchlichkeit)
 2. Semantische Relationalität (Inhalticher Bezug)
 
-### Zur Konsistenz
+#### Zur Konsistenz
 
-### Zur semantischen Relationalität
+#### Zur semantischen Relationalität
 
-## Zur Expliztheit
+### Zur Expliztheit
 
-# Korrektheit
+## Professionalität 3 – Korrektheit
 
-# Quantität
+## Professionalität 4 – Korrektheit Relevanz
 
-# Relevanz
+## Professionalität 5 – Korrektheit Proportionalität (Ockhams Razor)
 
-# Proportionalität (Ockhams Razor)
+### Notiz zum Zusammenleben
+Eine Sonderrolle nimmt in diesem Zusammenhang die repräsentative Handlung Zusammenleben ein.
+Oft sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wie der alltäglichen Zusammenarbeit.
+Wir sind aber überzeugt, dass unser Zusammenleben (das Institutsleben) über alle Rollen (Positionen) hinweg in ein professionelles Umfeld eingebettet ist.
+Wir sind davon überzeugt, dass unser freundschaftliches Verhältnis, nicht durch unseren professionellen Hintergrund und das Bewusstsein darüber unterminiert oder beschränkt wird, sondern dass unsere Professionalität (beispielsweise in der professionellen Kommunikation und der professionellen Rollenwahrnehmung) und unser Bewusstsein darüber unseren Freundschaften ein Zugewinn ist.
+Indem wir uns über unsere jeweiligen professionellen Hintergründe bewusst sind, können wir eben gerade diese Hintergründe auf professionelle Art, proaktiv wegfallen lassen und damit Freiraum für das Persönliche schaffen können.
+Dadurch schaffen wir uns den Raum für authentische Freundschaften.
+Wir möchten allerdings betonen, dass diese Auffassung, authentische Freundschaften in rein professionellen Kontexten natürlich nicht ausschließt.
+Mehr noch, glauben wir, dass es Teil der Professionalität ist, sich um authentische Freundschaften zu bemühen.
+
+
 
 # Gründe
 Jedes Handeln strebt nach einem Gut.
