@@ -36,6 +36,9 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 Jemand, der bezüglich einer Tätigkeit professionell ist, der übt die Tätigkeit oft beruflich oder als Erwerbstätigkeit aus.
 Sie zeichnet sich durch Fachkenntnis, Erfahrung, Fähigkeiten und Fertigkeiten und Fähigkeit im Sinne der Kunstfertigkeit (téchne) aus und kann in Bezug auf die entsprechenden Tätigkeitsfelder oft eine formale Ausbildung und Qualifikation vorweisen.
 Häufig wird sie als Expertin in ihrem Gebiet angesehen und konsultiert.
+Professionalität bemisst sich an den Sitten, Gebräuchen, Normen und Standards der praktizierenden Gemeinschaft.
+Zu betonen ist, dass Professionalität in einem guten Sinne relativ ist, relativ zu bestimmten Tätigkeitsfeldern, zu bestimmten Zeiten, in bestimmten praktizierenden Gemeinschaften.
+Das bedeutet jedoch – insbesondere bezüglich der Wissenschaften – nicht, dass die Maßstäbe der Professionalität nicht kritikfähig wären; im Gegenteil sind sie – insbesondere bezüglich der Wissenschaften – ständig Gegenstand vielfältiger Kritik und erfahren dadurch eine ständige inkrementelle Entwicklung.
 
 ## Wir sind professionell
 Die in unseren paradigmatisch Handlungen auftretenden Tätigkeiten können grundsätzlich professionell ausgeübt werden, sowohl:
@@ -67,9 +70,13 @@ stehen und
 2. sie im Einklang mit den im Folgenden gelisteten Dimensionen der Professionalität steht.
 
 Im Folgenden listen wir Dimensionen (Merkmale) der Professionalität.
-Diese Dimensionen sind nicht an eine einzige paradigmatische Handlung
-gebunden, sondern können Dimensionen der Professionalität vieler Handlungen sein.
+Diese Dimensionen sind nicht an eine einzige paradigmatische Handlung gebunden, sondern können Dimensionen der Professionalität vieler Handlungen sein.
 Unsere Liste ist höchstwahrscheinlich nicht vollständig aber sie enthält ein Bündel all derjenigen Dimensionen der Professionalität, die für uns wichtig sind.
+
+Jede Dimension der Professionalität enthält ihrerseits Werte und Standards.
+Einige der hier aufgeführten Standards und Werte berühren und überschneiden sich im bestmöglichen Sinne.
+Insbesondere glauben wir, dass einige der in unserem Ethos formulierten Werte und Standards zugleich auch Teil der wichtigsten Standards und Werte der Wissenschaft sind.
+Umgekehrt sind auch viele Standards und Werte der Wissenschaft zugleich Standards und Werte der außerhalb der Wissenschaft.
 
 ## Professionalität 1 – Wissenschaftlichkeit
 ###  Wir sind wissenschaftlich
@@ -133,7 +140,7 @@ Wir glauben, der Wert der Wissenschaftlichkeit zerfällt in mindestens die zwei 
 1. (Reflexivität) Der Wert der Wissenschaftlichkeit hat explizt sich selbst zum Gegenstand. Das heißt, zweierelei:
 
   1. Dass sich der Wert der Wissenschaftlichkeit selbst daran misst, was wissenschaftlich ist und umgekehrt;
-
+und Werte
   2. Dass er seine eigene Werthaftigkeit wissenschaftlich infrage stellt;
 
 2. (Transitivität) Wissenschaftlich ist alles dasjenige, das, unter der Einschränkung anderer (moralischer) Werte, dem Erkenntisgewinn dient.
@@ -143,51 +150,121 @@ Klarheit zerfällt in mindestens die folgenden Dimensionen:
 
 1. Einfachheit,
 2. Exaktheit (Präzesion),
-3. Eindeutigkeit (Interpretationsunabhängigkeit,
-4. Bedeutungsstabilität),
+3. Eindeutigkeit (Interpretationsunabhängigkeit, Bedeutungsstabilität),
 5. Struktur,
 6. Kohärenz,
 7. Expliztheit.
 
-### Zur Einfachheit
+### Zur Einfachheit, Schlichtheit, Proportionalität, Ockhams Razor
+Wir verstehen unter der Einfachheit bezüglich eines Objektes, eines Zustandes,
+eines Gedankens, einer Idee, eines Begriffs, einer Aussage, einer Überzeugung, einer Hypothese, eines Arguments, eines Beweises, einer Frage, einer Antwort, einer Lösung, eines Lösungsansatzes, einer Arbeit, einer Theorie, eines Textes, eines Resultats, einer Datenmenge, eines Algorithmus, eines Experiments, einer Messung, einer Beobachtung, einer Analyse, einer Handlung, eines Diskurses, einer Veranstaltung, eines Projektes, et cetera dreierlei:
 
-### Zur Exaktheit (Präzesion)
+  1. die Minimalität der Elemente, Grundbausteine beziehungsweise Faktoren;
 
-### Zur Eindeutigkeit (Interpretationsunabhängigkeit, Kontextinvarinanz)
+  2. die Minimalität der Regeln beziehungsweise Gesetze;
 
-### Zur Bedeutungsstabilität)
+  3. die Minimalität der sich aus diesen Elementen, Grundbausteinen beziehungsweise Faktoren und Regeln beziehungsweise Gesetzen ergebenden Strukturen.
+
+Einfachheit ist das Gegenteil von Komplexität.
+
+Oft ist die Anzahl von Elementen umgekehrt proportional zur Anzal der Regeln.
+
+Im Gegensatz zur strukturellen Einfachheit, die nicht immer anzustreben ist, sind wir sind davon überzeugt, dass die Komplexitätsreduktion und die sich damit einstellende Einfachheit grundsätzilch erstrebenswert ist.
+Allerdings glauben wir, dass unsere Objekte, Zustände,
+Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera so einfach wie möglich und so komplex wie nötig sein sollten.
+
+### Zur Exaktheit – Richtigkeit und Präzision
+Wir verstehen unter der Exaktheit unserer Objekte, Zustände,
+Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
+
+1. ihre Richtigkeit und
+2. ihre Präzision.
+
+Unter ihrer Richtigkeit verstehen wir ihre Fehlerlosigkeit beziehungsweise ihre Wahrheit beziehungsweise ihre Korrektheit.
+Unter ihrer Präzision ihre Passgenauigkeit in Bezug auf bestimmte formale und inhaltliche Anforderungen, Spezifikationen, Bedingungen oder Sachverhalten.
+
+Wir verstehen unter der Korrektheit ihre Eigenschaft bestimmten formalen und inhaltlichen Anforderungen, Spezifikationen und Bedingungen und Sachverhalten zu genügen.
+
+### Zur Eindeutigkeit
+Wir verstehen unter der Eindeutigkeit unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
+
+1. ihre Unmissverständlichkeit (Verständlichkeit),   
+2. ihre Interpretationsunabhängigkeit und
+3. ihre Kontextinvarianz.
+
+Unter ihrer Unmisserständlichkeit (Verständlichkeit) verstehen wir ihre Eigenschaft von sehr vielen Menschen auf die gleiche Weise verstanden zu werden.
+Unter ihrer Interpretationsunabhängigkeit verstehen wir ihre Eigenschaft von sehr vielen Menschen auf die gleiche Weise interpretiert zu werden.
+Unter ihrer Kontextinvarianz verstehen wir ihre Eigenschaft, über sehr viele Menschen, sehr viele Orte und sehr viele Zeiten hinweg Bedeutungsstabiel zu sein.
+Eindeutigkeit ist das Gegenstück zur Vagheit, Doppeldeutigkeit, Mehrdeutigkeit und Unschärfe.
+Wir wissen nicht, ob Eindeutig vollständig erreicht werden kann aber wir sind davon überzeugt, dass alleine der Versuch, Eindeutigkeit herzustellen zu die Eindeutigkeit hinreichend annähert.### Zur Exaktheit – Richtigkeit und Präzision
 
 ### Zur Struktur
+Wir verstehen unter der Struktur (Strukturiertheit) unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
+ihre syntaktische und semantische Ordung.
+Unter ihrer syntaktischen und semantischen Ordnung verstehen wir ihre Ordnung nach abstrakten KZur Exaktheit – Richtigkeit und Präzisionategorien und in ihre Ordnung in Einklang zu konkreten Sachverhalten.
 
 ### Zur Kohärenz
-Kohärenz zerfällt in mindestens die folgenden Dimensionen:
+Wir verstehen unter der Kohärenz unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
 
-1. Konsistenz (Nichtwidersprüchlichkeit)
-2. Semantische Relationalität (Inhalticher Bezug)
+1. ihre Konsistenz (Nichtwidersprüchlichkeit) und
+2. ihre semantische Relationalität (Inhalticher Bezug).
 
-#### Zur Konsistenz
-
-#### Zur semantischen Relationalität
+Unter ihrer Konsistenz verstehen wir ihre Freiheit von Widersprüchen.
+Unter ihrer semantischen Relationalität verstehen wir ihre Eigenschaft sich aufeinander zu beziehen.
 
 ### Zur Expliztheit
+Wir verstehen unter der Expliztheit unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera mindestens
 
-## Professionalität 3 – Korrektheit
+1. die proaktive Offenlegung der tatsächlichen Beweggründe zur ihrer Entstehung;
 
-## Professionalität 4 – Korrektheit Relevanz
+2. die proaktive Offenlegung der mit ihnen verfolgten Ziele;
 
-## Professionalität 5 – Korrektheit Proportionalität (Ockhams Razor)
+3. die proaktive Offenlegung außnahmslos aller bekannten Evidenzen, die gegen sie sprechen;
 
-### Notiz zum Zusammenleben
+4. die proaktive Zur Exaktheit – Richtigkeit und PräzisionOffenlegung außnahmslos aller bekannten Evidenzen, die für sie sprechen;
+
+5. die Offenlegung ausnahmslos aller Quellen, inklusive der Inspirationsquellen und inklusive aller bekannten relevanten Informationen;
+
+6. die Offenlegung ausnahmslos aller Komponenten aus denen sie bestehen – insbesondere ihre Herkunft;
+
+7. die Offenlegung ausnahmslos aller Vorgänger aus denen sie hervorgehen;
+
+8. die Offenlegung der eigen Position, der eigenen Rolle und Funktion des Erschaffers;
+
+9. die Offenlegung aller relevanten Kontexte;
+
+10. die Offenlegung außnahmslos aller Schritte und Prozesse diae zu ihrer Entstehung notwendig sind.
+
+11. die Offenlegung außnahmslos aller ihrer bekannten Schwachstellen und Stärken.
+
+Siehe hierzu auch [Offenheit](../contents/values/v5_openness.md)
+und [Fairness](../contents/values/v1_fairness.md).
+
+## Professionalität 4 – Relevanz
+Wir verstehen unter der Relevanz unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
+ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
+
+1. neu,
+2. wichtig oder
+3. interessant
+
+zu sein.
+
+## Professionalität 5 – Feedback
+Wir sind davon überzeugt, dass es ganz allgemein gut ist regelmäßig, planmäßig und gezielt zu konkreten Sachverhalten beispielsweise zu Objekten, Zuständen, Gedanken, Ideen, Begriffen, Aussagen, Überzeugungen, Hypothesen, Argumenten, Beweisen, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
+proaktiv (initiativ) Feedback einzuholen.
+Wir glauben, dass es im Allgemeinen nicht hilfreich ist ungefragt Feedback zu geben.
+
+### Notiz zum Zusammenleben(InterpretatiZur semantischen Relationalität
+onsunabhängigkeit, Kontextinvarianz)
 Eine Sonderrolle nimmt in diesem Zusammenhang die repräsentative Handlung Zusammenleben ein.
-Oft sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wie der alltäglichen Zusammenarbeit.
+Oft sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wieTechne der alltäglichen Zusammenarbeit.
 Wir sind aber überzeugt, dass unser Zusammenleben (das Institutsleben) über alle Rollen (Positionen) hinweg in ein professionelles Umfeld eingebettet ist.
 Wir sind davon überzeugt, dass unser freundschaftliches Verhältnis, nicht durch unseren professionellen Hintergrund und das Bewusstsein darüber unterminiert oder beschränkt wird, sondern dass unsere Professionalität (beispielsweise in der professionellen Kommunikation und der professionellen Rollenwahrnehmung) und unser Bewusstsein darüber unseren Freundschaften ein Zugewinn ist.
 Indem wir uns über unsere jeweiligen professionellen Hintergründe bewusst sind, können wir eben gerade diese Hintergründe auf professionelle Art, proaktiv wegfallen lassen und damit Freiraum für das Persönliche schaffen können.
 Dadurch schaffen wir uns den Raum für authentische Freundschaften.
 Wir möchten allerdings betonen, dass diese Auffassung, authentische Freundschaften in rein professionellen Kontexten natürlich nicht ausschließt.
 Mehr noch, glauben wir, dass es Teil der Professionalität ist, sich um authentische Freundschaften zu bemühen.
-
-
 
 # Gründe
 Jedes Handeln strebt nach einem Gut.
@@ -196,13 +273,15 @@ Jede Handlung strebt danach als Handlung selbst gut zu sein.
 
 [Gründe über Gründe](../contents/reasons/reasons.md)
 
-
-<!---
-Feedback
---->
-
 # Links
 1. [Wikipedia. 2017. Quality](https://en.wikipedia.org/wiki/Quality)
 2. [Wikipedia. 2017. Cooperative principle](https://en.wikipedia.org/wiki/Cooperative_principle)
 3. [Wikipedia. 2017. Profi](https://de.wikipedia.org/wiki/Profi)
 4. [Wikipedia. 2017. Techne](https://de.wikipedia.org/wiki/Techne)
+5. [Wikipedia. 2017. Einfachheit](https://de.wikipedia.org/wiki/Einfachheit)
+6. [Wikipedia. 2017. Genauigkeit](https://de.wikipedia.org/wiki/Genauigkeit
+7. [Wikipedia. 2017. Richtigkeit](https://de.wikipedia.org/wiki/Richtigkeit
+8. [Wikipedia. 2017. Eindeutigkeit](https://de.wikipedia.org/wiki/Eindeutigkeit
+9. [Features of academic writing](http://www.uefap.com/writing/feature/explicit.htm
+10. [Academic writing is explicit. ](http://www.ncl.ac.uk/students/wdc/learning/academic/explicit.htm
+11. [Wikipedia. 2017. Korrektheit](https://de.wikipedia.org/wiki/Korrektheit_(Informatik)
