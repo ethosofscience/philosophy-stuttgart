@@ -1,0 +1,26 @@
+# Daumenregeln
+
+1. BLUF
+2. TL;DR
+3. KISS
+4. Principle of Charity
+5. Divide and rule (divide and conquer)
+6. Seek first to understand, then to be understood. (7 Habits of Highly Effective People)
+7. DRY
+8. Minimize bad redundancy, maximize good redundancy
+9. Seek antifragility (Antifragile: Things That Gain From Disorder)
+10. Via negativa.
+11. Tell others (document) why you are doing what you are doing.
+12. Avoid analysis paralysis.
+13. STOP: Sit down, think, orientate, plan.
+14. Be original, be creative, be constructive but do not reinvent the wheel – in doubt do reinvent the wheel.
+15. Sapere aude! Habe Mut dich deines eigenen Verstandes zu bedienen.
+16. Docere aude! (siehe Barcamp)
+17. Don’t panic!
+18. 42
+19. Think Fast, Talk Smart.
+20. Think Smart, Talk Slow.
+21. Seek Feedback.
+22. Fail-Fast (and hard).
+23. Don’t copy and paste, copy, improve and paste.
+24. …
