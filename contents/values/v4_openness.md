@@ -32,28 +32,41 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Offenheit (Ehrlichkeit, Transparenz, Zugänglichkeit, Neugier, Forschergeist) **v4**
 ## Wir verstehen unter Offenheit …
-… zweierlei Aspekte:
+… fünferlei:
 
-1. **Transparenz** Offenheit als Transparenz hat wiederum zwei Aspekte:
+1. **Transparenz** Offenheit als Transparenz hat wiederum zwei Dimensionen:
 
-    1. **Passive** Transparenz ist die Zugänglichkeit beziehungsweise Verfügbarkeit von Information für einen Menschen;
+    1. **Passive** Transparenz ist die Zugänglichkeit beziehungsweise Verfügbarkeit von Informationen, Objekten, Zuständen, Gedanken, Ideen, Begriffen, Aussagen, Überzeugungen, Hypothesen, Argumenten, Beweisen, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera für einen Menschen;
 
-    2. **Aktive** Transparenz ist die Zugänglichmachung beziehungsweise Verfügbarmachung von Information.
+    2. **Aktive** Transparenz ist die Zugänglichmachung beziehungsweise Verfügbarmachung von Informationen, Objekten, Zuständen, Gedanken, Ideen, Begriffen, Aussagen, Überzeugungen, Hypothesen, Argumenten, Beweisen, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera.
 
-2. **Wachstum** Offenheit als Wachstum ist die Bereitschaft neue Information zu integrieren. (Beweglichkeit, Anpassungsfähigkeit, …)
+2. **Erfahrung** Offenheit als Bereitschaft und Unvoreingenhommenheit zu zwischenmenschlicher (sozialer) Erfahrung.
 
-3. **Erfahrung** Offenheit als Bereitschaft und Unvoreingenhommenheit zu zwischenmenschliche (sozialer) Erfahrung.
+3. **Wachstum** Offenheit als Wachstum ist die Bereitschaft neue Informationen, Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Resultate, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera zu integrieren.
+Offenheit im Sinne des (persönlichen) Wachstums setzt eine grundlegende Beweglichkeit, Anpassungsfähigkeit des ganzen Menschen (der ganzen Person) voraus.
 
-„Auf das Erheben von Warheitsansprüchen ist weder sind weder die Wissenschaften noch die Alltagskenntnis spezialisiert; was die ersteren den lerzteren voraushaben, ist eher schon in der besonderen Rolle zu suchen, die das dem Wahrheitsstreben inhärente fallibilistische Prinzip der steten Offenheit für Selbstkorrekturen spielt – oder spielen sollte.“
+Insbesondere in Bezug auf unser wissenschaftliches Tun müssen wir bereit sein, uns stets selbst sowie unsere Informationen, Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Resultate, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera zu hinterfragen.
+
+Wir müssen offen (bereit) Fehler zu machen, uns zu irren und bereit dazu sein jene Fehler und Irrtümer proaktiv einzuräumen.
+Wir sind davon überzeugt, dass wir aus unseren Fehlern und Irrtümern mindestens soviel lernen und an ihnen wachsen können wie an unseren Erfolgen.
+Hierzu ist es, wie wir glauben, allerdings nötig offen und konstruktiv mit unseren eigenen Fehlern und Irrtümern sowie den Fehlern und Irrtümern anderer umzugehen.
+
+„Auf das Erheben von Warheitsansprüchen sind weder die Wissenschaften noch die Alltagskenntnis spezialisiert; was die ersteren den lerzteren voraushaben, ist eher schon in der besonderen Rolle zu suchen, die das dem Wahrheitsstreben inhärente fallibilistische Prinzip der steten Offenheit für Selbstkorrekturen spielt – oder spielen sollte.“
 (Keil 1996, S. 47)
 
+Siehe auch [Professionalität](../contents/values/v5_responsibility.md).
+
+4. **Modularität** Offenheit als Modularität …
+
+5. **Inkrementalität** Offenheit als Modularität …
+
 ## Wir begründen Offenheit …
-… in ihren beiden Aspekten wie folgt:
+… in ihren beiden Dimensionen wie folgt:
 
-### Ein Argument für die Transparenz und Fortschritt
-Im folgenden Argumentieren wir für die Offenheit als Transparenz und als Fortschritt am Beispiel des Begriffs des Wissens.
+### Ein Argument für die Transparenz und Wachstum
+Im folgenden Argumentieren wir für die Offenheit als Transparenz und als Wachstum am Beispiel des Begriffs des Wissens.
 
-Wenn ein Erkenntnissubjekt *T* die Menge seines Wissens – das ist die Mengeihrer wahren, gerechtfertigten Übezeugungen –, erweitern will, und zu diesemZweck auf bereits bestehendes Wissen eines Erkenntnissubjekts *S* zurükgreifen will, dann ist es notwendig, dass
+Wenn ein Erkenntnissubjekt *T* die Menge seines Wissens – das ist die Menge ihrer wahren, gerechtfertigten Übezeugungen –, erweitern will, und zu diesemZweck auf bereits bestehendes Wissen eines Erkenntnissubjekts *S* zurükgreifen will, dann ist es notwendig, dass
 
 1. *T* zumindest bereit ist, in ihre bereits bestehenden wahren, gerechtfertigten Überzeugungen neue Überzeugungen und Rechtvertigungen zu integriegen;
 2. *S* mindestens ihre Überzeugungen und ihre Rechtfertigungen aktiv für *T* verfügbar beziehungsweise zugänglich zu machen.
@@ -85,7 +98,7 @@ Das heißt natürlich, dass anspruchsvollere Konzeptionen die Eigenschaft der Of
 Es gibt viele weitere gute Gründe für die Offenheit.
 
 ### Ein Argument für die soziale Erfahrung
-… Bedingung zur Möglichkeit der Wissenschaftlichen Gemeinschaft.
+Wir glauben, dass die Offenheit eine Bedingung zur Möglichkeit der Wissenschaftlichen Gemeinschaft ist.
 [Lebendigkeit](../values/v3_liveliness.md)
 
 # Links
