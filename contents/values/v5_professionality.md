@@ -63,12 +63,11 @@ Was es heißt, professionell zu forschen, professionell zu lehren, professionell
 
 Die Ausübung einer Handlung (oder eine Tätigkeit) ist professionell, wenn
 
-1. sie im Einklang mit den für diese Handlung relevanten Werten
+1. sie im EinklaGründe über GründeGründe über Gründeng mit den für diese Handlung relevanten Werten
 [Fairness](../contents/values/v1_fairness.md), [Freiheit](../contents/values/v12_freedom.md), [Lebendigkeit](../contents/values/v3_liveliness.md), [Offenheit](../contents/values/v4_openness.md), [Verantwortung](../contents/values/v5_responsibility.md)
 stehen und
 
-2. sie im Einklang mit den im Folgenden gelisteten Dimensionen der Professionalität steht.
-
+Gründe über GründeGründe über Gründe
 Im Folgenden listen wir Dimensionen (Merkmale) der Professionalität.
 Diese Dimensionen sind nicht an eine einzige paradigmatische Handlung gebunden, sondern können Dimensionen der Professionalität vieler Handlungen sein.
 Unsere Liste ist höchstwahrscheinlich nicht vollständig aber sie enthält ein Bündel all derjenigen Dimensionen der Professionalität, die für uns wichtig sind.
@@ -92,7 +91,7 @@ Wir wissen nicht, ob es möglich ist, die Menge dieser Standards volltändig auf
 Davon unabhängig können und wollen wir diese Standards hier nicht aufzulisten, da dies nicht im Fokus unseres Ethos liegt.
 (siehe [Gründe über Gründe](../contents/reasons/reasons.md))
 
-Außerdem wissen wir nicht, ob es eine Menge notwendiger und zusammengenommen hinreichender Bedingungen der Wissenschaftlichkeit gibt.
+Außerdem wissen wiGründe über GründeGründe über GründeGründe über GründeGründe über GründeGründe über Gründer nicht, ob es eine Menge notwendiger und zusammengenommen hinreichender Bedingungen der Wissenschaftlichkeit gibt.
 Aber wir glauben, dass weder die Auflistung noch das Bestehen oder Nichtbestehen derartiger Bedingungen relevant dafür sind ### Notiz zum Zusammenleben
 Eine Sonderrolle nimmt in diesem Zusammenhang die repräsentative Handlung Zusammenleben ein.
 Meistens sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wie der alltäglichen Zusammenarbeit.
@@ -167,7 +166,7 @@ eines Gedankens, einer Idee, eines Begriffs, einer Aussage, einer Überzeugung, 
 
 Einfachheit ist das Gegenteil von Komplexität.
 
-Oft ist die Anzahl von Elementen umgekehrt proportional zur Anzal der Regeln.
+Oft ist die Anzahl von Elementen umgekehrt proportional zur Anzahl der Regeln.
 
 Im Gegensatz zur strukturellen Einfachheit, die nicht immer anzustreben ist, sind wir sind davon überzeugt, dass die Komplexitätsreduktion und die sich damit einstellende Einfachheit grundsätzilch erstrebenswert ist.
 Allerdings glauben wir, dass unsere Objekte, Zustände,
@@ -218,7 +217,7 @@ Wir verstehen unter der Expliztheit unserer Objekte, Zustände, Gedanken, Ideen,
 1. die proaktive Offenlegung der tatsächlichen Beweggründe zur ihrer Entstehung;
 
 2. die proaktive Offenlegung der mit ihnen verfolgten Ziele;
-
+Wachstum
 3. die proaktive Offenlegung außnahmslos aller bekannten Evidenzen, die gegen sie sprechen;
 
 4. die proaktive Zur Exaktheit – Richtigkeit und PräzisionOffenlegung außnahmslos aller bekannten Evidenzen, die für sie sprechen;
@@ -241,7 +240,7 @@ Siehe hierzu auch [Offenheit](../contents/values/v5_openness.md)
 und [Fairness](../contents/values/v1_fairness.md).
 
 ## Professionalität 4 – Relevanz
-Wir verstehen unter der Relevanz unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
+Wir verstehen unter der Relevanz unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera../contents/reasons/reasons.../contents/reasons/reasons.md../contents/reasons/reasons.md
 ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
 
 1. neu,
@@ -255,8 +254,7 @@ Wir sind davon überzeugt, dass es ganz allgemein gut ist regelmäßig, planmä�
 proaktiv (initiativ) Feedback einzuholen.
 Wir glauben, dass es im Allgemeinen nicht hilfreich ist ungefragt Feedback zu geben.
 
-### Notiz zum Zusammenleben(InterpretatiZur semantischen Relationalität
-onsunabhängigkeit, Kontextinvarianz)
+### Notiz zum Zusammenleben
 Eine Sonderrolle nimmt in diesem Zusammenhang die repräsentative Handlung Zusammenleben ein.
 Oft sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wieTechne der alltäglichen Zusammenarbeit.
 Wir sind aber überzeugt, dass unser Zusammenleben (das Institutsleben) über alle Rollen (Positionen) hinweg in ein professionelles Umfeld eingebettet ist.
@@ -267,11 +265,30 @@ Wir möchten allerdings betonen, dass diese Auffassung, authentische Freundschaf
 Mehr noch, glauben wir, dass es Teil der Professionalität ist, sich um authentische Freundschaften zu bemühen.
 
 # Gründe
-Jedes Handeln strebt nach einem Gut.
-Jede Handlung strebt danach als Handlung selbst gut zu sein.
-(vgl. Aristoteles)
+Wir setzen hier unser Verständnis von Professionalität voraus wie wir es in [Wir verstehen unter Professionalität](##wir-verstehen-unter-professionalität) beschreiben.
+Wir glauben, dass eine Tätigkeit professionell genau dann, wenn sie kunstfertig (téchne) ist.
+Eine Tätigkeit ist professionell genau dann, wenn sie kunstfertig (téchne) ist.
 
-[Gründe über Gründe](../contents/reasons/reasons.md)
+## Ein Argument für die Professionalität – Gedankenexperiment
+Hier ist ein Gedankenexperiment.
+Alice, Bob und Eve, drei eineige Zwillinge, beherrschen alle drei in gleichem Maße die Kunstfertigkeit besonders schöne Ölgemälde in Blau zu malen.
+Sie sind echte Experten, wahre Meister mit jahrelanger Erfahrung, niemand malt Ölgemälde kunsfertiger als sie, untereinander malen sie Ölgemälde alle glelich gut.
+Eines Tages taucht Mallory, ein böser Dämon, auf und gibt Alice, Bob und Eve jeweils eine, immer gleiche weiße Leinwand und sperrt sie jeweils in eine Kiste ein.
+Alice sperrt er in Kiste A, Bob sperrt er in Kiste B und Eve sperrt er in Kiste E.
+Es handelt sich natürlich um magische Kisten;
+Mallory hat sie folgendermaßen präpariert:
+In Kiste A ist alles ganz normal, kunsfertige Handgriffe werden durch besonders gute Resultate belohnt, ungeschickte Handgriffe mit schlechten Resultaten bestraft.
+In Kiste B passiert alles völlig zufällig, ein und dieselbe Handlung hat völlig unterschiedliche, unvorhersagbare Ausgänge.
+In Kiste E gibt es keine Kunsfertigkeit, jede Handlung führt direkt und automatisch zum Erfolg – ganz gleich welche Handlung Eve durchführt, die Ergebnisse sind perfekt.
+
+Mallory verdammt alle drei dazu in ihrer Kiste Ölgemälde in Blau zu malen.
+Er verspricht sich gute Erlöse auf dem Kunstmarkt und als alle drei fertig sind, lässt er sie ihre Gemälde unterschreiben Alice mit A, Bob mit B und Eve mit E.
+Damit sich die Gemälde gut verkaufen macht Mallory sein Experiment publik.
+Nun die Preisfrage: Welches der drei Ölgemälde erzielt die höchsten Preise, A, B oder E?
+
+Zur Gutheit von Handlungen siehe Aristoteles.
+
+Ansonsten siehe [Gründe über Gründe](../contents/reasons/reasons.md).
 
 # Links
 1. [Wikipedia. 2017. Quality](https://en.wikipedia.org/wiki/Quality)
@@ -283,5 +300,5 @@ Jede Handlung strebt danach als Handlung selbst gut zu sein.
 7. [Wikipedia. 2017. Richtigkeit](https://de.wikipedia.org/wiki/Richtigkeit
 8. [Wikipedia. 2017. Eindeutigkeit](https://de.wikipedia.org/wiki/Eindeutigkeit
 9. [Features of academic writing](http://www.uefap.com/writing/feature/explicit.htm
-10. [Academic writing is explicit. ](http://www.ncl.ac.uk/students/wdc/learning/academic/explicit.htm
+10. [Academic writing is explicit](http://www.ncl.ac.uk/students/wdc/learning/academic/explicit.htm
 11. [Wikipedia. 2017. Korrektheit](https://de.wikipedia.org/wiki/Korrektheit_(Informatik)
