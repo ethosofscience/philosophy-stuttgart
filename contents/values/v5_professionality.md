@@ -61,15 +61,19 @@ Das heißt, wir glauben, dass wir
 können und sollen.
 Was es heißt, professionell zu forschen, professionell zu lehren, professionell unsere Rollen wahrzunehmen, professionell zu studieren und professionell zusammenzuleben, das entscheidet sich immer jeweils in Bezug zur entsprechenden Handlung.
 
-Die Ausübung einer Handlung (oder eine Tätigkeit) ist professionell, wenn
+Die Ausübung einer Handlung (oder eine Tätigkeit) ist professionell, wenn sie im Einklang stehen mit
 
-1. sie im EinklaGründe über GründeGründe über Gründeng mit den für diese Handlung relevanten Werten
-[Fairness](../contents/values/v1_fairness.md), [Freiheit](../contents/values/v12_freedom.md), [Lebendigkeit](../contents/values/v3_liveliness.md), [Offenheit](../contents/values/v4_openness.md), [Verantwortung](../contents/values/v5_responsibility.md)
-stehen und
+1. den für diese Handlung relevanten Werten mindestens aber mit unseren Werten:
 
-Gründe über GründeGründe über Gründe
-Im Folgenden listen wir Dimensionen (Merkmale) der Professionalität.
-Diese Dimensionen sind nicht an eine einzige paradigmatische Handlung gebunden, sondern können Dimensionen der Professionalität vieler Handlungen sein.
+  1. [Fairness](../contents/values/v1_fairness.md),
+  2. [Freiheit](../contents/values/v12_freedom.md),
+  3. [Lebendigkeit](../contents/values/v3_liveliness.md),
+  4. [Offenheit](../contents/values/v4_openness.md),
+  5. [Verantwortung](../contents/values/v5_responsibility.md)
+
+2. sowie den im Folgenden aufgelisteten Dimensionen (Merkmale) der Professionalität.
+
+Die im Folgenden gelisten Dimensionen sind nicht an eine einzige paradigmatische Handlung gebunden, sondern können Dimensionen der Professionalität vieler Handlungen sein.
 Unsere Liste ist höchstwahrscheinlich nicht vollständig aber sie enthält ein Bündel all derjenigen Dimensionen der Professionalität, die für uns wichtig sind.
 
 Jede Dimension der Professionalität enthält ihrerseits Werte und Standards.
