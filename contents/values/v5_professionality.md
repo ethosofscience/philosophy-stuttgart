@@ -63,7 +63,7 @@ Was es heißt, professionell zu forschen, professionell zu lehren, professionell
 
 Die Ausübung einer Handlung (oder eine Tätigkeit) ist professionell, wenn sie im Einklang stehen mit
 
-1. den für diese Handlung relevanten Werten mindestens aber mit unseren Werten:
+1. den für diese pradigmatische Handlung relevanten Werten, mindestens aber mit unseren Werten:
 
   1. [Fairness](../contents/values/v1_fairness.md),
   2. [Freiheit](../contents/values/v12_freedom.md),
@@ -71,7 +71,7 @@ Die Ausübung einer Handlung (oder eine Tätigkeit) ist professionell, wenn sie 
   4. [Offenheit](../contents/values/v4_openness.md),
   5. [Verantwortung](../contents/values/v5_responsibility.md)
 
-2. sowie den im Folgenden aufgelisteten Dimensionen (Merkmale) der Professionalität.
+2. sowie den im Folgenden aufgelisteten Dimensionen (Merkmalen) der Professionalität.
 
 Die im Folgenden gelisten Dimensionen sind nicht an eine einzige paradigmatische Handlung gebunden, sondern können Dimensionen der Professionalität vieler Handlungen sein.
 Unsere Liste ist höchstwahrscheinlich nicht vollständig aber sie enthält ein Bündel all derjenigen Dimensionen der Professionalität, die für uns wichtig sind.
