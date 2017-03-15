@@ -34,10 +34,10 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 ## Wir verstehen unter Studieren …
 Studieren ist die wissenschaftliche Beschäftigung mit einem Forschungsfach in einem inhaltlich vorstrukturierten Studiengang. Studieren findet im Austausch mit Lehrenden und anderen Studierenden statt. Rückmeldungen hinsichtlich der Qualität der eigenen Arbeit sind ein wichtiger Bestandteil des Studiums. (Feedback) Dafür gibt es neben informellen Kanälen offizielle Prüfungsleistungen.
 
-Ziel des Philosophie-Studiums ist es Wissen und bestimmte Fähigkeiten zu erlangen ("Weisheit", persönliches Wachstum), so wie eine allgemeine Orientierung im Denken. Dies kann auf verschiedene Weise erreicht werden.
+Ziel des Philosophie-Studiums ist es Wissen und bestimmte Fähigkeiten zu erlangen ("Weisheit", persönliches Wachstum, bestimmte Methodik) [Louis: finden wir hier einen allgemeinen Begriff? Indem sowohl faktischen Wissen, als auch Methodik, als auch Weisheit usw. drinnensteckt?], so wie eine allgemeine Orientierung im Denken. Dies kann auf verschiedene Weise erreicht werden.
 
 Studieren ist keine unnötige Pflicht, sondern die privilegierte Möglichkeit, Wissen, Inhalte und Methoden zu lernen, die andere Menschen vor uns erarbeitet haben und den eigenen Wissensdurst (meistens immer nur kurzzeitig) zu stillen.
-Es kann verschiedene Meinungen darüber geben, wie diese Wissensvermittlung am sinnvollsten strukturiert und aufgebaut ist und diese Meinungsverschiedenheiten können auch dazu führen, dass das Studium insgesamt verbessert wird. In jedem Falle wollen wir alles dafür tun, dass das Studium auf die oben genannte Art und Weise verstanden wird und nicht als unnötige Pflicht. 
+Es kann verschiedene Meinungen darüber geben, wie diese Wissensvermittlung am sinnvollsten strukturiert und aufgebaut ist und diese Meinungsverschiedenheiten können auch dazu führen, dass das Studium insgesamt verbessert wird. In jedem Falle wollen wir alles dafür tun, dass das Studium auf die oben genannte Art und Weise verstanden wird und nicht als unnötige Pflicht.
 
 
 
