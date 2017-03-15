@@ -56,7 +56,7 @@ TutorIn,
 Verwaltungskraft,
 ...
 
-Evtl. exemplarisch auf die Rechte und Pflichten von Studierenden und Dozierenden eingehen, da diese die am häufigsten angenommenen Rollen sind?
+[Exemplarisch auf die Rechte und Pflichten von Studierenden und Dozierenden eingehen, da diese die am häufigsten angenommenen Rollen sind?]
 
 ###Rolle StudentIn:
 Rechte: Studieren, Wissenserwerb, freie Planung des Studiums, freie Meinungsäußerung,
