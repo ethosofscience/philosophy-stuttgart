@@ -46,15 +46,14 @@ Prinzipiell kann es sein, dass eine Person verschiedene Rollen einnimmt, wie zum
 
 verschiedene Rollen im Institut sind (alphabetisch):
 
-DozentIn
-FachgruppensprecherIn
-HiWi
-InstitutsleiterIn
-ProfessorIn
-StudentIn
-TutorIn
-Verwaltungskraft
-
+DozentIn,
+FachgruppensprecherIn,
+HiWi,
+InstitutsleiterIn,
+ProfessorIn,
+StudentIn,
+TutorIn,
+Verwaltungskraft,
 ...
 
 Evtl. exemplarisch auf die Rechte und Pflichten von Studierenden und Dozierenden eingehen, da diese die am häufigsten angenommenen Rollen sind?
