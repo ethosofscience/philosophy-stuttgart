@@ -38,7 +38,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
     1. **Passive** Transparenz ist die Zugänglichkeit beziehungsweise Verfügbarkeit von Informationen, Objekten, Zuständen, Gedanken, Ideen, Begriffen, Aussagen, Überzeugungen, Hypothesen, Argumenten, Beweisen, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera für einen Menschen;
 
-    2. **Aktive** Offenheit 
+    2. **Aktive** Transparenz ist die Zugänglichmachung beziehungsweise Verfügbarmachung von Informationen, Objekten, Zuständen, Gedanken, Ideen, Begriffen, Aussagen, Überzeugungen, Hypothesen, Argumenten, Beweisen, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera.
 
 2. **Erfahrung** Offenheit als Bereitschaft und Unvoreingenhommenheit zu zwischenmenschlicher (sozialer) Erfahrung.
 
