@@ -23,4 +23,7 @@
 21. Seek Feedback.
 22. Fail-Fast (and hard).
 23. Don’t copy and paste, copy, improve and paste.
-24. …
+24. Rather change your patterns than your reasons for them.
+25. Don’t expect others to change their patterns. Don’t blame them for not doing so.
+26. People are always more complex than our narratives of them.
+27.  
