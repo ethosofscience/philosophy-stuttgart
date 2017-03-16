@@ -31,9 +31,10 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Lebendigkeit (Konstruktivität, Kritik, Schöpfergeist, Wachstum, Interdependenz) **v3**
+
 ## Wir verstehen unter Lebendigkeit ...
 
-#### ... die Orientierung daran, eher sich selbst zu ändern.
+*... die Orientierung daran, eher sich selbst zu ändern.*
 
 Wir sehen Lebendigkeit als Wert, welcher sich vor allem in vier Aspekten ausdrückt:
 
