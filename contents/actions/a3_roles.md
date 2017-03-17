@@ -68,6 +68,23 @@ Pflichten: Einhaltung der Prüfungsordnung, gesteigertes Rollenbewusstsein und d
 
 
 
+Gedanken aus "Freiheit und Rollenwahrnehmung"
+Mit allen Rollen gehen bestimmte Freiheiten, Rechte und Pflichten einher (ab jetzt mit "Rolle" abgekürzt).
+Diese versuchen wir a) transparent zu gestalten, b) aktiv zu erkennen und zu respektieren und c) zu reflektieren. [Offenheit und Rollenwahrnehmung](../contents/fields/v4a3.md)
+Zu 1a): Werden die verschiedenen Rollen transparent gestaltet, ist es einfacher für alle Beteiligten, die Rollen zu erkennen.
+
+Zu 1b): Werden Rollen aktiv erkannt, ist es einfacher für alle Beteiligten, sich entsprechend der eigenen Rolle zu verhalten und andere Rollen zu respektieren.
+
+Zu 1c): Werden Rollen reflektiert, können bestimmte festgefahrene Muster erkannt und gegebenenfalls korrigiert werden.
+[Offenheit und Rollenwahrnehmung](../contents/fields/v4a3.md)
+
+Zu 2a): Freiheit ist ein Wert an sich. Auch wenn bestimmte Rollen bestimmte Freiheiten, Rechte und Pflichten mit sich bringen, gibt es unzählige Wege, die jeweilige Rolle zu erfüllen. Die Freiheit, selbst einen dieser Wege zu wählen ist Teil unseres Selbstverständnisses und nicht weiter zu begründen.
+
+Zu 2b): Bestimmte Rollen gelten nur für bestimmte Kontexte. Vor allem die damit einhergehenden Pflichten gelten demnach auch nur für bestimmte Kontexte.
+
+
+
+
 # Links
 1. […](…)
 2. …
