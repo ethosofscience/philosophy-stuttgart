@@ -10,6 +10,7 @@
 # Begründung
 ## Grund – BLUF
 *Für X spricht X, Y, Z.*
+*X ist für uns relevant, weil Y*
 
 ## Argumente – TL;DR
 1. Dies ist ein guter Grund weil es ein guter Grund ist.
