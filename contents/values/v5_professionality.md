@@ -30,15 +30,23 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Professionalität (Klarheit, Einfachheit, Struktur, Kohärenz, …) **v5**
-## Wir verstehen unter Professionalität …
-… diejenige Eigenschaft der Ausübung einer Tätigkeit oder einer Person in Bezug auf die Ausübung einer Tätigkeit, welche die Ausübung derselben Tätigkeit beziehungsweise derselben Person zu einer *kunstfertigen* im Sinne der *téchne* macht.
+## Statement – BLUF
+*Wir bekennen uns zur Professionalität.*
 
-Jemand, der bezüglich einer Tätigkeit professionell ist, der übt die Tätigkeit oft beruflich oder als Erwerbstätigkeit aus.
-Sie zeichnet sich durch Fachkenntnis, Erfahrung, Fähigkeiten und Fertigkeiten und Fähigkeit im Sinne der Kunstfertigkeit (téchne) aus und kann in Bezug auf die entsprechenden Tätigkeitsfelder oft eine formale Ausbildung und Qualifikation vorweisen.
-Häufig wird sie als Expertin in ihrem Gebiet angesehen und konsultiert.
+## Erläuterung – TL;DR
+1. *Wir verstehen unter Professionalität* diejenige Eigenschaft der Ausübung einer Tätigkeit oder einer Person in Bezug auf die Ausübung einer Tätigkeit, welche die Ausübung derselben Tätigkeit beziehungsweise derselben Person zu einer *kunstfertigen* im Sinne der *téchne* macht.
+
+2. Jemand, der bezüglich einer Tätigkeit professionell ist, der übt die Tätigkeit oft beruflich oder als Erwerbstätigkeit aus.
+Sie zeichnet sich durch Fachkenntnis, Erfahrung, Fähigkeiten und Fertigkeiten sowie Fähigkeit im Sinne der Kunstfertigkeit (téchne) aus und kann in Bezug auf die entsprechenden Tätigkeitsfelder oft eine formale Ausbildung und Qualifikation vorweisen.
+
+3. Häufig wird sie als Expertin in ihrem Gebiet angesehen und konsultiert.
 Professionalität bemisst sich an den Sitten, Gebräuchen, Normen und Standards der praktizierenden Gemeinschaft.
 Zu betonen ist, dass Professionalität in einem guten Sinne relativ ist, relativ zu bestimmten Tätigkeitsfeldern, zu bestimmten Zeiten, in bestimmten praktizierenden Gemeinschaften.
 Das bedeutet jedoch – insbesondere bezüglich der Wissenschaften – nicht, dass die Maßstäbe der Professionalität nicht kritikfähig wären; im Gegenteil sind sie – insbesondere bezüglich der Wissenschaften – ständig Gegenstand vielfältiger Kritik und erfahren dadurch eine ständige inkrementelle Entwicklung.
+
+## Relevanz
+### Grund – BLUF
+*Wir bekennen uns zur Professionalität, weil sie uns die entscheidenden qualitätiven Maßstäbe bezüglich unserer Tätigkeitsfelder bereitstellt, durch die wir ein hohes technisches und ethisches Niveau unser Mittel und unserer Ziele erreichen.*
 
 ## Wir sind professionell
 Die in unseren paradigmatisch Handlungen auftretenden Tätigkeiten können grundsätzlich professionell ausgeübt werden, sowohl:
@@ -46,7 +54,7 @@ Die in unseren paradigmatisch Handlungen auftretenden Tätigkeiten können grund
 1. unsere Forschung,
 2. unsere Lehre,
 3. unsere Rollenwahrnehmung,
-4. unsere Studieren als auch
+4. unsere Studien als auch
 5. unsere Zusammenleben (siehe [Notiz zum Zusammenleben](###notiz-zum-zusammenleben)).
 
 Wir glauben, dass alle unsere Handlungen von Professionalität geprägt sein können und sollen.
@@ -63,7 +71,7 @@ Was es heißt, professionell zu forschen, professionell zu lehren, professionell
 
 Die Ausübung einer Handlung (oder eine Tätigkeit) ist professionell, wenn sie im Einklang stehen mit
 
-1. den für diese pradigmatische Handlung relevanten Werten, mindestens aber mit unseren Werten:
+1. den für diese paradigmatische Handlung relevanten Werten, mindestens aber mit unseren Werten:
 
   1. [Fairness](../contents/values/v1_fairness.md),
   2. [Freiheit](../contents/values/v12_freedom.md),
@@ -73,8 +81,8 @@ Die Ausübung einer Handlung (oder eine Tätigkeit) ist professionell, wenn sie 
 
 2. sowie den im Folgenden aufgelisteten Dimensionen (Merkmalen) der Professionalität.
 
-Die im Folgenden gelisten Dimensionen sind nicht an eine einzige paradigmatische Handlung gebunden, sondern können Dimensionen der Professionalität vieler Handlungen sein.
-Unsere Liste ist höchstwahrscheinlich nicht vollständig aber sie enthält ein Bündel all derjenigen Dimensionen der Professionalität, die für uns wichtig sind.
+Die im Folgenden gelisteten Dimensionen sind nicht an eine einzige paradigmatische Handlung gebunden, sondern können Dimensionen der Professionalität vieler Handlungen sein.
+Unsere Liste ist höchstwahrscheinlich nicht vollständig, aber sie enthält ein Bündel all derjenigen Dimensionen der Professionalität, die für uns wichtig sind.
 
 Jede Dimension der Professionalität enthält ihrerseits Werte und Standards.
 Einige der hier aufgeführten Standards und Werte berühren und überschneiden sich im bestmöglichen Sinne.
@@ -90,12 +98,12 @@ Sowohl in Bezug auf die Frage nach den Standards der Wissenschaften als auch in 
 Gedanken, Ideen, Begriffe, Propositionen, Überzeugungen, Hypothesen, Argumente, Fragen, Fragestellungen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Daten, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera sind *wissenschaftlich*, wenn sie den *de facto* Standards der Wissenschaft genügen.
 [Wissenschaftlichkeit und mehr](###wissenschaftlichkeit-und-mehr)
 
-Wir sind davon überzeugt, dass es *de facto* Standards innherhalb der Wissenschaften gibt, denen sich zumindest die jeweilige Wissenschaft selbst verpflichtet. (Keil 1996)
-Wir wissen nicht, ob es möglich ist, die Menge dieser Standards volltändig aufzulisten.
+Wir sind davon überzeugt, dass es *de facto* Standards innerhalb der Wissenschaften gibt, denen sich zumindest die jeweilige Wissenschaft selbst verpflichtet. (Keil 1996)
+Wir wissen nicht, ob es möglich ist, die Menge dieser Standards vollständig aufzulisten.
 Davon unabhängig können und wollen wir diese Standards hier nicht aufzulisten, da dies nicht im Fokus unseres Ethos liegt.
 (siehe [Gründe über Gründe](../contents/reasons/reasons.md))
 
-Außerdem wissen wiGründe über GründeGründe über GründeGründe über GründeGründe über GründeGründe über Gründer nicht, ob es eine Menge notwendiger und zusammengenommen hinreichender Bedingungen der Wissenschaftlichkeit gibt.
+Außerdem wissen wir nicht, ob es eine Menge notwendiger und zusammengenommen hinreichender Bedingungen der Wissenschaftlichkeit gibt.
 Aber wir glauben, dass weder die Auflistung noch das Bestehen oder Nichtbestehen derartiger Bedingungen relevant dafür sind ### Notiz zum Zusammenleben
 Eine Sonderrolle nimmt in diesem Zusammenhang die repräsentative Handlung Zusammenleben ein.
 Meistens sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wie der alltäglichen Zusammenarbeit.
@@ -111,8 +119,8 @@ Insbesondere glauben wir:
 (Keil 1996, S. 43)
 
 Zwischen den Forschungsstilen, Forschungsmethoden, Forschungsgenständen und Forschungsvorhaben der einzelnen Wissenschaften besteht unserer Meinung nach eine Intradisziplinäre sowie eine Interdisziplinäre Familienähnlichkeit.
-Diese Famlienähnlichkeit macht die Wissenschaft zu einer pluralistischen Einheit.
-Standards, die in der einen Wissenschaft gelten, können aber müssen nicht in einer anderen Wissenschaft gelten.
+Diese Familienähnlichkeit macht die Wissenschaft zu einer pluralistischen Einheit.
+Standards, die in der einen Wissenschaft gelten können, aber müssen nicht in einer anderen Wissenschaft gelten.
 
 „Der rote Faden ›Wissenschaftlichkeit‹ ist aus vielen einzelnen Fasern zusammengesetzt.“
 (Keil 1996, S. 45) und (Wittgenstein PU § 67)
@@ -129,9 +137,9 @@ Allerdings sind wir ebenfalls wie Geert Keil davon überzeugt:
 (Keil 1996, S. 50)
 
 Wir sind davon überzeugt, dass die Philosophie eine Wissenschaft ist, dass sie *eine* ist unter vielen.
-Die wissenschaftlichen Standards denen sie sich verpflichtet sind ihre ganz eigenen Standards genau so wie die wissenschaftlichen Standards beispielsweise der Mathematik oder der Biologie die jeweiligen, ganz eigenen wissenschaftlichen Standards sind, denen sie sich jeweils verpflichten.
+Die wissenschaftlichen Standards, denen sie sich verpflichtet, sind ihre ganz eigenen Standards genau so wie die wissenschaftlichen Standards jeder anderen Wissenschaft, beispielsweise der Mathematik oder der Biologie die jeweiligen, ganz eigenen wissenschaftlichen Standards sind, denen sie sich jeweils verpflichten.
 
-Wir sind davon überzeugt, dass insofern die Philosphie professionell betrieben wird, sie ein Höchstmaß an Wissenschaftlichkeit verlangt.
+Wir sind davon überzeugt, dass insofern die Philosophie professionell betrieben wird, sie ein Höchstmaß an Wissenschaftlichkeit verlangt.
 „Wer das philosophische Geschäft professionell betreibt, unterwirft sich nicht einem heteronomen Wissenschaftsideal oder einem »Szientismus«, sondern hat sich dafür entschieden, die Standards, die er mit guten Gründen anerkannt hat, nicht wissentlich zu unterbieten.“
 (Keil 1996, S. 48)
 
@@ -140,13 +148,13 @@ Wir sind davon überzeugt, dass die Wissenschaftlichkeit nicht nur eine Dimensio
 
 Wir glauben, der Wert der Wissenschaftlichkeit zerfällt in mindestens die zwei folgenden Dimensionen:
 
-1. (Reflexivität) Der Wert der Wissenschaftlichkeit hat explizt sich selbst zum Gegenstand. Das heißt, zweierelei:
+1. (Reflexivität) Der Wert der Wissenschaftlichkeit hat expilizt sich selbst zum Gegenstand. Das heißt, zweierlei:
 
   1. Dass sich der Wert der Wissenschaftlichkeit selbst daran misst, was wissenschaftlich ist und umgekehrt;
-und Werte
+
   2. Dass er seine eigene Werthaftigkeit wissenschaftlich infrage stellt;
 
-2. (Transitivität) Wissenschaftlich ist alles dasjenige, das, unter der Einschränkung anderer (moralischer) Werte, dem Erkenntisgewinn dient.
+2. (Transitivität) wissenschaftlich ist alles dasjenige, das, unter der Einschränkung anderer (moralischer) Werte, dem Erkenntisgewinn dient.
 
 ## Professionalität 2 – Klarheit
 Klarheit zerfällt in mindestens die folgenden Dimensionen:
@@ -156,7 +164,7 @@ Klarheit zerfällt in mindestens die folgenden Dimensionen:
 3. Eindeutigkeit (Interpretationsunabhängigkeit, Bedeutungsstabilität),
 5. Struktur,
 6. Kohärenz,
-7. Expliztheit.
+7. Explizitheit.
 
 ### Zur Einfachheit, Schlichtheit, Proportionalität, Ockhams Razor
 Wir verstehen unter der Einfachheit bezüglich eines Objektes, eines Zustandes,
@@ -172,7 +180,7 @@ Einfachheit ist das Gegenteil von Komplexität.
 
 Oft ist die Anzahl von Elementen umgekehrt proportional zur Anzahl der Regeln.
 
-Im Gegensatz zur strukturellen Einfachheit, die nicht immer anzustreben ist, sind wir sind davon überzeugt, dass die Komplexitätsreduktion und die sich damit einstellende Einfachheit grundsätzilch erstrebenswert ist.
+Im Gegensatz zur strukturellen Einfachheit, die nicht immer anzustreben ist, sind wir davon überzeugt, dass die Komplexitätsreduktion und die sich damit einstellende Einfachheit grundsätzlich erstrebenswert ist.
 Allerdings glauben wir, dass unsere Objekte, Zustände,
 Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera so einfach wie möglich und so komplex wie nötig sein sollten.
 
@@ -197,34 +205,33 @@ Wir verstehen unter der Eindeutigkeit unserer Objekte, Zustände, Gedanken, Idee
 
 Unter ihrer Unmisserständlichkeit (Verständlichkeit) verstehen wir ihre Eigenschaft von sehr vielen Menschen auf die gleiche Weise verstanden zu werden.
 Unter ihrer Interpretationsunabhängigkeit verstehen wir ihre Eigenschaft von sehr vielen Menschen auf die gleiche Weise interpretiert zu werden.
-Unter ihrer Kontextinvarianz verstehen wir ihre Eigenschaft, über sehr viele Menschen, sehr viele Orte und sehr viele Zeiten hinweg Bedeutungsstabiel zu sein.
+Unter ihrer Kontextinvarianz verstehen wir ihre Eigenschaft, über sehr viele Menschen, sehr viele Orte und sehr viele Zeiten hinweg bedeutungsstabil zu sein.
 Eindeutigkeit ist das Gegenstück zur Vagheit, Doppeldeutigkeit, Mehrdeutigkeit und Unschärfe.
-Wir wissen nicht, ob Eindeutig vollständig erreicht werden kann aber wir sind davon überzeugt, dass alleine der Versuch, Eindeutigkeit herzustellen zu die Eindeutigkeit hinreichend annähert.### Zur Exaktheit – Richtigkeit und Präzision
+Wir wissen nicht, ob Eindeutigkeit vollständig erreicht werden kann, aber wir sind davon überzeugt, dass alleine der Versuch, Eindeutigkeit herzustellen zu die Eindeutigkeit hinreichend annähert.
 
 ### Zur Struktur
-Wir verstehen unter der Struktur (Strukturiertheit) unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
-ihre syntaktische und semantische Ordung.
-Unter ihrer syntaktischen und semantischen Ordnung verstehen wir ihre Ordnung nach abstrakten KZur Exaktheit – Richtigkeit und Präzisionategorien und in ihre Ordnung in Einklang zu konkreten Sachverhalten.
+Wir verstehen unter der Struktur (Strukturiertheit) unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera ihre syntaktische und semantische Ordnung.
+Unter ihrer syntaktischen und semantischen Ordnung verstehen wir ihre Ordnung nach abstrakten Kategorien und ihre Ordnung in Einklang zu konkreten Sachverhalten.
 
 ### Zur Kohärenz
 Wir verstehen unter der Kohärenz unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
 
 1. ihre Konsistenz (Nichtwidersprüchlichkeit) und
-2. ihre semantische Relationalität (Inhalticher Bezug).
+2. ihre semantische Relationalität (inhalticher Bezug).
 
 Unter ihrer Konsistenz verstehen wir ihre Freiheit von Widersprüchen.
 Unter ihrer semantischen Relationalität verstehen wir ihre Eigenschaft sich aufeinander zu beziehen.
 
 ### Zur Expliztheit
-Wir verstehen unter der Expliztheit unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera mindestens
+Wir verstehen unter der Explizitheit unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera mindestens
 
 1. die proaktive Offenlegung der tatsächlichen Beweggründe zur ihrer Entstehung;
 
 2. die proaktive Offenlegung der mit ihnen verfolgten Ziele;
-Wachstum
-3. die proaktive Offenlegung außnahmslos aller bekannten Evidenzen, die gegen sie sprechen;
 
-4. die proaktive Zur Exaktheit – Richtigkeit und PräzisionOffenlegung außnahmslos aller bekannten Evidenzen, die für sie sprechen;
+3. die proaktive Offenlegung ausnahmslos aller bekannten Evidenzen, die gegen sie sprechen;
+
+4. die proaktive Offenlegung ausnahmslos aller bekannten Evidenzen, die für sie sprechen;
 
 5. die Offenlegung ausnahmslos aller Quellen, inklusive der Inspirationsquellen und inklusive aller bekannten relevanten Informationen;
 
@@ -236,15 +243,15 @@ Wachstum
 
 9. die Offenlegung aller relevanten Kontexte;
 
-10. die Offenlegung außnahmslos aller Schritte und Prozesse diae zu ihrer Entstehung notwendig sind.
+10. die Offenlegung ausnahmslos aller Schritte und Prozesse, die zu ihrer Entstehung notwendig sind.
 
-11. die Offenlegung außnahmslos aller ihrer bekannten Schwachstellen und Stärken.
+11. die Offenlegung ausnahmslos aller ihrer bekannten Schwachstellen und Stärken.
 
 Siehe hierzu auch [Offenheit](../contents/values/v5_openness.md)
 und [Fairness](../contents/values/v1_fairness.md).
 
 ## Professionalität 4 – Relevanz
-Wir verstehen unter der Relevanz unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera../contents/reasons/reasons.../contents/reasons/reasons.md../contents/reasons/reasons.md
+Wir verstehen unter der Relevanz unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
 ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
 
 1. neu,
@@ -260,7 +267,7 @@ Wir glauben, dass es im Allgemeinen nicht hilfreich ist ungefragt Feedback zu ge
 
 ### Notiz zum Zusammenleben
 Eine Sonderrolle nimmt in diesem Zusammenhang die repräsentative Handlung Zusammenleben ein.
-Oft sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wieTechne der alltäglichen Zusammenarbeit.
+Oft sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wie der alltäglichen Zusammenarbeit.
 Wir sind aber überzeugt, dass unser Zusammenleben (das Institutsleben) über alle Rollen (Positionen) hinweg in ein professionelles Umfeld eingebettet ist.
 Wir sind davon überzeugt, dass unser freundschaftliches Verhältnis, nicht durch unseren professionellen Hintergrund und das Bewusstsein darüber unterminiert oder beschränkt wird, sondern dass unsere Professionalität (beispielsweise in der professionellen Kommunikation und der professionellen Rollenwahrnehmung) und unser Bewusstsein darüber unseren Freundschaften ein Zugewinn ist.
 Indem wir uns über unsere jeweiligen professionellen Hintergründe bewusst sind, können wir eben gerade diese Hintergründe auf professionelle Art, proaktiv wegfallen lassen und damit Freiraum für das Persönliche schaffen können.
@@ -273,6 +280,7 @@ Wir setzen hier unser Verständnis von Professionalität voraus wie wir es in [W
 Wir glauben, dass eine Tätigkeit professionell genau dann, wenn sie kunstfertig (téchne) ist.
 Eine Tätigkeit ist professionell genau dann, wenn sie kunstfertig (téchne) ist.
 
+## Argumente – TL;DR
 ## Ein Argument für die Professionalität – Gedankenexperiment
 Hier ist ein Gedankenexperiment.
 Alice, Bob und Eve, drei eineige Zwillinge, beherrschen alle drei in gleichem Maße die Kunstfertigkeit besonders schöne Ölgemälde in Blau zu malen.
