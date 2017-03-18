@@ -281,22 +281,13 @@ Wir glauben, dass eine Tätigkeit professionell genau dann, wenn sie kunstfertig
 Eine Tätigkeit ist professionell genau dann, wenn sie kunstfertig (téchne) ist.
 
 ## Argumente – TL;DR
-## Ein Argument für die Professionalität – Gedankenexperiment
-Hier ist ein Gedankenexperiment.
-Alice, Bob und Eve, drei eineige Zwillinge, beherrschen alle drei in gleichem Maße die Kunstfertigkeit besonders schöne Ölgemälde in Blau zu malen.
-Sie sind echte Experten, wahre Meister mit jahrelanger Erfahrung, niemand malt Ölgemälde kunsfertiger als sie, untereinander malen sie Ölgemälde alle glelich gut.
-Eines Tages taucht Mallory, ein böser Dämon, auf und gibt Alice, Bob und Eve jeweils eine, immer gleiche weiße Leinwand und sperrt sie jeweils in eine Kiste ein.
-Alice sperrt er in Kiste A, Bob sperrt er in Kiste B und Eve sperrt er in Kiste E.
-Es handelt sich natürlich um magische Kisten;
-Mallory hat sie folgendermaßen präpariert:
-In Kiste A ist alles ganz normal, kunsfertige Handgriffe werden durch besonders gute Resultate belohnt, ungeschickte Handgriffe mit schlechten Resultaten bestraft.
-In Kiste B passiert alles völlig zufällig, ein und dieselbe Handlung hat völlig unterschiedliche, unvorhersagbare Ausgänge.
-In Kiste E gibt es keine Kunsfertigkeit, jede Handlung führt direkt und automatisch zum Erfolg – ganz gleich welche Handlung Eve durchführt, die Ergebnisse sind perfekt.
+1. Das höchste technische und ethische Niveau unserer Mittel und Zwecke setzt die höchsten Maßstäbe an unsere Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Frage, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera voraus.
 
-Mallory verdammt alle drei dazu in ihrer Kiste Ölgemälde in Blau zu malen.
-Er verspricht sich gute Erlöse auf dem Kunstmarkt und als alle drei fertig sind, lässt er sie ihre Gemälde unterschreiben Alice mit A, Bob mit B und Eve mit E.
-Damit sich die Gemälde gut verkaufen macht Mallory sein Experiment publik.
-Nun die Preisfrage: Welches der drei Ölgemälde erzielt die höchsten Preise, A, B oder E?
+2. Wir streben nach dem höchsten technische und ethischen Niveau unsere Mittel und unserer Zwecke.
+
+3. Die höchsten Maßstäbe an unsere Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Frage, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera setzen Professionalität voraus.
+
+4. Also, sollten wir nach Professionalität streben.
 
 Zur Gutheit von Handlungen siehe Aristoteles.
 
