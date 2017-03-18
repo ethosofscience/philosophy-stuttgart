@@ -48,7 +48,7 @@ Das bedeutet jedoch – insbesondere bezüglich der Wissenschaften – nicht, da
 ### Grund – BLUF
 *Wir bekennen uns zur Professionalität, weil sie uns die entscheidenden qualitätiven Maßstäbe bezüglich unserer Tätigkeitsfelder bereitstellt, durch die wir ein hohes technisches und ethisches Niveau unser Mittel und unserer Ziele erreichen.*
 
-## Wir sind professionell
+### Dimensionen der Professionalität
 Die in unseren paradigmatisch Handlungen auftretenden Tätigkeiten können grundsätzlich professionell ausgeübt werden, sowohl:
 
 1. unsere Forschung,
@@ -89,8 +89,21 @@ Einige der hier aufgeführten Standards und Werte berühren und überschneiden s
 Insbesondere glauben wir, dass einige der in unserem Ethos formulierten Werte und Standards zugleich auch Teil der wichtigsten Standards und Werte der Wissenschaft sind.
 Umgekehrt sind auch viele Standards und Werte der Wissenschaft zugleich Standards und Werte der außerhalb der Wissenschaft.
 
-## Professionalität 1 – Wissenschaftlichkeit
-###  Wir sind wissenschaftlich
+### Professionalität 1 – Wissenschaftlichkeit
+#### Notiz – Die Wissenschaftlichkeit als Wert an sich
+Wir sind davon überzeugt, dass die Wissenschaftlichkeit nicht nur eine Dimension der Professionalität in Bezug auf die Forschung ist, sondern ein Wert für sich, dem eine besondere Rolle zukommt.
+
+Wir glauben, der Wert der Wissenschaftlichkeit zerfällt in mindestens die zwei folgenden Dimensionen:
+
+1. (Reflexivität) Der Wert der Wissenschaftlichkeit hat explizit sich selbst zum Gegenstand. Das heißt, zweierlei:
+
+  1. Dass sich der Wert der Wissenschaftlichkeit selbst daran misst, was wissenschaftlich ist und umgekehrt;
+
+  2. Dass er seine eigene Werthaftigkeit wissenschaftlich infrage stellt;
+
+2. (Transitivität) wissenschaftlich ist alles dasjenige, das, unter der Einschränkung anderer (moralischer) Werte, dem Erkenntisgewinn dient.
+
+#### Wir sind wissenschaftlich
 Wir sind davon überzeugt, dass unsere Forschung, unsere Lehre und unser Studium wissenschaftlich ist, wenn wir professionell forschen, professionell lehren und professionell studieren.
 Professionell forschen, lehren, und studieren heißt, wissenschaftlich zu forschen, wissenschaftlich zu lehren, wissenschaftlich zu studieren.
 Sowohl in Bezug auf die Frage nach den Standards der Wissenschaften als auch in Bezug auf die Frage nach der Philosophie als Wissenschaft schließen wir uns im Folgenden den Überlegungen Geert Keils (1996) an.
@@ -104,7 +117,7 @@ Davon unabhängig können und wollen wir diese Standards hier nicht aufzulisten,
 (siehe [Gründe über Gründe](../contents/reasons/reasons.md))
 
 Außerdem wissen wir nicht, ob es eine Menge notwendiger und zusammengenommen hinreichender Bedingungen der Wissenschaftlichkeit gibt.
-Aber wir glauben, dass weder die Auflistung noch das Bestehen oder Nichtbestehen derartiger Bedingungen relevant dafür sind ### Notiz zum Zusammenleben
+Aber wir glauben, dass weder die Auflistung noch das Bestehen oder Nichtbestehen derartiger Bedingungen relevant dafür sind.
 Eine Sonderrolle nimmt in diesem Zusammenhang die repräsentative Handlung Zusammenleben ein.
 Meistens sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wie der alltäglichen Zusammenarbeit.
 Wir sind aber überzeugt, dass unser Zusammenleben (das Institutsleben) über alle Rollen (Positionen) hinweg in ein professionelles Umfeld eingebettet ist.
@@ -125,7 +138,7 @@ Standards, die in der einen Wissenschaft gelten können, aber müssen nicht in e
 „Der rote Faden ›Wissenschaftlichkeit‹ ist aus vielen einzelnen Fasern zusammengesetzt.“
 (Keil 1996, S. 45) und (Wittgenstein PU § 67)
 
-### Wir sind wissenschaftliche Philosophinnen
+#### Wir sind wissenschaftliche Philosophinnen
 Wir sind insbesondere davon überzeugt, dass unsere philosophische Forschung, unsere philosophische Lehre und unser philosophisches Studium wissenschaftlich ist, wenn wir professionell forschen, professionell lehren und professionell studieren.
 Professionell philosophisch zu forschen, philosophisch zu lehren und philosophisch zu studieren heißt, wissenschaftlich zu forschen, wissenschaftlich zu lehren und wissenschaftlich zu studieren.
 
@@ -143,20 +156,7 @@ Wir sind davon überzeugt, dass insofern die Philosophie professionell betrieben
 „Wer das philosophische Geschäft professionell betreibt, unterwirft sich nicht einem heteronomen Wissenschaftsideal oder einem »Szientismus«, sondern hat sich dafür entschieden, die Standards, die er mit guten Gründen anerkannt hat, nicht wissentlich zu unterbieten.“
 (Keil 1996, S. 48)
 
-### Die Wissenschaftlichkeit als Wert an sich
-Wir sind davon überzeugt, dass die Wissenschaftlichkeit nicht nur eine Dimension der Professionalität in Bezug auf die Forschung ist, sondern ein Wert für sich, dem eine besondere Rolle zukommt.
-
-Wir glauben, der Wert der Wissenschaftlichkeit zerfällt in mindestens die zwei folgenden Dimensionen:
-
-1. (Reflexivität) Der Wert der Wissenschaftlichkeit hat expilizt sich selbst zum Gegenstand. Das heißt, zweierlei:
-
-  1. Dass sich der Wert der Wissenschaftlichkeit selbst daran misst, was wissenschaftlich ist und umgekehrt;
-
-  2. Dass er seine eigene Werthaftigkeit wissenschaftlich infrage stellt;
-
-2. (Transitivität) wissenschaftlich ist alles dasjenige, das, unter der Einschränkung anderer (moralischer) Werte, dem Erkenntisgewinn dient.
-
-## Professionalität 2 – Klarheit
+### Professionalität 2 – Klarheit
 Klarheit zerfällt in mindestens die folgenden Dimensionen:
 
 1. Einfachheit,
@@ -166,7 +166,7 @@ Klarheit zerfällt in mindestens die folgenden Dimensionen:
 6. Kohärenz,
 7. Explizitheit.
 
-### Zur Einfachheit, Schlichtheit, Proportionalität, Ockhams Razor
+#### Zur Einfachheit, Schlichtheit, Proportionalität, Ockhams Razor
 Wir verstehen unter der Einfachheit bezüglich eines Objektes, eines Zustandes,
 eines Gedankens, einer Idee, eines Begriffs, einer Aussage, einer Überzeugung, einer Hypothese, eines Arguments, eines Beweises, einer Frage, einer Antwort, einer Lösung, eines Lösungsansatzes, einer Arbeit, einer Theorie, eines Textes, eines Resultats, einer Datenmenge, eines Algorithmus, eines Experiments, einer Messung, einer Beobachtung, einer Analyse, einer Handlung, eines Diskurses, einer Veranstaltung, eines Projektes, et cetera dreierlei:
 
@@ -184,7 +184,7 @@ Im Gegensatz zur strukturellen Einfachheit, die nicht immer anzustreben ist, sin
 Allerdings glauben wir, dass unsere Objekte, Zustände,
 Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera so einfach wie möglich und so komplex wie nötig sein sollten.
 
-### Zur Exaktheit – Richtigkeit und Präzision
+#### Zur Exaktheit – Richtigkeit und Präzision
 Wir verstehen unter der Exaktheit unserer Objekte, Zustände,
 Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
 
@@ -196,7 +196,7 @@ Unter ihrer Präzision ihre Passgenauigkeit in Bezug auf bestimmte formale und i
 
 Wir verstehen unter der Korrektheit ihre Eigenschaft bestimmten formalen und inhaltlichen Anforderungen, Spezifikationen und Bedingungen und Sachverhalten zu genügen.
 
-### Zur Eindeutigkeit
+#### Zur Eindeutigkeit
 Wir verstehen unter der Eindeutigkeit unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
 
 1. ihre Unmissverständlichkeit (Verständlichkeit),   
@@ -209,11 +209,11 @@ Unter ihrer Kontextinvarianz verstehen wir ihre Eigenschaft, über sehr viele Me
 Eindeutigkeit ist das Gegenstück zur Vagheit, Doppeldeutigkeit, Mehrdeutigkeit und Unschärfe.
 Wir wissen nicht, ob Eindeutigkeit vollständig erreicht werden kann, aber wir sind davon überzeugt, dass alleine der Versuch, Eindeutigkeit herzustellen zu die Eindeutigkeit hinreichend annähert.
 
-### Zur Struktur
+#### Zur Struktur
 Wir verstehen unter der Struktur (Strukturiertheit) unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera ihre syntaktische und semantische Ordnung.
 Unter ihrer syntaktischen und semantischen Ordnung verstehen wir ihre Ordnung nach abstrakten Kategorien und ihre Ordnung in Einklang zu konkreten Sachverhalten.
 
-### Zur Kohärenz
+#### Zur Kohärenz
 Wir verstehen unter der Kohärenz unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
 
 1. ihre Konsistenz (Nichtwidersprüchlichkeit) und
@@ -222,7 +222,7 @@ Wir verstehen unter der Kohärenz unserer Objekte, Zustände, Gedanken, Ideen, B
 Unter ihrer Konsistenz verstehen wir ihre Freiheit von Widersprüchen.
 Unter ihrer semantischen Relationalität verstehen wir ihre Eigenschaft sich aufeinander zu beziehen.
 
-### Zur Expliztheit
+#### Zur Expliztheit
 Wir verstehen unter der Explizitheit unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera mindestens
 
 1. die proaktive Offenlegung der tatsächlichen Beweggründe zur ihrer Entstehung;
@@ -250,7 +250,7 @@ Wir verstehen unter der Explizitheit unserer Objekte, Zustände, Gedanken, Ideen
 Siehe hierzu auch [Offenheit](../contents/values/v5_openness.md)
 und [Fairness](../contents/values/v1_fairness.md).
 
-## Professionalität 4 – Relevanz
+### Professionalität 4 – Relevanz
 Wir verstehen unter der Relevanz unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
 ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
 
@@ -260,12 +260,12 @@ ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
 
 zu sein.
 
-## Professionalität 5 – Feedback
+### Professionalität 5 – Feedback
 Wir sind davon überzeugt, dass es ganz allgemein gut ist regelmäßig, planmäßig und gezielt zu konkreten Sachverhalten beispielsweise zu Objekten, Zuständen, Gedanken, Ideen, Begriffen, Aussagen, Überzeugungen, Hypothesen, Argumenten, Beweisen, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
 proaktiv (initiativ) Feedback einzuholen.
 Wir glauben, dass es im Allgemeinen nicht hilfreich ist ungefragt Feedback zu geben.
 
-### Notiz zum Zusammenleben
+### Notiz zur Professionalität in Bezug auf unser Zusammenleben
 Eine Sonderrolle nimmt in diesem Zusammenhang die repräsentative Handlung Zusammenleben ein.
 Oft sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wie der alltäglichen Zusammenarbeit.
 Wir sind aber überzeugt, dass unser Zusammenleben (das Institutsleben) über alle Rollen (Positionen) hinweg in ein professionelles Umfeld eingebettet ist.
@@ -275,12 +275,11 @@ Dadurch schaffen wir uns den Raum für authentische Freundschaften.
 Wir möchten allerdings betonen, dass diese Auffassung, authentische Freundschaften in rein professionellen Kontexten natürlich nicht ausschließt.
 Mehr noch, glauben wir, dass es Teil der Professionalität ist, sich um authentische Freundschaften zu bemühen.
 
-# Gründe
+## Argumente – TL;DR
 Wir setzen hier unser Verständnis von Professionalität voraus wie wir es in [Wir verstehen unter Professionalität](##wir-verstehen-unter-professionalität) beschreiben.
 Wir glauben, dass eine Tätigkeit professionell genau dann, wenn sie kunstfertig (téchne) ist.
 Eine Tätigkeit ist professionell genau dann, wenn sie kunstfertig (téchne) ist.
 
-## Argumente – TL;DR
 1. Das höchste technische und ethische Niveau unserer Mittel und Zwecke setzt die höchsten Maßstäbe an unsere Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Frage, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera voraus.
 
 2. Wir streben nach dem höchsten technische und ethischen Niveau unsere Mittel und unserer Zwecke.
