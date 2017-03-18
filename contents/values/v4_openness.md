@@ -69,7 +69,7 @@ Im folgenden Argumentieren wir für die Offenheit als Transparenz und als Wachst
 Wenn ein Erkenntnissubjekt *T* die Menge seines Wissens – das ist die Menge ihrer wahren, gerechtfertigten Übezeugungen –, erweitern will, und zu diesemZweck auf bereits bestehendes Wissen eines Erkenntnissubjekts *S* zurükgreifen will, dann ist es notwendig, dass
 
 1. *T* zumindest bereit ist, in ihre bereits bestehenden wahren, gerechtfertigten Überzeugungen neue Überzeugungen und Rechtvertigungen zu integriegen;
-2. *S* mindestens ihre Überzeugungen und ihre Rechtfertigungen aktiv für *T* verfügbar beziehungsweise zugänglich zu machen.
+2. *S* mindestens ihre Überzeugungen und ihre Rechtfertigungen aktiv für *T* verfügbar beziehungsweise zugänglich zu machen. 
 
 1. **Wissen** ist wahre, gerechtfertigte Überzeugung; synonym: Das Erkenntnissubjekt *S* weiß, dass *X* der Fall ist, genau dann, wenn
 
