@@ -35,7 +35,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 ## Statement
 *Wir bekennen uns zum Wert Fairness.*
 
-## Erläuterung – TL;DR
+## Erläuterung
 1. Wir verstehen unter Fairness eine Grundnorm und Voraussetzung  für wissenschaftlichen Fortschritt und innerliches, persönliches Wachstum.
 2. Alle unsere Handlungen, das heißt, Forschen, Lehren, Studieren, Zusammenleben und die damit einhergehende und notwendige Rollenwahrnehmung, sind an den von Fairness vorausgesetzten Normen Gerechtigkeit, Gleichheit, Toleranz, Respekt und darin enthaltender Anerkennung orientiert.
 3. Fairness heißt somit zunächst die Annerkennung der Gleichheit aller Teilnehmer des sozialen Miteinander. Darauf aufbauend können die weiteren Werte, also Gerechtigkeit, Toleranz und Respekt sich entfalten.
@@ -47,7 +47,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 ## Argumente
 Der Wert Fairness ist für uns relevant, weil wir glauben, dass man in sozialen Kontexten nur Fairness wollen kann. Forschungs- und Universitätsleben findet immer in sozialen Kontexten statt.
 
-#Für die Fairness soll zunächst Argument **a)** sprechen:
+#Für Fairness soll zunächst Argument **a)** sprechen:
 
 Zunächst soll betont werden, dass jede, die sich entscheidet, Teil des philosophischen Instituts zu sein, Regeln, Vorgaben und Ansprüche vorfindet, die schon vor ihrer Zeit Bestand hatten. Schon mit der Entscheidung Teil dieses, schon vor ihrer Zeit bestehenden, Systems zu werden, erfolgt eine Anerkennung dessen, im Sinne
 einer im mindestens toleranten Haltung demgegenüber.   
@@ -58,7 +58,7 @@ In diesen beiden Rahmenbedingungen ist die Behandlung aller Teilnehmer mit dem W
 Um die Werte Toleranz und Respekt unter dem allgemeinen Wert der Fairness zu erläutern, bedarf es zunächst einer Unterscheidung von Toleranz und Respekt.
 Über den Begirff der Toleranz herrscht bis Heute weitestgehend Uneinigkeit. Während die einen behaupten, Toleranz beinhaltet unter Anderem Respekt und dementsprechend Wertschätzung und Anerkennung, bedeutet er für andere lediglich die Duldung von Anderem, das heißt von (von der eigenen Position abweichenden) Einstellungen, Regeln, Überzeugungen und Haltungen.
 Beim Begriff Respekt hingegen herrscht weitestgehend Einigkeit, dass es dabei nicht lediglich bei einer Duldung beleibt. Statt dessen geht der Begriff Respekt, wie erwähnt, in den Bereich der Wertschätzung hinein. Das heißt, während Toleranz auch neutral oder sogar negativ, zu verstehen sein kann, kommt dem beispielsweise respektvollen Umgang eine deutlich positive Komponente mit Wertcharakter zu. Insofern dass man zum Beispiel eine andere Meinung, als gleich bedeutsam oder gut wie die eigene einschätzt, oder sogar noch besser als die eigene.
-Aus dem oben beschriebenen ergibt sich, dass für das Erhalten und befördern der Gleichheit und Gerechtigkeit im mindesten Toleranz erforderlich ist.
+Aus dem oben beschriebenen ergibt sich, dass für das Erhalten und befördern der Gleichheit und Gerechtigkeit also im mindesten Toleranz erforderlich ist.
 
 #Genaueres zu Gleichheit und Gerechtigkeit
 Gleichheit ist in den vom Institut beschlossenen Regeln verankert. Insofern, dass in bestimmten Merkmalen die Teilnehmer des Instituts, gleich behandelt werden, beziehungsweise sich, gemäß den Vorgaben, gleich verhalten müssen. Jedoch kann es innerhalb dieser gleichen Merkmale auch Ungleichheiten geben.
@@ -70,11 +70,11 @@ Somit generiert sich eine Begründung Gerechtigkeit anzuerkennen dadurch, dass m
 
 ##Dafür Argument **b)**
 
-Wir glauben, dass die Motivation für Fairness in diesem weiteren Sinne darin liegt ein aktives Voranschreiten in der Wissenschaft und den damit einhergehenden persönlichen, innerlichen Wachstum zu wollen und dementsprechend zu begünstigen. Wir glauben, dass dieses Ziel nur durch soziale Zusammenarbeit möglich ist. [Forschen](../contents/actions/a1_research.md) Wir glauben außerdem, dass die dafür notwendige Zusammenarbeit von den von uns gesetzten Werten [Professionalität](../contents/values/v5_professionality.md), [Offenheit](../contents/values/v4_openness.md), [Verantwortug](../contents/values/v6_responsibility.md), [Freiheit](../contents/values/v2_freedom.md) und [Lebendigkeit](../contents/values/v3_liveliness.md) geprägt sein muss. Somit ist die Ausrichtung nach diesen von uns gesetzten Werten eine Notwendigkeit für Fairness. Wobei die Ausrichtung nach diesen von uns gesetzten Werten selbst von Fairness geprägt sein soll. Anders als beim Fall **a** lässt sich hier jedoch nicht damit argumentieren, dass man diese Richtlinien nur durch die entschiedene Teilname am philosophischen Institut vorfindet und somit toleriert. Hierbei ist ein *Ethos* gefordert, der über das Institut hinaus geht und Eigeninitiative braucht, was natürlich auch für Fall **a** gelten sollte.
+Wir glauben, dass die Motivation für Fairness in diesem weiteren Sinne darin liegt ein aktives Voranschreiten in der Wissenschaft und den damit einhergehenden persönlichen, innerlichen Wachstum zu wollen und dementsprechend zu begünstigen. Wir glauben, dass dieses Ziel nur durch soziale Zusammenarbeit möglich ist. (siehe  [Forschen](../contents/actions/a1_research.md)) Wir glauben außerdem, dass die dafür notwendige Zusammenarbeit von den von uns gesetzten Werten [Professionalität](../contents/values/v5_professionality.md), [Offenheit](../contents/values/v4_openness.md), [Verantwortug](../contents/values/v6_responsibility.md), [Freiheit](../contents/values/v2_freedom.md) und [Lebendigkeit](../contents/values/v3_liveliness.md) geprägt sein muss. Somit ist die Ausrichtung nach diesen von uns gesetzten Werten eine Notwendigkeit für Fairness. Wobei die Ausrichtung nach diesen von uns gesetzten Werten selbst von Fairness geprägt sein soll. Anders als beim Fall **a** lässt sich hier jedoch nicht damit argumentieren, dass man diese Richtlinien nur durch die entschiedene Teilname am philosophischen Institut vorfindet und somit toleriert. Hierbei ist ein *Ethos* gefordert, der über das Institut hinaus geht und Eigeninitiative braucht, was natürlich auch für Fall **a** gelten sollte.
 
 ## Kritikfähigkeit als Garant für Fairness
 
-Der Kritikfähigkeit soll an dieser Stelle eine besondere Aufmerksam gegeben sein. Die Offenheit für Kritik bezüglich allen Bereichen des Institutslebens stellt eine Notwendigkeit für Fairness dar. Das heißt, es sollen Möglichkeiten und Plattformen gegeben sein, um Kritik zu äußern, ungeachtet der vertretenen Rolle oder der Art der Veranstaltung.
+Der Kritikfähigkeit soll an dieser Stelle eine besondere Aufmerksamkeit gegeben sein. Die Offenheit für Kritik bezüglich allen Bereichen des Institutslebens stellt eine Notwendigkeit für Fairness dar. Das heißt, es müssen Möglichkeiten und Plattformen gegeben sein, um Kritik zu äußern, ungeachtet der vertretenen Rolle oder der Art der Veranstaltung.
 
 
 >>>>>>> 88909c28e1c5233a5a2d8b567210f74d035598d0
@@ -82,4 +82,3 @@ Der Kritikfähigkeit soll an dieser Stelle eine besondere Aufmerksam gegeben sei
 1. [dt. Wikipedia: Fairness](https://de.wikipedia.org/wiki/Fairness)
 2. [dt. Wikipedia: Gerechtigkeit](https://de.wikipedia.org/wiki/Gerechtigkeit)
 3. [dt. Wikipedia: Gleichheit](https://de.wikipedia.org/wiki/Gleichheit)
-4.
