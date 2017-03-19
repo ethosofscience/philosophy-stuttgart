@@ -125,4 +125,4 @@ Schöpfertum, Kreativität, Achtsamkeit, Energie, Elan, Engangement, Aktivität,
 
 # Links
 1. [Zeit-Artikel zur Lebendigkeit vom 1.4.2015](http://www.zeit.de/2015/14/lebendigkeit-beziehung-soziologie-kunst-tod)
-2. …
+2. Quelle fehlt. 
