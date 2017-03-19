@@ -39,7 +39,7 @@ Handlungen des philosophischen Forschens sind vor allem das Lesen, Schreiben, Zu
 
 Zur Forschung gehört der Austausch sowohl innerhalb des Instituts und der Universität, als auch mit Forschenden anderer Universitäten. Hierzu bedeutend sind: Vorträge, Tagungen, Workshops, Ausschreibungen, öffentliche Diskussionen, ...
 
-Orte des Forschens können in der Philosophie überall sein. Insbesondere ist hier die Institutsbibliothek hervorzuheben, welche das Herz des Instituts darstellt.[Kommentar Louis: Ist die IB wirklich das *Herz* des Instituts? Dafür pumpt es relativ schwach, oder?] Weiterhin sind Arbeitsräume und Büros zum Beispiel das Fachgruppenzimmer Orte der Forschung. Aber auch der Seminarraum kann Ort von Forschung sein.
+Orte des Forschens können in der Philosophie überall sein. Insbesondere ist hier die Institutsbibliothek hervorzuheben, welche das Herz des Instituts darstellt.[Kommentar Louis: Ist die IB wirklich das *Herz* des Instituts? Dafür pumpt es relativ schwach, oder?] Weiterhin sind Arbeitsräume und Büros, zum Beispiel das Fachgruppenzimmer, Orte der Forschung. Aber auch der Seminarraum kann Ort von Forschung sein.
 
 Forschen unterscheidet sich von der Lehre und dem Studieren [a2 & a3] dadurch, dass es einen weitestgehend selbstständigen Lernprozess darstellt. Dieser findet selbstverständlich im Austausch mit anderen statt und kann gemeinsames Tun umfassen. Während Lehre ein Lernen unter Anleitung ist, ist Forschung die eigenständige Suche nach Erkenntnissen.
 
