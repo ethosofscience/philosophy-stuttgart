@@ -31,7 +31,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # ethos
-*Institute for Pilosophy and
+*Institute for Philosophy and
 Student Council of Philosophy
 University of Stuttgart*
 
@@ -44,7 +44,7 @@ Stuttgart, 2017-01-28
   1. [Projects Tab](https://github.tik.uni-stuttgart.de/martinmaga/ethos/projects/1)
   2. [Contents](../contents/)
 
-**Abstract**: This is the joint ethos of the Institute for Pilosophy and the
+**Abstract**: This is the joint ethos of the Institute for Philosophy and the
 Student Council of Philosophy at the University of Stuttgart.
 In this ethos we declare our commitment. …
 
@@ -54,7 +54,7 @@ Attitude, …
 # You are reading …
 … the *README.md* file of this project, this is the *landing page* of this project.
 The README.md file is a [Markdown](https://en.wikipedia.org/wiki/Markdown) file
-that contains the most important information and metainformation on this project
+that contains the most important information and meta information on this project
 and its development.
 
 # Project Description - What it is and why it is
@@ -76,7 +76,7 @@ The leading question for now is:
   4. How do we deploy those values and norms?
 
 ## Main concepts, values and rules
-  For now the main concepts, values and rules we want to oparate with are:
+  For now the main concepts, values and rules we want to operate with are:
 
   1. Openness,
   2. Transparency,
@@ -126,7 +126,7 @@ This project uses the following standards, formats and norms:
   1. Character Encoding: 8-Bit Universal Character Set Transformation
      Format (UTF-8);  
   2. Line Ending: Unix/Linux.  
-  3. Times are repersented in ISO format: Coordinated Universal Time (UTC)
+  3. Times are coded in ISO format: Coordinated Universal Time (UTC)
      (former Greenwich Mean Time (GMT))
 
 ## Tools
@@ -196,7 +196,7 @@ README file.
     1. README.md (You are here!)
     2. LICENSE.md (The full license text)
     3. VERSION.md (The current version and description of the versioning scheme of this project)
-    4. sketches [Conains sketches, ideas, concepts, …]
+    4. sketches [Contains sketches, ideas, concepts, …]
         1. alexandra_struc
         2. louis_struc
         3. martin_struc
@@ -208,7 +208,7 @@ README file.
     5. controls [The main directory of this project]
     6. contents [Contains the actual contents in LaTeX (sub)files.]
     7. meta [Contains meta information on this project]
-    8. guidlines [Contains guidlines we commit to]
+    8. guidlines [Contains guidelines we commit to]
         1. Hübl, Philipp
         2. typokurz
     9. how2 [Contains how-tos related to this project]
@@ -274,8 +274,8 @@ The project at hand is hereby released under the following License:
 Go to: [/LICENSE.md](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/LICENSE.md)
 For more information.
 
-# Version and versioning
-## Verision
+# Version and versioning scheme
+## Version
 The current VERSION of this project is:
 
 <git-commit-hash>-2017-01-28-16:15:00 UTC
