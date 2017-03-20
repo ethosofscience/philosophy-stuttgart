@@ -33,7 +33,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Gründe über Gründe
 Hier führen wir einige Gründe (Argumente) an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
 
-Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten weil dies nicht im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
+Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
 
 ## Lebendige Werte
 Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
@@ -52,7 +52,7 @@ Wir begründen die Relevanz unserer Werte,
 [Offenheit v4](../contents/values/v4_openness.md),
 [Qualität v5](../contents/values/v5_quality.md),
 [Verantwortung v6](../contents/values/v6_responsibility.md))
-indem wir zeigen, dass sie bei pradigmatischen (repräsentativen) Handlungen
+indem wir zeigen, dass sie bei paradigmatischen (repräsentativen) Handlungen
 (siehe [Forschen a1](../contents/actions/a1_research.md),
 [Lehren a2](../contents/actions/a2_teach.md),
 [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
@@ -76,7 +76,7 @@ Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen We
 
 1. Der Wert ist *in sich selbst* und *aus sich selbst* heraus *wertvoll*;
 
-2. Der Wert bedarf keiner Begründung, die nicht schon im Wert selbst liegt (Beispiel: „Es ist gut gut zu sein.”);
+2. Der Wert bedarf keiner Begründung, die nicht schon im Wert selbst liegt (Beispiel: „Es ist gut, gut zu sein.”);
 
 3. Der Wert hat *motivationale und normative Kraft* der in ihm selbst liegt;
 
@@ -103,20 +103,20 @@ Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam an
 Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
 (siehe [Wertekonflikte im Überlegungsgleichgewicht](##wertekonflikte-im-überlegungsgleichgewicht))
 
-## Wertekonflikte im Überlegungsgleichgewicht
+## Einklang unserer Werte – Überlegungsgleichgewicht
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
 
 1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
 
 2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner) verlangt.
 
-Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigem Wettstreit stehen können.
-Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausfordrung Überlegungsgleichgewichte zu erreichen.
+Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigen Wettstreit stehen können.
+Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
 
 ## Intuitionen
 Wir sind uns darüber bewusst, dass wir uns häufig auf unsere Intuitionen berufen.
 Wir versuchen unsere Intuitionen immer explizit (siehe [Qualität](../contents/v4_quality.md) und [Offenheit](../contents/v5_openness.md)) zu machen.
-Wir sind uns jedoch darüber bewusst, dass wir uns nicht über jeden unserer Hintergrundanahmen, Vorraussetzungen und grundlegenden Intuitionen bewusst sind. (siehe [Ehrlichkeit](../contents/v5_openness.md))
+Wir sind uns jedoch darüber bewusst, dass wir uns nicht über jeden unserer Hintergrundanahmen, Voraussetzungen und grundlegenden Intuitionen bewusst sind. (siehe [Ehrlichkeit](../contents/v5_openness.md))
 
 Wenn wir uns implizit oder explizit auf unsere Intuitionen berufen, dann soll das keine Rechtfertigung oder Prüfstein sein, sondern es soll:
 
