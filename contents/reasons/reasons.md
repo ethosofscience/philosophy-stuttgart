@@ -72,7 +72,7 @@ Wir gehen davon aus, dass einige der Werte, zu denen wir uns hier bekennen, *int
 Deshalb glauben wir, dass die entsprechenden Werte nicht rechtfertigungsbedürftig und auch nicht rechtfertigungswürdig sind.
 
 Wir sind der Überzeugung, dass diese Annahme uns weder zu einer bestimmten Ontologie verpflichtet noch, dass aus ihr bestimmte epistemischen Pflichten erwachsen.
-Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen Wert nennen, wenn wir normalerweise dazu geneigt sind die folgende disjunktive, erweiterbare oder verkürzbare Familie von Einstellungenn mit jenem Wert zu verbinden:
+Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen Wert nennen, wenn wir normalerweise dazu geneigt sind die folgende disjunktive, erweiterbare oder verkürzbare Familie von Einstellungen mit jenem Wert zu verbinden:
 
 1. Der Wert ist *in sich selbst* und *aus sich selbst* heraus *wertvoll*;
 
@@ -84,16 +84,16 @@ Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen We
 
 5. Aus dem Wert lassen sich *andere Werte ableiten*.
 
-Diese Liste ist nicht als vollständige Wesensdefinition intrinscher Werte zu verstehen, sondern als beispielhafte Liste von Einstellungen, die Einstellungen enthählt, die darauf hindeuten, dass wir einen bestimmten Wert auf eine bestimmte Art gebrauchen beziehungsweise, dass wir über ihn in einer bestimmten Weise sprechen. (vgl. Ernst 2007?)[Die Objektivität der Moral]
+Diese Liste ist nicht als vollständige Wesensdefinition intrinsischer Werte zu verstehen, sondern als beispielhafte Liste von Einstellungen, die Einstellungen enthählt, die darauf hindeuten, dass wir einen bestimmten Wert auf eine bestimmte Art gebrauchen beziehungsweise, dass wir über ihn in einer bestimmten Weise sprechen. (vgl. Ernst 2007?)[Die Objektivität der Moral]
 
-Wir glauben, dass Chisholms Version von Moors Isolation Test ein hilfreicher Test (unter anderen) sein kann, um unsere Einstellungen gegebüber bestimmter Werten zu klären. (vgl. SEP 2017)
+Wir glauben, dass Chisholms Version von Moors Isolation Test ein hilfreicher Test (unter anderen) sein kann, um unsere Einstellungen gegenüber bestimmter Werten zu klären. (vgl. SEP 2017)
 
-Wir schließen nicht aus, dass die hier angeführten Werte, trotz ihres intrinsischen Wertharakters, möglicherweise begründet – das heißt aus anderen Werten abgeleitet – werden können.
+Wir schließen nicht aus, dass die hier angeführten Werte, trotz ihres intrinsischen Wertcharakters, möglicherweise begründet – das heißt aus anderen Werten abgeleitet – werden können.
 Das heißt, wir schließen nicht die Möglichkeit aus, dass es sowohl *basic* als auch *non-basic values* gibt. (vgl. SEP 2017)
 
 Wir gehen davon aus, dass der intrinsische Wertcharakter bestimmter Werte weder notwendige noch hinreichende Bedingung für den Status unseres Ethos ist.
-Entscheidendt ist unserer Meinung nach, dass wir die Intuition haben, dass unsere Werte intrinsisch wertvoll sind.
-Entscheident ist für uns die Werthaftigkeit des Werts *ipso facto*.
+Entscheidend ist unserer Meinung nach, dass wir die Intuition haben, dass unsere Werte intrinsisch wertvoll sind.
+Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto*.
 
 ## Werte als Ideale
 Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen, nach denen wir streben.
@@ -106,7 +106,7 @@ Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität uns
 ## Wertekonflikte im Überlegungsgleichgewicht
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
 
-1. ihre normative und motivationale Kraft (ihre Lebenigkeit) betonen sowie
+1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
 
 2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner) verlangt.
 
