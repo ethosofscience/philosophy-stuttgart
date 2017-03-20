@@ -104,6 +104,27 @@ Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität uns
 (siehe [Wertekonflikte im Überlegungsgleichgewicht](##wertekonflikte-im-überlegungsgleichgewicht))
 
 ## Einklang unserer Werte – Überlegungsgleichgewicht
+### Werteeinklang
+Wir sind davon überzeugt, dass jede einzelne unserer Handlungen:
+
+1. [Forschen](../contents/actions/a1_research.md),
+2. [Lehren](../contents/values/a2_teach.md),
+3. [Rollenwahrnehmen](../contents/values/a3_roles.md),
+4. [Studieren](../contents/values/a4_study.md),
+5. [Leben](../contents/values/a5_live.md)
+
+mit allen unseren Werten:
+
+1. [Fairness](../contents/values/v1_fairness.md),
+2. [Freiheit](../contents/values/v2_freedom.md),
+3. [Lebendigkeit](../contents/values/v3_liveliness.md),
+4. [Offenheit](../contents/values/v4_openness.md),
+5. [Professionalität](../contents/values/v5_professionality.md)
+6. [Verantwortung](../contents/values/v6_responsibility.md)
+
+im Einklang stehen sollte.
+
+### Wertekonflikte
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
 
 1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
