@@ -35,7 +35,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 *Wir sind verantwortungsvoll.*
 
 ## Erläuterung – TL;DR
-1. Wir verstehen unter Verantwortung die eigenständige und proaktive Haltung, für die eigenen Handlungen beziehungsweise das eigene Verhalten und Entscheidungen sowie unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera einzutreten.
+1. Wir verstehen unter Verantwortung die eigenständige und proaktive Haltung, für alle eigenen *EDO* insbesondere für alle eigenen Handlungen beziehungsweise das eigene Verhalten sowie die eigenen Entscheidungen.
 
 2. Verantwortlich zu handeln bedeutet, den gerechtfertigten Ansprüchen an sich von sich aus nachzukommen.
 
