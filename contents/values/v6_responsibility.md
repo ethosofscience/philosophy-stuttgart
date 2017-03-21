@@ -35,7 +35,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 *Wir sind verantwortungsvoll.*
 
 ## Erläuterung – TL;DR
-1. Wir verstehen unter Verantwortung die eigenständige und proaktive Haltung, für die eigenen Handlungen und Entscheidungen einzutreten.
+1. Wir verstehen unter Verantwortung die eigenständige und proaktive Haltung, für die eigenen Handlungen beziehungsweise das eigene Verhalten und Entscheidungen sowie unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera einzutreten.
 
 2. Verantwortlich zu handeln bedeutet, den gerechtfertigten Ansprüchen an sich von sich aus nachzukommen.
 
@@ -58,12 +58,8 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 3. Verantwortung ist für uns wichtig, weil sie insbesondere in den Wissenschaften zur ethisch, technisch und methodisch wohlbegründetem Verhalten führt sowie zu Verlässlichkeit unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera führt.
 
-__Ideen:__
-- Zusagen jeglicher Art werden verlässlich eingehalten und falls nötig rechtzeitig abgesagt.
-- Zuvorkommendes Handeln ist wünschenswert und zeichnet besonderes Engagement aus.
-- Voraussschauend handeln, so dass man sich in der Zukunft dafür einstehen kann.
-
-
 # Links
 1. [Verantwortung - Wiktionary](https://de.wiktionary.org/wiki/Verantwortung)
 2. [Souveranität - Wiktionary](https://de.wiktionary.org/wiki/Souver%C3%A4nit%C3%A4t)
+
+3. [wikipedia. 2017. Verantwortung](https://de.wikipedia.org/wiki/Verantwortung)
