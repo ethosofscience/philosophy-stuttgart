@@ -1,7 +1,7 @@
-# Unser Diskursuniversum – Die Objekte unseres Ethos’
-Die Objekte unseres Ethos’ (Diskurses) beziehungsweise die Domäne unseres Ethos’ (Diskurses) (universe of discourse (domain of discourse)) sind unsere Handlungsfelder, das ist die Komposition aus unseren paradigmatischen Handlungen und unseren Werten.
+# Unser Diskursuniversum – Die Objekte unseres Ethos
+Die Objekte unseres Ethos (Diskurses) beziehungsweise die Domäne unseres Ethos (Diskurses) (universe of discourse (domain of discourse)) sind unsere Handlungsfelder, das ist die Komposition aus unseren paradigmatischen Handlungen und unseren Werten.
 
-Die Objekte unseres Ethos’ (Diskurses) können aber auch Objekte sein, die in einem Sinnzusammenhang (Familienähnlichkeit) zu unserem Ethos stehen, beispielsweise (in zufälliger Reihenfolge):
+Die Objekte unseres Ethos (Diskurses) können aber auch Objekte sein, die in einem Sinnzusammenhang (Familienähnlichkeit) zu unserem Ethos stehen, beispielsweise (in zufälliger Reihenfolge):
 
 1. Zustände,
 2. Gedanken,
@@ -34,7 +34,7 @@ Die Objekte unseres Ethos’ (Diskurses) können aber auch Objekte sein, die in 
 29. Forschungsvorhaben,
 30. … .
 
-Auf dieses (offene) Liste referieren wir in der Formulierung unseres Ethos’ in abkürzender Schreibweise mit Ethos Diskursobjekte (EDO).
+Auf dieses (offene) Liste referieren wir in der Formulierung unseres Ethos in abkürzender Schreibweise mit Ethos Diskursobjekte (EDO).
 
 # References
 1. [Wikipedia. 2017. Diskursuniversum](https://de.wikipedia.org/wiki/Diskursuniversum)
