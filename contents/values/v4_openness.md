@@ -32,7 +32,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Offenheit (Ehrlichkeit, Transparenz, Zugänglichkeit, Neugier, Forschergeist) **v4**
 ## Statement – BLUF
-*Wir bekennen uns zur Offenheit.*
+*Wir sind offen.*
 
 ## Erläuterung – TL;DR
 Wir verstehen unter Offenheit fünferlei:
