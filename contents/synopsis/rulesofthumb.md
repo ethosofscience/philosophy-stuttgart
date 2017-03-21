@@ -9,7 +9,7 @@
 7. DRY
 8. Minimize bad redundancy, maximize good redundancy
 9. Seek antifragility (Antifragile: Things That Gain From Disorder)
-10. Via negativa.
+10. Via negativa. The negative way is a good way. It is good to know what is bad. It is good to know what not to do.
 11. Tell others (document) why you are doing what you are doing.
 12. Avoid analysis paralysis.
 13. STOP: Sit down, think, orientate, plan.
@@ -26,4 +26,8 @@
 24. Rather change your patterns than your reasons for them.
 25. Don’t expect others to change their patterns. Don’t blame them for not doing so.
 26. People are always more complex than our narratives of them.
-27.  
+27. Always assume good intentions
+28. If something goes wrong, it was not intended. Period.
+29. Don’t change it, improve it!
+30. Be explicit about your intentions.
+31. 
