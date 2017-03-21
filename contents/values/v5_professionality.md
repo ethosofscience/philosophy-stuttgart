@@ -31,7 +31,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Professionalität (Klarheit, Einfachheit, Struktur, Kohärenz, …) **v5**
 ## Statement – BLUF
-*Wir bekennen uns zur Professionalität.*
+*Wir sind professionell.*
 
 ## Erläuterung – TL;DR
 1. *Wir verstehen unter Professionalität* diejenige Eigenschaft der Ausübung einer Tätigkeit oder einer Person in Bezug auf die Ausübung einer Tätigkeit, welche die Ausübung derselben Tätigkeit beziehungsweise derselben Person zu einer *kunstfertigen* im Sinne der *téchne* macht.
@@ -167,8 +167,7 @@ Klarheit zerfällt in mindestens die folgenden Dimensionen:
 7. Explizitheit.
 
 #### Zur Einfachheit, Schlichtheit, Proportionalität, Ockhams Razor
-Wir verstehen unter der Einfachheit bezüglich eines Objektes, eines Zustandes,
-eines Gedankens, einer Idee, eines Begriffs, einer Aussage, einer Überzeugung, einer Hypothese, eines Arguments, eines Beweises, einer Frage, einer Antwort, einer Lösung, eines Lösungsansatzes, einer Arbeit, einer Theorie, eines Textes, eines Resultats, einer Datenmenge, eines Algorithmus, eines Experiments, einer Messung, einer Beobachtung, einer Analyse, einer Handlung, eines Diskurses, einer Veranstaltung, eines Projektes, et cetera dreierlei:
+Wir verstehen unter der Einfachheit bezüglich eines Objektes, eines Zustandes, eines Gedankens, einer Idee, eines Begriffs, einer Aussage, einer Überzeugung, einer Hypothese, eines Arguments, eines Beweises, einer Frage, einer Antwort, einer Lösung, eines Lösungsansatzes, einer Arbeit, einer Theorie, eines Textes, eines Resultats, einer Datenmenge, eines Algorithmus, eines Experiments, einer Messung, einer Beobachtung, einer Analyse, einer Handlung, eines Diskurses, einer Veranstaltung, eines Projektes, et cetera dreierlei:
 
   1. die Minimalität der Elemente, Grundbausteine beziehungsweise Faktoren;
 
