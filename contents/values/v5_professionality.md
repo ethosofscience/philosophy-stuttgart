@@ -67,7 +67,7 @@ Das heißt, wir glauben, dass wir
 5. professionell zusammenleben (siehe [Notiz zum Zusammenleben](###notiz-zum-zusammenleben))
 
 können und sollen.
-Was es heißt, professionell zu forschen, professionell zu lehren, professionell unsere Rollen wahrzunehmen, professionell zu studieren und professionell zusammenzuleben, das entscheidet sich immer jeweils in Bezug zur entsprechenden Handlung.
+Was es heißt, professionell zu forschen, professionell zu lehren, professionell unsere Rollen wahrzunehmen, professionell zu studieren und professionell zusammenzuleben, das entscheidet sich immer jeweils in Bezug auf die entsprechende Handlung.
 
 Die Ausübung einer Handlung (oder eine Tätigkeit) ist professionell, wenn sie im Einklang stehen mit
 
