@@ -35,6 +35,11 @@ Hier führen wir einige Gründe (Argumente) an, warum wir nicht jeden hier verwe
 
 Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
 
+## Definitionen
+Wir geben in der Formulierung unseres Ethos Definitionen unserer Begriffe, Handlungen und Werte an.
+Mit diesen Definitionen verbinden wir selbstverständlich jedoch keine allgemeinen Gültigkeitsansprüche.
+Unsere Definitionen können als unser eigenes Verständnis von den jeweiligen Begriffen, Handlungen und Werten angesehen werden, als *philosophy flavoured Wikipedia definitions*.
+
 ## Lebendige Werte
 Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
@@ -105,7 +110,7 @@ Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität uns
 
 ## Einklang unserer Werte – Überlegungsgleichgewicht
 ### Werteeinklang
-Wir sind davon überzeugt, dass jede einzelne unserer Handlungen:
+Wir sind davon überzeugt, dass jede einzelne unserer paradigmatischen Handlungen:
 
 1. [Forschen](../contents/actions/a1_research.md),
 2. [Lehren](../contents/values/a2_teach.md),
@@ -122,7 +127,7 @@ mit allen unseren Werten:
 5. [Professionalität](../contents/values/v5_professionality.md)
 6. [Verantwortung](../contents/values/v6_responsibility.md)
 
-im Einklang stehen sollte.
+im Einklang stehen sollten.
 
 ### Wertekonflikte
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:

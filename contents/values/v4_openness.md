@@ -63,7 +63,7 @@ Siehe auch [Professionalität](../contents/values/v5_responsibility.md).
 
 5. **Inkrementalität** Offenheit als Modularität …
 
-# Relevanz
+## Relevanz
 ## Grund – BLUF
 *Wir bekennen uns zur Offenheit, weil eine Bedingung zur Möglichkeit von presönlichem Wachstum und gesellschaftlichen sowie wissenschaftlichen Fortschritt ist.*
 
@@ -107,6 +107,9 @@ Es gibt viele weitere gute Gründe für die Offenheit.
 ### Ein Argument für die soziale Erfahrung
 Wir glauben, dass die Offenheit eine Bedingung zur Möglichkeit der Wissenschaftlichen Gemeinschaft ist.
 [Lebendigkeit](../values/v3_liveliness.md)
+
+## Zusammenhang
+Wir sind davon überzeugt, dass die *Offenheit*, mit unseren [Handlungen](../contents/synopsis/objects.md), unseren anderen [Werten](../contents/synopsis/objects.md) und unseren relevanten [EDO](../contents/synopsis/objects.md) im [Einklang](../contents/synopsis/reasons.md) steht und stehen sollte.
 
 # Links
 1. [Muhlen, Marcio von. 2017. We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/)
