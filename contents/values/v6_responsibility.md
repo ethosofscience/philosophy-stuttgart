@@ -53,7 +53,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 2. Verantwortlich zu handeln bedeutet, den gerechtfertigten Ansprüchen an sich von sich aus nachzukommen.
 
-3. Verlässlichkeit, Integrität und Ehrlichkeit sind Voraussetzungen für verantwortliches Handeln.
+3. Verlässlichkeit, Integrität und Ehrlichkeit gehören zum verantwortliches Handeln.
 
 4. Ein Ziel für integeres Verhalten ist es, kongruent zu seinen eigenen Wertvorstellungen zu agieren.
 
