@@ -116,24 +116,25 @@ Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität uns
 
 ## Einklang unserer Werte – Überlegungsgleichgewicht
 ### Werteeinklang
-Wir sind davon überzeugt, dass jede einzelne unserer paradigmatischen Handlungen:
+Wir sind davon überzeugt, dass das *verantwortungsvolle Forschen*, mit unseren Handlungen, wie sie in
+1. [Forschen](../actions/a1_research.md),
+2. [Lehren](../actions/a2_teach.md),
+3. [Rollenwahrnehmung](../actions/a3_roles.md),
+4. [Studieren](../actions/a4_study.md),
+5. [Zusammenleben](../actions/a5_live.md)
 
-1. [Forschen](../contents/actions/a1_research.md),
-2. [Lehren](../contents/values/a2_teach.md),
-3. [Rollenwahrnehmen](../contents/values/a3_roles.md),
-4. [Studieren](../contents/values/a4_study.md),
-5. [Leben](../contents/values/a5_live.md)
+sowie unseren Werten wie sie in
 
-mit allen unseren Werten:
+1. [Fairness](../values/v1_fairness.md),
+2. [Freiheit](../values/v2_freedom.md),
+3. [Lebendigkeit](../values/v3_liveliness.md),
+4. [Offenheit](../values/v4_openness.md),
+5. [Professionalität](../values/v5_professionality.md),
+6. [Verantwortung](../values/v6_responsibility.md)
 
-1. [Fairness](../contents/values/v1_fairness.md),
-2. [Freiheit](../contents/values/v2_freedom.md),
-3. [Lebendigkeit](../contents/values/v3_liveliness.md),
-4. [Offenheit](../contents/values/v4_openness.md),
-5. [Professionalität](../contents/values/v5_professionality.md)
-6. [Verantwortung](../contents/values/v6_responsibility.md)
-
-im Einklang stehen sollten.
+beschrieben sind im
+[Einklang](../synopsis/reasons.md)
+steht und stehen sollte.
 
 ### Wertekonflikte
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
