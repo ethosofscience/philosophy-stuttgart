@@ -265,8 +265,7 @@ Mehr noch, glauben wir, dass es Teil der Professionalität ist, sich um authenti
 
 ## Argumente – TL;DR
 Wir setzen hier unser Verständnis von Professionalität voraus wie wir es in [Wir verstehen unter Professionalität](##wir-verstehen-unter-professionalität) beschreiben.
-Wir glauben, dass eine Tätigkeit professionell genau dann, wenn sie kunstfertig (téchne) ist.
-Eine Tätigkeit ist professionell genau dann, wenn sie kunstfertig (téchne) ist.
+Wir glauben, dass eine Tätigkeit genau dann professionell ist, wenn sie kunstfertig (téchne) ist.
 
 1. Das höchste technische und ethische Niveau unserer Mittel und Zwecke setzt die höchsten Maßstäbe an unsere Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Frage, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera voraus.
 
