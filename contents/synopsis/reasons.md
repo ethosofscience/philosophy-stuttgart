@@ -110,7 +110,7 @@ Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität uns
 
 ## Einklang unserer Werte – Überlegungsgleichgewicht
 ### Werteeinklang
-Wir sind davon überzeugt, dass jede einzelne unserer Handlungen:
+Wir sind davon überzeugt, dass jede einzelne unserer paradigmatischen Handlungen:
 
 1. [Forschen](../contents/actions/a1_research.md),
 2. [Lehren](../contents/values/a2_teach.md),
@@ -127,7 +127,7 @@ mit allen unseren Werten:
 5. [Professionalität](../contents/values/v5_professionality.md)
 6. [Verantwortung](../contents/values/v6_responsibility.md)
 
-im Einklang stehen sollte.
+im Einklang stehen sollten.
 
 ### Wertekonflikte
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
