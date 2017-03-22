@@ -156,7 +156,7 @@ Klarheit zerfällt in mindestens die folgenden Dimensionen:
 7. Explizitheit.
 
 #### Zur Einfachheit, Schlichtheit, Proportionalität, Ockhams Razor
-Wir verstehen unter der Einfachheit bezüglich Wir verstehen unter der Einfachheit bezüglich eines Objektes, eines Zustandes, eines Gedankens, einer Idee, eines Begriffs, einer Aussage, einer Überzeugung, einer Hypothese, eines Arguments, eines Beweises, einer Frage, einer Antwort, einer Lösung, eines Lösungsansatzes, einer Arbeit, einer Theorie, eines Textes, eines Resultats, einer Datenmenge, eines Algorithmus, eines Experiments, einer Messung, einer Beobachtung, einer Analyse, einer Handlung, eines Diskurses, einer Veranstaltung, eines Projektes, et cetera dreierlei:
+Wir verstehen unter der Einfachheit bezüglich eines Objektes, eines Zustandes, eines Gedankens, einer Idee, eines Begriffs, einer Aussage, einer Überzeugung, einer Hypothese, eines Arguments, eines Beweises, einer Frage, einer Antwort, einer Lösung, eines Lösungsansatzes, einer Arbeit, einer Theorie, eines Textes, eines Resultats, einer Datenmenge, eines Algorithmus, eines Experiments, einer Messung, einer Beobachtung, einer Analyse, einer Handlung, eines Diskurses, einer Veranstaltung, eines Projektes, et cetera dreierlei:
 
   1. die Minimalität der Elemente, Grundbausteine beziehungsweise Faktoren;
 
