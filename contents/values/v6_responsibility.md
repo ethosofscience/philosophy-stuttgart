@@ -35,7 +35,21 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 *Wir sind verantwortungsvoll.*
 
 ## Erläuterung – TL;DR
-1. Wir verstehen unter Verantwortung die eigenständige und proaktive Haltung, für alle eigenen *EDO* insbesondere für alle eigenen Handlungen beziehungsweise das eigene Verhalten sowie die eigenen Entscheidungen.
+1. Wir verstehen unter Verantwortung zweierlei:
+
+  1. *Positive Verantwortung*: Die *Selbstverpflichtung* (Reflexsivität), die eigenständige und proaktive Zuschreibung der Pflicht zu sich selbst,
+
+    1. für alle eigenen *EDO* insbesondere für die eigenen Handlungen beziehungsweise das eigene Verhalten sowie die eigenen Entscheidungen *einzustehen* sowie
+
+    2. für alle *EDO* insbesondere für die Handlungen beziehungsweise das Verhalten sowie die Entscheidungen all derjenigen einzustehen, die im eigenen Namen geschehen.
+
+  2. *Negative Verantwortung*: Die gerechtfertigte Verpflichtung (Transitivität) anderer, falls diese ihre Verantwortung nicht selbst wahrnehmen.
+
+2. Unter der *Selbstverpflichtung* für die eigenen sowie die *EDO*  insbesondere für die Handlungen beziehungsweise das Verhalten und die Entscheidungen anderer *einzustehen*, verstehen wir, dass wir
+
+  1. vorausschauend sind, ethisch und technisch wohlbegründet;
+
+  2. rückwirkend die Folgen tragen.
 
 2. Verantwortlich zu handeln bedeutet, den gerechtfertigten Ansprüchen an sich von sich aus nachzukommen.
 
