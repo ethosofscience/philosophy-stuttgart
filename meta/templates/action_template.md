@@ -1,22 +1,15 @@
 # Handlung
 ## Statement – BLUF
-*Handlung X ist für uns eine paradigmatische Handlung.*
+*Handlung XYZ ist für uns eine paradigmatische Handlung.*
 
 ## Erläuterung – TL;DR
-1. Wir verstehen unter der paradigmatischen Handlung X, eine Handlung wie Y.
+### Handlungsgefüge und Wertgefüge
+Wir sind davon überzeugt, dass *XYZ*, mit allen unseren anderen Werten sowie allen unseren anderen Handlungen im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
 
-2. Das heißt Z.
+### Handlungsdimensionen
+Wir beschreiben im Folgenden diejenigen [Handlungsdimensionen](../synopsis/reasons.md) des *XYZ*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
 
-3. …
-
-# Beispiel
-## Grund – BLUF
-*Wir führen die Handlung X als paradigmatische Handlung auf, weil Y*
-
-## Beispiele – TL;DR
-Unsere paradigmatische Handlung X steht repräsentativ für eine Reihe von Handlungen beziehungsweise für eine Reihe von Resultaten aus Handlungen.
-Diese Handlungen oder Resultate stehen in einem Sinnzusammenhang zu unserem Ethos.
-Exemplarisch zu nennen sind hiervon:
+Wir begreifen *XYZ* als eine [paradigmatischen Handlung](../synopsis/reasons.md), die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
 
 1. W,
 
@@ -24,4 +17,5 @@ Exemplarisch zu nennen sind hiervon:
 
 3. …
 
-[Unsere Listen](../synopsis/reasons.md)
+Die in dieser Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
+In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.

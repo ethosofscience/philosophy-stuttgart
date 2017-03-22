@@ -78,6 +78,35 @@ Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werde
 
 Viele der Handlungsfelder verweisen aufeinander, einige der Werte stehen im Kontext bestimmter Handlungen möglicherweise im Konflikt zueinander. Für diese Fälle gilt es, reflektiert und verantwortungsvoll abzuwägen, welcher Wert in diesem Kontext die höhere Relevanz hat.
 
+## Wertdimensionen
+Wir begreifen unsere Werte:
+
+1. [Fairness](../values/v1_fairness.md),
+2. [Freiheit](../values/v2_freedom.md),
+3. [Lebendigkeit](../values/v3_liveliness.md),
+4. [Offenheit](../values/v4_openness.md),
+5. [Professionalität](../values/v5_professionality.md),
+6. [Verantwortung](../values/v6_responsibility.md)
+
+als dicke, mehrdimensionale, intrinsisch wertvolle Konzepte.
+In der Formulierung unserer Werte erläutern wir diejenigen Dimensionen des jeweiligen Wertes.
+Unter einer Dimension eines Wertes verstehen wir seine einzelnen Aspekte beziehungsweise Facetten.
+
+## Handlungsdimensionen
+Wir begreifen unser Handlungen:
+
+1. [Fairness](../values/v1_fairness.md),
+2. [Freiheit](../values/v2_freedom.md),
+3. [Lebendigkeit](../values/v3_liveliness.md),
+4. [Offenheit](../values/v4_openness.md),
+5. [Professionalität](../values/v5_professionality.md),
+6. [Verantwortung](../values/v6_responsibility.md)
+
+als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
+
+## Handlungsfelder
+…
+
 ## Wertcharakter
 Wir gehen davon aus, dass einige der Werte, zu denen wir uns hier bekennen, *intrinsisch wertvoll* sind. (vgl. SEP 2017)
 Deshalb glauben wir, dass die entsprechenden Werte nicht rechtfertigungsbedürftig und auch nicht rechtfertigungswürdig sind.

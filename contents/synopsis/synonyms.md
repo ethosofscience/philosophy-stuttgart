@@ -13,7 +13,7 @@ Wir glauben, dass die hier gelisteten Worte ähnlich (synonym) genug sind, dass 
 | Einfachheit         | Schlichtheit    |         |         |   |   |
 | Exaktheit           | Genauigkeit     |         |         |   |   |
 | Frage               | Fragestellung   |         |         |   |   |
-|                     |                 |         |         |   |   |
+| Dimension           | Aspekt, Facette |         |         |   |   |
 |                     |                 |         |         |   |   |
 |                     |                 |         |         |   |   |
 |                     |                 |         |         |   |   |
