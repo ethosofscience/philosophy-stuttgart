@@ -68,18 +68,7 @@ Das heißt, wir glauben, dass wir
 
 können und sollen.
 Was es heißt, professionell zu forschen, professionell zu lehren, professionell unsere Rollen wahrzunehmen, professionell zu studieren und professionell zusammenzuleben, das entscheidet sich immer jeweils in Bezug auf die entsprechende Handlung.
-
-Die Ausübung einer Handlung (oder eine Tätigkeit) ist professionell, wenn sie im Einklang stehen mit
-
-1. den für diese paradigmatische Handlung relevanten Werten, mindestens aber mit unseren Werten:
-
-  1. [Fairness](../contents/values/v1_fairness.md),
-  2. [Freiheit](../contents/values/v12_freedom.md),
-  3. [Lebendigkeit](../contents/values/v3_liveliness.md),
-  4. [Offenheit](../contents/values/v4_openness.md),
-  5. [Verantwortung](../contents/values/v5_responsibility.md)
-
-2. sowie den im Folgenden aufgelisteten Dimensionen (Merkmalen) der Professionalität.
+Siehe hierzu [Zusammenhang](##Zusammenhang).
 
 Die im Folgenden gelisteten Dimensionen sind nicht an eine einzige paradigmatische Handlung gebunden, sondern können Dimensionen der Professionalität vieler Handlungen sein.
 Unsere Liste ist höchstwahrscheinlich nicht vollständig, aber sie enthält ein Bündel all derjenigen Dimensionen der Professionalität, die für uns wichtig sind.
@@ -290,6 +279,9 @@ Eine Tätigkeit ist professionell genau dann, wenn sie kunstfertig (téchne) ist
 Zur Gutheit von Handlungen siehe Aristoteles.
 
 Ansonsten siehe [Gründe über Gründe](../contents/reasons/reasons.md).
+
+## Zusammenhang
+Wir sind davon überzeugt, dass die *Professionalität*, mit unseren [Handlungen](../contents/synopsis/objects.md), unseren anderen [Werten](../contents/synopsis/objects.md) und unseren relevanten [EDO](../contents/synopsis/objects.md) im [Einklang](../contents/synopsis/reasons.md) steht und stehen sollte.
 
 # Links
 1. [Wikipedia. 2017. Quality](https://en.wikipedia.org/wiki/Quality)
