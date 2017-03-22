@@ -97,7 +97,7 @@ Wir sind davon überzeugt, dass unsere Forschung, unsere Lehre und unser Studium
 Professionell forschen, lehren, und studieren heißt, wissenschaftlich zu forschen, wissenschaftlich zu lehren, wissenschaftlich zu studieren.
 Sowohl in Bezug auf die Frage nach den Standards der Wissenschaften als auch in Bezug auf die Frage nach der Philosophie als Wissenschaft schließen wir uns im Folgenden den Überlegungen Geert Keils (1996) an.
 
-Gedanken, Ideen, Begriffe, Propositionen, Überzeugungen, Hypothesen, Argumente, Fragen, Fragestellungen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Daten, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera sind *wissenschaftlich*, wenn sie den *de facto* Standards der Wissenschaft genügen.
+EDO sind *wissenschaftlich*, wenn sie den *de facto* Standards der Wissenschaft genügen.
 [Wissenschaftlichkeit und mehr](###wissenschaftlichkeit-und-mehr)
 
 Wir sind davon überzeugt, dass es *de facto* Standards innerhalb der Wissenschaften gibt, denen sich zumindest die jeweilige Wissenschaft selbst verpflichtet. (Keil 1996)
