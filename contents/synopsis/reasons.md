@@ -115,7 +115,7 @@ Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität uns
 (siehe [Wertekonflikte im Überlegungsgleichgewicht](##wertekonflikte-im-überlegungsgleichgewicht))
 
 ## Einklang unserer Werte – Überlegungsgleichgewicht
-### Werteeinklang
+### Wertgefüge – Werteeinklang
 Wir sind davon überzeugt, dass das *verantwortungsvolle Forschen*, mit unseren Handlungen, wie sie in
 1. [Forschen](../actions/a1_research.md),
 2. [Lehren](../actions/a2_teach.md),
