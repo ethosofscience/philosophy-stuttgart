@@ -97,7 +97,7 @@ Wir sind davon überzeugt, dass unsere Forschung, unsere Lehre und unser Studium
 Professionell forschen, lehren, und studieren heißt, wissenschaftlich zu forschen, wissenschaftlich zu lehren, wissenschaftlich zu studieren.
 Sowohl in Bezug auf die Frage nach den Standards der Wissenschaften als auch in Bezug auf die Frage nach der Philosophie als Wissenschaft schließen wir uns im Folgenden den Überlegungen Geert Keils (1996) an.
 
-EDO sind *wissenschaftlich*, wenn sie den *de facto* Standards der Wissenschaft genügen.
+Gedanken, Ideen, Begriffe, Propositionen, Überzeugungen, Hypothesen, Argumente, Fragen, Fragestellungen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Daten, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera sind *wissenschaftlich*, wenn sie den *de facto* Standards der Wissenschaft genügen.
 [Wissenschaftlichkeit und mehr](###wissenschaftlichkeit-und-mehr)
 
 Wir sind davon überzeugt, dass es *de facto* Standards innerhalb der Wissenschaften gibt, denen sich zumindest die jeweilige Wissenschaft selbst verpflichtet. (Keil 1996)
@@ -156,7 +156,7 @@ Klarheit zerfällt in mindestens die folgenden Dimensionen:
 7. Explizitheit.
 
 #### Zur Einfachheit, Schlichtheit, Proportionalität, Ockhams Razor
-Wir verstehen unter der Einfachheit bezüglich EDO dreierlei:
+Wir verstehen unter der Einfachheit bezüglich Wir verstehen unter der Einfachheit bezüglich eines Objektes, eines Zustandes, eines Gedankens, einer Idee, eines Begriffs, einer Aussage, einer Überzeugung, einer Hypothese, eines Arguments, eines Beweises, einer Frage, einer Antwort, einer Lösung, eines Lösungsansatzes, einer Arbeit, einer Theorie, eines Textes, eines Resultats, einer Datenmenge, eines Algorithmus, eines Experiments, einer Messung, einer Beobachtung, einer Analyse, einer Handlung, eines Diskurses, einer Veranstaltung, eines Projektes, et cetera dreierlei:
 
   1. die Minimalität der Elemente, Grundbausteine beziehungsweise Faktoren;
 
