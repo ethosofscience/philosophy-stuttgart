@@ -40,6 +40,12 @@ Wir geben in der Formulierung unseres Ethos Definitionen unserer Begriffe, Handl
 Mit diesen Definitionen verbinden wir selbstverständlich jedoch keine allgemeinen Gültigkeitsansprüche.
 Unsere Definitionen können als unser eigenes Verständnis von den jeweiligen Begriffen, Handlungen und Werten angesehen werden, als *philosophy flavoured Wikipedia definitions*.
 
+## Unsere Listen
+Wir sind uns über die Unvollständikeit unserer Listen bewusst.
+Wir sind uns darüber im Klaren, dass unsere Listen oft verlängert oder verkürzt werden können.
+Unsere Listen erfüllen nur den Zweck, griffige Beispiele anzugeben.
+Wir vertrauen darauf, dass wir und unsere Leserinnen die Familienähnlichkeit zwischen den gelisteten paradigmatischen Fällen zu sehen sowie sie wo nötig anzupassen vermögen.
+
 ## Lebendige Werte
 Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
