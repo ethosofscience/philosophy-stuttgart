@@ -49,7 +49,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
   1. vorausschauend sind, ethisch und technisch wohlbegründet;
 
-  2. rückwirkend die Folgen tragen.
+  2. rückwirkend unaufgefordert (proaktiv) die Folgen tragen.
 
 2. Verantwortlich zu handeln bedeutet, den gerechtfertigten Ansprüchen an sich von sich aus nachzukommen.
 
