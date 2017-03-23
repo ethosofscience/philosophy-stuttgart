@@ -35,21 +35,30 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 *Wir sind verantwortungsvoll.*
 
 ## Erläuterung – TL;DR
+### Wertgefüge und Handlungsgefüge
+Wir sind davon überzeugt, dass *XYZ*, mit allen unseren anderen Handlungen sowie allen unseren anderen Werten im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
+
+### Wertdimensionen
+Wir beschreiben im Folgenden diejenigen [Wertdimensionen](../synopsis/reasons.md) der *XYZ*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
+
+Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
+In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
+
 1. Wir verstehen unter Verantwortung zweierlei:
 
   1. *Positive Verantwortung*: Die *Selbstverpflichtung* (Reflexsivität), die eigenständige und proaktive Zuschreibung der Pflicht zu sich selbst,
 
-    1. für alle eigenen *EDO* insbesondere für die eigenen Handlungen beziehungsweise das eigene Verhalten sowie die eigenen Entscheidungen *einzustehen* sowie
+    1. für alle eigenen Entscheidungen, das eigene Verhalten und alle eigenen Handlungen beziehungsweise alle Resultate unserer eigenen Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren, *einzustehen* sowie
 
-    2. für alle *EDO* insbesondere für die Handlungen beziehungsweise das Verhalten sowie die Entscheidungen all derjenigen einzustehen, die im eigenen Namen geschehen.
+    2. für Entscheidungen, Verhalten und Handlungen beziehungsweise Resultate von Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren, *einzustehen*, die im eigenen Namen (im Auftrag) geschehen.
 
   2. *Negative Verantwortung*: Die gerechtfertigte Verpflichtung (Transitivität) anderer, falls diese ihre Verantwortung nicht selbst wahrnehmen.
 
-2. Unter der *Selbstverpflichtung* für die eigenen sowie die *EDO*  insbesondere für die Handlungen beziehungsweise das Verhalten und die Entscheidungen anderer *einzustehen*, verstehen wir, dass wir
+2. Unter der *Selbstverpflichtung* im genannten Sinne verstehen wir, dass wir
 
-  1. vorausschauend sind, ethisch und technisch wohlbegründet;
+  1. vorausschauend sind, ethisch und technisch (methodisch) wohlbegründet sowie
 
-  2. rückwirkend unaufgefordert (proaktiv) die Folgen tragen.
+  2. unaufgefordert (proaktiv) die Folgen unserer Handlungen beziehungsweise die Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren, tragen.
 
 2. Verantwortlich zu handeln bedeutet, den gerechtfertigten Ansprüchen an sich von sich aus nachzukommen.
 
