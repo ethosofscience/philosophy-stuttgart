@@ -11,13 +11,14 @@ Wir sind davon überzeugt, dass *XYZ*, mit allen unseren anderen Handlungen sowi
 Wir beschreiben im Folgenden das [Handlungsfeld](../synopsis/reasons.md) des *XYZ*, wie es sich aus der [Wert](../values/vi_value.md)
 und dem [Handlung](../actions/ai_action.md) ergibt.
 
+Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
+In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
+
 1. Wir verstehen darunter X.
 
 2. Das heißt Y.
 
 3. …
-
-In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 
 ### Begründung
 ### Grund – BLUF
