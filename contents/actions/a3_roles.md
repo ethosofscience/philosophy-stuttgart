@@ -30,7 +30,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Rollenwahrnehmung (Rolle transparent gestalten, -erkennen, -einnehmen, -leben, -tolerieren, -respektieren, -schützen, -reflektieren,  …) a3
+# Rollenwahrnehmung (…) a3
 ## Statement – BLUF
 *Rollenwahrnehmung ist für uns eine paradigmatische Handlung.*
 
