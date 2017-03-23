@@ -44,55 +44,17 @@ Professionalität bemisst sich an den Sitten, Gebräuchen, Normen und Standards 
 Zu betonen ist, dass Professionalität in einem guten Sinne relativ ist, relativ zu bestimmten Tätigkeitsfeldern, zu bestimmten Zeiten, in bestimmten praktizierenden Gemeinschaften.
 Das bedeutet jedoch – insbesondere bezüglich der Wissenschaften – nicht, dass die Maßstäbe der Professionalität nicht kritikfähig wären; im Gegenteil sind sie – insbesondere bezüglich der Wissenschaften – ständig Gegenstand vielfältiger Kritik und erfahren dadurch eine ständige inkrementelle Entwicklung.
 
-## Relevanz
-### Grund – BLUF
-*Wir bekennen uns zur Professionalität, weil sie uns die entscheidenden qualitätiven Maßstäbe bezüglich unserer Tätigkeitsfelder bereitstellt, durch die wir ein hohes technisches und ethisches Niveau unser Mittel und unserer Ziele erreichen.*
+### Wertgefüge und Handlungsgefüge
+Wir sind davon überzeugt, dass *Professionlität*, mit allen unseren anderen Handlungen sowie allen unseren anderen Werten im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
 
-### Dimensionen der Professionalität
-Die in unseren paradigmatisch Handlungen auftretenden Tätigkeiten können grundsätzlich professionell ausgeübt werden, sowohl:
+### Wertdimensionen
+Wir beschreiben im Folgenden diejenigen [Wertdimensionen](../synopsis/reasons.md) der *Professionlität*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
 
-1. unsere Forschung,
-2. unsere Lehre,
-3. unsere Rollenwahrnehmung,
-4. unsere Studien als auch
-5. unsere Zusammenleben (siehe [Notiz zum Zusammenleben](###notiz-zum-zusammenleben)).
+Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
+In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 
-Wir glauben, dass alle unsere Handlungen von Professionalität geprägt sein können und sollen.
-Das heißt, wir glauben, dass wir
-
-1. professionell forschen,
-2. professionell lehren,
-3. professionell unsere Rollen wahrnehmen,
-4. professionell studieren und
-5. professionell zusammenleben (siehe [Notiz zum Zusammenleben](###notiz-zum-zusammenleben))
-
-können und sollen.
-Was es heißt, professionell zu forschen, professionell zu lehren, professionell unsere Rollen wahrzunehmen, professionell zu studieren und professionell zusammenzuleben, das entscheidet sich immer jeweils in Bezug auf die entsprechende Handlung.
-Siehe hierzu [Zusammenhang](##Zusammenhang).
-
-Die im Folgenden gelisteten Dimensionen sind nicht an eine einzige paradigmatische Handlung gebunden, sondern können Dimensionen der Professionalität vieler Handlungen sein.
-Unsere Liste ist höchstwahrscheinlich nicht vollständig, aber sie enthält ein Bündel all derjenigen Dimensionen der Professionalität, die für uns wichtig sind.
-
-Jede Dimension der Professionalität enthält ihrerseits Werte und Standards.
-Einige der hier aufgeführten Standards und Werte berühren und überschneiden sich im bestmöglichen Sinne.
-Insbesondere glauben wir, dass einige der in unserem Ethos formulierten Werte und Standards zugleich auch Teil der wichtigsten Standards und Werte der Wissenschaft sind.
-Umgekehrt sind auch viele Standards und Werte der Wissenschaft zugleich Standards und Werte der außerhalb der Wissenschaft.
-
-### Professionalität 1 – Wissenschaftlichkeit
-#### Notiz – Die Wissenschaftlichkeit als Wert an sich
-Wir sind davon überzeugt, dass die Wissenschaftlichkeit nicht nur eine Dimension der Professionalität in Bezug auf die Forschung ist, sondern ein Wert für sich, dem eine besondere Rolle zukommt.
-
-Wir glauben, der Wert der Wissenschaftlichkeit zerfällt in mindestens die zwei folgenden Dimensionen:
-
-1. (Reflexivität) Der Wert der Wissenschaftlichkeit hat explizit sich selbst zum Gegenstand. Das heißt, zweierlei:
-
-  1. Dass sich der Wert der Wissenschaftlichkeit selbst daran misst, was wissenschaftlich ist und umgekehrt;
-
-  2. Dass er seine eigene Werthaftigkeit wissenschaftlich infrage stellt;
-
-2. (Transitivität) wissenschaftlich ist alles dasjenige, das, unter der Einschränkung anderer (moralischer) Werte, dem Erkenntisgewinn dient.
-
-#### Wir sind wissenschaftlich
+#### Professionalität 1 – Wissenschaftlichkeit
+##### Wir sind wissenschaftlich
 Wir sind davon überzeugt, dass unsere Forschung, unsere Lehre und unser Studium wissenschaftlich ist, wenn wir professionell forschen, professionell lehren und professionell studieren.
 Professionell forschen, lehren, und studieren heißt, wissenschaftlich zu forschen, wissenschaftlich zu lehren, wissenschaftlich zu studieren.
 Sowohl in Bezug auf die Frage nach den Standards der Wissenschaften als auch in Bezug auf die Frage nach der Philosophie als Wissenschaft schließen wir uns im Folgenden den Überlegungen Geert Keils (1996) an.
@@ -127,7 +89,7 @@ Standards, die in der einen Wissenschaft gelten können, aber müssen nicht in e
 „Der rote Faden ›Wissenschaftlichkeit‹ ist aus vielen einzelnen Fasern zusammengesetzt.“
 (Keil 1996, S. 45) und (Wittgenstein PU § 67)
 
-#### Wir sind wissenschaftliche Philosophinnen
+##### Wir sind wissenschaftliche Philosophinnen
 Wir sind insbesondere davon überzeugt, dass unsere philosophische Forschung, unsere philosophische Lehre und unser philosophisches Studium wissenschaftlich ist, wenn wir professionell forschen, professionell lehren und professionell studieren.
 Professionell philosophisch zu forschen, philosophisch zu lehren und philosophisch zu studieren heißt, wissenschaftlich zu forschen, wissenschaftlich zu lehren und wissenschaftlich zu studieren.
 
@@ -145,8 +107,8 @@ Wir sind davon überzeugt, dass insofern die Philosophie professionell betrieben
 „Wer das philosophische Geschäft professionell betreibt, unterwirft sich nicht einem heteronomen Wissenschaftsideal oder einem »Szientismus«, sondern hat sich dafür entschieden, die Standards, die er mit guten Gründen anerkannt hat, nicht wissentlich zu unterbieten.“
 (Keil 1996, S. 48)
 
-### Professionalität 2 – Klarheit
-Klarheit zerfällt in mindestens die folgenden Dimensionen:
+#### Professionalität 2 – Klarheit
+Wir verstehen unter der *Klarheit* der Handlungen beziehungsweise unter der *Klarheit* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren, die folgenden Aspekte:
 
 1. Einfachheit,
 2. Exaktheit (Präzesion),
@@ -155,8 +117,8 @@ Klarheit zerfällt in mindestens die folgenden Dimensionen:
 6. Kohärenz,
 7. Explizitheit.
 
-#### Zur Einfachheit, Schlichtheit, Proportionalität, Ockhams Razor
-Wir verstehen unter der Einfachheit bezüglich eines Objektes, eines Zustandes, eines Gedankens, einer Idee, eines Begriffs, einer Aussage, einer Überzeugung, einer Hypothese, eines Arguments, eines Beweises, einer Frage, einer Antwort, einer Lösung, eines Lösungsansatzes, einer Arbeit, einer Theorie, eines Textes, eines Resultats, einer Datenmenge, eines Algorithmus, eines Experiments, einer Messung, einer Beobachtung, einer Analyse, einer Handlung, eines Diskurses, einer Veranstaltung, eines Projektes, et cetera dreierlei:
+##### Zur Einfachheit, Schlichtheit, Proportionalität, Ockhams Razor
+Wir verstehen unter der *Einfachheit* der Handlungen beziehungsweise unter der *Einfachheit* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren, dreierlei:
 
   1. die Minimalität der Elemente, Grundbausteine beziehungsweise Faktoren;
 
@@ -164,17 +126,11 @@ Wir verstehen unter der Einfachheit bezüglich eines Objektes, eines Zustandes, 
 
   3. die Minimalität der sich aus diesen Elementen, Grundbausteinen beziehungsweise Faktoren und Regeln beziehungsweise Gesetzen ergebenden Strukturen.
 
-Einfachheit ist das Gegenteil von Komplexität.
-
-Oft ist die Anzahl von Elementen umgekehrt proportional zur Anzahl der Regeln.
-
 Im Gegensatz zur strukturellen Einfachheit, die nicht immer anzustreben ist, sind wir davon überzeugt, dass die Komplexitätsreduktion und die sich damit einstellende Einfachheit grundsätzlich erstrebenswert ist.
-Allerdings glauben wir, dass unsere Objekte, Zustände,
-Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera so einfach wie möglich und so komplex wie nötig sein sollten.
+Allerdings glauben wir, dass unsere Handlungen beziehungsweise die Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md) spezifizieren, *so einfach wie möglich und so komplex wie nötig* sein sollten.
 
-#### Zur Exaktheit – Richtigkeit und Präzision
-Wir verstehen unter der Exaktheit unserer Objekte, Zustände,
-Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
+##### Zur Exaktheit – Richtigkeit und Präzision
+Wir verstehen unter der *Exaktheit* der Handlungen beziehungsweise unter der *Exaktheit* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren:
 
 1. ihre Richtigkeit und
 2. ihre Präzision.
@@ -184,8 +140,8 @@ Unter ihrer Präzision ihre Passgenauigkeit in Bezug auf bestimmte formale und i
 
 Wir verstehen unter der Korrektheit ihre Eigenschaft bestimmten formalen und inhaltlichen Anforderungen, Spezifikationen und Bedingungen und Sachverhalten zu genügen.
 
-#### Zur Eindeutigkeit
-Wir verstehen unter der Eindeutigkeit unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
+##### Zur Eindeutigkeit
+Wir verstehen unter der *Eindeutigkeit* der Handlungen beziehungsweise unter der *Eindeutigkeit* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren:
 
 1. ihre Unmissverständlichkeit (Verständlichkeit),   
 2. ihre Interpretationsunabhängigkeit und
@@ -197,12 +153,12 @@ Unter ihrer Kontextinvarianz verstehen wir ihre Eigenschaft, über sehr viele Me
 Eindeutigkeit ist das Gegenstück zur Vagheit, Doppeldeutigkeit, Mehrdeutigkeit und Unschärfe.
 Wir wissen nicht, ob Eindeutigkeit vollständig erreicht werden kann, aber wir sind davon überzeugt, dass alleine der Versuch, Eindeutigkeit herzustellen zu die Eindeutigkeit hinreichend annähert.
 
-#### Zur Struktur
-Wir verstehen unter der Struktur (Strukturiertheit) unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera ihre syntaktische und semantische Ordnung.
+##### Zur Struktur
+Wir verstehen unter der *Struktur* der Handlungen beziehungsweise unter der *Struktur* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren, ihre *syntaktische und semantische Ordnung*.
 Unter ihrer syntaktischen und semantischen Ordnung verstehen wir ihre Ordnung nach abstrakten Kategorien und ihre Ordnung in Einklang zu konkreten Sachverhalten.
 
-#### Zur Kohärenz
-Wir verstehen unter der Kohärenz unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
+##### Zur Kohärenz
+Wir verstehen unter der *Kohärenz* der Handlungen beziehungsweise unter der *Kohärenz* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren,
 
 1. ihre Konsistenz (Nichtwidersprüchlichkeit) und
 2. ihre semantische Relationalität (inhalticher Bezug).
@@ -210,8 +166,8 @@ Wir verstehen unter der Kohärenz unserer Objekte, Zustände, Gedanken, Ideen, B
 Unter ihrer Konsistenz verstehen wir ihre Freiheit von Widersprüchen.
 Unter ihrer semantischen Relationalität verstehen wir ihre Eigenschaft sich aufeinander zu beziehen.
 
-#### Zur Expliztheit
-Wir verstehen unter der Explizitheit unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera mindestens
+##### Zur Expliztheit
+Wir verstehen unter der *Explizitheit* der Handlungen beziehungsweise unter der *Explizitheit* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren, mindestens
 
 1. die proaktive Offenlegung der tatsächlichen Beweggründe zur ihrer Entstehung;
 
@@ -238,8 +194,8 @@ Wir verstehen unter der Explizitheit unserer Objekte, Zustände, Gedanken, Ideen
 Siehe hierzu auch [Offenheit](../contents/values/v5_openness.md)
 und [Fairness](../contents/values/v1_fairness.md).
 
-### Professionalität 4 – Relevanz
-Wir verstehen unter der Relevanz unserer Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
+#### Professionalität 4 – Relevanz
+Wir verstehen unter der *Relevanz* der Handlungen beziehungsweise unter der *Relevanz* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren,
 ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
 
 1. neu,
@@ -248,12 +204,12 @@ ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
 
 zu sein.
 
-### Professionalität 5 – Feedback
-Wir sind davon überzeugt, dass es ganz allgemein gut ist regelmäßig, planmäßig und gezielt zu konkreten Sachverhalten beispielsweise zu Objekten, Zuständen, Gedanken, Ideen, Begriffen, Aussagen, Überzeugungen, Hypothesen, Argumenten, Beweisen, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera
+#### Professionalität 5 – Feedback
+Wir sind davon überzeugt, dass es ganz allgemein gut ist regelmäßig, planmäßig und gezielt zu konkreten Sachverhalten beispielsweise zu unseren eigenen  Handlungen beziehungsweise zu den Resultaten unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md) spezifizieren,
 proaktiv (initiativ) Feedback einzuholen.
 Wir glauben, dass es im Allgemeinen nicht hilfreich ist ungefragt Feedback zu geben.
 
-### Notiz zur Professionalität in Bezug auf unser Zusammenleben
+#### Notiz zur Professionalität in Bezug auf unser Zusammenleben
 Eine Sonderrolle nimmt in diesem Zusammenhang die repräsentative Handlung Zusammenleben ein.
 Oft sprechen wir vom Zusammenleben und Zusammensein oder vom persönlichen Austausch gerade im Kontrast zu professionellen Kontexten wie der alltäglichen Zusammenarbeit.
 Wir sind aber überzeugt, dass unser Zusammenleben (das Institutsleben) über alle Rollen (Positionen) hinweg in ein professionelles Umfeld eingebettet ist.
@@ -263,24 +219,26 @@ Dadurch schaffen wir uns den Raum für authentische Freundschaften.
 Wir möchten allerdings betonen, dass diese Auffassung, authentische Freundschaften in rein professionellen Kontexten natürlich nicht ausschließt.
 Mehr noch, glauben wir, dass es Teil der Professionalität ist, sich um authentische Freundschaften zu bemühen.
 
+## Relevanz
+### Grund – BLUF
+*Wir bekennen uns zur Professionalität, weil sie uns die entscheidenden qualitätiven Maßstäbe bezüglich unserer Tätigkeitsfelder bereitstellt, durch die wir ein hohes technisches und ethisches Niveau unser Mittel und unserer Ziele erreichen.*
+Wir verstehen unter der *Kohärenz* der Handlungen beziehungsweise unter der *Kohärenz* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren,
+
 ## Argumente – TL;DR
 Wir setzen hier unser Verständnis von Professionalität voraus wie wir es in [Wir verstehen unter Professionalität](##wir-verstehen-unter-professionalität) beschreiben.
 Wir glauben, dass eine Tätigkeit genau dann professionell ist, wenn sie kunstfertig (téchne) ist.
 
-1. Das höchste technische und ethische Niveau unserer Mittel und Zwecke setzt die höchsten Maßstäbe an unsere Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Frage, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera voraus.
+1. Das höchste technische und ethische Niveau unserer Mittel und Zwecke setzt die höchsten Maßstäbe an unsere eigenen Handlungen beziehungsweise an die Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md) spezifizieren, voraus.
 
 2. Wir streben nach dem höchsten technische und ethischen Niveau unsere Mittel und unserer Zwecke.
 
-3. Die höchsten Maßstäbe an unsere Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Frage, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera setzen Professionalität voraus.
+3. Die höchsten Maßstäbe an unsere eigenen Handlungen beziehungsweise an die Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md) spezifizieren, setzen Professionalität voraus.
 
 4. Also, sollten wir nach Professionalität streben.
 
 Zur Gutheit von Handlungen siehe Aristoteles.
 
 Ansonsten siehe [Gründe über Gründe](../contents/reasons/reasons.md).
-
-## Zusammenhang
-Wir sind davon überzeugt, dass die *Professionalität*, mit unseren [Handlungen](../contents/synopsis/objects.md), unseren anderen [Werten](../contents/synopsis/objects.md) und unseren relevanten [EDO](../contents/synopsis/objects.md) im [Einklang](../contents/synopsis/reasons.md) steht und stehen sollte.
 
 # Links
 1. [Wikipedia. 2017. Quality](https://en.wikipedia.org/wiki/Quality)
