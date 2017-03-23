@@ -30,60 +30,76 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Rollenwahrnehmung (Rollen einnehmen, Rollen sehen, …) a3
-## Wir verstehen unter Rollenwahrnehmung …
-…
-Eine Rolle wird konstituiert durch (soziale) Erwartungen, Handlungsmuster, Ansprüche, Anforderungen, Rechte und Plfichten (...). Am Institut arbeiten und leben wir alle vor allem als Menschen zusammen, befinden uns jedoch alle auch in bestimmten Rollen.
-Mit jeder Rolle gehen Freiheiten, Rechte und Pflichten einher.
+# Rollenwahrnehmung (Rolle transparent gestalten, -erkennen, -einnehmen, -leben, -tolerieren, -respektieren, -schützen, -reflektieren,  …) a3
+## Statement – BLUF
+*Rollenwahrnehmung ist für uns eine paradigmatische Handlung.*
 
-Unter *Rollenwahrnehmung* verstehen wir das Wahrnehmen dieser Rolle, sowohl:
+## Erläuterung – TL;DR
+### Handlungsgefüge und Wertgefüge
+Wir sind davon überzeugt, dass die *Rollenwahrnehmung*, mit allen unseren anderen Werten sowie allen unseren anderen Handlungen im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
 
-1. als reflektiertes und aufmerksames *Erkennen* der Rolle und der damit verbundenen Freiheiten, Rechte und Pflichten,
+### Handlungsdimensionen
+Wir beschreiben im Folgenden diejenigen [Handlungsdimensionen](../synopsis/reasons.md) der *Rollenwahrnehmung*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
 
-2. als auch als aktives und bewusstes *Einnehmen* der Rolle.
+1. Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir das Wahrnehmen *einer(mehrerer) Rolle(n)* als:
 
-Prinzipiell kann es sein, dass eine Person verschiedene Rollen einnimmt, wie zum Beispiel als TutorIn und als StudentIn. In manchen Fällen kann es zudem sein, dass zwischen verschiedenen Rollen und den damit verbundenen Rechten und Pflichten abgewägt werden muss, vor allem wenn sich durch zwei verschiedene Rollen Spannungsfelder oder Konflikte ergeben.
+  a) *reflektiertes* und *aufmerksames* *Erkennen* der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie
 
-verschiedene Rollen im Institut sind (alphabetisch):
+  b) *aktives* und *bewusstes* *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
 
-DozentIn,
-FachgruppensprecherIn,
-HiWi,
-InstitutsleiterIn,
-ProfessorIn,
-StudentIn,
-TutorIn,
-Verwaltungskraft,
-...
+2. Eine *Rolle* wird konstituiert durch (soziale) Erwartungen, Handlungsmuster, Ansprüche, Anforderungen, Rechte und Plfichten (...).
 
-[Exemplarisch auf die Rechte und Pflichten von Studierenden und Dozierenden eingehen, da diese die am häufigsten angenommenen Rollen sind?]
+3. Am Institut arbeiten und leben wir vor allem als *Menschen* zusammen, befinden uns jedoch auch in *verschiedenen Rollen*.
 
-###Rolle StudentIn:
-Rechte: Studieren, Wissenserwerb, freie Planung des Studiums, freie Meinungsäußerung,
-Pflichten: Einhaltung der Prüfungsordnung (?) Eigenverantwortung, (Engagement?), Einhaltung von Vereinbarungen (z.B. Fristen)
+4. Mögliche *Rollen* am Institut können sein:
 
-###Rolle DozentIn:
-Rechte: Freie Gestaltung der Lehrinhalte, sofern sie den vom Institut verordneten Anforderungen gerecht werden, freie Meinungsäußerung,
-Pflichten: Einhaltung der Prüfungsordnung, gesteigertes Rollenbewusstsein und damit einhergehende Verantwortung, tolerantes und respektvolles Auftreten, objektive Bewertung
+  - Studentin
+  - Gasthörerin
+  - Tutorin
+  - Fachgruppensprecherin
+  - Studentische Hilfskraft
+  - Verwaltungsfachangestellte
+  - Dozentin / Gastdozentin
+  - Professorin
+  - stellvertr. Institutsleiterin
+  - Institutsleiterin
+  - ...
 
+5. Mit jeder *Rolle* gehen Freiheiten, Rechte und Pflichten einher, welche zunehmend kontextabhängig sind.
 
+6. Eine Person kann verschiedene *Rollen* einnehmen (z.B.als Studentin *und* Tutorin). Eine Kollidierung mehrerer Rollen ist daher möglich und *normal*. Die reflektierende Person muss dann bewusst und eigenverantwortlich zwischen den damit verbunden Rechten und Pflichten abwägen.
 
-Gedanken aus "Freiheit und Rollenwahrnehmung"
-Mit allen Rollen gehen bestimmte Freiheiten, Rechte und Pflichten einher (ab jetzt mit "Rolle" abgekürzt).
-Diese versuchen wir a) transparent zu gestalten, b) aktiv zu erkennen und zu respektieren und c) zu reflektieren. [Offenheit und Rollenwahrnehmung](../contents/fields/v4a3.md)
-Zu 1a): Werden die verschiedenen Rollen transparent gestaltet, ist es einfacher für alle Beteiligten, die Rollen zu erkennen.
+7. Diese *Rollen*, sowie den damit verbundenen Freiheiten, Rechten und Pflichten, versuchen wir
 
-Zu 1b): Werden Rollen aktiv erkannt, ist es einfacher für alle Beteiligten, sich entsprechend der eigenen Rolle zu verhalten und andere Rollen zu respektieren.
+  a) *transparent* zu gestalten
 
-Zu 1c): Werden Rollen reflektiert, können bestimmte festgefahrene Muster erkannt und gegebenenfalls korrigiert werden.
-[Offenheit und Rollenwahrnehmung](../contents/fields/v4a3.md)
+  b) *aktiv* zu *erkennen* (siehe *Rollenwahrnehmung* oben)
 
-Zu 2a): Freiheit ist ein Wert an sich. Auch wenn bestimmte Rollen bestimmte Freiheiten, Rechte und Pflichten mit sich bringen, gibt es unzählige Wege, die jeweilige Rolle zu erfüllen. Die Freiheit, selbst einen dieser Wege zu wählen ist Teil unseres Selbstverständnisses und nicht weiter zu begründen.
+  c) *einzunehmen* und zu *leben* (siehe *Rollenwahrnehmung* oben)
 
-Zu 2b): Bestimmte Rollen gelten nur für bestimmte Kontexte. Vor allem die damit einhergehenden Pflichten gelten demnach auch nur für bestimmte Kontexte.
+  d) zu *tolerieren* und zu *respektieren*
 
+  e) zu *schützen* und
 
+  f) zu *reflektieren*. [Offenheit und Rollenwahrnehmung](../contents/fields/v4a3.md)
 
+um den bestimmten Werten, die unserem Ethos entsprechen, gerecht zu werden.
+(siehe v1a3, v2a3, v3a3, v4a3, v5,a3, v6a3)
+
+Die in dieser Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
+In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
+
+### Beispiel einer Rollenwahrnehmung als *Studentin*:
+
+- Rechte: Freies Studieren,freier Wissenserwerb, freie Planung des Studiums und des persönlichen Stundenplans (Voerlesungen, Seminare). Freie Meinungsäußerung und die freie Wahl eines Betreuers für eine Abschlussarbeit (...) Ein Recht auf Integration, respektvollen und fairer Umgang mit mir (Gleichheit und Gleichberechtigung), sowie das Recht in meiner Rolle anerkannt zu werden. Datenschutz.
+
+- Pflichten: Rollenbewusstsein und damit einhergehendes eigenverantwortliches Verhalten, d.h. respektvoller, toleranter, und fairer Umgang mit anderen Personen, sowie die Anerkennung ihren Rollen. Eigenverantwortliches Arbeiten/Studieren/Forschen, Anerkennung und Einhaltung der Prüfungs- und Studienordnung und den damit verbundenen Verpflichtungen (z.B. fristgemäße Einreichung von Arbeiten/Prüfungen, Anträgen, etc.). Datenschutz.
+
+### Beispiel einer Rollenwahrnehmung als *Dozentin*:
+
+- Rechte: Freie Gestaltung der Lehrinhalte (sofern diese den universitären und institutsinternen Anforderungen gerecht werden.), freie Meinungsäußerung, respektvoller, toleranter und fairer Umgang mit mir, sowie das Recht in meiner Rolle anerkannt zu werden. Recht auf das Festlegen von Fristen (sofern diese den universitären und institutsinternen Anforderungen gerecht werden.) Allgemeine Rechte, die als Angestellte der Universität Stuttgart zutreffen. Datenschutz.
+
+- Pflichten: Einhaltung der Prüfungs- Studienordnung als Dozentin (Fristen, Verwaltungstechnischen). Gesteigertes Rollenbewusstsein und damit einhergehende Verantwortung, tolerantes und respektvolles Auftreten, sowie eine objektive Bewertung der studentischen Leistungen. Allgemeine Pflichten, die als Angestellte der Universität Stuttgart zutreffen. Datenschutz.
 
 # Links
 1. […](…)
