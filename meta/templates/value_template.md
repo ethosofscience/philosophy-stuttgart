@@ -12,7 +12,7 @@ Wir beschreiben im Folgenden diejenigen [Wertdimensionen](../synopsis/reasons.md
 Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
 In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 
-0. Wir verstehen unter der *XYZ* bezüglich der Handlungen und bezüglich der Resultate von Handlungen, wie sie in [Handlung](../actions/ai_action.md) spezifiziert sind
+0. Wir verstehen unter der *XYZ* der Handlungen und der Resultate von Handlungen, wie sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifiziert sind:
 
   1. …
 
