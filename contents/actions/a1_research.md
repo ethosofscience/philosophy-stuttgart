@@ -49,7 +49,7 @@ Wir begreifen *Forschen* als eine [paradigmatischen Handlung](../synopsis/reason
 
   1. *Philosophische Forschung* findet sich im Austausch mit anderen Wissenschaften
 
-  2. Wir begreifen die *Philosophie* als Wissenschaft. Hierfür gibt es gute Gründe und
+  2. Wir begreifen die *Philosophie* als Wissenschaft. Hierfür gibt es gute Gründe. [siehe hier v5: Professionalität](..\contents\values\v5_professionality.md)
   Wir sehen uns mit diesem Anspruch eingereiht in die philosophische Geschichte (Vgl. beispielsweise  \cite{husserl2009philosophie}, [mehr "große" entsprechende Publikationen einfügen], usf. )
 
 2. Forschung umfasst die *Dokumentation* und die *Publikation* der relevanten *Objekte des Forschens*.
@@ -107,14 +107,9 @@ Wir begreifen *Forschen* als eine [paradigmatischen Handlung](../synopsis/reason
     die Büros,
     das Gebäude des Instituts insgesamt.
 
-5. Forschen unterscheidet sich von der Lehre und dem Studieren [a2 & a3] dadurch, dass es einen weitestgehend selbstständigen Lernprozess darstellt. Dieser findet selbstverständlich im Austausch mit anderen statt und kann gemeinsames Tun umfassen.
-Während Lehre ein Lernen unter Anleitung ist, ist Forschung die eigenständige Suche nach Erkenntnissen.
+5. Forschen unterscheidet sich von [Lehren](../actions/a2_teach.md) und von [Studieren](../actions/a4_study.md) dadurch, dass es einen weitestgehend selbstständigen Lernprozess darstellt.
+Dieser findet im Austausch mit anderen statt und kann gemeinsames Tun umfassen.
 
-
-# Ideen und Erweiterungsmöglichkeiten
-
-1. Forschung und Finanzierung
-2.
 
 # Links
 1. [Wikipedia dt.: Forschung](https://de.wikipedia.org/wiki/Forschung)
