@@ -29,19 +29,86 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
   SUBFILE – This is a SUBFILE! For more INFORMATION on this project go to:
 /README.md
 --->
+# a1: Forschen
+## Statement – BLUF
+*Foschen ist für uns eine paradigmatische Handlung.*
 
-# Forschen (Lesen, Schreiben, Seminar, Zuhören, Reden, … ) a1
-## Wir verstehen unter Forschen …
+## Erläuterung – TL;DR
+### Handlungsgefüge und Wertgefüge
+Wir sind davon überzeugt, dass *Forschen*, mit allen unseren anderen Werten sowie allen unseren anderen Handlungen im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
 
-Forschen umfasst alle zielgerichteten und systematischen Tätigkeiten zum Erwerb von Wissen.
+### Handlungsdimensionen
+Wir beschreiben im Folgenden diejenigen [Handlungsdimensionen](../synopsis/reasons.md) des *Forschens*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
 
-Handlungen des philosophischen Forschens sind vor allem das Lesen, Schreiben, Zuhören und Vortragen.
+Die in dieser Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
+In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 
-Zur Forschung gehört der Austausch sowohl innerhalb des Instituts und der Universität, als auch mit Forschenden anderer Universitäten. Hierzu bedeutend sind: Vorträge, Tagungen, Workshops, Ausschreibungen, öffentliche Diskussionen, ...
+Wir begreifen *Forschen* als eine [paradigmatischen Handlung](../synopsis/reasons.md), die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
 
-Orte des Forschens können in der Philosophie überall sein. Insbesondere ist hier die Institutsbibliothek hervorzuheben, welche das Herz des Instituts darstellt.[Kommentar Louis: Ist die IB wirklich das *Herz* des Instituts? Dafür pumpt es relativ schwach, oder?] Weiterhin sind Arbeitsräume und Büros, zum Beispiel das Fachgruppenzimmer, Orte der Forschung. Aber auch der Seminarraum kann Ort von Forschung sein.
+1. *Forschen* umfasst alle zielgerichteten und systematischen Tätigkeiten zum Erwerb von Wissen.
 
-Forschen unterscheidet sich von der Lehre und dem Studieren [a2 & a3] dadurch, dass es einen weitestgehend selbstständigen Lernprozess darstellt. Dieser findet selbstverständlich im Austausch mit anderen statt und kann gemeinsames Tun umfassen. Während Lehre ein Lernen unter Anleitung ist, ist Forschung die eigenständige Suche nach Erkenntnissen.
+  1. *Philosophische Forschung* findet sich im Austausch mit anderen Wissenschaften
+
+  2. Wir begreifen die *Philosophie* als Wissenschaft. Hierfür gibt es gute Gründe und
+  Wir sehen uns mit diesem Anspruch eingereiht in die philosophische Geschichte (Vgl. beispielsweise  \cite{husserl2009philosophie}, [mehr "große" entsprechende Publikationen einfügen], usf. )
+
+2. Forschung umfasst die *Dokumentation* und die *Publikation* der relevanten *Objekte des Forschens*.
+
+  1. Objekte des Forschens sind u. a.:
+
+      Fragen,
+      Theorien,
+      Methoden,
+      Gedanken,
+      Ideen,
+      Begriffe,
+      Annahmen,
+      Argumente,
+      Beweise,
+      Texte,
+      Resultate,
+      Daten,
+      Algorithmen,
+      Experimente,
+      Beobachtungen,
+      Analysen.
+
+  2. Handlungen des philosophischen Forschens sind u. a.:
+
+      Lesen,
+      Interpretieren,
+      Zitieren,
+      Exzerpieren,
+      Kritisieren,
+      Schreiben,
+      Argumentieren,
+      Zuhören,
+      Vortragen.
+
+3. Zur Forschung gehört der Austausch sowohl innerhalb des Instituts und innerhalb der Universität, als auch mit Forschenden anderer Universitäten.
+
+  1. Hierzu bedeutend sind:
+
+    Vorträge,
+    offene und traditionelle Journals,
+    Tagungen,
+    Workshops,
+    Ausschreibungen,
+    öffentliche Diskussionen,
+    Publikationen.
+
+4. Die Orte des philosophischen Forschens sind individuell und im Prinzip nicht eingeschränkt.
+
+  1. Insbesondere bedeutend sind jedoch:
+
+    Die Institutsbibliothek,
+    der Seminarraum,
+    die Arbeitsräume [wenn es denn welche gäbe],
+    die Büros,
+    das Gebäude des Instituts insgesamt.
+
+5. Forschen unterscheidet sich von der Lehre und dem Studieren [a2 & a3] dadurch, dass es einen weitestgehend selbstständigen Lernprozess darstellt. Dieser findet selbstverständlich im Austausch mit anderen statt und kann gemeinsames Tun umfassen.
+Während Lehre ein Lernen unter Anleitung ist, ist Forschung die eigenständige Suche nach Erkenntnissen.
 
 
 # Links
