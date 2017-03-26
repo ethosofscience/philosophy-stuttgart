@@ -111,6 +111,11 @@ Wir begreifen *Forschen* als eine [paradigmatischen Handlung](../synopsis/reason
 Während Lehre ein Lernen unter Anleitung ist, ist Forschung die eigenständige Suche nach Erkenntnissen.
 
 
+# Ideen und Erweiterungsmöglichkeiten
+
+1. Forschung und Finanzierung
+2.
+
 # Links
-1. […](…)
+1. [Wikipedia dt.: Forschung](https://de.wikipedia.org/wiki/Forschung)
 2. …
