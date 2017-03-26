@@ -45,7 +45,7 @@ In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [uns
 
 Wir begreifen *Forschen* als eine [paradigmatischen Handlung](../synopsis/reasons.md), die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
 
-1. *Forschen* umfasst alle zielgerichteten und systematischen Tätigkeiten zum Erwerb von Wissen.
+1. *Forschen* ist das systematische Suchen nach Erkenntnis.
 
   1. *Philosophische Forschung* findet sich im Austausch mit anderen Wissenschaften
 
