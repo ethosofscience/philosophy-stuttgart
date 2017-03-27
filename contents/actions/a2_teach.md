@@ -31,16 +31,66 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Lehren (…) a2
-## Wir verstehen unter Lehren …
 
-das systematische (strukturierte?) Vermitteln von Wissen, Zusammenhängen, Fragestellungen (...), das vor allem in Lehrveranstaltungen stattfindet und auf verschiedene Art und Weise erreicht werden kann.
+## Statement – BLUF
+*Lehren ist für uns eine paradigmatische Handlung.*
 
-Lehren beinhaltet:
-- Vermittlung von Wissen
-- Vermittlung von Methoden
-- Dazu nötige Vor- und Nachbereitung
-- Prüfungen
-- Feedback und Korrektur
+## Erläuterung – TL;DR
+### Handlungsgefüge und Wertgefüge
+Wir sind davon überzeugt, dass *Lehren* mit allen unseren anderen Werten sowie allen unseren anderen Handlungen im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
+
+### Handlungsdimensionen
+Wir beschreiben im Folgenden diejenigen [Handlungsdimensionen](../synopsis/reasons.md) des *Lehrens*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
+
+Die in dieser Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
+In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
+
+Wir begreifen *Lehren* als eine [paradigmatischen Handlung](../synopsis/reasons.md), die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
+
+
+
+
+1. Wir vertehen unter *Lehren* das systematische Vermitteln von Wissen, das vor allem in Lehrveranstaltungen stattfindet, inklusive der nötigen Vor- und Nachbereitung, den damitzusammenhängenden Prüfungen und dem Feedback, das an Studierende gegeben wird.
+
+1.1 Das Wissen, das in Lehrveranstaltungen vermitteln wird, kann unter anderem die folgenden Objekte umfassen:
+
+Ideen,
+Begriffe,
+Überzeugungen,
+Hypothesen,
+Argumente,
+Beweise,
+Fragen,
+Antworten,
+Lösungen,
+Lösungsansätze,
+Arbeiten,
+Theorien,
+Texte,
+Resultate,
+Daten,
+Algorithmen (Funktionen, Programme),
+Experimente,
+Messungen,
+Beobachtungen,
+Analysen,
+Diskurse,
+Methoden
+
+
+1.2. Das Vermitteln von Wissen (inklusive der aufgeführten Objekte) kann auf verschiedene Art und Weise erreicht werden. Einige Mögliche Art und Weisen sind: Frontal durch Vorlesungen, diskursiv in Seminaren durch moderierte Diskussionen, durch verschiedene Referate, durch Gruppenarbeit und durch viele alternative Lehrformen.
+
+1.3 Prüfungen sind Teil der Lehre. Die Prüfungen in der Philosophie können von verschiedener Art sein, je nach Art der Lehrveranstaltung.
+
+1.4 Feedback ist ebenso ein Element der Lehre, also das Geben von Rückmeldung in Lehrveranstaltungen und bei Prüfungen.
+
+
+
+
+
+
+
+
 
 
 # Links
