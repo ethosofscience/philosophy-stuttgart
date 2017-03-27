@@ -33,27 +33,71 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Lebendigkeit **v3**
 
 ## Statement
+*Wir bekennen uns zum Wert der Lebendigkeit.*
 
-Wir verstehen unter Lebendigkeit ...
-*... die Orientierung daran, eher sich selbst zu ändern.*
+## Erläuterung 
+### Wertgefüge und Handlungsgefüge
+Wir sind davon überzeugt, dass *Lebendigkeit*, mit allen unseren anderen Handlungen sowie allen unseren anderen Werten im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
 
-## Erläuterung
+### Wertdimensionen
+Wir beschreiben im Folgenden diejenigen [Wertdimensionen](../synopsis/reasons.md) der *Lebendigkeit*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
 
-Wir sehen Lebendigkeit als Wert, welcher sich vor allem in vier Aspekten ausdrückt:
+Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
+In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 
-1. **Selbstständigkeit.**: Die Fähigkeit das eigene Wohlergehen aus sich selbst heraus befördern.  
+0. Wir verstehen unter der *Lebendigkeit* unserer Handlungen beziehungsweise unter der *Lebendigkeit* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren:
 
-2. **Anpassungsfähigkeit.**: Die Fähigkeit auf die Umwelt zu reagieren.
+  *... die Orientierung daran, eher sich selbst zu ändern.*
 
-3. **Aktivität.**: Die Fähigkeit selbst Veränderungen hervorzubringen.
+  ## Erläuterung
 
-4. **Relationalität.**: Die positive Bezogenheit auf Umwelt und Andere.
+  Wir sehen Lebendigkeit als Wert, welcher sich vor allem in vier Aspekten ausdrückt:
+
+  1. **Selbstständigkeit.**: Die Fähigkeit das eigene Wohlergehen aus sich selbst heraus befördern.  
+
+  2. **Anpassungsfähigkeit.**: Die Fähigkeit auf die Umwelt zu reagieren.
+
+  3. **Aktivität.**: Die Fähigkeit selbst Veränderungen hervorzubringen.
+
+  4. **Relationalität.**: Die positive Bezogenheit auf Umwelt und Andere.
+
+  ### Erläuterung zu (1)
+  *Übung* / *Nachhaltigkeit* / *Koordination*
+
+  Lebendigkeit beschreibt eine *Form*, welche Strukturen und koordinierte Prozesse aufweist, mit dem Ziel der Förderung des eigenen Wohlergehen und der eigenen Qualität.
+  Eine lebendige Entität sorgt selbst für die Erhaltung und das innere Wachstum ihrer *Form*.
+
+  ### Erläuterung zu (2)
+  *Beweglichkeit* / *Intelligenz* / **
+
+  Lebendiges reagiert auf sich verändernde Umweltbedingungen.
+  Lebendiges zeichnet sich durch die Bereitschaft aus die eigene Form anzupassen.
+  Es repräsentiert die *Umwelt* bezogen auf sich selbst und erkennt Möglichkeiten zur Aktivität innerhalb der Umwelt.
+
+  ### Erläuterung zu (3)
+  *Kreativität* / *Elan* / *Zielgerichtetheit*
+
+  Lebendige Entitäten sorgen für ihr Wohlergehen durch *Initiative*.
+  Lebendiges zeichnet sich durch *Impetus*, d. h. Antrieb und die Bereitschaft zum Engagement aus.
+  Lebendige Entitäten *gestalten* ihre Umwelt indem sie selbst effektiv werden.
+
+  ### Erläuterung zu (4)
+  *Anerkennung* / *Liebe* / *Freude*
+
+  Lebendiges zeichnet sich durch eine *relationale Existenz* aus.
+  Lebendigkeit beschreibt die anerkennende, freudvolle und produktive Bezogenheit aufeinander.
+  Höchste Form dieser Bezogenheit ist die *Liebe*.
+  Lebendiges tauscht sich aus.
+  Philosophie als "Liebe zur Weisheit" trägt unserer Meinung nach einen besonderen Aufruf zur *lebendigen* Beschäftigung mit der Welt, dem Mensch und der Sprache in sich.
+
+
+
 
 
 # Relevanz
-
 ## Grund
-*Lebendigkeit stellt einen Wert für uns dar, weil unser Wohlergehen als Individuen und als Gemeinschaft von unserer Fähigkeit zur Autopoiesis abhängt. Wir wollen unsere Strukturen und Praktiken daher aktiv und stets offen zu ihrer Umwelt gestalten, sodass sie die Güte unserer Tätigkeiten ermöglichen, sichern, und vergrößern.*
+*Wir bekennen uns zum Wert der Lebendigkeit, weil unser Wohlergehen als Individuen und als Gemeinschaft von unserer Fähigkeit zur Autopoiesis abhängt. Wir wollen unsere Strukturen und Praktiken daher aktiv und stets offen zu ihrer Umwelt gestalten, sodass sie die Güte unserer Tätigkeiten ermöglichen, sichern, und vergrößern.*
+
 
 ## Argumente
 
@@ -87,37 +131,6 @@ Wir sehen Lebendigkeit als Wert, welcher sich vor allem in vier Aspekten ausdrü
 2. Lebendige Wesen sorgen sich also nicht nur um die Beziehung zu sich selbst, sondern auch um ihre Beziehungen zu anderen.
 
 
-
-## Erläuterungen
-
-### Erläuterung zu (1)
-*Übung* / *Nachhaltigkeit* / *Koordination*
-
-Lebendigkeit beschreibt eine *Form*, welche Strukturen und koordinierte Prozesse aufweist, mit dem Ziel der Förderung des eigenen Wohlergehen und der eigenen Qualität.
-Eine lebendige Entität sorgt selbst für die Erhaltung und das innere Wachstum ihrer *Form*.
-
-### Erläuterung zu (2)
-*Beweglichkeit* / *Intelligenz* / **
-
-Lebendiges reagiert auf sich verändernde Umweltbedingungen.
-Lebendiges zeichnet sich durch die Bereitschaft aus die eigene Form anzupassen.
-Es repräsentiert die *Umwelt* bezogen auf sich selbst und erkennt Möglichkeiten zur Aktivität innerhalb der Umwelt.
-
-### Erläuterung zu (3)
-*Kreativität* / *Elan* / *Zielgerichtetheit*
-
-Lebendige Entitäten sorgen für ihr Wohlergehen durch *Initiative*.
-Lebendiges zeichnet sich durch *Impetus*, d. h. Antrieb und die Bereitschaft zum Engagement aus.
-Lebendige Entitäten *gestalten* ihre Umwelt indem sie selbst effektiv werden.
-
-### Erläuterung zu (4)
-*Anerkennung* / *Liebe* / *Freude*
-
-Lebendiges zeichnet sich durch eine *relationale Existenz* aus.
-Lebendigkeit beschreibt die anerkennende, freudvolle und produktive Bezogenheit aufeinander.
-Höchste Form dieser Bezogenheit ist die *Liebe*.
-Lebendiges tauscht sich aus.
-Philosophie als "Liebe zur Weisheit" trägt unserer Meinung nach einen besonderen Aufruf zur *lebendigen* Beschäftigung mit der Welt, dem Mensch und der Sprache in sich.
 
 ## Verwandte Begriffe:
 Schöpfertum, Kreativität, Achtsamkeit, Energie, Elan, Engangement, Aktivität, Einfühlsamkeit, Geschmeidigkeit, Beweglichkeit, Flexibilität, Motivation, Initiative, Sorge, Fürsorge, Freude, Effekt, Liebe, Beziehung, Organismus, Fidelität, Konstruktivität, Kritik, Schöpfergeist, Wachstum, Interdependenz
