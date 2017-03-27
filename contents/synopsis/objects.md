@@ -32,7 +32,8 @@ Die Objekte unseres Ethos (Diskurses) können aber auch Objekte sein, die in ein
 27. Projekte,
 28. Entscheidungen,
 29. Forschungsvorhaben,
-30. … .
+30. Methoden
+31. ...
 
 Auf dieses (offene) Liste referieren wir in der Formulierung unseres Ethos in abkürzender Schreibweise mit Ethos Diskursobjekte (EDO).
 
