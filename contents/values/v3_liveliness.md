@@ -70,16 +70,16 @@ Wir sehen Lebendigkeit als Wert, welcher sich vor allem in vier Aspekten ausdrü
 
   1.1 Dies stellt kein Widerspruch zur Selbstständigkeit dar. Die Prozesse des Austauschs sind Teil der Form, welche die Entität selbst als Prozess erhält. Die Qualität des Austauschs basiert auf Angepasstheit an die Umwelt, aber natürlich auch an sich dem Individuum entziehenden Passungsverhältnis von eigenen Art und der Umwelt.  
 
-2. Die Welt unterliegt ständiger Veränderung, welcher sich zum Teil der Potenz der Entität entzieht.
+2. Die (Um)Welt unterliegt ständiger Veränderung, welcher sich zum Teil der Potenz der Entität entzieht.
 
 3. Lebendiges muss daher seine Strukturen auf diese Veränderungen hin anpassen.
 
-4. Anpassungsfähigkeit hängt wesentlich daran, wesentliche Faktoren zu identifizieren und dem Wille auf Basis dieser sich zu verändern.
+4. Anpassungsfähigkeit zeichnet sich dadurch aus, dass wesentliche Faktoren identifiziert werden und auf auf diese durch Anpassugn reagiert wird.
 
 
 ### ...für (3) spricht
 1. Aus dem vorhergesagten folgt die Werthaftigkeit des Erhalts und der Verbesserung der eigenen Form.
-2. Durch eine Bewusstsein der Umwelt und der eigenen Form und der Möglichkeit Effekte in sich und seiner Umwelt hervorzubringen, folgt die werthaftigkeit dieser Arten von Aktivität.
+2. Durch ein Bewusstsein über die Umwelt und die eigene Form und der Möglichkeit Effekte in sich und seiner Umwelt hervorzubringen, folgt die werthaftigkeit dieser Arten von Aktivität.
 
 
 ### ...für (4) spricht
@@ -93,7 +93,7 @@ Wir sehen Lebendigkeit als Wert, welcher sich vor allem in vier Aspekten ausdrü
 ### Erläuterung zu (1)
 *Übung* / *Nachhaltigkeit* / *Koordination*
 
-Lebendigkeit beschreibt eine *Form*, welche Strukturen und koordinierte Prozesse aufweist mit dem Ziel der Förderung des eigenen Wohlergehen und der eigenen Qualität.
+Lebendigkeit beschreibt eine *Form*, welche Strukturen und koordinierte Prozesse aufweist, mit dem Ziel der Förderung des eigenen Wohlergehen und der eigenen Qualität.
 Eine lebendige Entität sorgt selbst für die Erhaltung und das innere Wachstum ihrer *Form*.
 
 ### Erläuterung zu (2)
@@ -101,7 +101,7 @@ Eine lebendige Entität sorgt selbst für die Erhaltung und das innere Wachstum 
 
 Lebendiges reagiert auf sich verändernde Umweltbedingungen.
 Lebendiges zeichnet sich durch die Bereitschaft aus die eigene Form anzupassen.
-Es repräsentiert die *Umwelt* bezogen auf sich selbst und erkennt Möglichkeiten zur Aktivität.
+Es repräsentiert die *Umwelt* bezogen auf sich selbst und erkennt Möglichkeiten zur Aktivität innerhalb der Umwelt.
 
 ### Erläuterung zu (3)
 *Kreativität* / *Elan* / *Zielgerichtetheit*
