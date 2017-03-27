@@ -154,7 +154,11 @@ Eindeutigkeit ist das Gegenstück zur Vagheit, Doppeldeutigkeit, Mehrdeutigkeit 
 Wir wissen nicht, ob Eindeutigkeit vollständig erreicht werden kann, aber wir sind davon überzeugt, dass alleine der Versuch, Eindeutigkeit herzustellen zu die Eindeutigkeit hinreichend annähert.
 
 ##### Zur Struktur
-Wir verstehen unter der *Struktur* der Handlungen beziehungsweise unter der *Struktur* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren, ihre *syntaktische und semantische Ordnung*.
+Wir verstehen unter der *Struktur* der Handlungen beziehungsweise unter der *Struktur* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren:
+
+1. ihre syntaktische und
+2. ihre semantische Ordnung.
+
 Unter ihrer syntaktischen und semantischen Ordnung verstehen wir ihre Ordnung nach abstrakten Kategorien und ihre Ordnung in Einklang zu konkreten Sachverhalten.
 
 ##### Zur Kohärenz
