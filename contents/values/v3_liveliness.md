@@ -58,11 +58,11 @@ Wir sehen Lebendigkeit als Wert, welcher sich vor allem in vier Aspekten ausdrü
 ## Argumente
 
 ### ...für (1) spricht
-1. Personen teilen Lebendigkeit als Seinweise mit Pflanzen, Tieren und Systemen. Personen sind aber in einer anderen Weise lebendig, als andere Entitäten. Für Personen ist ihre Lebendigkeit etwas, um das sie sich selbst kümmern müssen. Hierdurch wird Lebendigkeit mehr als nur eine Art zu sein: sie stellt einen Wert dar.
-2. Als Reflexive Entitäten haben Personen und interpersonale Systeme ein Bewusstsein ihrer Struktur und erkennen den Zusammenhang zwischen Strukturen und der/m eigenen Wohlergehen/Qualität.
-3. Das/Die eigene Wohlergehen/Qualität sind für die Entität im höchsten Maß erstrebenswert bzw. alternativ: stellen das Ziel des Strebens allgemein dar.
-4. Die Erhaltung und Verbesserung der eigenen Form sind daher (insbesondere) ein Wert für die Entität.
-5. Alle damit einhergehenden Maßnahmen sind daher für die Entität wertvoll. Dies betrifft allgemein die Pflege, Verbesserung von Strukturen, Erhöhung der Koordination der Teile, etc.
+1. Personen teilen Lebendigkeit als Seinweise mit Pflanzen, Tieren und Systemen. Personen sind aber in einer anderen Weise lebendig als andere Lebewesen. Für Personen ist ihre Lebendigkeit etwas, um das sie sich selbst kümmern müssen. Hierdurch wird Lebendigkeit zu etwas, das mehr ist, als nur eine Art und Weise zu leben: Sie stellt einen Wert dar.
+2. Als reflexive Lebewesen haben Personen und interpersonale Systeme ein Bewusstsein ihrer Struktur und erkennen den Zusammenhang zwischen Strukturen und dem eigenen Wohlergehen.
+3. Das eigene Wohlergehen ist für die Lebewesen im höchsten Maß erstrebenswert.
+4. Die Erhaltung und Verbesserung der eigenen Form sind daher wertvoll für die Lebewesen.
+5. Alle damit einhergehenden Maßnahmen sind darum für die Lebewesen wertvoll. Dies betrifft allgemein die Pflege, Verbesserung von Strukturen, Erhöhung der Koordination der Teile, etc.
 
 
 ### ...für (2) spricht
@@ -125,4 +125,4 @@ Schöpfertum, Kreativität, Achtsamkeit, Energie, Elan, Engangement, Aktivität,
 
 # Links
 1. [Zeit-Artikel zur Lebendigkeit vom 1.4.2015](http://www.zeit.de/2015/14/lebendigkeit-beziehung-soziologie-kunst-tod)
-2. Quelle fehlt. 
+2. Quelle fehlt.
