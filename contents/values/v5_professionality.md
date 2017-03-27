@@ -209,8 +209,12 @@ ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
 zu sein.
 
 #### Professionalität 4 – Feedback
-Wir sind davon überzeugt, dass es ganz allgemein gut ist regelmäßig, planmäßig und gezielt zu konkreten Sachverhalten beispielsweise zu unseren eigenen  Handlungen beziehungsweise zu den Resultaten unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md) spezifizieren,
-proaktiv (initiativ) Feedback einzuholen.
+Wir sind davon überzeugt, dass es ganz allgemein gut ist regelmäßig, planmäßig und gezielt zu konkreten Sachverhalten beispielsweise zu unseren eigenen  Handlungen beziehungsweise zu den Resultaten unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md) spezifizieren:
+
+1. proaktiv und
+2. initiativ
+
+Feedback einzuholen.
 Wir glauben, dass es im Allgemeinen nicht hilfreich ist ungefragt Feedback zu geben.
 
 #### Notiz zur Professionalität in Bezug auf unser Zusammenleben
