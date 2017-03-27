@@ -84,15 +84,6 @@ Methoden
 
 1.4 Feedback ist ebenso ein Element der Lehre, also das Geben von Rückmeldung in Lehrveranstaltungen und bei Prüfungen.
 
-
-
-
-
-
-
-
-
-
 # Links
 1. […](…)
 2. …
