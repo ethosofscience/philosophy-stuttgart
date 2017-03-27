@@ -198,7 +198,7 @@ Wir verstehen unter der *Explizitheit* der Handlungen beziehungsweise unter der 
 Siehe hierzu auch [Offenheit](../contents/values/v5_openness.md)
 und [Fairness](../contents/values/v1_fairness.md).
 
-#### Professionalität 4 – Relevanz
+#### Professionalität 3 – Relevanz
 Wir verstehen unter der *Relevanz* der Handlungen beziehungsweise unter der *Relevanz* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren,
 ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
 
@@ -208,7 +208,7 @@ ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
 
 zu sein.
 
-#### Professionalität 5 – Feedback
+#### Professionalität 4 – Feedback
 Wir sind davon überzeugt, dass es ganz allgemein gut ist regelmäßig, planmäßig und gezielt zu konkreten Sachverhalten beispielsweise zu unseren eigenen  Handlungen beziehungsweise zu den Resultaten unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md) spezifizieren,
 proaktiv (initiativ) Feedback einzuholen.
 Wir glauben, dass es im Allgemeinen nicht hilfreich ist ungefragt Feedback zu geben.
