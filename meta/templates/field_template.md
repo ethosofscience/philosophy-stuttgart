@@ -8,7 +8,7 @@
 Wir beschreiben im Folgenden das [Handlungsfeld](../synopsis/reasons.md) des *XYZ*, wie es sich aus der [Wert](../values/vi_value.md)
 und dem [Handlung](../actions/ai_action.md) ergibt.
 
-Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*domain of discourse*) unseres Ethos.
+Die für die folgende Liste relevanten Objekte (der *domain of discourse* dieses Teils des Ethos) sind in der Beschreibung der paradigmatischen [Handlung](../actions/ai_action.md) erläutert.  
 
 In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 
