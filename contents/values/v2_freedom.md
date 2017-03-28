@@ -33,6 +33,23 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # Freiheit (Wissenschaftsfreiheit, Forschung, Lehre, Studium) **v2**
 ## Wir verstehen unter Freiheit …
 
+# Wert
+## Statement
+*Wir bekennen uns zum Wert Freiheit.*
+
+## Erläuterung
+### Wertgefüge und Handlungsgefüge
+Wir sind davon überzeugt, dass *Freiheit*, mit allen unseren anderen Handlungen, sowie allen unseren anderen Werten im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
+
+### Wertdimensionen
+Wir beschreiben im Folgenden diejenigen [Wertdimensionen](../synopsis/reasons.md) der *Freiheit*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
+
+Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
+In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
+
+0. Wir verstehen unter der *Freiheit* unserer Handlungen beziehungsweise unter der *Freiheit* die Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren.
+
+
 
 ...die Unabhängigkeit von äußeren Faktoren, die nicht willentlich als Faktoren in Entscheidungen mit aufgenommen wurden. Diese Entscheidungen (und damit auch der Freiheitsbegriff) beziehen sich hier in erster Linie auf Studium, Lehre, Forschung, Arbeit und Zusammenleben *am Institut*, insofern das Ethos-Programm für diesen Kontext erarbeitet wurde.
 
