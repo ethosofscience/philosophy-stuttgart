@@ -5,8 +5,8 @@
 
 ### Erläuterung – TL;DR
 #### Handlungsfelder
-Wir beschreiben im Folgenden das [Handlungsfeld](../synopsis/reasons.md) des *XYZ*, wie es sich aus der [Wert](../values/vi_value.md)
-und dem [Handlung](../actions/ai_action.md) ergibt.
+Wir beschreiben im Folgenden das [Handlungsfeld](../synopsis/reasons.md) des *XYZ*, wie es sich aus dem [Wert](../values/vi_value.md)
+und der [Handlung](../actions/ai_action.md) ergibt.
 
 Die für die folgende Liste relevanten Objekte (der *domain of discourse* dieses Teils des Ethos) sind in der Beschreibung der paradigmatischen [Handlung](../actions/ai_action.md) erläutert.  
 
