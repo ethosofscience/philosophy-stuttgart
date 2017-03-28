@@ -154,7 +154,11 @@ Eindeutigkeit ist das Gegenstück zur Vagheit, Doppeldeutigkeit, Mehrdeutigkeit 
 Wir wissen nicht, ob Eindeutigkeit vollständig erreicht werden kann, aber wir sind davon überzeugt, dass alleine der Versuch, Eindeutigkeit herzustellen zu die Eindeutigkeit hinreichend annähert.
 
 ##### Zur Struktur
-Wir verstehen unter der *Struktur* der Handlungen beziehungsweise unter der *Struktur* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren, ihre *syntaktische und semantische Ordnung*.
+Wir verstehen unter der *Struktur* der Handlungen beziehungsweise unter der *Struktur* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren:
+
+1. ihre syntaktische und
+2. ihre semantische Ordnung.
+
 Unter ihrer syntaktischen und semantischen Ordnung verstehen wir ihre Ordnung nach abstrakten Kategorien und ihre Ordnung in Einklang zu konkreten Sachverhalten.
 
 ##### Zur Kohärenz
@@ -194,7 +198,7 @@ Wir verstehen unter der *Explizitheit* der Handlungen beziehungsweise unter der 
 Siehe hierzu auch [Offenheit](../contents/values/v5_openness.md)
 und [Fairness](../contents/values/v1_fairness.md).
 
-#### Professionalität 4 – Relevanz
+#### Professionalität 3 – Relevanz
 Wir verstehen unter der *Relevanz* der Handlungen beziehungsweise unter der *Relevanz* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren,
 ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
 
@@ -204,9 +208,13 @@ ihre Eigenschaft in Bezug auf mindestens einen Sachverhalt
 
 zu sein.
 
-#### Professionalität 5 – Feedback
-Wir sind davon überzeugt, dass es ganz allgemein gut ist regelmäßig, planmäßig und gezielt zu konkreten Sachverhalten beispielsweise zu unseren eigenen  Handlungen beziehungsweise zu den Resultaten unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md) spezifizieren,
-proaktiv (initiativ) Feedback einzuholen.
+#### Professionalität 4 – Feedback
+Wir sind davon überzeugt, dass es ganz allgemein gut ist regelmäßig, planmäßig und gezielt zu konkreten Sachverhalten beispielsweise zu unseren eigenen  Handlungen beziehungsweise zu den Resultaten unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md) spezifizieren:
+
+1. proaktiv und
+2. initiativ
+
+Feedback einzuholen.
 Wir glauben, dass es im Allgemeinen nicht hilfreich ist ungefragt Feedback zu geben.
 
 #### Notiz zur Professionalität in Bezug auf unser Zusammenleben

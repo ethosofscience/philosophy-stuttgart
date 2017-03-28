@@ -30,4 +30,5 @@
 28. If something goes wrong, it was not intended. Period.
 29. Don’t change it, improve it!
 30. Be explicit about your intentions.
-31. 
+31. Auf den Schultern von Giganten. „Wenn ich weiter geblickt habe, so deshalb, weil ich auf den Schultern von Riesen stehe.” (Newton)
+32.
