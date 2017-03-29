@@ -1,12 +1,12 @@
 # Daumenregeln
 
-1. BLUF
-2. TL;DR
-3. KISS
-4. Principle of Charity
+1. BLUF (Bottom Line Up Front)
+2. TL;DR (too long; didn't read)
+3. KISS (Keep it simple stupid)
+4. Principle of Charity (Interpretiere wohlwollend)
 5. Divide and rule (divide and conquer)
 6. Seek first to understand, then to be understood. (7 Habits of Highly Effective People)
-7. DRY
+7. DRY (Don't repeat yourself)
 8. Minimize bad redundancy, maximize good redundancy
 9. Seek antifragility (Antifragile: Things That Gain From Disorder)
 10. Via negativa. The negative way is a good way. It is good to know what is bad. It is good to know what not to do.
@@ -31,4 +31,5 @@
 29. Don’t change it, improve it!
 30. Be explicit about your intentions.
 31. Auf den Schultern von Giganten. „Wenn ich weiter geblickt habe, so deshalb, weil ich auf den Schultern von Riesen stehe.” (Newton)
-32.
+32. Manchmal schauen Riesen auch in die falsche Richtung.
+33. Die Leserin hat Recht.

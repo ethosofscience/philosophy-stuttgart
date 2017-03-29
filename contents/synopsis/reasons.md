@@ -69,12 +69,10 @@ indem wir zeigen, dass sie bei paradigmatischen (repräsentativen) Handlungen
 [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
 [Studieren a4](../contents/actions/a4_study.md),
 [Zusammenleben a5](../contents/actions/a5_live.md))
-die jeweilige Handlung selbst erst ermöglicht oder die Handlung selbst zu einer besseren Handlung.
+die jeweilige Handlung selbst erst ermöglicht oder die Handlung selbst zu einer besseren Handlung macht.
 
 Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werden im Ethos formuliert und stehen deshalb in einem bestimmten Kontext.
 Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelder hin formuliert und sollen keine allgemeine Definition oder ähnliches der Werte darstellen.
-
-Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werden im Ethos formuliert und stehen deshalb in einem bestimmten Kontext.
 
 Viele der Handlungsfelder verweisen aufeinander, einige der Werte stehen im Kontext bestimmter Handlungen möglicherweise im Konflikt zueinander. Für diese Fälle gilt es, reflektiert und verantwortungsvoll abzuwägen, welcher Wert in diesem Kontext die höhere Relevanz hat.
 
@@ -93,16 +91,15 @@ In der Formulierung unserer Werte erläutern wir diejenigen Dimensionen des jewe
 Unter einer Dimension eines Wertes verstehen wir seine einzelnen Aspekte beziehungsweise Facetten.
 
 ## Handlungsdimensionen
-Wir begreifen unser Handlungen:
+Wir begreifen unsere Handlungen:
 
-1. [Fairness](../values/v1_fairness.md),
-2. [Freiheit](../values/v2_freedom.md),
-3. [Lebendigkeit](../values/v3_liveliness.md),
-4. [Offenheit](../values/v4_openness.md),
-5. [Professionalität](../values/v5_professionality.md),
-6. [Verantwortung](../values/v6_responsibility.md)
+1. [Forschen a1](../contents/actions/a1_research.md),
+2. [Lehren a2](../contents/actions/a2_teach.md),
+3. [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
+4. [Studieren a4](../contents/actions/a4_study.md),
+5. [Zusammenleben a5](../contents/actions/a5_live.md))
 
-als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
+jeweils als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
 
 ## Handlungsfelder
 …
@@ -124,7 +121,7 @@ Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen We
 
 5. Aus dem Wert lassen sich *andere Werte ableiten*.
 
-Diese Liste ist nicht als vollständige Wesensdefinition intrinsischer Werte zu verstehen, sondern als beispielhafte Liste von Einstellungen, die Einstellungen enthählt, die darauf hindeuten, dass wir einen bestimmten Wert auf eine bestimmte Art gebrauchen beziehungsweise, dass wir über ihn in einer bestimmten Weise sprechen. (vgl. Ernst 2007?)[Die Objektivität der Moral]
+Diese Liste ist nicht als vollständige Wesensdefinition intrinsischer Werte zu verstehen, sondern als beispielhafte Liste von Einstellungen, die Einstellungen enthält, die darauf hindeuten, dass wir einen bestimmten Wert auf eine bestimmte Art gebrauchen beziehungsweise, dass wir über ihn in einer bestimmten Weise sprechen. (vgl. Ernst 2007?)[Die Objektivität der Moral]
 
 Wir glauben, dass Chisholms Version von Moors Isolation Test ein hilfreicher Test (unter anderen) sein kann, um unsere Einstellungen gegenüber bestimmter Werten zu klären. (vgl. SEP 2017)
 
@@ -133,7 +130,7 @@ Das heißt, wir schließen nicht die Möglichkeit aus, dass es sowohl *basic* al
 
 Wir gehen davon aus, dass der intrinsische Wertcharakter bestimmter Werte weder notwendige noch hinreichende Bedingung für den Status unseres Ethos ist.
 Entscheidend ist unserer Meinung nach, dass wir die Intuition haben, dass unsere Werte intrinsisch wertvoll sind.
-Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto*.
+Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto*, die wir für uns setzen.
 
 ## Werte als Ideale
 Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen, nach denen wir streben.
@@ -170,7 +167,7 @@ Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nich
 
 1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
 
-2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner) verlangt.
+2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner 2005) verlangt.
 
 Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigen Wettstreit stehen können.
 Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
