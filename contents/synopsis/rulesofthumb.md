@@ -32,3 +32,4 @@
 30. Be explicit about your intentions.
 31. Auf den Schultern von Giganten. „Wenn ich weiter geblickt habe, so deshalb, weil ich auf den Schultern von Riesen stehe.” (Newton)
 32. Manchmal schauen Riesen auch in die falsche Richtung.
+33. Die Leserin hat Recht.
