@@ -1,8 +1,62 @@
 # Überblick
 
-## Handlung
-### Handlungsgefüge und Wertgefüge
+## Präambel
+
+Make the Institut Great Again!
+
+
+
+## Struktur des Ethos
+
+Der Ethos umfasst...
+
+
+### Werte
+
+xxx kurz
+
+
+### Paradigmatische Handlungen
+
+xxx kurz
+
+
+### Handungsfelder
+
+
+
+## Erläuterungen zum Ethos
+
+### Was sind Werte für uns
+
+Werte bekenntnisse, für uns, etc.
+
+
+### Begründung von Werten
+
+Gründe über Gründe
+
+
+### Wertekonflikte
+
+Wie sehen wir Wertkonflikte.
+
+
+### Überzeugung hinsichtlich der Harmonie der Wert- und Handlungsfelder
+
 Wir sind davon überzeugt, dass *XYZ*, mit allen unseren anderen Werten sowie allen unseren anderen Handlungen im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
+
+
+### Objekte/Diskursreferenten
+
+
+
+
+
+
+
+
+
 
 ### Handlungsdimensionen
 Wir beschreiben im Folgenden diejenigen [Handlungsdimensionen](../synopsis/reasons.md) des *XYZ*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
