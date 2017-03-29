@@ -121,7 +121,7 @@ Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen We
 
 5. Aus dem Wert lassen sich *andere Werte ableiten*.
 
-Diese Liste ist nicht als vollständige Wesensdefinition intrinsischer Werte zu verstehen, sondern als beispielhafte Liste von Einstellungen, die Einstellungen enthählt, die darauf hindeuten, dass wir einen bestimmten Wert auf eine bestimmte Art gebrauchen beziehungsweise, dass wir über ihn in einer bestimmten Weise sprechen. (vgl. Ernst 2007?)[Die Objektivität der Moral]
+Diese Liste ist nicht als vollständige Wesensdefinition intrinsischer Werte zu verstehen, sondern als beispielhafte Liste von Einstellungen, die Einstellungen enthält, die darauf hindeuten, dass wir einen bestimmten Wert auf eine bestimmte Art gebrauchen beziehungsweise, dass wir über ihn in einer bestimmten Weise sprechen. (vgl. Ernst 2007?)[Die Objektivität der Moral]
 
 Wir glauben, dass Chisholms Version von Moors Isolation Test ein hilfreicher Test (unter anderen) sein kann, um unsere Einstellungen gegenüber bestimmter Werten zu klären. (vgl. SEP 2017)
 
@@ -130,7 +130,7 @@ Das heißt, wir schließen nicht die Möglichkeit aus, dass es sowohl *basic* al
 
 Wir gehen davon aus, dass der intrinsische Wertcharakter bestimmter Werte weder notwendige noch hinreichende Bedingung für den Status unseres Ethos ist.
 Entscheidend ist unserer Meinung nach, dass wir die Intuition haben, dass unsere Werte intrinsisch wertvoll sind.
-Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto*.
+Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto*, die wir für uns setzen.
 
 ## Werte als Ideale
 Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen, nach denen wir streben.
@@ -167,7 +167,7 @@ Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nich
 
 1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
 
-2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner) verlangt.
+2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner 2005) verlangt.
 
 Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigen Wettstreit stehen können.
 Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
