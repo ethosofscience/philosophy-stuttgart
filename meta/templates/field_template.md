@@ -13,6 +13,8 @@ Die für die folgende Liste relevanten Objekte (der *domain of discourse* dieses
 In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 
 1. Wir verstehen darunter X.
+  1. Dies ist eine weitere Ebene
+    1. Dies ist noch eine Ebene weiter
 
 2. Das heißt Y.
 
