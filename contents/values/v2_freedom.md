@@ -56,12 +56,16 @@ In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [uns
 ###Propositionen
 
   1. Abgesehen davon, dass wir Freiheit als einen nicht weiter zu [begründenden](../synopsis/reasons.md) Wert ansehen, beziehen wir uns auf Artikel 2 des Grundgesetztes: Dieser besagt unter anderem: "Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt [...]." Diese Richtlinie gilt es in jeglicher Handlung unter dem Wert der Freiheit am Institut- und Forschungsleben als universale Grundvoraussetzung zu beachten.
-  2. Innerhalb dieses Rahmens, verstehen wir unter Freiheit im spezielleren, die Unabhängigkeit von äußeren Faktoren. Das heißt, es gibt äußere Faktoren, deren Mitaufnahme in die Entscheidung allein von meinem Wollen abhängt. Das heißt, wir sind frei bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen. Diese Entscheidungen, die dem Wert der Freiheit unterliegen, beziehen sich hier in erster Linie auf das [Studieren](../contents/fields/v2a4), [Lehren](../contents/fields/v2a2), [Forschen](../contents/fields/v2a1) und [Zusammenleben](../contents/fields/v2a5) in den jeweilig vertretenen [Rollen](../contents/fields/v2a3), insbesondere am Institut, aber auch darüber hinaus.
+  2. Innerhalb dieses Rahmens, verstehen wir unter Freiheit im spezielleren, die Unabhängigkeit von äußeren Faktoren. Das heißt, es gibt äußere Faktoren, deren Mitaufnahme in die Entscheidung allein von meinem Wollen abhängt. Das heißt, wir sind frei bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen. Diese Entscheidungen, die dem Wert der Freiheit unterliegen, beziehen sich hier in erster Linie auf das [Studieren](../contents/fields/v2a4.md), [Lehren](../contents/fields/v2a2.md), [Forschen](../contents/fields/v2a1.md) und [Zusammenleben](../contents/fields/v2a5.md) in den jeweilig vertretenen [Rollen](../contents/fields/v2a3.md), insbesondere am Institut, aber auch darüber hinaus.
 
 ## Argumente
-1. Der Wert X ist für uns relevant, weil Y.
-2. Ein weiterer Grund.
-3. …
+Allgemein gilt:
+Der Wert Freiheit ist für uns relevant, weil wir glauben, dass nur unter einer Gesinnung der Freiheit die Ziele des Philosophiestudiums und der philosophischen Arbeit erreicht werden. Diese sind die Vermittlung von breit gefächertem Wissen in Form von Inhalten und Methoden, die Vorbereitung und Teilnahme auf und an dem philosophisch- wissenschaftlichen Diskurs und die dadurch begünstigte Beförderung von wissenschaftlichem Fortschritt und innerlich, persönlichem Wachstum.
+Wir glauben, dass Freiheit in den von uns genannten, das Studium und die Philosophie betreffenden, Handlungen Diversität von Wissen, Inhalten und Methoden begünstigt und dementsprechend [Lebendigkeit](../contents/values/v3_liveliness.md) und [Offenheit](../contents/values/v4_openness.md) garantiert. Durch die Diversität von Wissen, Inhalten und Methoden steigt außerdem die Wahrscheinlichkeit Lösungen zu finden, beziehungsweise neue Theorien aufzustellen. Das heißt neues Wissen zu erlangen und zu generieren. Und durch neue Lösungen und Theorien, steigt die Wahrscheinlichkeit Inkoheränzen und 'falsches' zu beseitigen und Gegebenenfalls Wahrheiten aufzuzeigen, oder zu stabilisieren.
+
+Damit diese Diversität in allen das Institut und die Forschung umfassenden Handlungen erreicht und weitergeführt werden kann, bedarf es einem gewissen Maß an Freiheit aller Teilnehmer in Haltung und Handlung.  
+
+
 
 
 # Links
