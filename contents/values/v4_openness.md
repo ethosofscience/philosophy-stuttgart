@@ -59,19 +59,19 @@ Offenheit im Sinne des persönlichen Wachstums setzt eine grundlegende Beweglich
 
 Siehe auch [Professionalität](../contents/values/v5_responsibility.md).
 
-4. **Modularität** Offenheit als Modularität …
+4. **Modularität** Offenheit als Modularität von etwas.
 
-5. **Inkrementalität** Offenheit als Modularität …
+5. **Inkrementalität** Offenheit als Modularität von etwas.
 
-Die Objekte unserer Wertaussagen sind in den paradigmatischen Handlungen näher erläutert.
+Die *Objekte* unserer Wertaussagen sind in den paradigmatischen Handlungen näher erläutert.
 Diese Dimensionen der Offenheit betreffen ohne Anspruch auf Vollständigkeit zumindest: Informationen, Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Resultate, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte.
 
 ## Relevanz
 ## Grund – BLUF
-*Wir bekennen uns zur Offenheit, weil eine Bedingung zur Möglichkeit von presönlichem Wachstum und gesellschaftlichen sowie wissenschaftlichen Fortschritt ist.*
+*Wir bekennen uns zur Offenheit, weil diese eine Bedingung zur Möglichkeit von persönlichem Wachstum und gesellschaftlichem sowie wissenschaftlichem Fortschritt ist.*
 
 ## Argumente – TL;DR
-Wir begründen Offenheit in ihren beiden Dimensionen wie folgt:
+Wir begründen Offenheit in ihren Dimensionen wie folgt:
 
 ### Ein Argument für die Transparenz und Wachstum
 Im folgenden Argumentieren wir für die Offenheit als Transparenz und als Wachstum am Beispiel des Begriffs des Wissens.
@@ -79,7 +79,7 @@ Im folgenden Argumentieren wir für die Offenheit als Transparenz und als Wachst
 Wenn ein Erkenntnissubjekt *T* die Menge seines Wissens – das ist die Menge ihrer wahren, gerechtfertigten Überzeugungen –, erweitern will, und zu diesem Zweck auf bereits bestehendes Wissen eines Erkenntnissubjekts *S* zurückgreifen will, dann ist es notwendig, dass
 
 1. *T* zumindest bereit ist, in ihre bereits bestehenden wahren, gerechtfertigten Überzeugungen neue Überzeugungen und Rechtfertigungen zu integrieren;
-2. *S* mindestens ihre Überzeugungen und ihre Rechtfertigungen aktiv für *T* verfügbar beziehungsweise zugänglich zu machen.
+2. *S* mindestens ihre Überzeugungen und ihre Rechtfertigungen aktiv für *T* zugänglich zu machen.
 
 1. **Wissen** ist wahre, gerechtfertigte Überzeugung; synonym: Das Erkenntnissubjekt *S* weiß, dass *X* der Fall ist, genau dann, wenn
 
@@ -99,9 +99,9 @@ Wenn ein Erkenntnissubjekt *T* die Menge seines Wissens – das ist die Menge ih
 
 3. Das Erkenntnissubjekt *T* ist gerechtfertigt überzeugt zu sein, dass *S* weiß, dass *X*, wenn *T* entscheiden kann, ob alle drei Bedingungen (Wahrheit, Überzeugung, Rechtfertigung) für *S* erfüllt sind.
 
-4. Das Erkenntnissubjekt *T* kann entscheiden, dass alle drei Bedingungen (Wahrheit, Überzeugung, Rechtfertigung) für *S* erfüllt sind, wenn die *Überzeugung* und die *Rechtfertigung* von *S* dem Erkenntnissubjekt *T* **zugänglich** beziehungsweise **verfügbar** ist.
+4. Das Erkenntnissubjekt *T* kann entscheiden, dass alle drei Bedingungen (Wahrheit, Überzeugung, Rechtfertigung) für *S* erfüllt sind, wenn die *Überzeugung* und die *Rechtfertigung* von *S* dem Erkenntnissubjekt *T* **zugänglich** ist.
 
-Wobei nicht aus geschlossen ist, dass *S = T* – dem Erkenntnissubjekt muss seine eigene Überzeugung und seine eigene Rechtfertigung zugänglich beziehungsweise verfügbar sein.
+Wobei nicht aus geschlossen ist, dass *S = T* – dem Erkenntnissubjekt muss seine eigene Überzeugung und seine eigene Rechtfertigung zugänglich sein.
 Bei diesem Argument werden nur minimale Anforderungen an den Wissensbegriff, den Begriff der Wissenschaft und das Erkenntnissubjekt gestellt.
 Das heißt natürlich, dass anspruchsvollere Konzeptionen die Eigenschaft der Offenheit erben.
 
