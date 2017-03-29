@@ -6,7 +6,7 @@
 ### Erläuterung
 *Wir verstehen darunter UVW.*
 
-### Handlungsfelder
+## Handlungsfelder
 Wir beschreiben im Folgenden das [Handlungsfeld](../synopsis/reasons.md) des *XYZ*, wie es sich aus dem [Wert](../values/vi_value.md) und der [Handlung](../actions/ai_action.md) ergibt.
 
 1. …
@@ -15,7 +15,7 @@ Wir beschreiben im Folgenden das [Handlungsfeld](../synopsis/reasons.md) des *XY
 
 3. …
 
-### Begründung
+## Begründung
 ### Grund
 *Für X spricht X, Y, Z.*
 *X ist für uns relevant, weil Y.*
