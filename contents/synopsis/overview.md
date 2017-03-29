@@ -1,4 +1,6 @@
-## Erläuterung
+# Überblick
+
+## Handlung
 ### Handlungsgefüge und Wertgefüge
 Wir sind davon überzeugt, dass *XYZ*, mit allen unseren anderen Werten sowie allen unseren anderen Handlungen im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
 
@@ -9,3 +11,15 @@ Die in dieser Liste aufgeführten Beispiele begreifen wir als die paradigmatisch
 In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 
 Wir begreifen *XYZ* als eine [paradigmatische Handlung](../synopsis/reasons.md), die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
+
+## Wert
+0. Wir verstehen unter der *XYZ* unserer Handlungen beziehungsweise unter der *XYZ* der Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren:
+
+### Wertgefüge und Handlungsgefüge
+Wir sind davon überzeugt, dass *XYZ*, mit allen unseren anderen Handlungen sowie allen unseren anderen Werten im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
+
+### Wertdimensionen
+Wir beschreiben im Folgenden diejenigen [Wertdimensionen](../synopsis/reasons.md) der *XYZ*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
+
+Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
+In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
