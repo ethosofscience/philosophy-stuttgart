@@ -49,26 +49,27 @@ In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [uns
 
 0. Wir verstehen unter der *Freiheit* unserer Handlungen beziehungsweise unter der *Freiheit* die Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren.
 
-
-  1. Abgesehen davon, dass wir Freiheit als einen nicht weiter zu [begründenden](../synopsis/reasons.md) Wert ansehen, beziehen wir uns auf Artikel 2 des Grundgesetztes: Dieser besagt unter anderem: "Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt [...]." Diese Richtlinie gilt es in jeglicher Handlung unter dem Wert der Freiheit am Institut- und Forschungsleben als universale Grundvoraussetzung zu beachten.
-  2. Innerhalb dieses Rahmens, verstehen wir unter Freiheit, die Unabhängigkeit von äußeren Faktoren. Das heißt, es gibt äußere Faktoren, deren Mitaufnahme in die Entscheidung allein von meinem Wollen abhängt. Das heißt, wir sind frei bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen.
-  3.
-
-1.
-
-2. Diese Entscheidungen, die dem Wert der Freiheit unterliegen, beziehen sich hier in erster Linie auf das Studium, Lehre, Forschung, Arbeit und Zusammenleben insbesondere am Institut und darüber hinaus.
-
-3.
-
-
 # Relevanz
 ## Grund
 *Wir bekennen uns zum Wert Freiheit, weil wir glauben, dass wissenschaftlicher Fortschritt und inneres, persönliches Wachstum sich nur unter Freiheit entfalten kann*
 
-## Argumente 
-1. Der Wert X ist für uns relevant, weil Y.
-2. Ein weiterer Grund.
-3. …
+###Propositionen
+
+  1. Abgesehen davon, dass wir Freiheit als einen nicht weiter zu [begründenden](../synopsis/reasons.md) Wert ansehen, beziehen wir uns auf Artikel 2 des Grundgesetztes: Dieser besagt unter anderem: "Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt [...]." Diese Richtlinie gilt es in jeglicher Handlung unter dem Wert der Freiheit am Institut- und Forschungsleben als universale Grundvoraussetzung zu beachten.
+  2. Innerhalb dieses Rahmens, verstehen wir unter Freiheit im spezielleren, auch die Unabhängigkeit von äußeren Faktoren. Das heißt, es gibt äußere Faktoren, deren Mitaufnahme in die Entscheidung allein von meinem Wollen abhängt. Das heißt, wir sind frei bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen.
+  3. Darüber hinaus lassen sich, überhaupt erst aufgrund der Freiheit und der Unabhängigkeit von äußeren Faktoren, ganz neue Faktoren generieren.
+
+  Allgemein für alle Punkte gilt: Diese Entscheidungen, die dem Wert der Freiheit unterliegen, beziehen sich hier in erster Linie auf das [Studieren](../contents/fields/v2a4.md), [Lehren](../contents/fields/v2a2.md), [Forschen](../contents/fields/v2a1.md) und [Zusammenleben](../contents/fields/v2a5.md) in den jeweilig vertretenen [Rollen](../contents/fields/v2a3.md), insbesondere am Institut, aber auch darüber hinaus.
+
+
+## Argumente
+Allgemein gilt:
+Der Wert Freiheit ist für uns relevant, weil wir glauben, dass nur unter einer Gesinnung der Freiheit die Ziele des Philosophiestudiums und der philosophischen Arbeit erreicht werden. Diese sind die Vermittlung von breit gefächertem Wissen in Form von Inhalten und Methoden, die Vorbereitung und Teilnahme auf und an dem philosophisch- wissenschaftlichen Diskurs und die dadurch begünstigte Beförderung von wissenschaftlichem Fortschritt und innerlich, persönlichem Wachstum.
+Wir glauben, dass Freiheit in den von uns genannten, das Studium und die Philosophie betreffenden, Handlungen Diversität von Wissen, Inhalten und Methoden begünstigt und dementsprechend [Lebendigkeit](../contents/values/v3_liveliness.md) und [Offenheit](../contents/values/v4_openness.md) garantiert. Durch die Diversität von Wissen, Inhalten und Methoden steigt außerdem die Wahrscheinlichkeit Lösungen zu finden, beziehungsweise neue Theorien aufzustellen. Das heißt neues Wissen zu erlangen und zu generieren. Und durch neue Lösungen und Theorien, steigt die Wahrscheinlichkeit Inkoheränzen und 'falsches' zu beseitigen und Gegebenenfalls Wahrheiten aufzuzeigen, oder zu stabilisieren.
+
+Damit diese Diversität in allen das Institut und die Forschung umfassenden Handlungen erreicht und weitergeführt werden kann, bedarf es einem gewissen Maß an Freiheit aller Teilnehmer in Haltung und Handlung.  
+
+
 
 
 # Links
