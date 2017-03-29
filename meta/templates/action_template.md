@@ -6,6 +6,8 @@
 
 ## Erläuterung
 
+Wir verstehen unter XYZ ...
+
 1. W,
 
 2. Y,
