@@ -50,10 +50,25 @@ In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [uns
 0. Wir verstehen unter der *Freiheit* unserer Handlungen beziehungsweise unter der *Freiheit* die Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren.
 
 
+  1. Abgesehen davon, dass wir Freiheit als einen nicht weiter zu [begründenden](../synopsis/reasons.md) Wert ansehen, beziehen wir uns auf Artikel 2 des Grundgesetztes: Dieser besagt unter anderem: "Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt [...]." Diese Richtlinie gilt es in jeglicher Handlung unter dem Wert der Freiheit am Institut- und Forschungsleben als universale Grundvoraussetzung zu beachten.
+  2. Innerhalb dieses Rahmens, verstehen wir unter Freiheit, die Unabhängigkeit von äußeren Faktoren. Das heißt, es gibt äußere Faktoren, deren Mitaufnahme in die Entscheidung allein von meinem Wollen abhängt. Das heißt, wir sind frei bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen.
+  3.
 
-...die Unabhängigkeit von äußeren Faktoren, die nicht willentlich als Faktoren in Entscheidungen mit aufgenommen wurden. Diese Entscheidungen (und damit auch der Freiheitsbegriff) beziehen sich hier in erster Linie auf Studium, Lehre, Forschung, Arbeit und Zusammenleben *am Institut*, insofern das Ethos-Programm für diesen Kontext erarbeitet wurde.
+1.
 
-Wir sind sowohl frei bestimmte Dinge zu tun (positive Freiheit), als auch frei von Einschränkungen (negative Freiheit) -> Brauchen wir das wirklich? Reicht nicht der erste Satz im Prinzip aus?
+2. Diese Entscheidungen, die dem Wert der Freiheit unterliegen, beziehen sich hier in erster Linie auf das Studium, Lehre, Forschung, Arbeit und Zusammenleben insbesondere am Institut und darüber hinaus.
+
+3.
+
+
+# Relevanz
+## Grund
+*Wir bekennen uns zum Wert Freiheit, weil wir glauben, dass wissenschaftlicher Fortschritt und inneres, persönliches Wachstum sich nur unter Freiheit entfalten kann*
+
+## Argumente 
+1. Der Wert X ist für uns relevant, weil Y.
+2. Ein weiterer Grund.
+3. …
 
 
 # Links
