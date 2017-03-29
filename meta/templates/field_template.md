@@ -18,7 +18,7 @@ In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [uns
 
 3. …
 
-### Begründung
+## Begründung
 ### Grund – BLUF
 *Für X spricht X, Y, Z.*
 *X ist für uns relevant, weil Y.*
