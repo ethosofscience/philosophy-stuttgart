@@ -1,8 +1,11 @@
 # Handlung
+test
 ## Statement – BLUF
 *Handlung XYZ ist für uns eine paradigmatische Handlung.*
 
 ## Erläuterung – TL;DR
+TEST
+
 ### Handlungsgefüge und Wertgefüge
 Wir sind davon überzeugt, dass *XYZ*, mit allen unseren anderen Werten sowie allen unseren anderen Handlungen im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
 
