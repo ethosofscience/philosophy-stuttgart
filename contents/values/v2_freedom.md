@@ -49,23 +49,16 @@ In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [uns
 
 0. Wir verstehen unter der *Freiheit* unserer Handlungen beziehungsweise unter der *Freiheit* die Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren.
 
-
-  1. Abgesehen davon, dass wir Freiheit als einen nicht weiter zu [begründenden](../synopsis/reasons.md) Wert ansehen, beziehen wir uns auf Artikel 2 des Grundgesetztes: Dieser besagt unter anderem: "Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt [...]." Diese Richtlinie gilt es in jeglicher Handlung unter dem Wert der Freiheit am Institut- und Forschungsleben als universale Grundvoraussetzung zu beachten.
-  2. Innerhalb dieses Rahmens, verstehen wir unter Freiheit, die Unabhängigkeit von äußeren Faktoren. Das heißt, es gibt äußere Faktoren, deren Mitaufnahme in die Entscheidung allein von meinem Wollen abhängt. Das heißt, wir sind frei bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen.
-  3.
-
-1.
-
-2. Diese Entscheidungen, die dem Wert der Freiheit unterliegen, beziehen sich hier in erster Linie auf das Studium, Lehre, Forschung, Arbeit und Zusammenleben insbesondere am Institut und darüber hinaus.
-
-3.
-
-
 # Relevanz
 ## Grund
 *Wir bekennen uns zum Wert Freiheit, weil wir glauben, dass wissenschaftlicher Fortschritt und inneres, persönliches Wachstum sich nur unter Freiheit entfalten kann*
 
-## Argumente 
+###Propositionen
+
+  1. Abgesehen davon, dass wir Freiheit als einen nicht weiter zu [begründenden](../synopsis/reasons.md) Wert ansehen, beziehen wir uns auf Artikel 2 des Grundgesetztes: Dieser besagt unter anderem: "Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt [...]." Diese Richtlinie gilt es in jeglicher Handlung unter dem Wert der Freiheit am Institut- und Forschungsleben als universale Grundvoraussetzung zu beachten.
+  2. Innerhalb dieses Rahmens, verstehen wir unter Freiheit im spezielleren, die Unabhängigkeit von äußeren Faktoren. Das heißt, es gibt äußere Faktoren, deren Mitaufnahme in die Entscheidung allein von meinem Wollen abhängt. Das heißt, wir sind frei bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen. Diese Entscheidungen, die dem Wert der Freiheit unterliegen, beziehen sich hier in erster Linie auf das [Studieren](../contents/fields/v2a4), [Lehren](../contents/fields/v2a2), [Forschen](../contents/fields/v2a1) und [Zusammenleben](../contents/fields/v2a5) in den jeweilig vertretenen [Rollen](../contents/fields/v2a3), insbesondere am Institut, aber auch darüber hinaus.
+
+## Argumente
 1. Der Wert X ist für uns relevant, weil Y.
 2. Ein weiterer Grund.
 3. …
