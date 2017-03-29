@@ -37,20 +37,20 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 ## Erläuterung – TL;DR
 Wir verstehen unter Offenheit fünferlei:
 
-1. **Transparenz** Offenheit als Transparenz hat wiederum zwei Dimensionen:
+1. **Transparenz**: Offenheit als Transparenz hat wiederum zwei Dimensionen:
 
-    1. **Passive** Transparenz ist die Zugänglichkeit beziehungsweise Verfügbarkeit von Informationen, Objekten, Zuständen, Gedanken, Ideen, Begriffen, Aussagen, Überzeugungen, Hypothesen, Argumenten, Beweisen, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera für einen Menschen;
+    1. **Passive** Transparenz ist die Zugänglichkeit von etwas für jemanden.
 
-    2. **Aktive** Transparenz ist die Zugänglichmachung beziehungsweise Verfügbarmachung von Informationen, Objekten, Zuständen, Gedanken, Ideen, Begriffen, Aussagen, Überzeugungen, Hypothesen, Argumenten, Beweisen, Fragen, Antworten, Lösungen, Lösungsansätzen, Arbeiten, Theorien, Texten, Resultaten, Daten, Algorithmen, Experimenten, Messungen, Beobachtungen, Analysen, Handlungen, Diskursen, Veranstaltungen, Projekten, et cetera.
+    2. **Aktive** Transparenz ist die Zugänglichmachung von etwas von jemandem.
 
-2. **Erfahrung** Offenheit als Bereitschaft und Unvoreingenommenheit zu zwischenmenschlicher (sozialer) Erfahrung.
+2. **Erfahrung** Offenheit als Bereitschaft und Unvoreingenommenheit zu zwischenmenschlicher Erfahrung.
 
-3. **Wachstum** Offenheit als Wachstum ist die Bereitschaft neue Informationen, Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Resultate, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera zu integrieren.
-Offenheit im Sinne des (persönlichen) Wachstums setzt eine grundlegende Beweglichkeit, Anpassungsfähigkeit des ganzen Menschen (der ganzen Person) voraus.
+3. **Wachstum** Offenheit als Wachstum ist die Bereitschaft Neues zu integrieren.
+Offenheit im Sinne des persönlichen Wachstums setzt eine grundlegende Beweglichkeit und Anpassungsfähigkeit der ganzen Person voraus. (Siehe hierzu [Lebendigkeit v3](../contents/values/v3_liveliness.md))
 
-  1. Insbesondere in Bezug auf unser wissenschaftliches Tun müssen wir bereit sein, uns stets selbst sowie unsere Informationen, Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Resultate, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte, et cetera zu hinterfragen.
+  1. Insbesondere in Bezug auf unser wissenschaftliches Tun müssen wir bereit sein, uns stets selbst zu hinterfragen.
 
-  2. Wir müssen offen (bereit) Fehler zu machen, uns zu irren und bereit dazu sein jene Fehler und Irrtümer proaktiv einzuräumen.
+  2. Wir müssen bereit sein, Fehler zu machen, uns zu irren und bereit dazu sein, jene Fehler und Irrtümer proaktiv einzuräumen.
   Wir sind davon überzeugt, dass wir aus unseren Fehlern und Irrtümern mindestens soviel lernen und an ihnen wachsen können wie an unseren Erfolgen.
   Hierzu ist es, wie wir glauben, allerdings nötig offen und konstruktiv mit unseren eigenen Fehlern und Irrtümern sowie den Fehlern und Irrtümern anderer umzugehen.
 
@@ -62,6 +62,9 @@ Siehe auch [Professionalität](../contents/values/v5_responsibility.md).
 4. **Modularität** Offenheit als Modularität …
 
 5. **Inkrementalität** Offenheit als Modularität …
+
+Die Objekte unserer Wertaussagen sind in den paradigmatischen Handlungen näher erläutert.
+Diese Dimensionen der Offenheit betreffen ohne Anspruch auf Vollständigkeit zumindest: Informationen, Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Resultate, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte.
 
 ## Relevanz
 ## Grund – BLUF
