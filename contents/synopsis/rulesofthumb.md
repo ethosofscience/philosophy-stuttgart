@@ -1,6 +1,6 @@
 # Daumenregeln
 
-1. BLUF (Bottom Line Front Up)
+1. BLUF (Bottom Line Up Front)
 2. TL;DR (too long; didn't read)
 3. KISS (Keep it simple stupid)
 4. Principle of Charity (Interpretiere wohlwollend)
