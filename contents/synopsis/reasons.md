@@ -91,14 +91,13 @@ In der Formulierung unserer Werte erläutern wir diejenigen Dimensionen des jewe
 Unter einer Dimension eines Wertes verstehen wir seine einzelnen Aspekte beziehungsweise Facetten.
 
 ## Handlungsdimensionen
-Wir begreifen unser Handlungen:
+Wir begreifen unsere Handlungen:
 
-1. [Fairness](../values/v1_fairness.md),
-2. [Freiheit](../values/v2_freedom.md),
-3. [Lebendigkeit](../values/v3_liveliness.md),
-4. [Offenheit](../values/v4_openness.md),
-5. [Professionalität](../values/v5_professionality.md),
-6. [Verantwortung](../values/v6_responsibility.md)
+1. [Forschen a1](../contents/actions/a1_research.md),
+2. [Lehren a2](../contents/actions/a2_teach.md),
+3. [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
+4. [Studieren a4](../contents/actions/a4_study.md),
+5. [Zusammenleben a5](../contents/actions/a5_live.md))
 
 als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
 
