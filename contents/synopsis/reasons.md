@@ -69,7 +69,7 @@ indem wir zeigen, dass sie bei paradigmatischen (repräsentativen) Handlungen
 [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
 [Studieren a4](../contents/actions/a4_study.md),
 [Zusammenleben a5](../contents/actions/a5_live.md))
-die jeweilige Handlung selbst erst ermöglicht oder die Handlung selbst zu einer besseren Handlung.
+die jeweilige Handlung selbst erst ermöglicht oder die Handlung selbst zu einer besseren Handlung macht.
 
 Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werden im Ethos formuliert und stehen deshalb in einem bestimmten Kontext.
 Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelder hin formuliert und sollen keine allgemeine Definition oder ähnliches der Werte darstellen.
