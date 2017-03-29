@@ -99,7 +99,7 @@ Wir begreifen unsere Handlungen:
 4. [Studieren a4](../contents/actions/a4_study.md),
 5. [Zusammenleben a5](../contents/actions/a5_live.md))
 
-als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
+jeweils als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
 
 ## Handlungsfelder
 …
