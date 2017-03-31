@@ -42,7 +42,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Relevanz
 ## Grund
-*Wir bekennen uns zum Wert Fairness, weil wir wissenschaftlichen, sowie persönlichen Fortschritt erreichen wollen und wir glauben, dass dieses Ziel nur erreicht werden kann, wenn fair miteinander gearbeitet und umgegangen wird.*
+*Wir bekennen uns zum Wert Fairness, weil wir glauben, dass man in sozialen Kontexten nur Fairness wollen kann. Forschungs- und Universitätsleben findet immer in sozialen Kontexten statt. Außerdem bekennen wir uns zum Wert Fairness, weil wir wissenschaftlichen, sowie persönlichen Fortschritt erreichen wollen und wir glauben, dass dieses Ziel nur erreicht werden kann, wenn fair miteinander gearbeitet und umgegangen wird.*
 
 ## Argumente
 Der Wert Fairness ist für uns relevant, weil wir glauben, dass man in sozialen Kontexten nur Fairness wollen kann. Forschungs- und Universitätsleben findet immer in sozialen Kontexten statt.
