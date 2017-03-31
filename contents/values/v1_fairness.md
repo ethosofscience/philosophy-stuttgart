@@ -44,6 +44,14 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 ## Grund
 *Wir bekennen uns zum Wert Fairness, weil wir glauben, dass man in sozialen Kontexten nur Fairness wollen kann. Forschungs- und Universitätsleben findet immer in sozialen Kontexten statt. Außerdem bekennen wir uns zum Wert Fairness, weil wir wissenschaftlichen, sowie persönlichen Fortschritt erreichen wollen und wir glauben, dass dieses Ziel nur erreicht werden kann, wenn fair miteinander gearbeitet und umgegangen wird.*
 
+
+
+
+
+
+
+
+
 ## Argumente
 Der Wert Fairness ist für uns relevant, weil wir glauben, dass man in sozialen Kontexten nur Fairness wollen kann. Forschungs- und Universitätsleben findet immer in sozialen Kontexten statt.
 
@@ -57,7 +65,7 @@ In diesen beiden Rahmenbedingungen ist die Behandlung aller Teilnehmer mit dem W
 ##Exkurs Toleranz und Respekt:
 Um die Werte Toleranz und Respekt unter dem allgemeinen Wert der Fairness zu erläutern, bedarf es zunächst einer Unterscheidung von Toleranz und Respekt.
 Über den Begirff der Toleranz herrscht bis Heute weitestgehend Uneinigkeit. Während die einen behaupten, Toleranz beinhaltet unter Anderem Respekt und dementsprechend Wertschätzung und Anerkennung, bedeutet er für andere lediglich die Duldung von Anderem, das heißt von (von der eigenen Position abweichenden) Einstellungen, Regeln, Überzeugungen und Haltungen.
-Beim Begriff Respekt hingegen herrscht weitestgehend Einigkeit, dass es dabei nicht lediglich bei einer Duldung beleibt. Statt dessen geht der Begriff Respekt, wie erwähnt, in den Bereich der Wertschätzung hinein. Das heißt, während Toleranz auch neutral oder sogar negativ, zu verstehen sein kann, kommt dem beispielsweise respektvollen Umgang eine deutlich positive Komponente mit Wertcharakter zu. Insofern dass man zum Beispiel eine andere Meinung, als gleich bedeutsam oder gut wie die eigene einschätzt, oder sogar noch besser als die eigene.
+Beim Begriff Respekt hingegen herrscht weitestgehend Einigkeit, dass es dabei nicht lediglich bei einer Duldung bleibt. Statt dessen geht der Begriff Respekt, wie erwähnt, in den Bereich der Wertschätzung hinein. Das heißt, während Toleranz auch neutral oder sogar negativ, zu verstehen sein kann, kommt dem beispielsweise respektvollen Umgang eine deutlich positive Komponente mit Wertcharakter zu. Insofern dass man zum Beispiel eine andere Meinung, als gleich bedeutsam oder gut wie die eigene einschätzt, oder sogar noch besser als die eigene.
 Aus dem oben beschriebenen ergibt sich, dass für das Erhalten und befördern der Gleichheit und Gerechtigkeit also im mindesten Toleranz erforderlich ist.
 
 #Genaueres zu Gleichheit und Gerechtigkeit
