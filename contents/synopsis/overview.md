@@ -5,12 +5,11 @@
 Make the Institut Great Again!
 
 
-
 ## Aufbau des Ethos
 
 ### Was ist ein Ethos.
 
-Der Ethos umfasst...
+Im *Ethos* formulieren wir eine Haltung.
 
 
 ### Werte
@@ -24,9 +23,9 @@ Wir begreifen unsere Werte:
 5. [Professionalität](../values/v5_professionality.md),
 6. [Verantwortung](../values/v6_responsibility.md)
 
-als dicke, mehrdimensionale, intrinsisch wertvolle Konzepte.
-In der Formulierung unserer Werte erläutern wir diejenigen Dimensionen des jeweiligen Wertes.
-Unter einer Dimension eines Wertes verstehen wir seine einzelnen Aspekte beziehungsweise Facetten.
+als dicke, mehrdimensionale, intrinsisch wertvolle Begriffe ("thick concepts").
+In der Formulierung unserer Werte erläutern wir diejenigen Dimensionen des jeweiligen Wertes, die wir für wichtig erachten und die für den Kontext des Ethos relevant sind.
+Unter einer Dimension eines Wertes verstehen wir einen einzelnen Aspekt des Wertes.
 
 
 
