@@ -51,19 +51,19 @@ Wir beschreiben im Folgenden diejenigen [Handlungsdimensionen](../synopsis/reaso
 
 3. Am Institut arbeiten und leben wir vor allem als *Menschen* zusammen, befinden uns jedoch auch in *verschiedenen Rollen*.
 
-4. Mögliche *Rollen* am Institut können sein:
+4. Mögliche *Rollen* am Institut können sein (nach alphabetischer Reihnefolge):
 
-  - Studentin
-  - Gasthörerin
-  - Tutorin
-  - Fachgruppensprecherin
-  - Studentische Hilfskraft
-  - Verwaltungsfachangestellte
-  - Dozentin / Gastdozentin
-  - Professorin
-  - stellvertr. Institutsleiterin
-  - Institutsleiterin
-  - ...
+  1. Dozentin / Gastdozentin
+  2. Fachgruppensprecherin
+  3. Gasthörerin
+  4. Institutsleiterin / stellvertretende Institutsleiterin
+  5. Professorin
+  6. Studentin
+  7. Studentische Hilfskraft
+  8. Tutorin
+  9. Verwaltungsfachangestellte
+  10. ...
+
 
 5. Mit jeder *Rolle* gehen Freiheiten, Rechte und Pflichten einher, welche zunehmend kontextabhängig sind.
 
