@@ -91,15 +91,15 @@ In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [uns
 
 ### Beispiel einer Rollenwahrnehmung als *Studentin*:
 
-- Rechte: Freies Studieren,freier Wissenserwerb, freie Planung des Studiums und des persönlichen Stundenplans (Voerlesungen, Seminare). Freie Meinungsäußerung und die freie Wahl eines Betreuers für eine Abschlussarbeit (...) Ein Recht auf Integration, respektvollen und fairer Umgang mit mir (Gleichheit und Gleichberechtigung), sowie das Recht in meiner Rolle anerkannt zu werden. Datenschutz.
+- Rechte: Freies Studieren, freier Wissenserwerb, freie Planung des Studiums und des persönlichen Stundenplans (Voerlesungen, Seminare), Freie Meinungsäußerung und die freie Wahl eines Betreuers für eine Abschlussarbeit, Integration, respektvollen und fairen Umgang, Gleichheit und Gleichberechtigung, Anerkennung der Rolle, Datenschutz, ...
 
-- Pflichten: Rollenbewusstsein und damit einhergehendes eigenverantwortliches Verhalten, d.h. respektvoller, toleranter, und fairer Umgang mit anderen Personen, sowie die Anerkennung ihren Rollen. Eigenverantwortliches Arbeiten/Studieren/Forschen, Anerkennung und Einhaltung der Prüfungs- und Studienordnung und den damit verbundenen Verpflichtungen (z.B. fristgemäße Einreichung von Arbeiten/Prüfungen, Anträgen, etc.). Datenschutz.
+- Pflichten: Rollenbewusstsein und damit einhergehendes eigenverantwortliches Verhalten, d.h. respektvoller, toleranter, und fairer Umgang mit anderen Personen, sowie die Anerkennung ihrer Rollen, Eigenverantwortliches Arbeiten/Studieren/Forschen, Anerkennung und Einhaltung der Prüfungs- und Studienordnung und den damit verbundenen Verpflichtungen (z.B. fristgemäße Einreichung von Arbeiten/Prüfungen, Anträgen, etc.), Datenschutz, ...
 
 ### Beispiel einer Rollenwahrnehmung als *Dozentin*:
 
-- Rechte: Freie Gestaltung der Lehrinhalte (sofern diese den universitären und institutsinternen Anforderungen gerecht werden.), freie Meinungsäußerung, respektvoller, toleranter und fairer Umgang mit mir, sowie das Recht in meiner Rolle anerkannt zu werden. Recht auf das Festlegen von Fristen (sofern diese den universitären und institutsinternen Anforderungen gerecht werden.) Allgemeine Rechte, die als Angestellte der Universität Stuttgart zutreffen. Datenschutz.
+- Rechte: Freie Gestaltung der Lehrinhalte (sofern diese den universitären und institutsinternen Anforderungen gerecht werden), freie Meinungsäußerung, respektvoller, toleranter und fairer Umgang, Anerkennung der Rolle, Recht auf das Festlegen von Fristen (sofern diese den universitären und institutsinternen Anforderungen gerecht werden), allgemeine Rechte, die als Angestellte der Universität Stuttgart zutreffen, Datenschutz, ...
 
-- Pflichten: Einhaltung der Prüfungs- Studienordnung als Dozentin (Fristen, Verwaltungstechnischen). Gesteigertes Rollenbewusstsein und damit einhergehende Verantwortung, tolerantes und respektvolles Auftreten, sowie eine objektive Bewertung der studentischen Leistungen. Allgemeine Pflichten, die als Angestellte der Universität Stuttgart zutreffen. Datenschutz.
+- Pflichten: Einhaltung der Prüfungs- Studienordnung als Dozentin (Fristen, Verwaltungstechnischen), gesteigertes Rollenbewusstsein und damit einhergehende Verantwortung, tolerantes und respektvolles Auftreten, sowie eine objektive Bewertung der studentischen Leistungen, allgemeine Pflichten, die als Angestellte der Universität Stuttgart zutreffen, Datenschutz, ...
 
 # Links
 1. […](…)
