@@ -30,42 +30,35 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Freiheit (Wissenschaftsfreiheit, Forschung, Lehre, Studium) **v2**
-## Wir verstehen unter Freiheit …
-
 # Wert
 ## Statement
-*Wir bekennen uns zum Wert Freiheit.*
+*Wir bekennen uns zum Wert der Freiheit.*
 
 ## Erläuterung
-### Wertgefüge und Handlungsgefüge
-Wir sind davon überzeugt, dass *Freiheit*, mit allen unseren anderen Handlungen, sowie allen unseren anderen Werten im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
+Wir verstehen unter *Freiheit* die Unabhängigkeit von äußeren Faktoren, die nicht willentlich als Faktoren in Entscheidungen mit aufgenommen wurden.
 
-### Wertdimensionen
-Wir beschreiben im Folgenden diejenigen [Wertdimensionen](../synopsis/reasons.md) der *Freiheit*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
+1. Abgesehen davon, dass wir Freiheit als einen nicht weiter zu [begründenden](../synopsis/reasons.md) Wert ansehen, beziehen wir uns auf Artikel 2 des Grundgesetztes.
+Dieser besagt unter anderem: "Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt [...]."
+Diese Richtlinie gilt es in jeglicher Handlung unter dem Wert der Freiheit am Institut- und Forschungsleben als universale Grundvoraussetzung zu beachten.
 
-Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
-In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
+2. Innerhalb dieses Rahmens verstehen wir unter Freiheit im Spezielleren, auch die Unabhängigkeit von äußeren Faktoren.
+Es gibt äußere Faktoren, deren Mitaufnahme in die Entscheidung allein von meinem Wollen abhängt.
+Das heißt, wir sind frei bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen.
 
-0. Wir verstehen unter der *Freiheit* unserer Handlungen beziehungsweise unter der *Freiheit* die Resultate unserer Handlungen, wie wir sie im Abschnitt zu unseren [Handlungen](../actions/ai_action.md)) spezifizieren.
+3. Allgemein für alle Punkte gilt: Die Entscheidungen, die dem Wert der Freiheit unterliegen, beziehen sich hier in erster Linie auf das [Studieren](../contents/fields/v2a4.md), [Lehren](../contents/fields/v2a2.md), [Forschen](../contents/fields/v2a1.md) und [Zusammenleben](../contents/fields/v2a5.md) in den jeweilig vertretenen [Rollen](../contents/fields/v2a3.md), insbesondere am Institut, aber auch darüber hinaus.
+
 
 # Relevanz
 ## Grund
-*Wir bekennen uns zum Wert Freiheit, weil wir glauben, dass wissenschaftlicher Fortschritt und inneres, persönliches Wachstum sich nur unter Freiheit entfalten kann*
+*Freiheit ist Grundvoraussetzung für Handlungen überhaupt und in unserem Selbstverständnis als Menschen verankert.
+Wir glauben, dass wissenschaftlicher Fortschritt und inneres, persönliches Wachstum sich nur unter Freiheit entfalten kann.*
 
-###Propositionen
-
-  1. Abgesehen davon, dass wir Freiheit als einen nicht weiter zu [begründenden](../synopsis/reasons.md) Wert ansehen, beziehen wir uns auf Artikel 2 des Grundgesetztes: Dieser besagt unter anderem: "Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt [...]." Diese Richtlinie gilt es in jeglicher Handlung unter dem Wert der Freiheit am Institut- und Forschungsleben als universale Grundvoraussetzung zu beachten.
-  2. Innerhalb dieses Rahmens, verstehen wir unter Freiheit im spezielleren, auch die Unabhängigkeit von äußeren Faktoren. Das heißt, es gibt äußere Faktoren, deren Mitaufnahme in die Entscheidung allein von meinem Wollen abhängt. Das heißt, wir sind frei bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen.
-  3. Darüber hinaus lassen sich, überhaupt erst aufgrund der Freiheit und der Unabhängigkeit von äußeren Faktoren, ganz neue Faktoren generieren.
-
-  Allgemein für alle Punkte gilt: Diese Entscheidungen, die dem Wert der Freiheit unterliegen, beziehen sich hier in erster Linie auf das [Studieren](../contents/fields/v2a4.md), [Lehren](../contents/fields/v2a2.md), [Forschen](../contents/fields/v2a1.md) und [Zusammenleben](../contents/fields/v2a5.md) in den jeweilig vertretenen [Rollen](../contents/fields/v2a3.md), insbesondere am Institut, aber auch darüber hinaus.
 
 
 ## Argumente
 Allgemein gilt:
 Der Wert Freiheit ist für uns relevant, weil wir glauben, dass nur unter einer Gesinnung der Freiheit die Ziele des Philosophiestudiums und der philosophischen Arbeit erreicht werden. Diese sind die Vermittlung von breit gefächertem Wissen in Form von Inhalten und Methoden, die Vorbereitung und Teilnahme auf und an dem philosophisch- wissenschaftlichen Diskurs und die dadurch begünstigte Beförderung von wissenschaftlichem Fortschritt und innerlich, persönlichem Wachstum.
-Wir glauben, dass Freiheit in den von uns genannten, das Studium und die Philosophie betreffenden, Handlungen Diversität von Wissen, Inhalten und Methoden begünstigt und dementsprechend [Lebendigkeit](../contents/values/v3_liveliness.md) und [Offenheit](../contents/values/v4_openness.md) garantiert. Durch die Diversität von Wissen, Inhalten und Methoden steigt außerdem die Wahrscheinlichkeit Lösungen zu finden, beziehungsweise neue Theorien aufzustellen. Das heißt neues Wissen zu erlangen und zu generieren. Und durch neue Lösungen und Theorien, steigt die Wahrscheinlichkeit Inkoheränzen und 'falsches' zu beseitigen und Gegebenenfalls Wahrheiten aufzuzeigen, oder zu stabilisieren.
+Wir glauben, dass Freiheit in den von uns genannten, das Studium und die Philosophie betreffenden, Handlungen Diversität von Wissen, Inhalten und Methoden begünstigt und dementsprechend [Lebendigkeit](../contents/values/v3_liveliness.md) und [Offenheit](../contents/values/v4_openness.md) garantiert. 
 
 Damit diese Diversität in allen das Institut und die Forschung umfassenden Handlungen erreicht und weitergeführt werden kann, bedarf es einem gewissen Maß an Freiheit aller Teilnehmer in Haltung und Handlung.  
 
