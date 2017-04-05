@@ -51,7 +51,7 @@ Wir beschreiben im Folgenden diejenigen [Handlungsdimensionen](../synopsis/reaso
 
 3. Am Institut arbeiten und leben wir vor allem als *Menschen* zusammen, befinden uns jedoch auch in *verschiedenen Rollen*.
 
-4. Mögliche *Rollen* am Institut können sein (nach alphabetischer Reihnefolge):
+4. Mögliche *Rollen* am Institut können sein (nach alphabetischer Reihnefolge und unvollständig):
 
   1. Dozentin / Gastdozentin
   2. Fachgruppensprecherin
