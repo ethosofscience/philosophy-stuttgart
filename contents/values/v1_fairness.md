@@ -37,7 +37,9 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 ## Erläuterung
 1. Wir verstehen unter Fairness eine Grundnorm und Voraussetzung  für wissenschaftlichen Fortschritt und innerliches, persönliches Wachstum.
+
 2. Alle unsere Handlungen, das heißt, Forschen, Lehren, Studieren, Zusammenleben und die damit einhergehende und notwendige Rollenwahrnehmung, sind an den von Fairness vorausgesetzten Normen Gerechtigkeit, Gleichheit, Toleranz, Respekt und darin enthaltender Anerkennung orientiert.
+
 3. Fairness heißt somit zunächst die Annerkennung der Gleichheit aller Teilnehmer des sozialen Miteinander. Darauf aufbauend können die weiteren Werte, also Gerechtigkeit, Toleranz und Respekt sich entfalten.
 
 # Relevanz
