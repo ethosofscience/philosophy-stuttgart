@@ -31,10 +31,10 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Verantwortung** (Verlässlichkeit, Souveränität, Engagement) **v6**
-## Statement – BLUF
+## Statement
 *Wir sind verantwortungsvoll.*
 
-## Erläuterung – TL;DR
+## Erläuterung
 ### Wertgefüge und Handlungsgefüge
 Wir sind davon überzeugt, dass *XYZ*, mit allen unseren anderen Handlungen sowie allen unseren anderen Werten im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
 
@@ -75,10 +75,10 @@ In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [uns
 6. Verantwortung bezeichnet die eigenständige Orientierung des eigenen Verhaltens an den Werten, die sich aus den eingenommenen Rollen (Rollenverantwortung) und grundsätzlich aus dem Mensch-sein ergeben (Personale Verantwortung). Verantwortliche Menschen kommen den gerechtfertigten Ansprüchen an sie von sich aus nach.
 
 # Relevanz
-## Grund – BLUF
+## Grund
 *Wir sind verantwortungsvoll, weil verantwortungsvolles Verhalten eine* conditio sine qau non *für alle Zwischenmenschlichkeit ist und darüber hinaus gegenseitiges Vertrauen stiftet.*
 
-## Argumente – TL;DR
+## Argumente
 1. Verantwortung ist für uns wichtig, weil sie die Grundlage für Verlässlichkeit ist.
 
 2. Verantwortung ist für uns wichtig, weil sie uns Mündigkeit und eigenständiges Denken von uns verlangt.
