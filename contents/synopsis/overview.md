@@ -24,8 +24,6 @@ Wir begreifen unsere Werte:
 6. [Verantwortung](../values/v6_responsibility.md)
 
 als dicke, mehrdimensionale, intrinsisch wertvolle Begriffe.
-In der Formulierung unserer Werte erläutern wir diejenigen Dimensionen des jeweiligen Wertes, die wir für wichtig erachten und die für den Kontext des Ethos relevant sind.
-Unter einer Dimension eines Wertes verstehen wir einen einzelnen Aspekt des Wertes.
 
 ### Paradigmatische Handlungen
 Wir begreifen unsere Handlungen:
