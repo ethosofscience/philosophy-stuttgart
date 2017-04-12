@@ -37,7 +37,8 @@ Wir begreifen unsere Handlungen:
 jeweils als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
 
 ### Handungsfelder
-Beschreibung der Handlungsfelder einfügen.
+Ein Handlungsfeld ist eine Kombination aus einem Wert und einer paradigmatischen Handlung.
+/// Beschreibung der Handlungsfelder einfügen.
 
 ## Erläuterungen zum Ethos / Preliminary Remarks
 In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
