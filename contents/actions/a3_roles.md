@@ -38,15 +38,17 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 1. Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir das Wahrnehmen einer oder mehrerer Rolle(n) als:
 
-  a) reflektiertes und aufmerksames *Erkennen* der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie
+    1. reflektiertes und aufmerksames *Erkennen* der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie
 
-  b) aktives und bewusstes *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
+    2. aktives und bewusstes *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
 
 2. Eine Rolle wird konstituiert durch (soziale) Erwartungen, Handlungsmuster, Ansprüche, Anforderungen, Rechte und Plfichten (...).
 
-3. Am Institut arbeiten und leben wir vor allem als *Menschen* zusammen, befinden uns jedoch auch in verschiedenen Rollen.
+3. Mit jeder Rolle gehen Freiheiten, Rechte und Pflichten einher, welche zunehmend kontextabhängig sind.
 
-4. Mögliche Rollen am Institut können sein (nach alphabetischer Reihenfolge und unvollständig):
+4. Am Institut arbeiten und leben wir vor allem als *Menschen* zusammen, befinden uns jedoch auch in verschiedenen Rollen.
+
+5. Mögliche Rollen am Institut können sein (nach alphabetischer Reihenfolge und unvollständig):
 
   1. Dozentin / Gastdozentin
 
@@ -84,28 +86,25 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
     1. Verwaltet und organisiert Institutsangelegenheiten.
 
-  10. ...
-
-5. Mit jeder Rolle gehen Freiheiten, Rechte und Pflichten einher, welche zunehmend kontextabhängig sind.
 
 6. Eine Person kann verschiedene Rollen einnehmen (z.B.als Studentin *und* Tutorin). Eine Kollidierung mehrerer Rollen ist daher möglich und normal. Die reflektierende Person wagt dann bewusst und eigenverantwortlich zwischen den damit verbunden Rechten und Pflichten ab.
 
 7. Diese *Rollen*, sowie den damit verbundenen Freiheiten, Rechten und Pflichten, versuchen wir
 
-  a) *transparent* zu gestalten
+    1. *transparent* zu gestalten
 
-  b) *aktiv* zu *erkennen* (siehe *Rollenwahrnehmung* oben)
+    2. *aktiv* zu *erkennen*
 
-  c) *einzunehmen* und zu *leben* (siehe *Rollenwahrnehmung* oben)
+    3. *einzunehmen* und zu *leben*
 
-  d) zu *tolerieren* und zu *respektieren*
+    4. zu *tolerieren* und zu *respektieren*
 
-  e) zu *schützen* und
+    5. zu *schützen* und
 
-  f) zu *reflektieren*. [Offenheit und Rollenwahrnehmung](../contents/fields/v4a3.md)
+    6. zu *reflektieren*. [Offenheit und Rollenwahrnehmung](../contents/fields/v4a3.md)
 
 um den bestimmten Werten, die unserem Ethos entsprechen, gerecht zu werden.
-(siehe v1a3, v2a3, v3a3, v4a3, v5,a3, v6a3)
+
 
 ### Beispiel einer Rollenwahrnehmung als *Studentin*:
 
