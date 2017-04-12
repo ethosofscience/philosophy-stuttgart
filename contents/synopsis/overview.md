@@ -5,7 +5,7 @@ Make the Institut Great Again!
 ## Was ist der Ethos?
 Im *Ethos* formulieren wir eine Haltung. Dies ist ein Vorschlag einer Haltung, zu der wir uns gemeinschaftlich formal am
 
-xx.xx.2017
+*xx.xx.2017*
 
 bekannt haben und für welche wir fortlaufend einstehen wollen.
 
