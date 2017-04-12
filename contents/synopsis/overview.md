@@ -2,9 +2,16 @@
 ## Präambel
 Make the Institut Great Again!
 
-## Aufbau des Ethos
-### Was ist ein Ethos
-Im *Ethos* formulieren wir eine Haltung.
+## Was ist der Ethos?
+Im *Ethos* formulieren wir eine Haltung. Dies ist ein Vorschlag einer Haltung, zu der wir uns gemeinschaftlich formal am
+
+*xx.xx.2017*
+
+bekannt haben und für welche wir fortlaufend einstehen wollen.
+
+Der Ethos ist von uns und für uns, die Studierenden, Lehrenden und Mitarbeiterinnen des *Instituts für Philosophie* der *Universität Stuttgart*, formuliert.
+
+In diesem Kapitel nennen und beschreiben wir zunächst den Aufbau, welcher sich aus einer Kombination aus Werten und paradigmatischen Handlungen ergab. Anschließend geben wir einige Erläuterungen zu dem Status der Werte und Handlungen, sowie der Umgang mit Wertekonflikte.
 
 ### Werte
 Wir begreifen unsere Werte:
@@ -16,9 +23,7 @@ Wir begreifen unsere Werte:
 5. [Professionalität](../values/v5_professionality.md),
 6. [Verantwortung](../values/v6_responsibility.md)
 
-als dicke, mehrdimensionale, intrinsisch wertvolle Begriffe ("thick concepts").
-In der Formulierung unserer Werte erläutern wir diejenigen Dimensionen des jeweiligen Wertes, die wir für wichtig erachten und die für den Kontext des Ethos relevant sind.
-Unter einer Dimension eines Wertes verstehen wir einen einzelnen Aspekt des Wertes.
+als dicke, mehrdimensionale, intrinsisch wertvolle Begriffe.
 
 ### Paradigmatische Handlungen
 Wir begreifen unsere Handlungen:
@@ -32,12 +37,10 @@ Wir begreifen unsere Handlungen:
 jeweils als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
 
 ### Handungsfelder
-Beschreibung der Handlungsfelder einfügen.
+Ein Handlungsfeld ist eine Kombination aus einem Wert und einer paradigmatischen Handlung.
+/// Beschreibung der Handlungsfelder einfügen.
 
 ## Erläuterungen zum Ethos / Preliminary Remarks
-In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
-Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
-
 ### Was sind Werte für uns
 Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
@@ -74,7 +77,8 @@ Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto*, die wir fü
 Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen, nach denen wir streben.
 Wir glauben, dass die normative und motivationale Kraft unserer Werte davon abhängt, ob wir sie *de facto* leben.
 Und sie zu leben begreifen wir als bewusstes Streben nach der Erfüllung jener Werte.
-Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
+Wir glaub
+en, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
 Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
 (siehe [Wertekonflikte im Überlegungsgleichgewicht](##wertekonflikte-im-überlegungsgleichgewicht))
 
@@ -83,9 +87,10 @@ Hier führen wir einige Gründe (Argumente) an, warum wir nicht jeden hier verwe
 
 Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
 
-
 ### Wertekonflikte
-Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
+Wir sind davon überzeugt, dass unsere Handlungen, unsere Werte und alle Handlungsfelder grundsätzlich im Einklang stehen und stehen sollte.
+
+Wir glauben aber auch, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
 
 1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
 
@@ -94,33 +99,8 @@ Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nich
 Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigen Wettstreit stehen können.
 Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
 
-### Überzeugung hinsichtlich der Harmonie der Wert- und Handlungsfelder
-Wir sind davon überzeugt, dass *XYZ*, mit allen unseren anderen Werten sowie allen unseren anderen Handlungen im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
-
-Wir sind davon überzeugt, dass das *verantwortungsvolle Forschen*, mit unseren Handlungen, wie sie in
-
-1. [Forschen](../actions/a1_research.md),
-2. [Lehren](../actions/a2_teach.md),
-3. [Rollenwahrnehmung](../actions/a3_roles.md),
-4. [Studieren](../actions/a4_study.md),
-5. [Zusammenleben](../actions/a5_live.md)
-
-sowie unseren Werten wie sie in
-
-1. [Fairness](../values/v1_fairness.md),
-2. [Freiheit](../values/v2_freedom.md),
-3. [Lebendigkeit](../values/v3_liveliness.md),
-4. [Offenheit](../values/v4_openness.md),
-5. [Professionalität](../values/v5_professionality.md),
-6. [Verantwortung](../values/v6_responsibility.md)
-
-beschrieben sind im
-[Einklang](../synopsis/reasons.md)
-steht und stehen sollte.
-
 ### Objekte/Diskursreferenten
-xxx.
-
+Die Diskursreferenten sind in den paradigmatischen Handlungen aufgelistet und sollen einen Überblick über die relevanten Objekte der normativen Zuschreibungen.
 
 ## Architektur des Ethos
 ### Repräsentative Handlungen (alphabetisch)
