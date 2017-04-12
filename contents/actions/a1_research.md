@@ -112,7 +112,7 @@ Wir verpflichten uns mit unserer Forschung unseren zukünftigen Generationen.
       17. Publizieren,
       18. …
 
-4. Jeder Ort kann grundsätzlich ein Ort des philosophischen Forschens sein.
+4. Jeder Ort kann grundsätzlich ein Ort des (philosophischen) Forschens sein.
 Als besondere Orte unseres Forschens sind jedoch hervorzuheben:
 
     1. Die Institutsbibliothek,
