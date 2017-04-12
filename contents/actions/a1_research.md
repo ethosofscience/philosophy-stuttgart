@@ -29,28 +29,23 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
   SUBFILE – This is a SUBFILE! For more INFORMATION on this project go to:
 /README.md
 --->
-# a1: Forschen
-## Statement – BLUF
-*Foschen ist für uns eine paradigmatische Handlung.*
+# Forschen
+## Statement
+*Forschen ist für uns eine paradigmatische Handlung.*
 
-## Erläuterung – TL;DR
-### Handlungsgefüge und Wertgefüge
-Wir sind davon überzeugt, dass *Forschen*, mit allen unseren anderen Werten sowie allen unseren anderen Handlungen im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
+## Erläuterung
+Wir begreifen unser *Forschen* als eine Handlung, die [stellvertretend](../synopsis/overview.md) für eine Reihe von Handlungen aus einem ganzen Handlungsgefüge steht.
 
-### Handlungsdimensionen
-Wir beschreiben im Folgenden diejenigen [Handlungsdimensionen](../synopsis/reasons.md) des *Forschens*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
+1. Unser *Forschen* begreifen wir als *das gemeinsame, systematische Streben nach Erkenntnis* für uns selbst und für andere.
 
-Die in dieser Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
-In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
+2. Dass wir *forschen* heißt für uns, dass *wir* forschen.
+Unser Forschen ist untrennbar eingebunden in die wissenschaftliche Gemeinschaft und diese wiederum ist untrennbar eingebunden in die Weltgemeinschaft.
+Wir forschen im Bewusstsein unser positiven *Interdependenz*.
+Unserer Forschen ist zugleich [Selbstzweck \(intrinsisch wertvoll\)](../synopsis/overview.md) und [Privileg](../synopsis/overview.md) mit dem [Pflichten](../synopsis/overview.md) einhergehen.
 
-Wir begreifen *Forschen* als eine [paradigmatischen Handlung](../synopsis/reasons.md), die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
+3. Wir begreifen die *Philosophie* als Wissenschaft und unser *philosophisches Forschen* begreifen wir als [wissenschaftliche Tätigkeit](../values/professionality.md), die als solche den [höchsten wissenschaftlichen und ethischen Standards genügt](..\contents\values\v5_professionality.md)
 
-1. *Forschen* ist das systematische Suchen nach Erkenntnis.
-
-  1. *Philosophische Forschung* findet sich im Austausch mit anderen Wissenschaften
-
-  2. Wir begreifen die *Philosophie* als Wissenschaft. Hierfür gibt es gute Gründe. [siehe hier v5: Professionalität](..\contents\values\v5_professionality.md)
-  Wir sehen uns mit diesem Anspruch eingereiht in die philosophische Geschichte (Vgl. beispielsweise  \cite{husserl2009philosophie}, [mehr "große" entsprechende Publikationen einfügen], usf. )
+Wir sehen uns in die Geschichte der Philosophie (vgl. beispielsweise  (husserl2009philosophie)) sowie die Geschichte der gesamten Wissenschaften eingebettet.
 
 2. Forschung umfasst die *Dokumentation* und die *Publikation* der relevanten *Objekte des Forschens*.
 
