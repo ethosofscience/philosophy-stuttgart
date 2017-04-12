@@ -52,7 +52,6 @@ Beschreibung der Handlungsfelder einfügen.
 
 In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
-In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 
 
 ### Was sind Werte für uns
