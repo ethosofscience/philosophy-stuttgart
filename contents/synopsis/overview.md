@@ -1,19 +1,12 @@
 # Überblick
-
 ## Präambel
-
 Make the Institut Great Again!
 
-
 ## Aufbau des Ethos
-
-### Was ist ein Ethos.
-
+### Was ist ein Ethos
 Im *Ethos* formulieren wir eine Haltung.
 
-
 ### Werte
-
 Wir begreifen unsere Werte:
 
 1. [Fairness](../values/v1_fairness.md),
@@ -27,10 +20,7 @@ als dicke, mehrdimensionale, intrinsisch wertvolle Begriffe ("thick concepts").
 In der Formulierung unserer Werte erläutern wir diejenigen Dimensionen des jeweiligen Wertes, die wir für wichtig erachten und die für den Kontext des Ethos relevant sind.
 Unter einer Dimension eines Wertes verstehen wir einen einzelnen Aspekt des Wertes.
 
-
-
 ### Paradigmatische Handlungen
-
 Wir begreifen unsere Handlungen:
 
 1. [Forschen a1](../contents/actions/a1_research.md),
@@ -41,21 +31,14 @@ Wir begreifen unsere Handlungen:
 
 jeweils als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
 
-
 ### Handungsfelder
-
 Beschreibung der Handlungsfelder einfügen.
 
-
-
 ## Erläuterungen zum Ethos / Preliminary Remarks
-
 In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 Die in der folgenden Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
 
-
 ### Was sind Werte für uns
-
 Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten denselben ihre normative und motivationale Kraft verleiht, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
@@ -95,16 +78,13 @@ Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam an
 Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
 (siehe [Wertekonflikte im Überlegungsgleichgewicht](##wertekonflikte-im-überlegungsgleichgewicht))
 
-
 ### Begründung von Werten
-
 Hier führen wir einige Gründe (Argumente) an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
 
 Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
 
 
 ### Wertekonflikte
-
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
 
 1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
@@ -114,10 +94,7 @@ Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nich
 Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigen Wettstreit stehen können.
 Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
 
-
-
 ### Überzeugung hinsichtlich der Harmonie der Wert- und Handlungsfelder
-
 Wir sind davon überzeugt, dass *XYZ*, mit allen unseren anderen Werten sowie allen unseren anderen Handlungen im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
 
 Wir sind davon überzeugt, dass das *verantwortungsvolle Forschen*, mit unseren Handlungen, wie sie in
@@ -141,19 +118,8 @@ beschrieben sind im
 [Einklang](../synopsis/reasons.md)
 steht und stehen sollte.
 
-
-
 ### Objekte/Diskursreferenten
-
-
-
-
-
-
-
----------------------------
 Ab hier reinkopierte Notizen...
-
 
 ### Handlungsdimensionen
 Wir beschreiben im Folgenden diejenigen [Handlungsdimensionen](../synopsis/reasons.md) des *XYZ*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
@@ -171,7 +137,6 @@ Wir sind davon überzeugt, dass *XYZ*, mit allen unseren anderen Handlungen sowi
 
 ### Wertdimensionen
 Wir beschreiben im Folgenden diejenigen [Wertdimensionen](../synopsis/reasons.md) der *XYZ*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
-
 
 ## Feld
 Wir beschreiben im Folgenden das [Handlungsfeld](../synopsis/reasons.md) des *XYZ*, wie es sich aus dem [Wert](../values/vi_value.md) und der [Handlung](../actions/ai_action.md) ergibt.
