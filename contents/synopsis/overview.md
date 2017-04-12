@@ -121,7 +121,6 @@ steht und stehen sollte.
 ### Objekte/Diskursreferenten
 xxx.
 
-
 ## Architektur des Ethos
 ### Repräsentative Handlungen (alphabetisch)
 1. **Forschen** (Lesen, Schreiben, Seminar, Zuhören, Reden, … )
