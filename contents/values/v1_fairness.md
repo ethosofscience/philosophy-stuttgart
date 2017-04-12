@@ -30,8 +30,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Fairness (Gerechtikeit, Gleicheit, Toleranz, Respekt, Anerkennung) **v1**
-
+# Fairness
 ## Statement
 *Wir bekennen uns zum Wert Fairness.*
 
@@ -46,8 +45,6 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 ## Grund
 *Wir bekennen uns zum Wert Fairness, weil wir glauben, dass man in sozialen Kontexten nur Fairness wollen kann. Forschungs- und Universitätsleben findet immer in sozialen Kontexten statt. Außerdem bekennen wir uns zum Wert Fairness, weil wir wissenschaftlichen, sowie persönlichen Fortschritt erreichen wollen und wir glauben, dass dieses Ziel nur erreicht werden kann, wenn fair miteinander gearbeitet und umgegangen wird.*
 
-
->>>>>>> 88909c28e1c5233a5a2d8b567210f74d035598d0
 # Links
 1. [dt. Wikipedia: Fairness](https://de.wikipedia.org/wiki/Fairness)
 2. [dt. Wikipedia: Gerechtigkeit](https://de.wikipedia.org/wiki/Gerechtigkeit)
