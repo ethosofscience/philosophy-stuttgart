@@ -2,9 +2,16 @@
 ## Präambel
 Make the Institut Great Again!
 
-## Aufbau des Ethos
-### Was ist ein Ethos
-Im *Ethos* formulieren wir eine Haltung.
+## Was ist der Ethos?
+Im *Ethos* formulieren wir eine Haltung. Dies ist ein Vorschlag einer Haltung, zu der wir uns gemeinschaftlich formal am
+
+xx.xx.2017
+
+bekannt haben und für welche wir fortlaufend einstehen wollen.
+
+Der Ethos ist von uns und für uns, die Studierenden, Lehrenden und Mitarbeiterinnen des *Instituts für Philosophie* der *Universität Stuttgart*, formuliert.
+
+In diesem Kapitel nennen und beschreiben wir zunächst den Aufbau, welcher sich aus einer Kombination aus Werten und paradigmatischen Handlungen ergab. Anschließend geben wir einige Erläuterungen zu dem Status der Werte und Handlungen, sowie der Umgang mit Wertekonflikte.
 
 ### Werte
 Wir begreifen unsere Werte:
@@ -16,7 +23,7 @@ Wir begreifen unsere Werte:
 5. [Professionalität](../values/v5_professionality.md),
 6. [Verantwortung](../values/v6_responsibility.md)
 
-als dicke, mehrdimensionale, intrinsisch wertvolle Begriffe ("thick concepts").
+als dicke, mehrdimensionale, intrinsisch wertvolle Begriffe.
 In der Formulierung unserer Werte erläutern wir diejenigen Dimensionen des jeweiligen Wertes, die wir für wichtig erachten und die für den Kontext des Ethos relevant sind.
 Unter einer Dimension eines Wertes verstehen wir einen einzelnen Aspekt des Wertes.
 
@@ -74,7 +81,8 @@ Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto*, die wir fü
 Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen, nach denen wir streben.
 Wir glauben, dass die normative und motivationale Kraft unserer Werte davon abhängt, ob wir sie *de facto* leben.
 Und sie zu leben begreifen wir als bewusstes Streben nach der Erfüllung jener Werte.
-Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
+Wir glaub
+en, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
 Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
 (siehe [Wertekonflikte im Überlegungsgleichgewicht](##wertekonflikte-im-überlegungsgleichgewicht))
 
@@ -82,7 +90,6 @@ Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität uns
 Hier führen wir einige Gründe (Argumente) an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
 
 Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
-
 
 ### Wertekonflikte
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
