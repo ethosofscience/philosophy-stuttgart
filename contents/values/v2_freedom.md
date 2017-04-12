@@ -49,7 +49,3 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 *Freiheit ist Grundvoraussetzung für Handlungen überhaupt und in unserem Selbstverständnis als Menschen verankert.
 Freiheit ist im Grundgesetz verankert (Art. 2).
 Wir glauben, dass wissenschaftlicher Fortschritt und inneres, persönliches Wachstum sich nur unter Freiheit entfalten kann.*
-
-# Links
-1. […](…)
-2. …
