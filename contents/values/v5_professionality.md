@@ -30,10 +30,10 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Professionalität (Klarheit, Einfachheit, Struktur, Kohärenz, …) **v5**
-## Statement – BLUF
+## Statement
 *Wir sind professionell.*
 
-## Erläuterung – TL;DR
+## Erläuterung
 1. *Wir verstehen unter Professionalität* diejenige Eigenschaft der Ausübung einer Tätigkeit oder einer Person in Bezug auf die Ausübung einer Tätigkeit, welche die Ausübung derselben Tätigkeit beziehungsweise derselben Person zu einer *kunstfertigen* im Sinne der *téchne* macht.
 
 2. Jemand, der bezüglich einer Tätigkeit professionell ist, der übt die Tätigkeit oft beruflich oder als Erwerbstätigkeit aus.
