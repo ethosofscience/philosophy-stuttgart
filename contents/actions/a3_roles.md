@@ -31,75 +31,89 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Rollenwahrnehmung (…) a3
-## Statement – BLUF
+## Statement
 *Rollenwahrnehmung ist für uns eine paradigmatische Handlung.*
 
-## Erläuterung – TL;DR
-### Handlungsgefüge und Wertgefüge
-Wir sind davon überzeugt, dass die *Rollenwahrnehmung*, mit allen unseren anderen Werten sowie allen unseren anderen Handlungen im [Einklang](../synopsis/reasons.md) steht und stehen sollte.
+## Erläuterung
 
-### Handlungsdimensionen
-Wir beschreiben im Folgenden diejenigen [Handlungsdimensionen](../synopsis/reasons.md) der *Rollenwahrnehmung*, die uns im Sinnzusammenhang unseres Ethos wichtig sind.
+1. Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir das Wahrnehmen einer oder mehrerer Rolle(n) als:
 
-1. Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir das Wahrnehmen *einer(mehrerer) Rolle(n)* als:
+    1. reflektiertes und aufmerksames *Erkennen* der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie
 
-  a) *reflektiertes* und *aufmerksames* *Erkennen* der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie
+    2. aktives und bewusstes *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
 
-  b) *aktives* und *bewusstes* *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
+2. Eine Rolle wird konstituiert durch (soziale) Erwartungen, Handlungsmuster, Ansprüche, Anforderungen, Rechte und Plfichten (...).
 
-2. Eine *Rolle* wird konstituiert durch (soziale) Erwartungen, Handlungsmuster, Ansprüche, Anforderungen, Rechte und Plfichten (...).
+3. Mit jeder Rolle gehen Freiheiten, Rechte und Pflichten einher, welche zunehmend kontextabhängig sind.
 
-3. Am Institut arbeiten und leben wir vor allem als *Menschen* zusammen, befinden uns jedoch auch in *verschiedenen Rollen*.
+4. Am Institut arbeiten und leben wir vor allem als *Menschen* zusammen, befinden uns jedoch auch in verschiedenen Rollen.
 
-4. Mögliche *Rollen* am Institut können sein (nach alphabetischer Reihnefolge):
+5. Mögliche Rollen am Institut können sein (nach alphabetischer Reihenfolge und unvollständig):
 
   1. Dozentin / Gastdozentin
+
+      1. siehe unten
+
   2. Fachgruppensprecherin
+
+      1. Die Fachgruppensprecherin repräsentiert die Studierenden und kommuniziert und vermittelt zwischen Studierenden und Lehrpersonen.
+
   3. Gasthörerin
+
+      1. Gasthörerinnen studieren Philosophie, so wie Studierende. Grundsätzlich gilt das was für Studierende gilt, auch für sie. Gasthörerinnen sind sich ihrer besonderen Rolle mit ihren jeweiligen Rechten und Pflichten bewusst, gleichzeitig wird ihnen mit Respekt und Fairness begegnet, so wie allen anderen am Institut auch.
+
   4. Institutsleiterin / stellvertretende Institutsleiterin
+
+      1. Repräsentiert und leitet das Institut für Philosophie.
+
   5. Professorin
+
+      1. Siehe Dozentin
+
   6. Studentin
+
+      1. siehe unten
+
   7. Studentische Hilfskraft
+
+    1. Studentische und wissenschaftliche Hilfskräfte arbeiten unterstützend in der Lehre oder in der Forschung. Sie sind sich der Verantwortung bewusst, die damit einhergeht.
+
   8. Tutorin
+
+    1. Gibt Tutorien und ist somit auch Lehrende, siehe hierfür "Dozentin". Gleichzeitig sind Tutorinnen Studierende, mit diesen beiden Rollen umzugehen und sie zu erfüllen, vereinbaren oder auch trennen zu können ist besondere Aufgabe der Tutorinnen.
+
   9. Verwaltungsfachangestellte
-  10. ...
+
+    1. Verwaltet und organisiert Institutsangelegenheiten.
 
 
-5. Mit jeder *Rolle* gehen Freiheiten, Rechte und Pflichten einher, welche zunehmend kontextabhängig sind.
-
-6. Eine Person kann verschiedene *Rollen* einnehmen (z.B.als Studentin *und* Tutorin). Eine Kollidierung mehrerer Rollen ist daher möglich und *normal*. Die reflektierende Person muss dann bewusst und eigenverantwortlich zwischen den damit verbunden Rechten und Pflichten abwägen.
+6. Eine Person kann verschiedene Rollen einnehmen (z.B.als Studentin *und* Tutorin). Eine Kollidierung mehrerer Rollen ist daher möglich und normal. Die reflektierende Person wagt dann bewusst und eigenverantwortlich zwischen den damit verbunden Rechten und Pflichten ab.
 
 7. Diese *Rollen*, sowie den damit verbundenen Freiheiten, Rechten und Pflichten, versuchen wir
 
-  a) *transparent* zu gestalten
+    1. *transparent* zu gestalten
 
-  b) *aktiv* zu *erkennen* (siehe *Rollenwahrnehmung* oben)
+    2. *aktiv* zu *erkennen*
 
-  c) *einzunehmen* und zu *leben* (siehe *Rollenwahrnehmung* oben)
+    3. *einzunehmen* und zu *leben*
 
-  d) zu *tolerieren* und zu *respektieren*
+    4. zu *tolerieren* und zu *respektieren*
 
-  e) zu *schützen* und
+    5. zu *schützen* und
 
-  f) zu *reflektieren*. [Offenheit und Rollenwahrnehmung](../contents/fields/v4a3.md)
+    6. zu *reflektieren*. [Offenheit und Rollenwahrnehmung](../contents/fields/v4a3.md)
 
 um den bestimmten Werten, die unserem Ethos entsprechen, gerecht zu werden.
-(siehe v1a3, v2a3, v3a3, v4a3, v5,a3, v6a3)
 
-Die in dieser Liste aufgeführten Beispiele begreifen wir als die paradigmatischen (exemplarischen) Diskursreferenten (*universe of discourse* beziehungsweise *domain of discourse*) unseres Ethos.
-In [Gründe über Gründe](../synopsis/reasons.md) beschreiben wir, wie wir [unsere Listen](../synopsis/reasons.md) verstehen.
 
 ### Beispiel einer Rollenwahrnehmung als *Studentin*:
 
-- Rechte: Freies Studieren, freier Wissenserwerb, freie Planung des Studiums und des persönlichen Stundenplans (Voerlesungen, Seminare), Freie Meinungsäußerung und die freie Wahl eines Betreuers für eine Abschlussarbeit, Integration, respektvollen und fairen Umgang, Gleichheit und Gleichberechtigung, Anerkennung der Rolle, Datenschutz, ...
-
-- Pflichten: Rollenbewusstsein und damit einhergehendes eigenverantwortliches Verhalten, d.h. respektvoller, toleranter, und fairer Umgang mit anderen Personen, sowie die Anerkennung ihrer Rollen, Eigenverantwortliches Arbeiten/Studieren/Forschen, Anerkennung und Einhaltung der Prüfungs- und Studienordnung und den damit verbundenen Verpflichtungen (z.B. fristgemäße Einreichung von Arbeiten/Prüfungen, Anträgen, etc.), Datenschutz, ...
+Studierende lernen am Institut Inhalte und Methoden kennen (siehe hierfür [Lehren](../actions/a3_teach.md)). Sie können ihr Studium frei gestalten, sind aber an die Prüfungs- und Studienordnung gebunden, sowie an die Fristen der Dozentinnen. Sie sind frei ihre Meinung zu äußern, respektieren gleichzeitig aber Thesen und Argumente anderer Studierender und der Lehrpersonen. Studierende gehen bewusst und aktiv mit ihrer Rolle um. Das Studium ist keine nervige Pflicht, sondern eine privilegierte Möglichkeit seinen Interessen nachzugehen und Wissen vermittelt zu bekommen. Mit dieser Haltung wollen wir studieren. Die Offenheit der Lehrveranstaltungen wird nicht ausgenutzt.
 
 ### Beispiel einer Rollenwahrnehmung als *Dozentin*:
 
-- Rechte: Freie Gestaltung der Lehrinhalte (sofern diese den universitären und institutsinternen Anforderungen gerecht werden), freie Meinungsäußerung, respektvoller, toleranter und fairer Umgang, Anerkennung der Rolle, Recht auf das Festlegen von Fristen (sofern diese den universitären und institutsinternen Anforderungen gerecht werden), allgemeine Rechte, die als Angestellte der Universität Stuttgart zutreffen, Datenschutz, ...
+Die Dozentinnen vermitteln Wissen (siehe hierfür [Lehren](../actions/a3_teach.md)) in Lehrveranstaltungen. Diese können sie frei gestalten und können frei Vorgehensweise, Prüfungsleistungen und Fristen bestimmen, sind hier aber auch an die Prüfungs- und Studienordnung gebunden. Sie sind frei ihre Meinung zu äußern, respektieren gleichzeitig aber Thesen und Argumente Studierender. Prüfungen werden objektiv benotet, wenn möglich mit einem inhaltlichen Feedback für die Studentin. Dozentinnen nutzen ihre Rolle nicht aus, sonder erkenenn, dass sie eine Vorbildfunktion haben. Dementsprechend ist ein besonderes Maß an Bewusstsein für die eigene, teils autoritäre Rolle und die vermittelten Inhalte geboten.
 
-- Pflichten: Einhaltung der Prüfungs- Studienordnung als Dozentin (Fristen, Verwaltungstechnischen), gesteigertes Rollenbewusstsein und damit einhergehende Verantwortung, tolerantes und respektvolles Auftreten, sowie eine objektive Bewertung der studentischen Leistungen, allgemeine Pflichten, die als Angestellte der Universität Stuttgart zutreffen, Datenschutz, ...
 
 # Links
 1. […](…)
