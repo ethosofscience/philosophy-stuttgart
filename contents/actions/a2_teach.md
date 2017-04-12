@@ -30,13 +30,11 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Lehren (…) a2
-
+# Lehren
 ## Statement
 *Lehren ist für uns eine paradigmatische Handlung.*
 
 ## Erläuterung
-
 1. Wir vertehen unter *Lehren* das systematische Vermitteln von Wissen, das vor allem in Lehrveranstaltungen stattfindet, inklusive der nötigen Vor- und Nachbereitung, den damitzusammenhängenden Prüfungen und dem Feedback, das an Studierende gegeben wird.
 
     1. Das Wissen, das in Lehrveranstaltungen vermitteln wird umfasst sowohl philosophisch- wissenschaftliche Inhalte, als auch philosophisch- wissenschaftliche Methoden und kann unter anderem die folgenden Objekte umfassen:
@@ -69,7 +67,3 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
     3. Prüfungen sind Teil der Lehre. Die Prüfungen in der Philosophie sind von veschiedenen Inhalten und Methoden geprägt und können auch von verschiedener Art sein, je nach Art, Inhalt und Methode der Lehrveranstaltung.
 
     4. Feedback ist ebenso ein Element der Lehre. Es umfasst sowohl das Geben von Rückmeldung in Lehrveranstaltungen und bei Prüfungen, als auch das Empfangen von Rückmeldung auf Seiten der beispielsweise Studierenden. Diese Feedback fließt auch in den die Lehre umfassenden Bereich der Vor- und Nachbereitung von Seminaren, Kolloquien, Workshops et cetera ein.  
-
-# Links
-1. […](…)
-2. …
