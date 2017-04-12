@@ -31,10 +31,10 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Offenheit (Ehrlichkeit, Transparenz, Zugänglichkeit, Neugier, Forschergeist) **v4**
-## Statement – BLUF
+## Statement
 *Wir sind offen.*
 
-## Erläuterung – TL;DR
+## Erläuterung
 Wir verstehen unter Offenheit fünferlei:
 
 1. **Transparenz**: Offenheit als Transparenz hat wiederum zwei Dimensionen:
@@ -67,10 +67,10 @@ Die *Objekte* unserer Wertaussagen sind in den paradigmatischen Handlungen nähe
 Diese Dimensionen der Offenheit betreffen ohne Anspruch auf Vollständigkeit zumindest: Informationen, Objekte, Zustände, Gedanken, Ideen, Begriffe, Aussagen, Überzeugungen, Hypothesen, Argumente, Beweise, Fragen, Antworten, Lösungen, Lösungsansätze, Arbeiten, Theorien, Texte, Resultate, Daten, Algorithmen, Experimente, Messungen, Beobachtungen, Analysen, Handlungen, Diskurse, Veranstaltungen, Projekte.
 
 ## Relevanz
-## Grund – BLUF
+## Grund
 *Wir bekennen uns zur Offenheit, weil diese eine Bedingung zur Möglichkeit von persönlichem Wachstum und gesellschaftlichem sowie wissenschaftlichem Fortschritt ist.*
 
-## Argumente – TL;DR
+## Argumente 
 Wir begründen Offenheit in ihren Dimensionen wie folgt:
 
 ### Ein Argument für die Transparenz und Wachstum
