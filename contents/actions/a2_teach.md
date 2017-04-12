@@ -61,6 +61,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
        20. Analysen
        21. Diskurse
        22. Methoden
+       23. ...
 
     2. Das Vermitteln von Wissen, inklusive der aufgeführten Objekte, kann nach verschiedenen Möglichkeiten der Lehrgestaltung erreicht werden. Einige mögliche Arten sind folgende: Frontal durch Vorlesungen, diskursiv in Seminaren durch moderierte Diskussionen, durch verschiedene Referate, durch Gruppenarbeit et cetera.
 
