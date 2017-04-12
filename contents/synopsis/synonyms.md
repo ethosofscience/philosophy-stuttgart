@@ -15,8 +15,8 @@ Wir glauben, dass die hier gelisteten Worte ähnlich (synonym) genug sind, dass 
 | Frage               | Fragestellung   |          |         |   |   |
 | Dimension           | Aspekt          | Facette  |         |   |   |
 | Kohärenz            | Stimmigkeit     |          |         |   |   |
-|                     |                 |          |         |   |   |
-|                     |                 |          |         |   |   |
+| Zugänglichkeit      | Verfügbarkeit   |          |         |   |   |
+| Problem             | Problemstellung |          |         |   |   |
 |                     |                 |          |         |   |   |
 |                     |                 |          |         |   |   |
 |                     |                 |          |         |   |   |

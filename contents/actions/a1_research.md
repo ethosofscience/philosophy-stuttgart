@@ -42,69 +42,86 @@ Wir begreifen unser *Forschen* als eine Handlung, die [stellvertretend](../synop
 Unser Forschen ist untrennbar eingebunden in die wissenschaftliche Gemeinschaft und diese wiederum ist untrennbar eingebunden in die Weltgemeinschaft.
 Wir forschen im Bewusstsein unser positiven *Interdependenz*.
 Unserer Forschen ist zugleich [Selbstzweck \(intrinsisch wertvoll\)](../synopsis/overview.md) und [Privileg](../synopsis/overview.md) mit dem [Pflichten](../synopsis/overview.md) einhergehen.
+Unser Forschen lebt vom konsequenten, proaktiven, direkten Austausch mit anderen Wissenschaftlerinnen.
 
-3. Wir begreifen die *Philosophie* als Wissenschaft und unser *philosophisches Forschen* begreifen wir als [wissenschaftliche Tätigkeit](../values/professionality.md), die als solche den [höchsten wissenschaftlichen und ethischen Standards genügt](..\contents\values\v5_professionality.md)
+3. Wir begreifen die *Philosophie* als Wissenschaft und unser *philosophisches Forschen* begreifen wir als [wissenschaftliche Tätigkeit](../values/professionality.md), die als solche den [höchsten wissenschaftlichen und ethischen Standards genügt](..\contents\values\v5_professionality.md).
 
-Wir sehen uns in die Geschichte der Philosophie (vgl. beispielsweise  (husserl2009philosophie)) sowie die Geschichte der gesamten Wissenschaften eingebettet.
+4. Wir sehen uns mit unserem Forschen in die Geschichte der Philosophie (vgl. beispielsweise  (husserl2009philosophie)) sowie die Geschichte der gesamten Wissenschaften eingebettet.
+Wir bauen wertschätzend und inkrementell auf die Errungenschaften – inklusive aller positiven wie negativen Resultate, Erfolge und Misserfolge – aller Wissenschaftler vor uns auf.
+Wir verpflichten uns mit unserer Forschung unseren zukünftigen Generationen.
 
-2. Forschung umfasst die *Dokumentation* und die *Publikation* der relevanten *Objekte des Forschens*.
+5. Forschung umfasst insbesondere die *Dokumentation* und die *Zugänglichmachung* aller relevanten *Objekte unseres eigenen Forschens*.
 
-  1. Objekte des Forschens sind u. a.:
+  1. Klassische Objekte des (philosophischen) Forschens sind unter anderem:
 
-      Fragen,
-      Theorien,
-      Methoden,
-      Gedanken,
-      Ideen,
-      Begriffe,
-      Annahmen,
-      Argumente,
-      Beweise,
-      Texte,
-      Resultate,
-      Daten,
-      Algorithmen,
-      Experimente,
-      Beobachtungen,
-      Analysen.
+    1. Gedanken,
+    2. Ideen,
+    3. Begriffe,
+    4. Aussagen,
+    5. Überzeugungen,
+    6. Thesen und Hypothesen,
+    7. Argumente,
+    8. Beweise,
+    9. Probleme,
+    10. Fragen,
+    11. Antworten,
+    12. Lösungen,
+    13. Lösungsansätze,
+    14. Arbeiten,
+    15. Theorien,
+    16. Texte,
+    17. Audiovisuelle Medien,
+    18. Website und Webinhalten,
+    19. Resultate,
+    20. Daten,
+    21. Algorithmen (Funktionen, Programme),
+    21. Experimente,
+    22. Messungen,
+    23. Beobachtungen,
+    24. Analysen,
+    25. Handlungen,
+    26. Diskurse,
+    27. Veranstaltungen (Lehrveranstaltungen, Workshops, Konferenzen, …),
+    28. Projekte,
+    29. Entscheidungen,
+    30. Forschungsvorhaben,
+    31. Methoden,
+    32. Werkzeuge,(Software und Hardware),
+    33. Dokumentionen (Anleitungen)
+    34. Studien,
+    35. …
 
-  2. Handlungen des philosophischen Forschens sind u. a.:
+  2. Klassische Handlungen des (philosophischen) Forschens sind unter anderem:
 
-      Lesen,
-      Interpretieren,
-      Zitieren,
-      Exzerpieren,
-      Kritisieren,
-      Schreiben,
-      Argumentieren,
-      Zuhören,
-      Vortragen.
+      1. Lesen,
+      2. Interpretieren,
+      3. Zitieren,
+      4. Exzerpieren,
+      5. Analysieren,
+      6. Kritisieren,
+      7. Schreiben,
+      8. Argumentieren,
+      9. Zuhören,
+      10. Präsentieren,
+      11. Experimentieren (X-Phi),
+      12. Messen (X-Phi),
+      13. Weiterentwickeln,
+      14. Recherchieren,
+      15. Begutachten,
+      16. Diskutieren,
+      17. Publizieren,
+      18. …
 
-3. Zur Forschung gehört der Austausch sowohl innerhalb des Instituts und innerhalb der Universität, als auch mit Forschenden anderer Universitäten.
+4. Jeder Ort kann grundsätzlich ein Ort des philosophischen Forschens sein.
+Als besondere Orte unseres Forschens sind jedoch hervorzuheben:
 
-  1. Hierzu bedeutend sind:
+    1. Die Institutsbibliothek,
+    2. der Seminarraum,
+    3. die Arbeitsräume [wenn es denn welche gäbe],
+    4. die Büros,
+    5. das Gebäude des Instituts insgesamt.
 
-    Vorträge,
-    offene und traditionelle Journals,
-    Tagungen,
-    Workshops,
-    Ausschreibungen,
-    öffentliche Diskussionen,
-    Publikationen.
-
-4. Die Orte des philosophischen Forschens sind individuell und im Prinzip nicht eingeschränkt.
-
-  1. Insbesondere bedeutend sind jedoch:
-
-    Die Institutsbibliothek,
-    der Seminarraum,
-    die Arbeitsräume [wenn es denn welche gäbe],
-    die Büros,
-    das Gebäude des Instituts insgesamt.
-
-5. Forschen unterscheidet sich von [Lehren](../actions/a2_teach.md) und von [Studieren](../actions/a4_study.md) dadurch, dass es einen weitestgehend selbstständigen Lernprozess darstellt.
-Dieser findet im Austausch mit anderen statt und kann gemeinsames Tun umfassen.
-
+5. Unser Forschen in der [Rolle](../actions/a3_roles.md) der Angestellten ist eng mit unserem [Lehren](../actions/a2_teach.md) und in der [Rolle](../actions/a3_roles.md) end mit unserem [Studieren](../actions/a4_study.md) verknüpft.
 
 # Links
 1. [Wikipedia dt.: Forschung](https://de.wikipedia.org/wiki/Forschung)
