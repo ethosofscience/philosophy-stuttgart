@@ -52,3 +52,22 @@ Wir  verstehen unter dem Zusammenleben im wesentlichen die Vereinigung zweier pa
     3. Die *Repräsentation* des Instituts und damit das Wirken auf die Rahmenbedingungen des Instituts.
 
     4. Die *Gestaltung der eigenen Struktur* innerhalb der Rahmenbedingungen von Außen.
+
+3. Nicht immer listen wir in den Handlungsfelder alle Objekte explizit auf. Im Folgenden listen wir daher die für diese paradigmatische Handlung relevanten Objekte exemplarisch auf:
+
+    1. Handlungen,
+    2. Entscheidungen,
+    3. Kommunikation,
+    4. Veranstaltungen,
+    5. Gespräche,
+    6. Planungen,
+    7. Feste,
+    8. Gremien,
+    9. Projekte,
+    10. Beschlüsse,
+    11. JourFixe,
+    12. Sitzungen
+    13. Öffentliche Veranstaltungen,
+    14. Räume,
+    15. Strategien,
+    16. ...
