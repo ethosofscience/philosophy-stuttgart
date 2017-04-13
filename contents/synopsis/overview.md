@@ -40,8 +40,10 @@ Wir begreifen unsere Handlungen:
 Ein Handlungsfeld ist eine Kombination aus einem Wert und einer paradigmatischen Handlung.
 /// Beschreibung der Handlungsfelder einfügen.
 
-## Erläuterungen zum Ethos / Preliminary Remarks
-### Was sind Werte für uns
+## Erläuterungen zum Ethos; oder: Preliminary Remarks
+### Was Werte für uns sind
+Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werden im Ethos formuliert und stehen deshalb in einem bestimmten Kontext.
+Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelder hin formuliert und sollen keine allgemeine Definition oder ähnliches der Werte darstellen.
 Wir sind davon überzeugt, dass es die Essenz des Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten denselben ihre normative und motivationale Kraft verleiht
@@ -79,12 +81,12 @@ Und sie zu leben begreifen wir als bewusstes Streben nach der Erfüllung jener W
 Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
 Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
 
-### Begründung von Werten
+### Zur Begründung von Werten
 Hier führen wir einige Gründe an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
 
 Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt.
 
-### Wertekonflikte
+### Zu Wertekonflikte
 Wir sind davon überzeugt, dass unsere Handlungen, unsere Werte und alle Handlungsfelder *grundsätzlich* im Einklang stehen und stehen sollte.
 Wir glauben aber auch, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
 
@@ -95,8 +97,29 @@ Wir glauben aber auch, dass Konflikte zwischen Werten den Wertcharakter unserer 
 Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigen Wettstreit stehen können.
 Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
 
-### Objekte/Diskursreferenten
-Die Diskursreferenten sind in den jeweiligen paradigmatischen Handlungen aufgelistet und sollen einen Überblick über die relevanten Objekte der normativen Zuschreibungen geben. 
+Viele der Handlungsfelder verweisen aufeinander, einige der Werte stehen im Kontext bestimmter Handlungen möglicherweise im Konflikt zueinander. Für diese Fälle gilt es, reflektiert und verantwortungsvoll abzuwägen, welcher Wert in diesem Kontext die höhere Relevanz hat.
+
+### Wie wir Begriffe verwenden
+Wir geben in der Formulierung unseres Ethos Definitionen unserer Begriffe, Handlungen und Werte an.
+Mit diesen Definitionen verbinden wir selbstverständlich jedoch keine allgemeinen Gültigkeitsansprüche.
+Unsere Definitionen können als unser eigenes Verständnis von den jeweiligen Begriffen, Handlungen und Werten angesehen werden, als *philosophy flavoured Wikipedia definitions*.
+
+Wir sind uns darüber bewusst, dass wir uns häufig auf unsere Intuitionen berufen.
+Wir versuchen unsere Intuitionen immer explizit (siehe [Professionalität](../contents/v5_professionality.md) und [Offenheit](../contents/v4_openness.md)) zu machen.
+Wir sind uns jedoch darüber bewusst, dass wir uns nicht über jeden unserer Hintergrundanahmen, Voraussetzungen und grundlegenden Intuitionen bewusst sind. (siehe [Ehrlichkeit](../contents/v5_openness.md))
+
+Wenn wir uns implizit oder explizit auf unsere Intuitionen berufen, dann soll das keine Rechtfertigung oder Prüfstein sein, sondern es soll:
+
+1. unseren Ausgangspunkt klarstellen;
+2. die Richtschnur verdeutlichen an der wir uns orientieren.
+
+### Unsere Listen und die Objekte des Diskurs
+Wir sind uns über die Unvollständikeit unserer Listen bewusst.
+Wir sind uns darüber im Klaren, dass unsere Listen oft verlängert oder verkürzt werden können.
+Unsere Listen erfüllen nur den Zweck, griffige Beispiele anzugeben.
+Wir vertrauen darauf, dass wir und unsere Leserinnen die Familienähnlichkeit zwischen den gelisteten paradigmatischen Fällen zu sehen sowie sie wo nötig anzupassen vermögen.
+
+Die Diskursreferenten sind in den jeweiligen paradigmatischen Handlungen aufgelistet und sollen einen Überblick über die relevanten Objekte der normativen Zuschreibungen geben.
 
 ## Architektur des Ethos
 ### Repräsentative Handlungen (alphabetisch)
