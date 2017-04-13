@@ -31,7 +31,6 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 # Zusammenleben
 ## Statement
-
 *Das Zusammenleben ist für uns eine paradigmatische Handlung*
 
 ## Erläuterung
