@@ -42,8 +42,20 @@ Ein Handlungsfeld ist eine Kombination aus einem Wert und einer paradigmatischen
 
 ## Erläuterungen zum Ethos; oder: Preliminary Remarks
 ### Was Werte für uns sind
+Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen und nach denen wir streben.
+Wir glauben, dass die normative und motivationale Kraft unserer Werte davon abhängt, ob wir sie *de facto* leben.
+Und sie zu leben begreifen wir als bewusstes Streben nach der Erfüllung jener Werte.
+Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
+Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
+
 Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werden im Ethos formuliert und stehen deshalb in einem bestimmten Kontext.
 Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelder hin formuliert und sollen keine allgemeine Definition oder ähnliches der Werte darstellen.
+
+### Zur Begründung von Werten
+Hier führen wir einige Gründe an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
+
+Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt.
+
 Wir sind davon überzeugt, dass es die Essenz des Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten denselben ihre normative und motivationale Kraft verleiht
@@ -74,17 +86,6 @@ Das heißt, wir schließen nicht die Möglichkeit aus, dass es sowohl *basale* a
 Wir gehen davon aus, dass der intrinsische Wertcharakter bestimmter Werte weder notwendige noch hinreichende Bedingung für den Status unseres Ethos ist.
 Entscheidend ist unserer Meinung nach, dass wir die Intuition haben, dass unsere Werte intrinsisch wertvoll sind.
 Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto* wir uns diese für uns setzen.
-
-Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen und nach denen wir streben.
-Wir glauben, dass die normative und motivationale Kraft unserer Werte davon abhängt, ob wir sie *de facto* leben.
-Und sie zu leben begreifen wir als bewusstes Streben nach der Erfüllung jener Werte.
-Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
-Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
-
-### Zur Begründung von Werten
-Hier führen wir einige Gründe an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
-
-Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt.
 
 ### Zu Wertekonflikte
 Wir sind davon überzeugt, dass unsere Handlungen, unsere Werte und alle Handlungsfelder *grundsätzlich* im Einklang stehen und stehen sollte.
