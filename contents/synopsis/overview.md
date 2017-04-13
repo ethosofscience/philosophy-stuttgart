@@ -3,15 +3,15 @@
 Make the Institut Great Again!
 
 ## Was ist der Ethos?
-Im *Ethos* formulieren wir eine Haltung. Dies ist ein Vorschlag einer Haltung, zu der wir uns gemeinschaftlich formal am
+Im *Ethos* formulieren wir eine Haltung. Dies ist ein Vorschlag einer Haltung, zu der wir uns gemeinschaftlich, formal und feierlich am
 
 *xx.xx.2017*
 
 bekannt haben und für welche wir fortlaufend einstehen wollen.
 
-Der Ethos ist von uns und für uns, die Studierenden, Lehrenden und Mitarbeiterinnen des *Instituts für Philosophie* der *Universität Stuttgart*, formuliert.
+Der Ethos ist von uns und für uns - die Studierenden, Lehrenden, Mitarbeiterinnen des *Instituts für Philosophie* der *Universität Stuttgart*, sowie allen mit dem Institut in unmittelbarem Kontakt stehenden - formuliert.
 
-In diesem Kapitel nennen und beschreiben wir zunächst den Aufbau, welcher sich aus einer Kombination aus Werten und paradigmatischen Handlungen ergab. Anschließend geben wir einige Erläuterungen zu dem Status der Werte und Handlungen, sowie der Umgang mit Wertekonflikte.
+In diesem Kapitel nennen und beschreiben wir zunächst den Aufbau des Ethos, welcher sich aus einer Kombination aus Werten und paradigmatischen Handlungen ergab. Anschließend geben wir einige Erläuterungen zum Status der Werte und Handlungen, sowie zum Umgang mit Wertekonflikte.
 
 ### Werte
 Wir begreifen unsere Werte:
@@ -23,7 +23,7 @@ Wir begreifen unsere Werte:
 5. [Professionalität](../values/v5_professionality.md),
 6. [Verantwortung](../values/v6_responsibility.md)
 
-als dicke, mehrdimensionale, intrinsisch wertvolle Begriffe.
+als dicke, mehrdimensionale, intrinsisch wertvolle, ethische Begriffe.
 
 ### Paradigmatische Handlungen
 Wir begreifen unsere Handlungen:
@@ -34,7 +34,7 @@ Wir begreifen unsere Handlungen:
 4. [Studieren a4](../contents/actions/a4_study.md),
 5. [Zusammenleben a5](../contents/actions/a5_live.md))
 
-jeweils als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
+ als *paradigmatische Handlung*, welche für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen stehen.
 
 ### Handungsfelder
 Ein Handlungsfeld ist eine Kombination aus einem Wert und einer paradigmatischen Handlung.
@@ -42,20 +42,19 @@ Ein Handlungsfeld ist eine Kombination aus einem Wert und einer paradigmatischen
 
 ## Erläuterungen zum Ethos / Preliminary Remarks
 ### Was sind Werte für uns
-Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
+Wir sind davon überzeugt, dass es die Essenz des Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
-Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten denselben ihre normative und motivationale Kraft verleiht, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
-(siehe [Relevanz](#relevanz))
+Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten denselben ihre normative und motivationale Kraft verleiht
 
 Wir gehen davon aus, dass einige der Werte, zu denen wir uns hier bekennen, *intrinsisch wertvoll* sind. (vgl. SEP 2017)
-Deshalb glauben wir, dass die entsprechenden Werte nicht rechtfertigungsbedürftig und auch nicht rechtfertigungswürdig sind.
+Deshalb glauben wir, dass die entsprechenden Werte weder rechtfertigungsbedürftig und auch nicht rechtfertigungswürdig sind.
 
 Wir sind der Überzeugung, dass diese Annahme uns weder zu einer bestimmten Ontologie verpflichtet noch, dass aus ihr bestimmte epistemischen Pflichten erwachsen.
 Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen Wert nennen, wenn wir normalerweise dazu geneigt sind die folgende disjunktive, erweiterbare oder verkürzbare Familie von Einstellungen mit jenem Wert zu verbinden:
 
 1. Der Wert ist *in sich selbst* und *aus sich selbst* heraus *wertvoll*;
 
-2. Der Wert bedarf keiner Begründung, die nicht schon im Wert selbst liegt (Beispiel: „Es ist gut, gut zu sein.”);
+2. Der Wert bedarf keiner Begründung, die nicht schon im Wert selbst liegt;
 
 3. Der Wert hat *motivationale und normative Kraft* der in ihm selbst liegt;
 
@@ -63,33 +62,30 @@ Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen We
 
 5. Aus dem Wert lassen sich *andere Werte ableiten*.
 
-Diese Liste ist nicht als vollständige Wesensdefinition intrinsischer Werte zu verstehen, sondern als beispielhafte Liste von Einstellungen, die Einstellungen enthält, die darauf hindeuten, dass wir einen bestimmten Wert auf eine bestimmte Art gebrauchen beziehungsweise, dass wir über ihn in einer bestimmten Weise sprechen. (vgl. Ernst 2007?)[Die Objektivität der Moral]
+Diese Liste ist nicht als vollständige Wesensdefinition intrinsischer Werte zu verstehen, sondern als beispielhafte Liste von Einstellungen, die darauf hindeuten, dass wir einen bestimmten Wert auf eine bestimmte Art gebrauchen beziehungsweise, dass wir über ihn in einer bestimmten Weise sprechen. (vgl. Ernst 2007?)[Die Objektivität der Moral]
 
 Wir glauben, dass Chisholms Version von Moors Isolation Test ein hilfreicher Test (unter anderen) sein kann, um unsere Einstellungen gegenüber bestimmter Werten zu klären. (vgl. SEP 2017)
 
 Wir schließen nicht aus, dass die hier angeführten Werte, trotz ihres intrinsischen Wertcharakters, möglicherweise begründet – das heißt aus anderen Werten abgeleitet – werden können.
-Das heißt, wir schließen nicht die Möglichkeit aus, dass es sowohl *basic* als auch *non-basic values* gibt. (vgl. SEP 2017)
+Das heißt, wir schließen nicht die Möglichkeit aus, dass es sowohl *basale* als auch *nicht-basale Werte* gibt. (vgl. SEP 2017)
 
 Wir gehen davon aus, dass der intrinsische Wertcharakter bestimmter Werte weder notwendige noch hinreichende Bedingung für den Status unseres Ethos ist.
 Entscheidend ist unserer Meinung nach, dass wir die Intuition haben, dass unsere Werte intrinsisch wertvoll sind.
-Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto*, die wir für uns setzen.
+Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto* wir uns diese für uns setzen.
 
-Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen, nach denen wir streben.
+Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen und nach denen wir streben.
 Wir glauben, dass die normative und motivationale Kraft unserer Werte davon abhängt, ob wir sie *de facto* leben.
 Und sie zu leben begreifen wir als bewusstes Streben nach der Erfüllung jener Werte.
-Wir glaub
-en, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
+Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
 Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
-(siehe [Wertekonflikte im Überlegungsgleichgewicht](##wertekonflikte-im-überlegungsgleichgewicht))
 
 ### Begründung von Werten
-Hier führen wir einige Gründe (Argumente) an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
+Hier führen wir einige Gründe an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
 
-Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
+Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt.
 
 ### Wertekonflikte
-Wir sind davon überzeugt, dass unsere Handlungen, unsere Werte und alle Handlungsfelder grundsätzlich im Einklang stehen und stehen sollte.
-
+Wir sind davon überzeugt, dass unsere Handlungen, unsere Werte und alle Handlungsfelder *grundsätzlich* im Einklang stehen und stehen sollte.
 Wir glauben aber auch, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
 
 1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
@@ -100,7 +96,7 @@ Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in
 Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
 
 ### Objekte/Diskursreferenten
-Die Diskursreferenten sind in den paradigmatischen Handlungen aufgelistet und sollen einen Überblick über die relevanten Objekte der normativen Zuschreibungen.
+Die Diskursreferenten sind in den jeweiligen paradigmatischen Handlungen aufgelistet und sollen einen Überblick über die relevanten Objekte der normativen Zuschreibungen geben. 
 
 ## Architektur des Ethos
 ### Repräsentative Handlungen (alphabetisch)
