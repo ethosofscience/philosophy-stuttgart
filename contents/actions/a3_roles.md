@@ -35,7 +35,6 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 *Rollenwahrnehmung ist für uns eine paradigmatische Handlung.*
 
 ## Erläuterung
-
 1. Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir das Wahrnehmen einer oder mehrerer Rolle(n) als:
 
     1. reflektiertes und aufmerksames *Erkennen* der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie
@@ -107,11 +106,9 @@ um den bestimmten Werten, die unserem Ethos entsprechen, gerecht zu werden.
 
 
 ### Beispiel einer Rollenwahrnehmung als *Studentin*:
-
 Studierende lernen am Institut Inhalte und Methoden kennen (siehe hierfür [Lehren](../actions/a3_teach.md)). Sie können ihr Studium frei gestalten, sind aber an die Prüfungs- und Studienordnung gebunden, sowie an die Fristen der Dozentinnen. Sie sind frei ihre Meinung zu äußern, respektieren gleichzeitig aber Thesen und Argumente anderer Studierender und der Lehrpersonen. Studierende gehen bewusst und aktiv mit ihrer Rolle um. Das Studium ist keine nervige Pflicht, sondern eine privilegierte Möglichkeit seinen Interessen nachzugehen und Wissen vermittelt zu bekommen. Mit dieser Haltung wollen wir studieren. Die Offenheit der Lehrveranstaltungen wird nicht ausgenutzt.
 
 ### Beispiel einer Rollenwahrnehmung als *Dozentin*:
-
 Die Dozentinnen vermitteln Wissen (siehe hierfür [Lehren](../actions/a3_teach.md)) in Lehrveranstaltungen. Diese können sie frei gestalten und können frei Vorgehensweise, Prüfungsleistungen und Fristen bestimmen, sind hier aber auch an die Prüfungs- und Studienordnung gebunden. Sie sind frei ihre Meinung zu äußern, respektieren gleichzeitig aber Thesen und Argumente Studierender. Prüfungen werden objektiv benotet, wenn möglich mit einem inhaltlichen Feedback für die Studentin. Dozentinnen nutzen ihre Rolle nicht aus, sonder erkenenn, dass sie eine Vorbildfunktion haben. Dementsprechend ist ein besonderes Maß an Bewusstsein für die eigene, teils autoritäre Rolle und die vermittelten Inhalte geboten.
 
 
