@@ -18,7 +18,7 @@ ethos
 Michael Czechowski, Martin Maga
 
   CONTACT - You can CONTACT the creator(s) or developer(s) of this project at:
-E-Mail: develop@martinmaga.de, …
+E-Mail: contact@martinmaga.de, …
 
   COPYRIGHT - The COPYRIGHT holder of this project is:
 COPYRIGHT (c) 2016 Martin Maga
@@ -35,7 +35,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 Student Council of Philosophy
 University of Stuttgart*
 
-[develop@martinmaga.de](develop@martinmaga.de)
+[contact@martinmaga.de](contact@martinmaga.de)
 
 Stuttgart, 2017-01-28
 
@@ -246,7 +246,7 @@ The project at hand was originally created by:
 1. ALEXANDRA HAAS <haasalexandra@gmx.de>;
 2. LOUIS KOHLMANN <louiskohlmann@posteo.de>;
 3. SIMON HOLLNAICHER <simonhollnaicher@posteo.de>;
-4. MARTIN MAGA <develop@martinmaga.de>;
+4. MARTIN MAGA <contact@martinmaga.de>;
 5. MICHAEL CZECHOWSKI <michaelwerner@mailoo.org>.
 
 ## Development
@@ -255,7 +255,7 @@ the following contributors (alphabetical):
 1. ALEXANDRA HAAS <haasalexandra@gmx.de>;
 2. LOUIS KOHLMANN <louiskohlmann@posteo.de>;
 3. SIMON HOLLNAICHER <simonhollnaicher@posteo.de>;
-4. MARTIN MAGA <develop@martinmaga.de>;
+4. MARTIN MAGA <contact@martinmaga.de>;
 5. MICHAEL CZECHOWSKI <michaelwerner@mailoo.org>.
 
 Go to:
@@ -300,7 +300,7 @@ for more information.
   1. Alexandra Haas <haasalexandra@gmx.de>
   2. Louis Kohlmann <louiskohlmann@posteo.de>
   3. Simon Hollnaicher <simonhollnaicher@posteo.de>
-  4. Martin Maga <develop@martinmaga.de>
+  4. Martin Maga <contact@martinmaga.de>
   5. Michael Czechowski <michaelwerner@mailoo.org>
 
 University of Stuttgart  
