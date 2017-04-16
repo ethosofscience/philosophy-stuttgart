@@ -6,17 +6,17 @@ Wir  streiten nicht ab, dass einige Worte, die wir hier listen, nicht synonym ge
 Wir möchten mit unserer Auflistung auch keine Synonymievorschrift abgeben sondern lediglich der Fairness halber darlegen, dass wir die aufgelisteten Worte synonym gerauchen.
 Wir glauben, dass die hier gelisteten Worte ähnlich (synonym) genug sind, dass sie *salva veritate* substituiert werden können.
 
-| Verwendetes Synonym | Synonym         | Synonym | Synonym |   |   |
-|---------------------|-----------------|---------|---------|---|---|
-| Überzeugung         | Glauben         |         |         |   |   |
-| oder                | oder/ und       |         |         |   |   |
-| Einfachheit         | Schlichtheit    |         |         |   |   |
-| Exaktheit           | Genauigkeit     |         |         |   |   |
-| Frage               | Fragestellung   |         |         |   |   |
-|                     |                 |         |         |   |   |
-|                     |                 |         |         |   |   |
-|                     |                 |         |         |   |   |
-|                     |                 |         |         |   |   |
-|                     |                 |         |         |   |   |
-|                     |                 |         |         |   |   |
-|                     |                 |         |         |   |   |
+| Verwendetes Synonym | Synonym         | Synonym  | Synonym |   |   |
+|---------------------|-----------------|----------|---------|---|---|
+| Überzeugung         | Glauben         |          |         |   |   |
+| oder                | oder/ und       |          |         |   |   |
+| Einfachheit         | Schlichtheit    |          |         |   |   |
+| Exaktheit           | Genauigkeit     |          |         |   |   |
+| Frage               | Fragestellung   |          |         |   |   |
+| Dimension           | Aspekt          | Facette  |         |   |   |
+| Kohärenz            | Stimmigkeit     |          |         |   |   |
+| Zugänglichkeit      | Verfügbarkeit   |          |         |   |   |
+| Problem             | Problemstellung |          |         |   |   |
+|                     |                 |          |         |   |   |
+|                     |                 |          |         |   |   |
+|                     |                 |          |         |   |   |

@@ -30,15 +30,22 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 
-# Freiheit (Wissenschaftsfreiheit, Forschung, Lehre, Studium) **v2**
-## Wir verstehen unter Freiheit …
+# Freiheit
+## Statement
+*Wir bekennen uns zum Wert der Freiheit.*
 
+## Erläuterung
 
-...die Unabhängigkeit von äußeren Faktoren, die nicht willentlich als Faktoren in Entscheidungen mit aufgenommen wurden. Diese Entscheidungen (und damit auch der Freiheitsbegriff) beziehen sich hier in erster Linie auf Studium, Lehre, Forschung, Arbeit und Zusammenleben *am Institut*, insofern das Ethos-Programm für diesen Kontext erarbeitet wurde.
+1. Wir verstehen unter *Freiheit* die Unabhängigkeit von äußeren Faktoren, die nicht willentlich als Faktoren in Entscheidungen mit aufgenommen wurden.
 
-Wir sind sowohl frei bestimmte Dinge zu tun (positive Freiheit), als auch frei von Einschränkungen (negative Freiheit) -> Brauchen wir das wirklich? Reicht nicht der erste Satz im Prinzip aus?
+  1. Wir sind frei bestimmte Dinge zu tun.
 
+  2. Wir sind frei bestimmte Dinge zu unterlassen.
 
-# Links
-1. […](…)
-2. …
+2. Wir können unsere Persönlichkeit frei entfalten.
+
+# Relevanz
+## Grund
+*Freiheit ist Grundvoraussetzung für Handlungen überhaupt und in unserem Selbstverständnis als Menschen verankert.
+Freiheit ist im Grundgesetz verankert (Art. 2).
+Wir glauben, dass wissenschaftlicher Fortschritt und inneres, persönliches Wachstum sich nur unter Freiheit entfalten kann.*

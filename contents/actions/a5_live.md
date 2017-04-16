@@ -29,26 +29,45 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
   SUBFILE – This is a SUBFILE! For more INFORMATION on this project go to:
 /README.md
 --->
+# Zusammenleben
+## Statement
+*Das Zusammenleben ist für uns eine paradigmatische Handlung*
 
-# Zusammenleben (Kollaborieren, Kommunizieren, Zusammensein) a5
-## Wir verstehen unter Zusammenleben …
+## Erläuterung
+Wir  verstehen unter dem Zusammenleben im wesentlichen die Vereinigung zweier paradigmatischen Handlungen:
 
-.. das Miteinander *als* Personen.
-und
-.. die Selbstorganisation als Institut, d. h. im weiten Sinne die Politik des Instituts.
-und
-.. das Miteinander leglicher Formen, welche nicht durch die anderen, spezielleren Handlungsbereiche schon abgedeckt ist.
+1. Zusammenleben beschreibt das *persönliche* Miteinandersein und Kommunizieren am Institut.
 
-## Abgrenzung
-[Unterscheidung zu a1, a2 und a4:] Zusammenleben betrifft wesentlich das "zwischen", d. h. es betrifft Kommunikation, Kollaboration und Interaktion. a1, a2 & a4 hingegen beschäftigen sich mit Tätigkeiten von Individuen (welche natürlich in wiederrum in speziellen (zwischenmenschlichen) Gefügen verortet sind).
+    1. Das Zusammenleben stellt den *genuin zwischenmenschlichen* Bereich der paradigmatischen Handlungen dar.
 
-[Untescheidung zu a3:] Zusammenleben schließt alle Bereiche ein, in denen es zu *persönlicher* Interaktion kommt, d. h. es betrifft das Zusammenkommen *als Personen* gegenüber des Zusammenkommens *in Rollen*.
-Wir sehen dies als unterscheidbare Aspekte, auch wenn wir uns in der Realität oft in Rollen *und* immer auch als Personen begegnen. Das dies keine Selbstverständlichkeit ist manifestiert sich u. a. in diesem Ethos.
+    2. Das Zusammenleben betrifft das Miteinandersein *jenseits der Rollen*.
 
-##Beispiele
-- Orte des Miteinanders sind prinzipiell alle Orte, an denen Personen mit Bezug zum Institut zusammenkommen. Insbesondere aber natürlich die Räume des Instituts: die Flure, die Institutsbibliothek, das Fachgruppenzimmer, der Seminarraum, die Büros und das Sekretariat.
-- Genannt seien hier externe Vorträge, Seminare, Vorlesungen, Gespräche, Kolloquien und Workshops...sowie Sprechstunden, Lerngruppen, interne Feste und Verantstaltung, in denen es zu persönlicher Interaktion kommt.
+2. Zusammenleben  beschreibt weiterhin die Selbstorganisation als Institut, das heißt die *Institutspolitik*.
 
-# Links
-1. […](…)
-2. …
+    1. Die Zusammenarbeit und Kommunikation zwischen den politischen *Organen des Instituts*.
+    Beispielhaft sei hier die Fachgruppe, der JourFixe oder auch der runde Tische genannt.
+
+    2. Die *Präsentation* des Instituts nach Außen.
+
+    3. Die *Repräsentation* des Instituts und damit das Wirken auf die Rahmenbedingungen des Instituts.
+
+    4. Die *Gestaltung der eigenen Struktur* innerhalb der Rahmenbedingungen von Außen.
+
+3. Nicht immer listen wir in den Handlungsfelder alle Objekte explizit auf. Im Folgenden listen wir daher die für diese paradigmatische Handlung relevanten Objekte exemplarisch auf:
+
+    1. Handlungen,
+    2. Entscheidungen,
+    3. Kommunikation,
+    4. Veranstaltungen,
+    5. Gespräche,
+    6. Planungen,
+    7. Feste,
+    8. Gremien,
+    9. Projekte,
+    10. Beschlüsse,
+    11. JourFixe,
+    12. Sitzungen
+    13. Öffentliche Veranstaltungen,
+    14. Räume,
+    15. Strategien,
+    16. ...
