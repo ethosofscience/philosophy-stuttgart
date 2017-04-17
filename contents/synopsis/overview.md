@@ -1,15 +1,10 @@
 # Überblick
 ## Präambel
-Als Fachgruppe des Instituts für Philosophie fühlen wir uns verpflichtet zum gemeinschaftlichen Zusammenschluss aller Teilnehmer und Teilnehmerinnen einen Ethos festzuhalten: Zum einen um den Einstieg in die Gemeinschaft zu erleichtern und zum anderen den Umgang miteinander nachhaltig zu pflegen. Wir vertreten bestimmte Werte, die für uns wichtig sind, einen lebendigen Diskurs aufrecht zu halten. Dieser lebt nämlich von Vielfalt, welche dann erst zur Geltung kommt, wenn alle beteiligten Menschen im Institut gleichwertig behandelt werden. Jeder und jede kommt mit unterschiedlichsten Vorkenntnissen, Erfahrungen, Erwartungen und Anlagen in unsere Gemeinschaft. Wir öffnen uns, wir sind fair, ermölglichen Freiheiten, gehen gemeinschaftlich und verantwortungsvoll mit einander um.
-
-- [x] Wozu das alles?
-- [x] Reichtum durch Vielfalt
-- [ ] Entfaltung
-- [ ] Eigen gesetzter Rahmen für das Zusammensein
-- [ ] Wir bekennen uns öffentlich zu unserem Kodex/Manifest/Leitfaden
-- [ ] Wir möchten, dass unser Ethos nicht notwendig ist
-- [x] In der Vergangenheit bildete sich bereits eine Gemeinschaft, die sich für neue Teilnehmer öffnen möchte.
-- [ ] Neuen Erfahrungen positiv entgegenstehen
+Als Fachgruppe des Instituts für Philosophie der Universität Stuttgart formulieren wir in dieser Schrift unseren selbst gewählten Rahmen eines gemeinschaftlichen Zusammenlebens. Wir stehen ein für eine *faire*, *freiheitliche*, *offene*, *lebendige*, *professionelle* und *verantwortungsvolle* Haltung.
+Im Bewusstsein unserer Verantwortung ermöglichen wir jedem Menschen gleichberechtigt am philosophischen Diskurs teilzunehmen, sich eigenständig einzubringen und sich seiner eigenen Rolle bewusst zu werden.
+Wir öffnen uns insbesondere durch gegenseitigen Respekt, Vorurteilsfreiheit und Toleranz für neue Erfahrungen, Vielfältigkeit und persönliche Entfaltung.
+Gemeinschaftlich ersuchen wir auf diese Weise die Förderung eines wissenschaftlichen Fortschritts in den Forschungen der Philosophie.
+Jedes Glied ist wertvoller und essentieller Bestandteil unseres Zusammenlebens. Somit gilt der Ethos für das gesamte Institut der Philosophie der Universität Stuttgart.
 
 ## Was ist der Ethos?
 Der Ethos beschreibt eine Haltung. Diese Haltung richtet sich nach einem umfassenden Wertehorizont und ist demgemäß allen Objekten und Handlungen der Philosophie und Wissenschaft und dem zugrundeliegenden sozialen Miteinander geschuldet. Wir versprechen uns von dieser Haltung wissenschaftlichen Fortschritt im Sinne wachsender Erkenntnis, und damit verschränkt, die Möglichkeit für die persönliche, innere Entfaltung jedes Einzelnen. Der Ethos ist somit wegweisend und anregend für alle Studierende, Lehrende und Mitarbeitende des *Instituts für Philosophie* der *Universität Stuttgart*.
