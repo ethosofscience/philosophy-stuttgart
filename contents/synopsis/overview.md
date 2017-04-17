@@ -1,14 +1,14 @@
 # Überblick
 ## Präambel
-Make the Institut Great Again!
+Als Fachgruppe des Instituts für Philosophie fühlen wir uns verpflichtet zum gemeinschaftlichen Zusammenschluss aller Teilnehmer und Teilnehmerinnen einen Ethos festzuhalten: Zum einen um den Einstieg in die Gemeinschaft zu erleichtern und zum anderen den Umgang miteinander nachhaltig zu pflegen. Wir vertreten bestimmte Werte, die für uns wichtig sind, einen lebendigen Diskurs aufrecht zu halten. Dieser lebt nämlich von Vielfalt, welche dann erst zur Geltung kommt, wenn alle beteiligten Menschen im Institut gleichwertig behandelt werden. Jeder und jede kommt mit unterschiedlichsten Vorkenntnissen, Erfahrungen, Erwartungen und Anlagen in unsere Gemeinschaft. Wir öffnen uns, wir sind fair, ermölglichen Freiheiten, gehen gemeinschaftlich und verantwortungsvoll mit einander um.
 
-- [ ] Wozu das alles?
-- [ ] Reichtum durch Vielfalt
+- [x] Wozu das alles?
+- [x] Reichtum durch Vielfalt
 - [ ] Entfaltung
 - [ ] Eigen gesetzter Rahmen für das Zusammensein
 - [ ] Wir bekennen uns öffentlich zu unserem Kodex/Manifest/Leitfaden
 - [ ] Wir möchten, dass unser Ethos nicht notwendig ist
-- [ ] In der Vergangenheit bildete sich bereits eine Gemeinschaft, die sich für neue Teilnehmer öffnen möchte.
+- [x] In der Vergangenheit bildete sich bereits eine Gemeinschaft, die sich für neue Teilnehmer öffnen möchte.
 - [ ] Neuen Erfahrungen positiv entgegenstehen
 
 ## Was ist der Ethos?
