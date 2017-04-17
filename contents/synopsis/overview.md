@@ -1,5 +1,7 @@
 # Überblick
 ## Präambel
+Make the Institut Great Again!
+
 - [ ] Wozu das alles?
 - [ ] Reichtum durch Vielfalt
 - [ ] Entfaltung
@@ -10,11 +12,9 @@
 - [ ] Neuen Erfahrungen positiv entgegenstehen
 
 ## Was ist der Ethos?
-<<<<<<< HEAD
 Der Ethos beschreibt eine Haltung. Diese Haltung richtet sich nach einem umfassenden Wertehorizont und ist demgemäß allen Objekten und Handlungen der Philosophie und Wissenschaft und dem zugrundeliegenden sozialen Miteinander geschuldet. Wir versprechen uns von dieser Haltung wissenschaflichen Fortschritt im Sinne wachsender Erkenntnis, und damit verschränkt, die Möglichkeit für die persönliche, innere Entfaltung jedes Einzelnen. Der Ethos ist somit wegweisend und anregend für alle Studierende, Lehrende und Mitarbeitende des *Instituts für Philosophie* der *Universität Stuttgart*.
 Wir betrachten den Ethos auch als einen Versuch, ein Projekt. Dieses Projekt soll lebendig sein. Das heißt es kann jeder, der sich in seinen Grundzügen dazu bekennt, aktiv daran teilnehmen. Diese Teilnahme beschränkt sich somit nicht nur auf das Verinnerlichen und Beleben unserer gesetzten Werte, sondern ist stets offen für inhaltliche Verbesserungsvorschläge und Veränderungen. Denn der Ethos plädiert in seiner Haltung und seinem Wertehorizont unter anderem für Offenheit und Lebendigkeit. Und da wir den Ethos selbst als Objekt und Handlung der Philosophie und Wissenschaft betrachten, kann nur gewollt werden, dass eine Möglichkeit besteht, unter den Werten der Offenheit und Lebendigkeit, aktiv an der Gestaltung und Belebung des Ethos teilzunehmen.
 
-=======
 Im *Ethos* formulieren wir eine Haltung. Dies ist ein Vorschlag einer Haltung, zu der wir uns gemeinschaftlich, formal und feierlich am
 
 *xx.xx.2017*
@@ -23,7 +23,6 @@ bekannt haben und für welche wir fortlaufend einstehen wollen.
 
 Der Ethos ist von uns und für uns - die Studierenden, Lehrenden, Mitarbeiterinnen des *Instituts für Philosophie* der *Universität Stuttgart*, sowie allen mit dem Institut in unmittelbarem Kontakt stehenden - formuliert.
 
->>>>>>> origin/ce
 In diesem Kapitel nennen und beschreiben wir zunächst den Aufbau des Ethos, welcher sich aus einer Kombination aus Werten und paradigmatischen Handlungen ergab. Anschließend geben wir einige Erläuterungen zum Status der Werte und Handlungen, sowie zum Umgang mit Wertekonflikte.
 
 ### Werte
