@@ -31,6 +31,9 @@ Wir begreifen unsere Werte:
 6. [Verantwortung](../values/v6_responsibility.md)
 
 als dicke, mehrdimensionale, intrinsisch wertvolle, ethische Begriffe.
+Die Werte sollen Zielpunkte für alle Handlungen am Institut darstellen; und alle Handlungen danach streben, diese zu verwiklichen.
+Jeder Wert wird in einem Unterkapitel kurz beschrieben und begründet.
+Was Werte für uns sind wird in diesem Kapitel noch näher erläutert.
 
 ### Paradigmatische Handlungen
 Wir begreifen unsere Handlungen:
@@ -42,10 +45,17 @@ Wir begreifen unsere Handlungen:
 5. [Zusammenleben a5](../contents/actions/a5_live.md)
 
  als *paradigmatische Handlung*, welche für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen stehen.
+ Jede paradigmatische Handlung wird später kurz vorgestellt.
+ Diese beschreiben *was wir tun* und sollen damit den Handlungsrahmen am Institut vollständig und sinnvoll gegliedert darzustellen.
+ Nicht jede Tätigkeiten wird im Detail erfasst sein und die Zuordnung von Tätigkeiten zu paradigmatischen Handlungen wird naturgemäß nicht immer eindeutig sein.
+ Trotzdem glauben wir, mit diesen Handlungen dasjenige hinreichend für den Ethos zu erfassen, was wir tun.
 
 ### Handungsfelder
 Ein Handlungsfeld ist eine Kombination aus einem Wert und einer paradigmatischen Handlung.
-/// Beschreibung der Handlungsfelder einfügen.
+Die Handlungsfelder sollen dasjenige entfalten, was sich aus den Werten und paradigmatischen Handlungen inhaltlich schon ergibt.
+In diesen formulieren wir Orientierungsregeln für unsere gemeinsame Praxis am Institut und liefern Gründe für die Orientierung an ihnen.
+
+Die Handlungsfelder untergliedern sich in ein Statement, einer prägnanten inhaltlichen Erläuterung, sowie einer längeren detailierten Auflistung der relevanten Normen und einer Begründung dieser.
 
 ## Erläuterungen zum Ethos; oder: Preliminary Remarks
 ### Was Werte für uns sind
