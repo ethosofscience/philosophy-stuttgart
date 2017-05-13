@@ -10,7 +10,7 @@ Bitte sende uns deine Korrekturen
 
 1. als **PDF**
 
-2. bis zum **31. Juni 2017**
+2. bis zum **15. Juni 2017**
 
 3. per **E-Mail** an **mail@martinmaga.de**.
 
