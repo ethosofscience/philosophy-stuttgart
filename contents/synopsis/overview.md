@@ -81,7 +81,7 @@ Wir gehen davon aus, dass einige der Werte, zu denen wir uns hier bekennen, *int
 Deshalb glauben wir, dass die entsprechenden Werte weder rechtfertigungsbedürftig und auch nicht rechtfertigungswürdig sind.
 
 Wir sind der Überzeugung, dass diese Annahme uns weder zu einer bestimmten Ontologie verpflichtet noch, dass aus ihr bestimmte epistemischen Pflichten erwachsen.
-Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen Wert nennen, wenn wir normalerweise dazu geneigt sind die folgende disjunktive, erweiterbare oder verkürzbare Familie von Einstellungen mit jenem Wert zu verbinden:
+Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen Wert nennen, wenn wir dazu geneigt sind die folgende disjunktive, erweiterbare oder verkürzbare Familie von Einstellungen mit jenem Wert zu verbinden:
 
 1. Der Wert ist *in sich selbst* und *aus sich selbst* heraus *wertvoll*;
 
