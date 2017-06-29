@@ -36,8 +36,7 @@ Hier führen wir einige Gründe (Argumente) an, warum wir nicht jeden hier verwe
 Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
 
 ## Definitionen
-Wir geben in der Formulierung unseres Ethos Definitionen unserer Begriffe, Handlungen und Werte an.
-Mit diesen Definitionen verbinden wir selbstverständlich jedoch keine allgemeinen Gültigkeitsansprüche.
+Wir geben in der Formulierung unseres Ethos Definitionen unserer Begriffe, Handlungen und Werte an. Mit diesen Definitionen verbinden wir selbstverständlich jedoch keine allgemeinen Gültigkeitsansprüche.
 Unsere Definitionen können als unser eigenes Verständnis von den jeweiligen Begriffen, Handlungen und Werten angesehen werden, als *philosophy flavoured Wikipedia definitions*.
 
 ## Unsere Listen
