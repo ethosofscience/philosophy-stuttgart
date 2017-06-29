@@ -59,7 +59,7 @@ Offenheit im Sinne des persönlichen Wachstums setzt eine grundlegende Beweglich
 
 Siehe auch [Professionalität](../contents/values/v5_responsibility.md).
 
-4. **Modularität** Offenheit als Modularität von etwas.
+4. **Modularität** Offenheit als Baustein von etwas.
 
 5. **Inkrementalität** Offenheit als Modularität von etwas.
 
@@ -70,7 +70,7 @@ Diese Dimensionen der Offenheit betreffen ohne Anspruch auf Vollständigkeit zum
 ## Grund
 *Wir bekennen uns zur Offenheit, weil diese eine Bedingung zur Möglichkeit von persönlichem Wachstum und gesellschaftlichem sowie wissenschaftlichem Fortschritt ist.*
 
-## Argumente 
+## Argumente
 Wir begründen Offenheit in ihren Dimensionen wie folgt:
 
 ### Ein Argument für die Transparenz und Wachstum
