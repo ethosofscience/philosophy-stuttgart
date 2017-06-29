@@ -40,7 +40,7 @@ Wir  verstehen unter dem Zusammenleben im wesentlichen die Vereinigung zweier pa
 
     1. Das Zusammenleben stellt den *genuin zwischenmenschlichen* Bereich der paradigmatischen Handlungen dar.
 
-    2. Das Zusammenleben betrifft das Miteinandersein *jenseits der Rollen*.
+    2. Das Zusammenleben betrifft auch das Miteinandersein *jenseits der gegebenenfalls eingenommenen Rollen*.
 
 2. Zusammenleben  beschreibt weiterhin die Selbstorganisation als Institut, das heißt die *Institutspolitik*.
 
@@ -55,19 +55,18 @@ Wir  verstehen unter dem Zusammenleben im wesentlichen die Vereinigung zweier pa
 
 3. Nicht immer listen wir in den Handlungsfelder alle Objekte explizit auf. Im Folgenden listen wir daher die für diese paradigmatische Handlung relevanten Objekte exemplarisch auf:
 
-    1. Handlungen,
-    2. Entscheidungen,
-    3. Kommunikation,
-    4. Veranstaltungen,
-    5. Gespräche,
-    6. Planungen,
-    7. Feste,
-    8. Gremien,
-    9. Projekte,
-    10. Beschlüsse,
-    11. JourFixe,
-    12. Sitzungen
-    13. Öffentliche Veranstaltungen,
-    14. Räume,
-    15. Strategien,
-    16. ...
+    1. Entscheidungen,
+    2. Kommunikation,
+    3. Veranstaltungen,
+    4. Gespräche,
+    5. Planungen,
+    6. Feste,
+    7. Gremien,
+    8. Projekte,
+    9. Beschlüsse,
+    10. JourFixe,
+    11. Sitzungen
+    12. Öffentliche Veranstaltungen,
+    13. Räume,
+    14. Strategien,
+    15. ...
