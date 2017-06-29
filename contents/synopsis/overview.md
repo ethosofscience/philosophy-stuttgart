@@ -62,7 +62,7 @@ Die Handlungsfelder untergliedern sich in ein Statement, einer prägnanten inhal
 Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen und nach denen wir streben.
 Wir glauben, dass die normative und motivationale Kraft unserer Werte davon abhängt, ob wir sie *de facto* leben.
 Und sie zu leben begreifen wir als bewusstes Streben nach der Erfüllung jener Werte.
-Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
+Wir glauben, dass uns unsere Werte Orientierung geben, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
 Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
 
 Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werden im Ethos formuliert und stehen deshalb in einem bestimmten Kontext.
