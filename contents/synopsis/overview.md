@@ -119,12 +119,12 @@ Viele der Handlungsfelder verweisen aufeinander, einige der Werte stehen im Kont
 
 ### Wie wir Begriffe verwenden
 Wir geben in der Formulierung unseres Ethos Definitionen unserer Begriffe, Handlungen und Werte an.
-Mit diesen Definitionen verbinden wir selbstverständlich jedoch keine allgemeinen Gültigkeitsansprüche.
+Mit diesen Definitionen verbinden wir jedoch keine allgemeinen Gültigkeitsansprüche.
 Unsere Definitionen können als unser eigenes Verständnis von den jeweiligen Begriffen, Handlungen und Werten angesehen werden, als *philosophy flavoured Wikipedia definitions*.
 
 Wir sind uns darüber bewusst, dass wir uns häufig auf unsere Intuitionen berufen.
 Wir versuchen unsere Intuitionen immer explizit (siehe [Professionalität](../contents/v5_professionality.md) und [Offenheit](../contents/v4_openness.md)) zu machen.
-Wir sind uns jedoch darüber bewusst, dass wir uns nicht über jeden unserer Hintergrundanahmen, Voraussetzungen und grundlegenden Intuitionen bewusst sind. (siehe [Ehrlichkeit](../contents/v5_openness.md))
+Wir sind uns jedoch auch darüber bewusst, dass wir uns nicht über jede unserer Hintergrundanahmen, Voraussetzungen und grundlegenden Intuitionen bewusst sind. (siehe [Ehrlichkeit](../contents/v5_openness.md))
 
 Wenn wir uns implizit oder explizit auf unsere Intuitionen berufen, dann soll das keine Rechtfertigung oder Prüfstein sein, sondern es soll:
 
@@ -133,9 +133,10 @@ Wenn wir uns implizit oder explizit auf unsere Intuitionen berufen, dann soll da
 
 ### Unsere Listen und die Objekte des Diskurs
 Wir sind uns über die Unvollständikeit unserer Listen bewusst.
-Wir sind uns darüber im Klaren, dass unsere Listen oft verlängert oder verkürzt werden können.
-Unsere Listen erfüllen nur den Zweck, griffige Beispiele anzugeben.
-Wir vertrauen darauf, dass wir und unsere Leserinnen die Familienähnlichkeit zwischen den gelisteten paradigmatischen Fällen zu sehen sowie sie wo nötig anzupassen vermögen.
+Wir sind uns darüber im Klaren, dass unsere Listen dementsprechend verlängert oder verkürzt werden könnten.
+Unsere Listen erfüllen den Zweck, griffige Beispiele anzugeben.
+Wir vertrauen darauf, dass wir und unsere Leserinnen die Familienähnlichkeit zwischen den gelisteten paradigmatischen Fällen erkennen und bereit sind, wenn nötig, Anpassungen vorzunehmen.
+
 
 Die Diskursreferenten sind in den jeweiligen paradigmatischen Handlungen aufgelistet und sollen einen Überblick über die relevanten Objekte der normativen Zuschreibungen geben.
 
