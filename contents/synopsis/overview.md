@@ -16,7 +16,7 @@ Im *Ethos* formulieren wir eine Haltung. Zu dieser Haltung haben wir uns gemeins
 
 bekannt und für diese wollen wir auch fortlaufend einstehen.
 
-Der Ethos ist von uns und für uns - die Studierenden, Lehrenden, Mitarbeiterinnen des *Instituts für Philosophie* der *Universität Stuttgart*, sowie allen mit dem Institut in unmittelbarem Kontakt stehenden - formuliert.
+Das Ethos ist von uns und für uns - die Studierenden, Lehrenden, Mitarbeiterinnen des *Instituts für Philosophie* der *Universität Stuttgart*, sowie allen mit dem Institut in unmittelbarem Kontakt stehenden - formuliert.
 
 In diesem Kapitel nennen und beschreiben wir zunächst den Aufbau des Ethos, welcher sich aus einer Kombination aus Werten und paradigmatischen Handlungen ergab. Anschließend geben wir einige Erläuterungen zum Status der Werte und Handlungen, sowie zum Umgang mit Wertekonflikte.
 
