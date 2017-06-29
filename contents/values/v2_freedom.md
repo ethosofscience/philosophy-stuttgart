@@ -36,13 +36,13 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 ## Erläuterung
 
-1. Wir verstehen unter *Freiheit* die Unabhängigkeit von äußeren Faktoren, die nicht willentlich als Faktoren in Entscheidungen mit aufgenommen wurden.
+1. Wir verstehen unter *Freiheit* die Unabhängigkeit in den Handlungen eines Subjekts von äußeren Faktoren, das heißt
 
-  1. Wir sind frei bestimmte Dinge zu tun.
+  1. wir sind frei bestimmte Dinge zu tun und
 
-  2. Wir sind frei bestimmte Dinge zu unterlassen.
+  2. wir sind frei bestimmte Dinge zu unterlassen.
 
-2. Wir können unsere Persönlichkeit frei entfalten.
+2. Wir verstehen unter Freiheit unsere Persönlichkeit frei entfalten zu können.
 
 # Relevanz
 ## Grund
