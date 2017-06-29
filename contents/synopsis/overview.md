@@ -71,14 +71,14 @@ Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelde
 ### Zur Begründung von Werten
 Hier führen wir einige Gründe an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
 
-Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt.
+Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweilig besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt.
 
 Wir sind davon überzeugt, dass es die Essenz des Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
 Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten denselben ihre normative und motivationale Kraft verleiht
 
 Wir gehen davon aus, dass einige der Werte, zu denen wir uns hier bekennen, *intrinsisch wertvoll* sind. (vgl. SEP 2017)
-Deshalb glauben wir, dass die entsprechenden Werte weder rechtfertigungsbedürftig und auch nicht rechtfertigungswürdig sind.
+Deshalb glauben wir, dass die entsprechenden Werte nicht rechtfertigungsbedürftig sind.
 
 Wir sind der Überzeugung, dass diese Annahme uns weder zu einer bestimmten Ontologie verpflichtet noch, dass aus ihr bestimmte epistemischen Pflichten erwachsen.
 Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen Wert nennen, wenn wir dazu geneigt sind die folgende disjunktive, erweiterbare oder verkürzbare Familie von Einstellungen mit jenem Wert zu verbinden:
