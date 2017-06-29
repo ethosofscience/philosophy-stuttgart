@@ -103,7 +103,7 @@ Wir verpflichten uns mit unserer Forschung unseren zukünftigen Generationen.
       8. Argumentieren,
       9. Zuhören,
       10. Präsentieren,
-      11. Experimentieren (X-Phi),
+      11. Experimentieren (siehe beispielsweise Experimentelle Philosophie (X-Phi)),
       12. Messen (X-Phi),
       13. Weiterentwickeln,
       14. Recherchieren,
