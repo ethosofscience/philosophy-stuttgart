@@ -110,7 +110,7 @@ Wir glauben aber auch, dass Konflikte zwischen Werten den Wertcharakter unserer 
 
 1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
 
-2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner 2005) verlangt.
+2. uns aufzeigen, dass sowohl ihre Umsetzung, als auch die Auseinandersetzung mit ihnen Achtsamkeit und Klugheit (vgl. Luckner 2005)von uns verlangt.
 
 Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigen Wettstreit stehen können.
 Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
