@@ -21,8 +21,6 @@ Wir studieren ....
 ! Hier beginnt Datei "v1a4"
 ![Texblock, ca. xx Zeichen]
 # Wir studieren verantwortungsvoll.
-
-## Erläuterung
 ![ca. xx Zeichen, max. x  Bulletpoints, nur eine Ebene]
 1. Wir ...
 
