@@ -31,6 +31,6 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 # Forschen
 
-*Forschen* begreifen wir als das gemeinsame, systematische Streben nach Erkenntnis - für uns selbst und für andere. *Forschen* umfasst damit auch die Dokumentation und die Zugänglichmachung aller relevanten Objekte unseres eigenen Forschens.
+*Forschen* begreifen wir als das gemeinsame, systematische Streben nach Erkenntnis. *Forschen* umfasst damit auch die Dokumentation und die Zugänglichmachung aller relevanten Objekte unseres eigenen Forschens. Philosophische Forschung im Speziellen umfasst einen lebendigen Diskurs und Austausch.
 
 Unser Forschen ist untrennbar eingebunden in die wissenschaftliche Gemeinschaft und lebt vom konsequenten, aktiven, direkten Austausch mit anderen Wissenschaftlerinnen. Wir bauen wertschätzend auf die Erfolge und Misserfolge aller Wissenschaftlerinnen vor uns auf und sehen uns mit unserem Forschen in die Geschichte der Philosophie, sowie in die Geschichte der gesamten Wissenschaft eingebettet.
