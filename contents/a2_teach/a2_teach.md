@@ -31,40 +31,9 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Lehren
-## Statement
-*Lehren ist für uns eine paradigmatische Handlung.*
 
-## Erläuterung
-1. Wir vertehen unter *Lehren* das systematische Vermitteln von Wissen, das vor allem in Lehrveranstaltungen stattfindet, inklusive der nötigen Vor- und Nachbereitung, den damitzusammenhängenden Prüfungen und dem Feedback, das an Studierende gegeben wird.
-
-    1. Das Wissen, das in Lehrveranstaltungen vermitteln wird umfasst sowohl philosophisch- wissenschaftliche Inhalte, als auch philosophisch- wissenschaftliche Methoden und kann unter anderem die folgenden Objekte umfassen:
-
-        1. Ideen
-        2. Begriffe
-        3. Überzeugungen
-        4. Hypothesen
-        5. Argumente
-        6. Beweise
-        7. Fragen
-        8. Antworten
-        9. Lösungen
-       10. Lösungsansätze
-       11. Arbeiten
-       12. Theorien
-       13. Texte
-       14. Resultate
-       15. Daten
-       16. Algorithmen (Funktionen, Programme)
-       17. Experimente
-       18. Messungen
-       19. Beobachtungen
-       20. Analysen
-       21. Diskurse
-       22. Methoden
-       23. ...
-
-    2. Das Vermitteln von Wissen, inklusive der aufgeführten Objekte, kann nach verschiedenen Möglichkeiten der Lehrgestaltung erreicht werden. Einige mögliche Arten sind folgende: Frontal durch Vorlesungen, diskursiv in Seminaren durch moderierte Diskussionen, durch verschiedene Referate, durch Gruppenarbeit et cetera.
-
-    3. Prüfungen sind Teil der Lehre. Die Prüfungen in der Philosophie sind von veschiedenen Inhalten und Methoden geprägt und können auch von verschiedener Art sein, je nach Art, Inhalt und Methode der Lehrveranstaltung.
-
-    4. Feedback ist ebenso ein Element der Lehre. Es umfasst sowohl das Geben von Rückmeldung in Lehrveranstaltungen und bei Prüfungen, als auch das Empfangen von Rückmeldung auf Seiten der beispielsweise Studierenden. Diese Feedback fließt auch in den die Lehre umfassenden Bereich der Vor- und Nachbereitung von Seminaren, Kolloquien, Workshops et cetera ein.  
+Lehren ist für uns die systematische, fruchtbringende Vermittlung von Wissen.
+Der Wissenstransfer und -austausch vollzieht sich in organisierten Lehrveranstaltungen verschiedenster Form mit diversen Lehrkräften.
+Vor- und Nachbereitung von Sitzungsinhalten, Prüfungsvorbereitungen und -durchführungen, eine offene Feedbackkultur sowie die Betreuung der zu Lehrenden gehören zu den fruchtbringenden Elementen der Lehre und des Lehrens selbst.
+Das Lehren ist Teil unseres sorgfältig erdachten Ethos, das in einem paradigmatischen Verhältnis zu besonderen Werten steht.
+Diese sollen eine faire, freie, lebendige, offene, professionelle und verantwortungsvolle Art zu Lehren hervorbringen und leisten.
