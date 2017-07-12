@@ -32,7 +32,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Lehren
 
-Lehren ist für uns die systematische, fruchtbringende Vermittlung von Wissen.
+Lehren ist für uns das systematische, fruchtbringende Vermitteln von Wissen.
 Der Wissenstransfer und -austausch vollzieht sich in organisierten Lehrveranstaltungen verschiedenster Form mit diversen Lehrkräften.
 Vor- und Nachbereitung von Sitzungsinhalten, Prüfungsvorbereitungen und -durchführungen, eine offene Feedbackkultur sowie die Betreuung der zu Lehrenden gehören zu den fruchtbringenden Elementen der Lehre und des Lehrens selbst.
 Das Lehren ist Teil unseres sorgfältig erdachten Ethos, das in einem paradigmatischen Verhältnis zu besonderen Werten steht.
