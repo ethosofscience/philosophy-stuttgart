@@ -30,43 +30,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 # Zusammenleben
-## Statement
-*Das Zusammenleben ist für uns eine paradigmatische Handlung*
 
-## Erläuterung
-Wir  verstehen unter dem Zusammenleben im wesentlichen die Vereinigung zweier paradigmatischen Handlungen:
+Das Zusammenleben verbindet für uns zwei wesentliche Handlungen: Zum Einen das *persönliche* Miteinandersein und Kommunizieren, zum Anderen die *Selbstorganisation* als Institut, sprich die *Institutspolitik*.
 
-1. Zusammenleben beschreibt das *persönliche* Miteinandersein und Kommunizieren am Institut.
-
-    1. Das Zusammenleben stellt den *genuin zwischenmenschlichen* Bereich der paradigmatischen Handlungen dar.
-
-    2. Das Zusammenleben betrifft auch das Miteinandersein *jenseits der gegebenenfalls eingenommenen Rollen*.
-
-2. Zusammenleben  beschreibt weiterhin die Selbstorganisation als Institut, das heißt die *Institutspolitik*.
-
-    1. Die Zusammenarbeit und Kommunikation zwischen den politischen *Organen des Instituts*.
-    Beispielhaft sei hier die Fachgruppe, der JourFixe oder auch der runde Tische genannt.
-
-    2. Die *Präsentation* des Instituts nach Außen.
-
-    3. Die *Repräsentation* des Instituts und damit das Wirken auf die Rahmenbedingungen des Instituts.
-
-    4. Die *Gestaltung der eigenen Struktur* innerhalb der Rahmenbedingungen von Außen.
-
-3. Nicht immer listen wir in den Handlungsfelder alle Objekte explizit auf. Im Folgenden listen wir daher die für diese paradigmatische Handlung relevanten Objekte exemplarisch auf:
-
-    1. Entscheidungen,
-    2. Kommunikation,
-    3. Veranstaltungen,
-    4. Gespräche,
-    5. Planungen,
-    6. Feste,
-    7. Gremien,
-    8. Projekte,
-    9. Beschlüsse,
-    10. JourFixe,
-    11. Sitzungen
-    12. Öffentliche Veranstaltungen,
-    13. Räume,
-    14. Strategien,
-    15. ...
+Das Zusammenleben ist ein von Grund auf zwischenmenschlicher Bestandteil unser täglichen Handlungen und betrifft ebenfalls das Miteinandersein jenseits der gegebenfalls eingenommenen Rollen. Demnach präsentieren wir in unserer gesamten Gemeinschaft das Institut nach Außen und gestalten die eigenen Sturkturen innerhalb der erhaltenen Rahmenbedingungen. Beispielhafte politische Organe des Instituts sind die Fachgruppe, das Jour Fixe oder auch der runde Tisch.
