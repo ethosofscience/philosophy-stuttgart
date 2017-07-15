@@ -29,35 +29,21 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
   SUBFILE – This is a SUBFILE! For more INFORMATION on this project go to:
 /README.md
 --->
+# Rollenwahrnehmung
 
-# Rollenwahrnehmung (…) a3
-## Statement
-*Rollenwahrnehmung ist für uns eine paradigmatische Handlung.*
+Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir das Wahrnehmen einer oder mehrerer Rolle(n) als das Erkennen der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie das aktive *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
 
-## Erläuterung
-1. Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir das Wahrnehmen einer oder mehrerer Rolle(n) als:
+Eine Person kann verschiedene Rollen einnehmen. Konflikte zwischen mehrerer Rollen ist daher möglich und normal. Die reflektierende Person wagt dann bewusst und eigenverantwortlich zwischen den damit verbunden Rechten und Pflichten ab.
 
-    1. reflektiertes und aufmerksames *Erkennen* der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie
+Mögliche Rollen am Institut können sein (nach alphabetischer Reihenfolge und unvollständig):
 
-    2. aktives und bewusstes *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
+1. Dozentin / Gastdozentin
 
-2. Eine Rolle wird konstituiert durch (soziale) Erwartungen, Handlungsmuster, Ansprüche, Anforderungen, Rechte und Plfichten (...).
-
-3. Mit jeder Rolle gehen Freiheiten, Rechte und Pflichten einher, welche zunehmend kontextabhängig sind.
-
-4. Am Institut arbeiten und leben wir vor allem als *Menschen* zusammen, befinden uns jedoch auch in verschiedenen Rollen.
-
-5. Mögliche Rollen am Institut können sein (nach alphabetischer Reihenfolge und unvollständig):
-
-  1. Dozentin / Gastdozentin
-
-      1. siehe unten
-
-  2. Fachgruppensprecherin
+2. Fachgruppensprecherin
 
       1. Die Fachgruppensprecherin repräsentiert die Studierenden und kommuniziert und vermittelt zwischen Studierenden und Lehrpersonen.
 
-  3. Gasthörerin
+3. Gasthörerin
 
       1. Gasthörerinnen studieren Philosophie, so wie Studierende. Grundsätzlich gilt das was für Studierende gilt, auch für sie. Gasthörerinnen sind sich ihrer besonderen Rolle mit ihren jeweiligen Rechten und Pflichten bewusst, gleichzeitig wird ihnen mit Respekt und Fairness begegnet, so wie allen anderen am Institut auch.
 
@@ -84,34 +70,3 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
   9. Verwaltungsfachangestellte
 
     1. Verwaltet und organisiert Institutsangelegenheiten.
-
-
-6. Eine Person kann verschiedene Rollen einnehmen (z.B.als Studentin *und* Tutorin). Eine Kollidierung mehrerer Rollen ist daher möglich und normal. Die reflektierende Person wagt dann bewusst und eigenverantwortlich zwischen den damit verbunden Rechten und Pflichten ab.
-
-7. Diese *Rollen*, sowie den damit verbundenen Freiheiten, Rechten und Pflichten, versuchen wir
-
-    1. *transparent* zu gestalten
-
-    2. *aktiv* zu *erkennen*
-
-    3. *einzunehmen* und zu *leben*
-
-    4. zu *tolerieren* und zu *respektieren*
-
-    5. zu *schützen* und
-
-    6. zu *reflektieren*. [Offenheit und Rollenwahrnehmung](../contents/fields/v4a3.md)
-
-um den bestimmten Werten, die unserem Ethos entsprechen, gerecht zu werden.
-
-
-### Beispiel einer Rollenwahrnehmung als *Studentin*:
-Studierende lernen am Institut Inhalte und Methoden kennen (siehe hierfür [Lehren](../actions/a3_teach.md)). Sie können ihr Studium frei gestalten, sind aber an die Prüfungs- und Studienordnung gebunden, sowie an die Fristen der Dozentinnen. Sie sind frei ihre Meinung zu äußern, respektieren gleichzeitig aber Thesen und Argumente anderer Studierender und der Lehrpersonen. Studierende gehen bewusst und aktiv mit ihrer Rolle um. Das Studium ist keine nervige Pflicht, sondern eine privilegierte Möglichkeit seinen Interessen nachzugehen und Wissen vermittelt zu bekommen. Mit dieser Haltung wollen wir studieren. Die Offenheit der Lehrveranstaltungen wird nicht ausgenutzt.
-
-### Beispiel einer Rollenwahrnehmung als *Dozentin*:
-Die Dozentinnen vermitteln Wissen (siehe hierfür [Lehren](../actions/a3_teach.md)) in Lehrveranstaltungen. Diese können sie frei gestalten und können frei Vorgehensweise, Prüfungsleistungen und Fristen bestimmen, sind hier aber auch an die Prüfungs- und Studienordnung gebunden. Sie sind frei ihre Meinung zu äußern, respektieren gleichzeitig aber Thesen und Argumente Studierender. Prüfungen werden objektiv benotet, wenn möglich mit einem inhaltlichen Feedback für die Studentin. Dozentinnen nutzen ihre Rolle nicht aus, sonder erkenenn, dass sie eine Vorbildfunktion haben. Dementsprechend ist ein besonderes Maß an Bewusstsein für die eigene, teils autoritäre Rolle und die vermittelten Inhalte geboten.
-
-
-# Links
-1. […](…)
-2. …
