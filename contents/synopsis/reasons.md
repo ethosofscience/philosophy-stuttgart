@@ -31,137 +31,66 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Gründe über Gründe
-Hier führen wir einige Gründe (Argumente) an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
+Wir begründen hier warum wir einige Aussagen, Begriffe, Haltungen oder Werte nicht weiter begründen.
+In diesem Sinne führen wir hier Gründe gegen weitere Gründe an.
 
-Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweilig besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
+Eine Begründung oder Rechtfertigung der *Aussagen, Begriffe, Haltungen oder Werte* unseres Ethos oder ihren jeweiligen besonderen Charakter beziehungsweise ihren jeweiligen Status wollen und können wir hier *nicht* leisten, weil dies *nicht* im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
+*Im Fokus unsere Ehtos liegt unser gemeinsames Bekenntnis zu unsere Auswahl an Haltungen und den damit verbundenen Werten.*
 
-## Definitionen
-Wir geben in der Formulierung unseres Ethos Definitionen unserer Begriffe, Handlungen und Werte an. Mit diesen Definitionen verbinden wir selbstverständlich jedoch keine allgemeinen Gültigkeitsansprüche.
-Unsere Definitionen können als unser eigenes Verständnis von den jeweiligen Begriffen, Handlungen und Werten angesehen werden, als *philosophy flavoured Wikipedia definitions*.
+Im Folgenden sprechen wir häufig nur noch von einer *Haltungen* und verstehen darunter die *Komposition einer Handlung mit einem Wert* verstehen. (siehe Architektur.)
+
+## Unsere Definitionen
+Wir definieren in unserem Ethos Begriffe, Handlungen und Werte.
+Mit diesen Definitionen verbinden wir selbstverständlich keine allgemeinen Geltungsansprüche.
+Wir möchten mit unseren Definitionen vielmehr unser eigenes Verständnis der jeweiligen Begriffe, Handlungen und Werte transparent machen.
 
 ## Unsere Listen
-Wir sind uns über die Unvollständikeit unserer Listen bewusst.
-Wir sind uns darüber im Klaren, dass unsere Listen oft verlängert oder verkürzt werden können.
-Unsere Listen erfüllen nur den Zweck, griffige Beispiele anzugeben.
-Wir vertrauen darauf, dass wir und unsere Leserinnen die Familienähnlichkeit zwischen den gelisteten paradigmatischen Fällen zu sehen sowie sie wo nötig anzupassen vermögen.
+Wir listen in unserem Ethos Begriffe, Handlungen und Werte auf.
+Wir sind uns darüber bewusst, dass unsere Listen oft verlängert oder verkürzt werden können.
+Unsere Listen erfüllen nur den Zweck, konkrete, griffige Beispiele anzugeben.
+Wir vertrauen darauf, dass unsere Leserinnen die Familienähnlichkeit zwischen den aufgelisteten paradigmatischen Fällen zu sehen sowie sie wo nötig anzupassen vermögen.
 
-## Lebendige Werte
-Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
-Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
-Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten denselben ihre normative und motivationale Kraft verleiht, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
+## Was wir tun und was wir *nicht* tun
+Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten *bekennen*.
+Indem wir uns zu unserer Auswahl von Werten *bekennen* und indem wir unsere Werte *leben*, verleihen wir ihnen ihre *motivationale und normative Kraft*.
 (siehe [Relevanz](#relevanz))
 
-## Unsere Werte
-Wir möchten im Rahmen unseres Ethos lediglich exemplarisch begründen, warum wir diejenigen Werte anführen, die wir anführen; das heißt, warum und inwiefern jene Werte *für uns* relevant sind – warum jene Werte, *Werte für uns* sind.
-Wir glauben, dass eine derartige Begründung unserer Werte nicht ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status (siehe [Wertcharkter](#wertcharakter)) unterminiert, sondern im Gegenteil eben ihre Relevanz und ihre universelle Werthaftigkeit unterstreicht.
+**Wir begründen *nicht* die Werte an und für sich oder was Werte wertvoll macht**.
+Vielmehr entscheiden wir uns zu einer bestimmten Auswahl von Werten.
+Unser Entscheidung zu dieser Auswahl von Werten wollen wir begründen.
 
-Wir begründen die Relevanz unserer Werte,
-(siehe [Fairness v1](/../contents/values/v1_fairness.md),
+Wir haben uns für genau diese Werte ([Fairness v1](/../contents/values/v1_fairness.md),
 [Freiheit v2](../contents/values/v2_freedom.md),
 [Lebendigkeit v3](../contents/values/v3_liveliness.md),
 [Offenheit v4](../contents/values/v4_openness.md),
 [Qualität v5](../contents/values/v5_quality.md),
-[Verantwortung v6](../contents/values/v6_responsibility.md))
-indem wir zeigen, dass sie bei paradigmatischen (repräsentativen) Handlungen
+[Verantwortung v6](../contents/values/v6_responsibility.md)) entschieden,
+weil wir davon überzeugt sind, dass sie für uns besonders *relevant* sind.
+
+Unsere Werte sind für uns besonders relevant, weil sie in Kombination mit unseren paradigmatischen Handlungen
 (siehe [Forschen a1](../contents/actions/a1_research.md),
 [Lehren a2](../contents/actions/a2_teach.md),
 [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
 [Studieren a4](../contents/actions/a4_study.md),
-[Zusammenleben a5](../contents/actions/a5_live.md))
-die jeweilige Handlung selbst erst ermöglicht oder die Handlung selbst zu einer besseren Handlung macht.
+[Zusammenleben a5### ](../contents/actions/a5_live.md))
+zu einer *Haltung* führt, die besonders *wertvoll für uns* sind.
 
-Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werden im Ethos formuliert und stehen deshalb in einem bestimmten Kontext.
-Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelder hin formuliert und sollen keine allgemeine Definition oder ähnliches der Werte darstellen.
+Wir begründen, warum wir gerade diejenigen Werte auswählen, wir begründen, warum und inwiefern jene Werte *für uns* relevant sind, wir begründen, warum jene Werte, *Werte für uns* sind.
+Besonders wertvoll sind die Werte spätestens dadurch, dass wir uns zu ihnen bekennen und dadurch, dass wir sie leben.
+Irrelevant ist für uns in diesem Sinne, ob die Werte einen besonderen Wertcharakter haben oder nicht, ob sie intrinsisch wertvoll sind oder, inwiefern sie als Werte begründet sind.
 
-Viele der Handlungsfelder verweisen aufeinander, einige der Werte stehen im Kontext bestimmter Handlungen möglicherweise im Konflikt zueinander. Für diese Fälle gilt es, reflektiert und verantwortungsvoll abzuwägen, welcher Wert in diesem Kontext die höhere Relevanz hat.
+Wir sind uns darüber im Klaren, dass diese Begründung einen *instrumentellen Charakter* hat.
+Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die werte als Werte nicht unterminiert.
+Im Gegenteil sind wir davon überzeugt, dass indem wir uns für diese Werte entscheiden, indem wir uns zu ihnen bekennen, indem wir sie leben, wir sie zu dem machen, was sie für uns sind: Werte.
 
-## Wertdimensionen
-Wir begreifen unsere Werte:
+Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses sowie der umfassenden Auseindandersetzung mit ihren jeweiligen ethischen Kontexten.
 
-1. [Fairness](../values/v1_fairness.md),
-2. [Freiheit](../values/v2_freedom.md),
-3. [Lebendigkeit](../values/v3_liveliness.md),
-4. [Offenheit](../values/v4_openness.md),
-5. [Professionalität](../values/v5_professionality.md),
-6. [Verantwortung](../values/v6_responsibility.md)
+Unsere sechs Werte sind nicht exklusiv zu lesen.
+Unsere Auswahl ist *keine* fixe Menge von Werten, sondern eine Einladung, sich mit diesen Werten auseinanderzusetzen.
+Wenn wir davon sprechen, dass wir unsere Werte leben, dann sprechen wir auch davon, sich mit ihnen gründlich auseinanderzusetzen, sie zu ergänzen, sie weiter zu entwickeln.
+Wir begreifen unser Ethos als eine lebendige, sich stetig entwickelnde Verständigung darüber, wie wir gemeinsam studieren, forschen und lehren.
 
-als dicke, mehrdimensionale, intrinsisch wertvolle Konzepte.
-In der Formulierung unserer Werte erläutern wir diejenigen Dimensionen des jeweiligen Wertes.
-Unter einer Dimension eines Wertes verstehen wir seine einzelnen Aspekte beziehungsweise Facetten.
-
-## Handlungsdimensionen
-Wir begreifen unsere Handlungen:
-
-1. [Forschen a1](../contents/actions/a1_research.md),
-2. [Lehren a2](../contents/actions/a2_teach.md),
-3. [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
-4. [Studieren a4](../contents/actions/a4_study.md),
-5. [Zusammenleben a5](../contents/actions/a5_live.md))
-
-jeweils als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
-
-## Handlungsfelder
-…
-
-## Wertcharakter
-Wir gehen davon aus, dass einige der Werte, zu denen wir uns hier bekennen, *intrinsisch wertvoll* sind. (vgl. SEP 2017)
-Deshalb glauben wir, dass die entsprechenden Werte nicht rechtfertigungsbedürftig und auch nicht rechtfertigungswürdig sind.
-
-Wir sind der Überzeugung, dass diese Annahme uns weder zu einer bestimmten Ontologie verpflichtet noch, dass aus ihr bestimmte epistemischen Pflichten erwachsen.
-Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen Wert nennen, wenn wir normalerweise dazu geneigt sind die folgende disjunktive, erweiterbare oder verkürzbare Familie von Einstellungen mit jenem Wert zu verbinden:
-
-1. Der Wert ist *in sich selbst* und *aus sich selbst* heraus *wertvoll*;
-
-2. Der Wert bedarf keiner Begründung, die nicht schon im Wert selbst liegt (Beispiel: „Es ist gut, gut zu sein.”);
-
-3. Der Wert hat *motivationale und normative Kraft* der in ihm selbst liegt;
-
-4. Der Wertcharakter des Werts kann direkt eingesehen werden;
-
-5. Aus dem Wert lassen sich *andere Werte ableiten*.
-
-Diese Liste ist nicht als vollständige Wesensdefinition intrinsischer Werte zu verstehen, sondern als beispielhafte Liste von Einstellungen, die Einstellungen enthält, die darauf hindeuten, dass wir einen bestimmten Wert auf eine bestimmte Art gebrauchen beziehungsweise, dass wir über ihn in einer bestimmten Weise sprechen. (vgl. Ernst 2007?)[Die Objektivität der Moral]
-
-Wir glauben, dass Chisholms Version von Moors Isolation Test ein hilfreicher Test (unter anderen) sein kann, um unsere Einstellungen gegenüber bestimmter Werten zu klären. (vgl. SEP 2017)
-
-Wir schließen nicht aus, dass die hier angeführten Werte, trotz ihres intrinsischen Wertcharakters, möglicherweise begründet – das heißt aus anderen Werten abgeleitet – werden können.
-Das heißt, wir schließen nicht die Möglichkeit aus, dass es sowohl *basic* als auch *non-basic values* gibt. (vgl. SEP 2017)
-
-Wir gehen davon aus, dass der intrinsische Wertcharakter bestimmter Werte weder notwendige noch hinreichende Bedingung für den Status unseres Ethos ist.
-Entscheidend ist unserer Meinung nach, dass wir die Intuition haben, dass unsere Werte intrinsisch wertvoll sind.
-Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto*, die wir für uns setzen.
-
-## Werte als Ideale
-Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen, nach denen wir streben.
-Wir glauben, dass die normative und motivationale Kraft unserer Werte davon abhängt, ob wir sie *de facto* leben.
-Und sie zu leben begreifen wir als bewusstes Streben nach der Erfüllung jener Werte.
-Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
-Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
-(siehe [Wertekonflikte im Überlegungsgleichgewicht](##wertekonflikte-im-überlegungsgleichgewicht))
-
-## Einklang unserer Werte – Überlegungsgleichgewicht
-### Wertgefüge – Werteeinklang
-Wir sind davon überzeugt, dass das *verantwortungsvolle Forschen*, mit unseren Handlungen, wie sie in
-1. [Forschen](../actions/a1_research.md),
-2. [Lehren](../actions/a2_teach.md),
-3. [Rollenwahrnehmung](../actions/a3_roles.md),
-4. [Studieren](../actions/a4_study.md),
-5. [Zusammenleben](../actions/a5_live.md)
-
-sowie unseren Werten wie sie in
-
-1. [Fairness](../values/v1_fairness.md),
-2. [Freiheit](../values/v2_freedom.md),
-3. [Lebendigkeit](../values/v3_liveliness.md),
-4. [Offenheit](../values/v4_openness.md),
-5. [Professionalität](../values/v5_professionality.md),
-6. [Verantwortung](../values/v6_responsibility.md)
-
-beschrieben sind im
-[Einklang](../synopsis/reasons.md)
-steht und stehen sollte.
-
-### Wertekonflikte
+## Einklang unserer Werte – Überlegungsgleichgewicht – Wertgefüge – Werteeinklang
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
 
 1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
