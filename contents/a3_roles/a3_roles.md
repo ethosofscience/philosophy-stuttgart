@@ -31,42 +31,24 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 # Rollenwahrnehmung
 
-Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir das Wahrnehmen einer oder mehrerer Rolle(n) als das Erkennen der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie das aktive *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
+Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir das Wahrnehmen einer oder mehrerer Rolle(n) als das reflektierte und aufmerksame Erkennen der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie das aktive *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
 
-Eine Person kann verschiedene Rollen einnehmen. Konflikte zwischen mehrerer Rollen ist daher möglich und normal. Die reflektierende Person wagt dann bewusst und eigenverantwortlich zwischen den damit verbunden Rechten und Pflichten ab.
+Eine Person kann verschiedene Rollen einnehmen. Konflikte zwischen mehrerer Rollen ist daher möglich und normal. Die reflektierende Person wägt dann bewusst und eigenverantwortlich zwischen den damit verbunden Rechten und Pflichten ab.
 
 Mögliche Rollen am Institut können sein (nach alphabetischer Reihenfolge und unvollständig):
 
-1. Dozentin / Gastdozentin
+1. Dozentin und Gastdozentin
 
-2. Fachgruppensprecherin
+2. Fachgruppensprecherin: Die Fachgruppensprecherin repräsentiert die Studierenden und kommuniziert und vermittelt zwischen Studierenden und Lehrpersonen.
 
-      1. Die Fachgruppensprecherin repräsentiert die Studierenden und kommuniziert und vermittelt zwischen Studierenden und Lehrpersonen.
+3. Gasthörerin: Gasthörerinnen studieren Philosophie wie Studierende auch. Grundsätzlich gilt das, was für Studierende gilt, auch für sie.
 
-3. Gasthörerin
+4. Institutsleiterin / stellvertretende Institutsleiterin
 
-      1. Gasthörerinnen studieren Philosophie, so wie Studierende. Grundsätzlich gilt das was für Studierende gilt, auch für sie. Gasthörerinnen sind sich ihrer besonderen Rolle mit ihren jeweiligen Rechten und Pflichten bewusst, gleichzeitig wird ihnen mit Respekt und Fairness begegnet, so wie allen anderen am Institut auch.
+5. Professorin
 
-  4. Institutsleiterin / stellvertretende Institutsleiterin
+6. Studierende
 
-      1. Repräsentiert und leitet das Institut für Philosophie.
+7. Studentische Hilfskraft und Tutorin
 
-  5. Professorin
-
-      1. Siehe Dozentin
-
-  6. Studentin
-
-      1. siehe unten
-
-  7. Studentische Hilfskraft
-
-    1. Studentische und wissenschaftliche Hilfskräfte arbeiten unterstützend in der Lehre oder in der Forschung. Sie sind sich der Verantwortung bewusst, die damit einhergeht.
-
-  8. Tutorin
-
-    1. Gibt Tutorien und ist somit auch Lehrende, siehe hierfür "Dozentin". Gleichzeitig sind Tutorinnen Studierende, mit diesen beiden Rollen umzugehen und sie zu erfüllen, vereinbaren oder auch trennen zu können ist besondere Aufgabe der Tutorinnen.
-
-  9. Verwaltungsfachangestellte
-
-    1. Verwaltet und organisiert Institutsangelegenheiten.
+8. Verwaltungsfachangestellte
