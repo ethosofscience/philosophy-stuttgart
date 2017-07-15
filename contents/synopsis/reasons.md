@@ -50,122 +50,47 @@ Wir sind uns darüber bewusst, dass unsere Listen oft verlängert oder verkürzt
 Unsere Listen erfüllen nur den Zweck, konkrete, griffige Beispiele anzugeben.
 Wir vertrauen darauf, dass unsere Leserinnen die Familienähnlichkeit zwischen den aufgelisteten paradigmatischen Fällen zu sehen sowie sie wo nötig anzupassen vermögen.
 
-## Was wir tun
+## Was wir tun und was wir *nicht* tun
 Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten *bekennen*.
 Indem wir uns zu unserer Auswahl von Werten *bekennen* und indem wir unsere Werte *leben*, verleihen wir ihnen ihre *motivationale und normative Kraft*.
 (siehe [Relevanz](#relevanz))
 
-Damit wir uns zu unseren Haltungen und Werten bekennen und diese leben können, müssen wir uns zuvor auf eine Auswahl einigen.
-Wir begründen hier lediglich warum wir diejenigen Werte auswählen, die wir auswählen.
-Um unser Auswahl an Werten zu begründen, müssen wir begründen, warum diese Haltungen und Werte relevant sind
+**Wir begründen *nicht* die Werte an und für sich oder was Werte wertvoll macht**.
+Vielmehr entscheiden wir uns zu einer bestimmten Auswahl von Werten.
+Unser Entscheidung zu dieser Auswahl von Werten wollen wir begründen.
 
-Wir begründen die Relevanz unserer Werte,
-(siehe [Fairness v1](/../contents/values/v1_fairness.md),
+Wir haben uns für genau diese Werte ([Fairness v1](/../contents/values/v1_fairness.md),
 [Freiheit v2](../contents/values/v2_freedom.md),
 [Lebendigkeit v3](../contents/values/v3_liveliness.md),
 [Offenheit v4](../contents/values/v4_openness.md),
 [Qualität v5](../contents/values/v5_quality.md),
-[Verantwortung v6](../contents/values/v6_responsibility.md))
-indem wir zeigen, dass sie bei paradigmatischen (repräsentativen) Handlungen
+[Verantwortung v6](../contents/values/v6_responsibility.md)) entschieden,
+weil wir davon überzeugt sind, dass sie für uns besonders *relevant* sind.
+
+Unsere Werte sind für uns besonders relevant, weil sie in Kombination mit unseren paradigmatischen Handlungen
 (siehe [Forschen a1](../contents/actions/a1_research.md),
 [Lehren a2](../contents/actions/a2_teach.md),
 [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
 [Studieren a4](../contents/actions/a4_study.md),
-[Zusammenleben a5](../contents/actions/a5_live.md))
-eine Haltung instanziiert.
+[Zusammenleben a5### ](../contents/actions/a5_live.md))
+zu einer *Haltung* führt, die besonders *wertvoll für uns* sind.
 
-## Was wir nicht tun
-Wir begründen, warum wir diejenigen Werte auswählen, die wir anführen; das heißt, warum und inwiefern jene Werte *für uns* relevant sind – warum jene Werte, *Werte für uns* sind.
-Wir glauben, dass eine derartige Begründung unserer Werte nicht ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status (siehe [Wertcharkter](#wertcharakter)) unterminiert, sondern im Gegenteil eben ihre Relevanz und ihre universelle Werthaftigkeit unterstreicht.
+Wir begründen, warum wir gerade diejenigen Werte auswählen, wir begründen, warum und inwiefern jene Werte *für uns* relevant sind, wir begründen, warum jene Werte, *Werte für uns* sind.
+Besonders wertvoll sind die Werte spätestens dadurch, dass wir uns zu ihnen bekennen und dadurch, dass wir sie leben.
+Irrelevant ist für uns in diesem Sinne, ob die Werte einen besonderen Wertcharakter haben oder nicht, ob sie intrinsisch wertvoll sind oder, inwiefern sie als Werte begründet sind.
 
+Wir sind uns darüber im Klaren, dass diese Begründung einen *instrumentellen Charakter* hat.
+Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die werte als Werte nicht unterminiert.
+Im Gegenteil sind wir davon überzeugt, dass indem wir uns für diese Werte entscheiden, indem wir uns zu ihnen bekennen, indem wir sie leben, wir sie zu dem machen, was sie für uns sind: Werte.
 
-## Wertdimensionen
-Wir begreifen unsere Werte:
+Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses sowie der umfassenden Auseindandersetzung mit ihren jeweiligen ethischen Kontexten.
 
-1. [Fairness](../values/v1_fairness.md),
-2. [Freiheit](../values/v2_freedom.md),
-3. [Lebendigkeit](../values/v3_liveliness.md),
-4. [Offenheit](../values/v4_openness.md),
-5. [Professionalität](../values/v5_professionality.md),
-6. [Verantwortung](../values/v6_responsibility.md)
+Unsere sechs Werte sind nicht exklusiv zu lesen.
+Unsere Auswahl ist *keine* fixe Menge von Werten, sondern eine Einladung, sich mit diesen Werten auseinanderzusetzen.
+Wenn wir davon sprechen, dass wir unsere Werte leben, dann sprechen wir auch davon, sich mit ihnen gründlich auseinanderzusetzen, sie zu ergänzen, sie weiter zu entwickeln.
+Wir begreifen unser Ethos als eine lebendige, sich stetig entwickelnde Verständigung darüber, wie wir gemeinsam studieren, forschen und lehren.
 
-als dicke, mehrdimensionale, intrinsisch wertvolle Konzepte.
-In der Formulierung unserer Werte erläutern wir diejenigen Dimensionen des jeweiligen Wertes.
-Unter einer Dimension eines Wertes verstehen wir seine einzelnen Aspekte beziehungsweise Facetten.
-
-## Handlungsdimensionen
-Wir begreifen unsere Handlungen:
-
-1. [Forschen a1](../contents/actions/a1_research.md),
-2. [Lehren a2](../contents/actions/a2_teach.md),
-3. [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
-4. [Studieren a4](../contents/actions/a4_study.md),
-5. [Zusammenleben a5](../contents/actions/a5_live.md))
-
-jeweils als eine *paradigmatischen Handlung*, die für eine Reihe von Handlungen oder für eine Reihe von Resultaten von Handlungen steht.
-
-## Handlungsfelder
-…
-
-## Wertcharakter
-Wir gehen davon aus, dass einige der Werte, zu denen wir uns hier bekennen, *intrinsisch wertvoll* sind. (vgl. SEP 2017)
-Deshalb glauben wir, dass die entsprechenden Werte nicht rechtfertigungsbedürftig und auch nicht rechtfertigungswürdig sind.
-
-Wir sind der Überzeugung, dass diese Annahme uns weder zu einer bestimmten Ontologie verpflichtet noch, dass aus ihr bestimmte epistemischen Pflichten erwachsen.
-Wir glauben, dass wir einen bestimmten Wert normalerweise einen intrinsischen Wert nennen, wenn wir normalerweise dazu geneigt sind die folgende disjunktive, erweiterbare oder verkürzbare Familie von Einstellungen mit jenem Wert zu verbinden:
-
-1. Der Wert ist *in sich selbst* und *aus sich selbst* heraus *wertvoll*;
-
-2. Der Wert bedarf keiner Begründung, die nicht schon im Wert selbst liegt (Beispiel: „Es ist gut, gut zu sein.”);
-
-3. Der Wert hat *motivationale und normative Kraft* der in ihm selbst liegt;
-
-4. Der Wertcharakter des Werts kann direkt eingesehen werden;
-
-5. Aus dem Wert lassen sich *andere Werte ableiten*.
-
-Diese Liste ist nicht als vollständige Wesensdefinition intrinsischer Werte zu verstehen, sondern als beispielhafte Liste von Einstellungen, die Einstellungen enthält, die darauf hindeuten, dass wir einen bestimmten Wert auf eine bestimmte Art gebrauchen beziehungsweise, dass wir über ihn in einer bestimmten Weise sprechen. (vgl. Ernst 2007?)[Die Objektivität der Moral]
-
-Wir glauben, dass Chisholms Version von Moors Isolation Test ein hilfreicher Test (unter anderen) sein kann, um unsere Einstellungen gegenüber bestimmter Werten zu klären. (vgl. SEP 2017)
-
-Wir schließen nicht aus, dass die hier angeführten Werte, trotz ihres intrinsischen Wertcharakters, möglicherweise begründet – das heißt aus anderen Werten abgeleitet – werden können.
-Das heißt, wir schließen nicht die Möglichkeit aus, dass es sowohl *basic* als auch *non-basic values* gibt. (vgl. SEP 2017)
-
-Wir gehen davon aus, dass der intrinsische Wertcharakter bestimmter Werte weder notwendige noch hinreichende Bedingung für den Status unseres Ethos ist.
-Entscheidend ist unserer Meinung nach, dass wir die Intuition haben, dass unsere Werte intrinsisch wertvoll sind.
-Entscheidend ist für uns die Werthaftigkeit des Werts *ipso facto*, die wir für uns setzen.
-
-## Werte als Ideale
-Wir fassen unsere Werte als Ideale auf zu denen wir uns bekennen, nach denen wir streben.
-Wir glauben, dass die normative und motivationale Kraft unserer Werte davon abhängt, ob wir sie *de facto* leben.
-Und sie zu leben begreifen wir als bewusstes Streben nach der Erfüllung jener Werte.
-Wir glauben, dass uns unsere Werte orientieren, indem sie uns einen gemeinsam angestrebten Sollzustand aufzeigen – ein gemeinsames Ideal –, auf den wir uns gemeinsam geeinigt haben.
-Die Divergenz zwischen Istzustand und Sollzustand unterminiert die Realität unsere Werte nicht.
-(siehe [Wertekonflikte im Überlegungsgleichgewicht](##wertekonflikte-im-überlegungsgleichgewicht))
-
-## Einklang unserer Werte – Überlegungsgleichgewicht
-### Wertgefüge – Werteeinklang
-Wir sind davon überzeugt, dass das *verantwortungsvolle Forschen*, mit unseren Handlungen, wie sie in
-1. [Forschen](../actions/a1_research.md),
-2. [Lehren](../actions/a2_teach.md),
-3. [Rollenwahrnehmung](../actions/a3_roles.md),
-4. [Studieren](../actions/a4_study.md),
-5. [Zusammenleben](../actions/a5_live.md)
-
-sowie unseren Werten wie sie in
-
-1. [Fairness](../values/v1_fairness.md),
-2. [Freiheit](../values/v2_freedom.md),
-3. [Lebendigkeit](../values/v3_liveliness.md),
-4. [Offenheit](../values/v4_openness.md),
-5. [Professionalität](../values/v5_professionality.md),
-6. [Verantwortung](../values/v6_responsibility.md)
-
-beschrieben sind im
-[Einklang](../synopsis/reasons.md)
-steht und stehen sollte.
-
-### Wertekonflikte
+## Einklang unserer Werte – Überlegungsgleichgewicht – Wertgefüge – Werteeinklang
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
 
 1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
