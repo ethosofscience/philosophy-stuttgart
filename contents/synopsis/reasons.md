@@ -31,29 +31,33 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Gründe über Gründe
-Hier führen wir einige Gründe (Argumente) an, warum wir nicht jeden hier verwendeten Begriff, jede erwähnte Handlung beziehungsweise nicht jeden erwähnten Wert begründen; wir führen hier also Gründe gegen weitere Gründe an.
+Wir begründen hier warum wir einige Aussagen, Begriffe, Haltungen oder Werte nicht weiter begründen.
+In diesem Sinne führen wir hier Gründe gegen weitere Gründe an.
 
-Eine Begründung oder Rechtfertigung der Werte unseres Ethos oder ihren jeweilig besonderen Charakter beziehungsweise Status wollen und können wir hier nicht leisten, weil dies nicht im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
+Eine Begründung oder Rechtfertigung der *Aussagen, Begriffe, Haltungen oder Werte* unseres Ethos oder ihren jeweiligen besonderen Charakter beziehungsweise ihren jeweiligen Status wollen und können wir hier *nicht* leisten, weil dies *nicht* im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
+*Im Fokus unsere Ehtos liegt unser gemeinsames Bekenntnis zu unsere Auswahl an Haltungen und den damit verbundenen Werten.*
 
-## Definitionen
-Wir geben in der Formulierung unseres Ethos Definitionen unserer Begriffe, Handlungen und Werte an. Mit diesen Definitionen verbinden wir selbstverständlich jedoch keine allgemeinen Gültigkeitsansprüche.
-Unsere Definitionen können als unser eigenes Verständnis von den jeweiligen Begriffen, Handlungen und Werten angesehen werden, als *philosophy flavoured Wikipedia definitions*.
+Im Folgenden sprechen wir häufig nur noch von einer *Haltungen* und verstehen darunter die *Komposition einer Handlung mit einem Wert* verstehen. (siehe Architektur.)
+
+## Unsere Definitionen
+Wir definieren in unserem Ethos Begriffe, Handlungen und Werte.
+Mit diesen Definitionen verbinden wir selbstverständlich keine allgemeinen Geltungsansprüche.
+Wir möchten mit unseren Definitionen vielmehr unser eigenes Verständnis der jeweiligen Begriffe, Handlungen und Werte transparent machen.
 
 ## Unsere Listen
-Wir sind uns über die Unvollständikeit unserer Listen bewusst.
-Wir sind uns darüber im Klaren, dass unsere Listen oft verlängert oder verkürzt werden können.
-Unsere Listen erfüllen nur den Zweck, griffige Beispiele anzugeben.
-Wir vertrauen darauf, dass wir und unsere Leserinnen die Familienähnlichkeit zwischen den gelisteten paradigmatischen Fällen zu sehen sowie sie wo nötig anzupassen vermögen.
+Wir listen in unserem Ethos Begriffe, Handlungen und Werte auf.
+Wir sind uns darüber bewusst, dass unsere Listen oft verlängert oder verkürzt werden können.
+Unsere Listen erfüllen nur den Zweck, konkrete, griffige Beispiele anzugeben.
+Wir vertrauen darauf, dass unsere Leserinnen die Familienähnlichkeit zwischen den aufgelisteten paradigmatischen Fällen zu sehen sowie sie wo nötig anzupassen vermögen.
 
-## Lebendige Werte
-Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten und Haltungen bekennen, nicht jedoch sie zu begründen.
-Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten eine Begründungsleistung derselben ist, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
-Wir sind davon überzeugt, dass unser Bekenntnis zu unseren Werten denselben ihre normative und motivationale Kraft verleiht, ebenso wie es eine Begründungsleistung ist jene Werte zu leben.
+## Was wir tun
+Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten *bekennen*.
+Indem wir uns zu unserer Auswahl von Werten *bekennen* und indem wir unsere Werte *leben*, verleihen wir ihnen ihre *motivationale und normative Kraft*.
 (siehe [Relevanz](#relevanz))
 
-## Unsere Werte
-Wir möchten im Rahmen unseres Ethos lediglich exemplarisch begründen, warum wir diejenigen Werte anführen, die wir anführen; das heißt, warum und inwiefern jene Werte *für uns* relevant sind – warum jene Werte, *Werte für uns* sind.
-Wir glauben, dass eine derartige Begründung unserer Werte nicht ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status (siehe [Wertcharkter](#wertcharakter)) unterminiert, sondern im Gegenteil eben ihre Relevanz und ihre universelle Werthaftigkeit unterstreicht.
+Damit wir uns zu unseren Haltungen und Werten bekennen und diese leben können, müssen wir uns zuvor auf eine Auswahl einigen.
+Wir begründen hier lediglich warum wir diejenigen Werte auswählen, die wir auswählen.
+Um unser Auswahl an Werten zu begründen, müssen wir begründen, warum diese Haltungen und Werte relevant sind
 
 Wir begründen die Relevanz unserer Werte,
 (siehe [Fairness v1](/../contents/values/v1_fairness.md),
@@ -68,12 +72,12 @@ indem wir zeigen, dass sie bei paradigmatischen (repräsentativen) Handlungen
 [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
 [Studieren a4](../contents/actions/a4_study.md),
 [Zusammenleben a5](../contents/actions/a5_live.md))
-die jeweilige Handlung selbst erst ermöglicht oder die Handlung selbst zu einer besseren Handlung macht.
+eine Haltung instanziiert.
 
-Die genannten Werte, auch in ihrer allgemeinen Erklärung und Begründung, werden im Ethos formuliert und stehen deshalb in einem bestimmten Kontext.
-Viele der Werte sind somit auch auf den Kontext des Ethos und die Handlungsfelder hin formuliert und sollen keine allgemeine Definition oder ähnliches der Werte darstellen.
+## Was wir nicht tun
+Wir begründen, warum wir diejenigen Werte auswählen, die wir anführen; das heißt, warum und inwiefern jene Werte *für uns* relevant sind – warum jene Werte, *Werte für uns* sind.
+Wir glauben, dass eine derartige Begründung unserer Werte nicht ihren jeweiligen, etwaigen, besonderen Charakter beziehungsweise Status (siehe [Wertcharkter](#wertcharakter)) unterminiert, sondern im Gegenteil eben ihre Relevanz und ihre universelle Werthaftigkeit unterstreicht.
 
-Viele der Handlungsfelder verweisen aufeinander, einige der Werte stehen im Kontext bestimmter Handlungen möglicherweise im Konflikt zueinander. Für diese Fälle gilt es, reflektiert und verantwortungsvoll abzuwägen, welcher Wert in diesem Kontext die höhere Relevanz hat.
 
 ## Wertdimensionen
 Wir begreifen unsere Werte:
