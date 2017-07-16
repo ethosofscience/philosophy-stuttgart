@@ -32,4 +32,4 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Studieren
 
-Studieren ist die wissenschaftliche Beschäftigung mit einem Forschungsfach in einem vorstrukturierten Studiengang auf freiwilliger Basis. Ziel des Philosophiestudiums ist es, im notwendigen gemeinsamen Austausch mit Lehrenden und anderen Studierenden Wissen, Inhalte, Methoden und Fähigkeiten, so wie eine allgemeine Orientierung im Denken zu erlangen. Es kann verschiedene Meinungen darüber geben, wie beispielsweise die Wissensvermittlung am sinnvollsten strukturiert und aufgebaut ist und genau diese Meinungsverschiedenheiten sind es, die dazu führen können, dass das Studium insgesamt verbessert wird. Somit ist eine Feedbackkultur hinsichtlich der Qualität der eigenen Arbeiten ein wichtiger Bestandteil des Studiums. 
+Studieren ist die eigenverantwortliche wissenschaftliche Beschäftigung mit einem Forschungsfach in einem vorstrukturierten Studiengang. Ziel des Philosophiestudiums ist es, im Austausch mit Lehrenden und anderen Studierenden Wissen über Inhalte und Methoden zu erlangen, Fähigkeiten zu erwerben, sowie ganz grundsätzlich sich "im Denken zu orientieren".
