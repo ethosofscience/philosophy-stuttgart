@@ -32,8 +32,4 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Lehren
 
-Lehren ist für uns das systematische Vermitteln von Wissen.
-Der Wissenstransfer und -austausch vollzieht sich in organisierten Lehrveranstaltungen verschiedenster Form mit diversen Lehrkräften.
-Vor- und Nachbereitung von Sitzungsinhalten, Prüfungsvorbereitungen und -durchführungen, eine offene Feedbackkultur sowie die Betreuung der zu Lehrenden gehören zu den fruchtbringenden Elementen der Lehre und des Lehrens selbst.
-Das Lehren ist Teil unseres sorgfältig erdachten Ethos, das in einem paradigmatischen Verhältnis zu besonderen Werten steht.
-Diese sollen eine faire, freie, lebendige, offene, professionelle und verantwortungsvolle Art zu Lehren hervorbringen und leisten.
+Lehren ist für uns das systematische Vermitteln von Wissen und umfasst für uns Vor- und Nachbereitung von Sitzungsinhalten, Prüfungsvorbereitungen und -durchführungen, eine offene Feedbackkultur, sowie die Betreuung der Studierenden.
