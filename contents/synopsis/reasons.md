@@ -59,47 +59,76 @@ Wir verleihen den mit unserer Haltung verbunden Werten ihre *motivationale und n
 Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses sowie das Resultat umfassender und genauer Auseindandersetzung mit ihren jeweiligen moralischen Kontexten.
 
 Wir haben uns für genau diese sechs Werte,
-[Fairness (v1)](/../contents/values/v1_fairness.md),
-[Freiheit (v2)](../contents/values/v2_freedom.md),
-[Lebendigkeit (v3)](../contents/values/v3_liveliness.md),
-[Offenheit (v4)](../contents/values/v4_openness.md),
-[Professionalität (v5)](../contents/values/v5_quality.md),
-[Verantwortung (v6)](../contents/values/v6_responsibility.md),
+[Fairness](/../contents/values/v1_fairness.md),
+[Freiheit](../contents/values/v2_freedom.md),
+[Lebendigkeit](../contents/values/v3_liveliness.md),
+[Offenheit](../contents/values/v4_openness.md),
+[Professionalität](../contents/values/v5_quality.md),
+[Verantwortung](../contents/values/v6_responsibility.md),
 entschieden, weil wir davon überzeugt sind, dass sie für uns *besonders wichtig* sind.
 
-Unsere Werte sind für uns besonders wichtig, weil sie in Kombination mit unseren paradigmatischen Handlungen,
-[Forschen (a1)](../contents/actions/a1_research.md),
-[Lehren (a2)](../contents/actions/a2_teach.md),
-[Rollenwahrnehmung (a3)](../contents/actions/a3_roles.md),
-[Studieren (a4)](../contents/actions/a4_study.md),
-[Zusammenleben (a5)](../contents/actions/a5_live.md),
+Diese Werte sind für uns besonders wichtig, weil sie in Kombination mit unseren paradigmatischen Handlungen,
+[Forschen](../contents/actions/a1_research.md),
+[Lehren](../contents/actions/a2_teach.md),
+[Rollenwahrnehmung](../contents/actions/a3_roles.md),
+[Studieren](../contents/actions/a4_study.md),
+[Zusammenleben](../contents/actions/a5_live.md),
 zu einer *Haltung* führt, die besonders *wertvoll für uns* sind.
+Wertvoll sind diese Haltungen in zweierlei Hinsicht.
 
-Besonders wertvoll sind diese Haltungen deswegen, weil sie
-einerseits unser
-[Forschen (a1)](../contents/actions/a1_research.md),
-[Lehren (a2)](../contents/actions/a2_teach.md),
+Einerseits sind diese Haltungen wertvoll, weil sie unser
+[Forschen](../contents/actions/a1_research.md),
+[Lehren](../contents/actions/a2_teach.md),
 unsere
-[Rollenwahrnehmung (a3)](../contents/actions/a3_roles.md),
+[Rollenwahrnehmung](../contents/actions/a3_roles.md),
 unser
-[Studieren (a4)](../contents/actions/a4_study.md) und unser
-[Zusammenleben (a5)](../contents/actions/a5_live.md),
+[Studieren](../contents/actions/a4_study.md) und unser
+[Zusammenleben](../contents/actions/a5_live.md),
 häufig überhaupt erst *ermöglichen*.
 
-Andererseits sind diese Haltungen besonders wertvoll, weil sie unser
-[Forschen (a1)](../contents/actions/a1_research.md),
-[Lehren (a2)](../contents/actions/a2_teach.md),
+Andererseits sind diese Haltungen wertvoll, weil sie unser
+[Forschen](../contents/actions/a1_research.md),
+[Lehren](../contents/actions/a2_teach.md),
 unsere
-[Rollenwahrnehmung (a3)](../contents/actions/a3_roles.md),
+[Rollenwahrnehmung](../contents/actions/a3_roles.md),
 unser
-[Studieren (a4)](../contents/actions/a4_study.md) und unser
-[Zusammenleben (a5)](../contents/actions/a5_live.md)
+[Studieren](../contents/actions/a4_study.md) und unser
+[Zusammenleben](../contents/actions/a5_live.md)
 häufig wesentlich *verbessern*.
+
+[Fairness](/../contents/values/v1_fairness.md),
+[Freiheit](../contents/values/v2_freedom.md),
+[Offenheit](../contents/values/v4_openness.md),
+[Professionalität](../contents/values/v5_quality.md) und
+[Verantwortung](../contents/values/v6_responsibility.md) können als
+Grundpfeiler sowohl der Wissenschaften als auch unserer Gemeinschaft angesehen werden.
+
+Inbesondere [Freiheit](../contents/values/v2_freedom.md) und [Offenheit](../contents/values/v4_openness.md) können als konstitutiv für die Wissenschaften angesehen werden.
+
+Insbesondere [Fairness](/../contents/values/v1_fairness.md) und
+[Verantwortung](../contents/values/v6_responsibility.md) können als konstititiv für unsere Gemeinschaft angesehen werden.
+
+Insebesondere [Professionalität](../contents/values/v5_quality.md) verbessert
+unser
+[Forschen](../contents/actions/a1_research.md),
+unser
+[Lehren](../contents/actions/a2_teach.md),
+unsere
+[Rollenwahrnehmung](../contents/actions/a3_roles.md),
+unser
+[Studieren](../contents/actions/a4_study.md)
+und unser
+[Zusammenleben](../contents/actions/a5_live.md)
+in allen Facetten.
 
 ## Instrumentalität
 Wir sind uns darüber im Klaren, dass diese Art der Begründung einen *instrumentellen Charakter* hat.
 Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die werte als Werte *nicht* unterminiert.
-Im Gegenteil sind wir davon überzeugt, dass indem wir uns für diese Werte entscheiden, indem wir uns zu ihnen bekennen, indem wir sie leben, sie zu dem machen, was sie für uns sind: Werte.
+
+Im Gegenteil sind wir erstens davon überzeugt, dass indem wir uns für diese Werte entscheiden, indem wir uns zu ihnen bekennen, indem wir sie leben, sie zu dem machen, was sie für uns sind: Werte.
+Zweitens sind wir davon überzeugt, dass wir unsere Entscheidungen grundsätzlich begründen sollten, um nicht einem dogmatischen Abbruch anheimzufallen.
+
+Die instrumentelle Begründung, die wir im vorliegenden Kapitel liefern sind in diesem Sinne die besten Gründe, die wir im Vorfeld unsere Entscheidung erwägen.
 
 ## Inklusivität
 Unsere sechs Werte sind nicht exklusiv zu lesen.
@@ -107,23 +136,17 @@ Unsere Auswahl ist *keine* fixe Menge von Werten, sondern eine Einladung, sich m
 Wenn wir davon sprechen, dass wir unsere Werte leben, dann sprechen wir auch davon, sich mit ihnen gründlich auseinanderzusetzen, sie zu ergänzen, sie weiter zu entwickeln.
 Wir begreifen unser Ethos als eine lebendige, sich stetig entwickelnde Verständigung darüber, wie wir gemeinsam studieren, forschen und lehren.
 
-## Einklang unserer Werte – Überlegungsgleichgewicht – Wertgefüge – Werteeinklang
+Werte, die nicht in unserer Auswahl sind, schließen wir *nicht* aus.
+Vielmehr legen wir einen wohlbegründeten Fokus auf diejenigen Werte, die uns besonders wichtig sind.
+Uneser Bekenntnis zu unseren Werten schießt ein Bekenntins zu weiteren Werten *nicht* aus.
+
+## Überlegungsgleichgewicht, Wertekonflikte, Werteeinklang
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern, dass sie einerseits ihre motivationale Kraft (ihre Lebendigkeit) betonen sowie andererseits uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner 2005) verlangt.
 
 Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigen Wettstreit stehen können.
 Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender, offener, pluralistischer Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
 
-## Intuitionen
-Wir sind uns darüber bewusst, dass wir uns häufig auf unsere Intuitionen berufen.
-Wir versuchen unsere Intuitionen immer explizit (siehe [Qualität](../contents/v4_quality.md) und [Offenheit](../contents/v5_openness.md)) zu machen.
-Wir sind uns jedoch darüber bewusst, dass wir uns nicht über jeden unserer Hintergrundanahmen, Voraussetzungen und grundlegenden Intuitionen bewusst sind. (siehe [Ehrlichkeit](../contents/v5_openness.md))
-
-Wenn wir uns implizit oder explizit auf unsere Intuitionen berufen, dann soll das keine Rechtfertigung oder Prüfstein sein, sondern es soll:
-
-1. unseren Ausgangspunkt klarstellen;
-2. die Richtschnur verdeutlichen an der wir uns orientieren.
-
-## Unsere Definitionen und Listen
+## Unsere Definitionen, Listen Intuitionen
 Wir definieren in unserem Ethos Begriffe, Handlungen und Werte.
 Mit diesen Definitionen verbinden wir selbstverständlich *keine* allgemeinen Geltungsansprüche.
 Wir möchten mit unseren Definitionen unser eigenes Verständnis der jeweiligen Begriffe, Handlungen und Werte transparent machen.
@@ -132,6 +155,12 @@ Wir listen in unserem Ethos Begriffe, Handlungen und Werte auf.
 Wir sind uns darüber bewusst, dass unsere Listen oft verlängert oder verkürzt werden können.
 Unsere Listen erfüllen nur den Zweck, konkrete, griffige Beispiele anzugeben.
 Wir vertrauen darauf, dass unsere Leserinnen die Familienähnlichkeit zwischen den aufgelisteten paradigmatischen Fällen zu sehen sowie sie wo nötig anzupassen vermögen.
+
+Wir sind uns darüber bewusst, dass wir uns häufig auf unsere Intuitionen berufen.
+Wir versuchen unsere Intuitionen immer explizit (siehe [Professionalität](../contents/v4_quality.md) und [Offenheit](../contents/v5_openness.md)) zu machen.
+Wir sind uns jedoch darüber bewusst, dass wir uns nicht über jeden unserer Hintergrundanahmen, Voraussetzungen und grundlegenden Intuitionen bewusst sind. (siehe [Ehrlichkeit](../contents/v5_openness.md))
+
+Wenn wir uns implizit oder explizit auf unsere Intuitionen berufen, dann soll das keine Rechtfertigung oder Prüfstein sein, sondern es soll erstens unseren Ausgangspunkt klarstellen (ihn transparent machen) und zweitens die Richtschnur verdeutlichen an der wir uns orientieren.
 
 # Quellen
 1. [Stanford Encyclopedia of Philosophy. 2017. Intrinsic vs. Extrinsic Value](https://plato.stanford.edu/entries/value-intrinsic-extrinsic)
