@@ -31,60 +31,55 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 
 # Gründe über Gründe
-Wir begründen hier warum wir einige Aussagen, Begriffe, Haltungen oder Werte nicht weiter begründen.
-In diesem Sinne führen wir hier Gründe gegen weitere Gründe an.
+Wir begründen im vorliegenden Kapitel warum wir einige Aussagen, Begriffe, Haltungen oder Werte *nicht* weiter begründen.
+In diesem Sinne führen wir hier Gründe *gegen* weitere Gründe an.
 
-Eine Begründung oder Rechtfertigung der *Aussagen, Begriffe, Haltungen oder Werte* unseres Ethos oder ihren jeweiligen besonderen Charakter beziehungsweise ihren jeweiligen Status wollen und können wir hier *nicht* leisten, weil dies *nicht* im Fokus unseres Ethos liegt. (siehe [Wertcharakter](#wertcharakter))
-*Im Fokus unsere Ehtos liegt unser gemeinsames Bekenntnis zu unsere Auswahl an Haltungen und den damit verbundenen Werten.*
+Eine Begründung oder Rechtfertigung der Aussagen, Begriffe, Haltungen oder Werte unseres Ethos oder ihren jeweiligen besonderen Charakter wollen und können wir hier *nicht* leisten, weil dies *nicht* im Fokus der vorliegenden Formulierung unseres Ethos liegt.
 
-Im Folgenden sprechen wir häufig nur noch von einer *Haltungen* und verstehen darunter die *Komposition einer Handlung mit einem Wert* verstehen. (siehe Architektur.)
-
-## Unsere Definitionen
-Wir definieren in unserem Ethos Begriffe, Handlungen und Werte.
-Mit diesen Definitionen verbinden wir selbstverständlich keine allgemeinen Geltungsansprüche.
-Wir möchten mit unseren Definitionen vielmehr unser eigenes Verständnis der jeweiligen Begriffe, Handlungen und Werte transparent machen.
-
-## Unsere Listen
-Wir listen in unserem Ethos Begriffe, Handlungen und Werte auf.
-Wir sind uns darüber bewusst, dass unsere Listen oft verlängert oder verkürzt werden können.
-Unsere Listen erfüllen nur den Zweck, konkrete, griffige Beispiele anzugeben.
-Wir vertrauen darauf, dass unsere Leserinnen die Familienähnlichkeit zwischen den aufgelisteten paradigmatischen Fällen zu sehen sowie sie wo nötig anzupassen vermögen.
+*Im Fokus der vorliegenden Formulierung unseres Ehtos liegt unser gemeinsames Bekenntnis zu einer gemeinsamen Haltung und den damit verbundenen Werten selbst.*
 
 ## Was wir tun und was wir *nicht* tun
-Wir sind davon überzeugt, dass es ein Wesensmerkmal unseres Ethos ist, dass wir uns gemeinsam zu einer Auswahl von Werten *bekennen*.
-Indem wir uns zu unserer Auswahl von Werten *bekennen* und indem wir unsere Werte *leben*, verleihen wir ihnen ihre *motivationale und normative Kraft*.
-(siehe [Relevanz](#relevanz))
+Wir begründen *nicht* die mit unserer Haltung verbundenen Werte an und für sich oder was Werte im Allgemeinien wertvoll macht.
+Auchr erklären wir *nicht* was Werte im Wese sind.
 
-**Wir begründen *nicht* die Werte an und für sich oder was Werte wertvoll macht**.
-Vielmehr entscheiden wir uns zu einer bestimmten Auswahl von Werten.
-Unser Entscheidung zu dieser Auswahl von Werten wollen wir begründen.
+Vielmehr entscheiden wir, uns zu *einer bestimmten Auswahl von Werten* zu *bekennen*.
+Unser *Entscheidung* zu dieser Auswahl von Werten wollen wir begründen.
 
-Wir haben uns für genau diese Werte ([Fairness v1](/../contents/values/v1_fairness.md),
+Wir verleihen den mit unserer Haltung verbunden Werten ihre *motivationale und normative Kraft* indem wir uns zu ihnen *bekennen* und indem wir sie *leben*.
+
+## Unsere Auswahl
+Wir haben uns für genau diese Werte,
+[Fairness v1](/../contents/values/v1_fairness.md),
 [Freiheit v2](../contents/values/v2_freedom.md),
 [Lebendigkeit v3](../contents/values/v3_liveliness.md),
 [Offenheit v4](../contents/values/v4_openness.md),
 [Qualität v5](../contents/values/v5_quality.md),
-[Verantwortung v6](../contents/values/v6_responsibility.md)) entschieden,
-weil wir davon überzeugt sind, dass sie für uns besonders *relevant* sind.
+[Verantwortung v6](../contents/values/v6_responsibility.md),
+entschieden, weil wir davon überzeugt sind, dass sie für uns *besonders wichtig* sind.
 
-Unsere Werte sind für uns besonders relevant, weil sie in Kombination mit unseren paradigmatischen Handlungen
-(siehe [Forschen a1](../contents/actions/a1_research.md),
+Wir begründen, warum wir gerade diejenigen Werte auswählen, die wir auswählen.
+Wir begründen, warum und inwiefern jene Werte *für uns* wichtig sind, warum jene Werte, *Werte für uns* sind.
+
+Unsere Werte sind für uns besonders wichtig, weil sie in Kombination mit unseren paradigmatischen Handlungen,
+[Forschen a1](../contents/actions/a1_research.md),
 [Lehren a2](../contents/actions/a2_teach.md),
 [Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
 [Studieren a4](../contents/actions/a4_study.md),
-[Zusammenleben a5### ](../contents/actions/a5_live.md))
+[Zusammenleben a5### ](../contents/actions/a5_live.md),
 zu einer *Haltung* führt, die besonders *wertvoll für uns* sind.
 
-Wir begründen, warum wir gerade diejenigen Werte auswählen, wir begründen, warum und inwiefern jene Werte *für uns* relevant sind, wir begründen, warum jene Werte, *Werte für uns* sind.
-Besonders wertvoll sind die Werte spätestens dadurch, dass wir uns zu ihnen bekennen und dadurch, dass wir sie leben.
-Irrelevant ist für uns in diesem Sinne, ob die Werte einen besonderen Wertcharakter haben oder nicht, ob sie intrinsisch wertvoll sind oder, inwiefern sie als Werte begründet sind.
+Besonders wertvoll sind die entsprechenden Werte spätestens dadurch, dass wir uns zu ihnen bekennen und dadurch, dass wir sie leben.
+*Irrelevant* ist für uns in diesem Sinne, ob die Werte im Vorfeld bereits einen besonderen Wertcharakter haben oder nicht, ob sie intrinsisch wertvoll sind oder, inwiefern sie als Werte begründet sind.
+Unser Werte sind Werte spätestens dadurch, dass wir uns zu ihnen bekennen.
 
-Wir sind uns darüber im Klaren, dass diese Begründung einen *instrumentellen Charakter* hat.
-Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die werte als Werte nicht unterminiert.
-Im Gegenteil sind wir davon überzeugt, dass indem wir uns für diese Werte entscheiden, indem wir uns zu ihnen bekennen, indem wir sie leben, wir sie zu dem machen, was sie für uns sind: Werte.
+Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses sowie das Resultat umfassender und genauer Auseindandersetzung mit ihren jeweiligen moralischen Kontexten.
 
-Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses sowie der umfassenden Auseindandersetzung mit ihren jeweiligen ethischen Kontexten.
+## Instrumentalität
+Wir sind uns darüber im Klaren, dass diese Art der Begründung einen *instrumentellen Charakter* hat.
+Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die werte als Werte *nicht* unterminiert.
+Im Gegenteil sind wir davon überzeugt, dass indem wir uns für diese Werte entscheiden, indem wir uns zu ihnen bekennen, indem wir sie leben, sie zu dem machen, was sie für uns sind: Werte.
 
+## Inklisivität
 Unsere sechs Werte sind nicht exklusiv zu lesen.
 Unsere Auswahl ist *keine* fixe Menge von Werten, sondern eine Einladung, sich mit diesen Werten auseinanderzusetzen.
 Wenn wir davon sprechen, dass wir unsere Werte leben, dann sprechen wir auch davon, sich mit ihnen gründlich auseinanderzusetzen, sie zu ergänzen, sie weiter zu entwickeln.
@@ -109,6 +104,16 @@ Wenn wir uns implizit oder explizit auf unsere Intuitionen berufen, dann soll da
 
 1. unseren Ausgangspunkt klarstellen;
 2. die Richtschnur verdeutlichen an der wir uns orientieren.
+
+## Unsere Definitionen und Listen
+Wir definieren in unserem Ethos Begriffe, Handlungen und Werte.
+Mit diesen Definitionen verbinden wir selbstverständlich *keine* allgemeinen Geltungsansprüche.
+Wir möchten mit unseren Definitionen unser eigenes Verständnis der jeweiligen Begriffe, Handlungen und Werte transparent machen.
+
+Wir listen in unserem Ethos Begriffe, Handlungen und Werte auf.
+Wir sind uns darüber bewusst, dass unsere Listen oft verlängert oder verkürzt werden können.
+Unsere Listen erfüllen nur den Zweck, konkrete, griffige Beispiele anzugeben.
+Wir vertrauen darauf, dass unsere Leserinnen die Familienähnlichkeit zwischen den aufgelisteten paradigmatischen Fällen zu sehen sowie sie wo nötig anzupassen vermögen.
 
 # Quellen
 1. [Stanford Encyclopedia of Philosophy. 2017. Intrinsic vs. Extrinsic Value](https://plato.stanford.edu/entries/value-intrinsic-extrinsic)
