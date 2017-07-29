@@ -45,55 +45,73 @@ Auchr erklären wir *nicht* was Werte im Wese sind.
 Vielmehr entscheiden wir, uns zu *einer bestimmten Auswahl von Werten* zu *bekennen*.
 Unser *Entscheidung* zu dieser Auswahl von Werten wollen wir begründen.
 
-Wir verleihen den mit unserer Haltung verbunden Werten ihre *motivationale und normative Kraft* indem wir uns zu ihnen *bekennen* und indem wir sie *leben*.
-
-## Unsere Auswahl
-Wir haben uns für genau diese Werte,
-[Fairness v1](/../contents/values/v1_fairness.md),
-[Freiheit v2](../contents/values/v2_freedom.md),
-[Lebendigkeit v3](../contents/values/v3_liveliness.md),
-[Offenheit v4](../contents/values/v4_openness.md),
-[Qualität v5](../contents/values/v5_quality.md),
-[Verantwortung v6](../contents/values/v6_responsibility.md),
-entschieden, weil wir davon überzeugt sind, dass sie für uns *besonders wichtig* sind.
-
 Wir begründen, warum wir gerade diejenigen Werte auswählen, die wir auswählen.
 Wir begründen, warum und inwiefern jene Werte *für uns* wichtig sind, warum jene Werte, *Werte für uns* sind.
 
+Besonders wertvoll sind diese Werte spätestens dadurch, dass wir uns zu ihnen bekennen und dadurch, dass wir sie leben.
+Dadurch dass wir uns zu ihnen bekennen und sie leben machen wir sie zu Werten.
+*Irrelevant* ist für uns in diesem Sinne, ob die Werte im Vorfeld bereits einen besonderen Wertcharakter haben oder nicht, ob sie intrinsisch wertvoll sind oder, inwiefern sie als Werte begründet sind.
+Unser Werte sind Werte *spätestens* dadurch, dass wir uns zu ihnen bekennen.
+
+Wir verleihen den mit unserer Haltung verbunden Werten ihre *motivationale und normative Kraft* indem wir uns zu ihnen *bekennen* und indem wir sie *leben*.
+
+## Unsere Auswahl
+Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses sowie das Resultat umfassender und genauer Auseindandersetzung mit ihren jeweiligen moralischen Kontexten.
+
+Wir haben uns für genau diese sechs Werte,
+[Fairness (v1)](/../contents/values/v1_fairness.md),
+[Freiheit (v2)](../contents/values/v2_freedom.md),
+[Lebendigkeit (v3)](../contents/values/v3_liveliness.md),
+[Offenheit (v4)](../contents/values/v4_openness.md),
+[Professionalität (v5)](../contents/values/v5_quality.md),
+[Verantwortung (v6)](../contents/values/v6_responsibility.md),
+entschieden, weil wir davon überzeugt sind, dass sie für uns *besonders wichtig* sind.
+
 Unsere Werte sind für uns besonders wichtig, weil sie in Kombination mit unseren paradigmatischen Handlungen,
-[Forschen a1](../contents/actions/a1_research.md),
-[Lehren a2](../contents/actions/a2_teach.md),
-[Rollenwahrnehmung a3](../contents/actions/a3_roles.md),
-[Studieren a4](../contents/actions/a4_study.md),
-[Zusammenleben a5### ](../contents/actions/a5_live.md),
+[Forschen (a1)](../contents/actions/a1_research.md),
+[Lehren (a2)](../contents/actions/a2_teach.md),
+[Rollenwahrnehmung (a3)](../contents/actions/a3_roles.md),
+[Studieren (a4)](../contents/actions/a4_study.md),
+[Zusammenleben (a5)](../contents/actions/a5_live.md),
 zu einer *Haltung* führt, die besonders *wertvoll für uns* sind.
 
-Besonders wertvoll sind die entsprechenden Werte spätestens dadurch, dass wir uns zu ihnen bekennen und dadurch, dass wir sie leben.
-*Irrelevant* ist für uns in diesem Sinne, ob die Werte im Vorfeld bereits einen besonderen Wertcharakter haben oder nicht, ob sie intrinsisch wertvoll sind oder, inwiefern sie als Werte begründet sind.
-Unser Werte sind Werte spätestens dadurch, dass wir uns zu ihnen bekennen.
+Besonders wertvoll sind diese Haltungen deswegen, weil sie
+einerseits unser
+[Forschen (a1)](../contents/actions/a1_research.md),
+[Lehren (a2)](../contents/actions/a2_teach.md),
+unsere
+[Rollenwahrnehmung (a3)](../contents/actions/a3_roles.md),
+unser
+[Studieren (a4)](../contents/actions/a4_study.md) und unser
+[Zusammenleben (a5)](../contents/actions/a5_live.md),
+häufig überhaupt erst *ermöglichen*.
 
-Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses sowie das Resultat umfassender und genauer Auseindandersetzung mit ihren jeweiligen moralischen Kontexten.
+Andererseits sind diese Haltungen besonders wertvoll, weil sie unser
+[Forschen (a1)](../contents/actions/a1_research.md),
+[Lehren (a2)](../contents/actions/a2_teach.md),
+unsere
+[Rollenwahrnehmung (a3)](../contents/actions/a3_roles.md),
+unser
+[Studieren (a4)](../contents/actions/a4_study.md) und unser
+[Zusammenleben (a5)](../contents/actions/a5_live.md)
+häufig wesentlich *verbessern*.
 
 ## Instrumentalität
 Wir sind uns darüber im Klaren, dass diese Art der Begründung einen *instrumentellen Charakter* hat.
 Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die werte als Werte *nicht* unterminiert.
 Im Gegenteil sind wir davon überzeugt, dass indem wir uns für diese Werte entscheiden, indem wir uns zu ihnen bekennen, indem wir sie leben, sie zu dem machen, was sie für uns sind: Werte.
 
-## Inklisivität
+## Inklusivität
 Unsere sechs Werte sind nicht exklusiv zu lesen.
 Unsere Auswahl ist *keine* fixe Menge von Werten, sondern eine Einladung, sich mit diesen Werten auseinanderzusetzen.
 Wenn wir davon sprechen, dass wir unsere Werte leben, dann sprechen wir auch davon, sich mit ihnen gründlich auseinanderzusetzen, sie zu ergänzen, sie weiter zu entwickeln.
 Wir begreifen unser Ethos als eine lebendige, sich stetig entwickelnde Verständigung darüber, wie wir gemeinsam studieren, forschen und lehren.
 
 ## Einklang unserer Werte – Überlegungsgleichgewicht – Wertgefüge – Werteeinklang
-Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern dass Wertekonflikte:
-
-1. ihre normative und motivationale Kraft (ihre Lebendigkeit) betonen sowie
-
-2. uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner 2005) verlangt.
+Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern, dass sie einerseits ihre motivationale Kraft (ihre Lebendigkeit) betonen sowie andererseits uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner 2005) verlangt.
 
 Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigen Wettstreit stehen können.
-Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
+Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender, offener, pluralistischer Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
 
 ## Intuitionen
 Wir sind uns darüber bewusst, dass wir uns häufig auf unsere Intuitionen berufen.
