@@ -31,4 +31,8 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 # Zusammenleben
 
-Zusammenleben ist ein von Grund auf zwischenmenschlicher Bestandteil unserer täglichen Handlungen und verbindet für uns zwei wesentliche Handlungen: Zum einen das persönliche Miteinandersein und Kommunizieren, zum Anderen die Selbstorganisation als Institut, sprich die Institutspolitik. Zusammenleben heißt sowohl als Gemeinschaft das Institut nach außen hin zu präsentieren, als auch die eigenen Strukturen innerhalb der erhaltenen Rahmenbedingungen zu gestalten. Beispielhafte politische Organe des Instituts sind die Fachgruppe, das Jour Fixe oder auch der runde Tisch.
+Zusammenleben verbindet für uns zwei wesentliche Handlungen: Zum einen das persönliche Miteinandersein und Kommunizieren und zum Anderen die Selbstorganisation als Institut, sprich die Institutspolitik.
+
+Im ersten Sinn umfasst es das Miteinandersein jenseits der eingenommenen Rollen.
+Zusammenleben im zweiten Sinn heißt sowohl als Gemeinschaft das Institut nach außen hin zu präsentieren, als auch die eigenen Strukturen innerhalb der gegebenen Rahmenbedingungen zu gestalten.
+Beispielhafte politische Organe des Instituts sind die Fachgruppe, das Jour Fixe oder auch der runde Tisch.
