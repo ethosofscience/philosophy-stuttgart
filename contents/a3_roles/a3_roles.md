@@ -33,7 +33,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir das Wahrnehmen einer oder mehrerer Rolle(n) als das reflektierte und aufmerksame Erkennen der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie das aktive *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
 
-Eine Person kann verschiedene Rollen einnehmen. Konflikte zwischen mehrerer Rollen ist daher möglich und normal. Die reflektierende Person wägt dann bewusst und eigenverantwortlich zwischen den damit verbunden Rechten und Pflichten ab.
+Eine Person kann verschiedene Rollen einnehmen. Konflikte zwischen mehreren Rollen ist daher möglich und normal. Die reflektierende Person wägt dann bewusst und eigenverantwortlich zwischen den damit verbunden Rechten und Pflichten ab.
 
 Mögliche Rollen am Institut können sein (nach alphabetischer Reihenfolge und unvollständig):
 
