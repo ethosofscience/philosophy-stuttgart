@@ -39,8 +39,8 @@ Eine Begründung oder Rechtfertigung der Aussagen, Begriffe, Haltungen oder Wert
 *Im Fokus der vorliegenden Formulierung unseres Ehtos liegt unser gemeinsames Bekenntnis zu einer gemeinsamen Haltung und den damit verbundenen Werten selbst.*
 
 ## Was wir tun und was wir *nicht* tun
-Wir begründen *nicht* die mit unserer Haltung verbundenen Werte an und für sich oder was Werte im Allgemeinien wertvoll macht.
-Auchr erklären wir *nicht* was Werte im Wese sind.
+Wir begründen *nicht* die mit unserer Haltung verbundenen Werte an und für sich oder was Werte im Allgemeinen wertvoll macht.
+Auch erklären wir *nicht* was Werte im Wesen sind.
 
 Vielmehr entscheiden wir, uns zu *einer bestimmten Auswahl von Werten* zu *bekennen*.
 Unser *Entscheidung* zu dieser Auswahl von Werten wollen wir begründen.
@@ -103,12 +103,12 @@ häufig wesentlich *verbessern*.
 [Verantwortung](../contents/values/v6_responsibility.md) können als
 Grundpfeiler sowohl der Wissenschaften als auch unserer Gemeinschaft angesehen werden.
 
-Inbesondere [Freiheit](../contents/values/v2_freedom.md) und [Offenheit](../contents/values/v4_openness.md) können als konstitutiv für die Wissenschaften angesehen werden.
+Insbesondere [Freiheit](../contents/values/v2_freedom.md) und [Offenheit](../contents/values/v4_openness.md) können als konstitutiv für die Wissenschaften angesehen werden.
 
 Insbesondere [Fairness](/../contents/values/v1_fairness.md) und
-[Verantwortung](../contents/values/v6_responsibility.md) können als konstititiv für unsere Gemeinschaft angesehen werden.
+[Verantwortung](../contents/values/v6_responsibility.md) können als konstitutiv für unsere Gemeinschaft angesehen werden.
 
-Insebesondere [Professionalität](../contents/values/v5_quality.md) verbessert
+Insbesondere [Professionalität](../contents/values/v5_quality.md) verbessert
 unser
 [Forschen](../contents/actions/a1_research.md),
 unser
@@ -138,7 +138,7 @@ Wir begreifen unser Ethos als eine lebendige, sich stetig entwickelnde Verständ
 
 Werte, die nicht in unserer Auswahl sind, schließen wir *nicht* aus.
 Vielmehr legen wir einen wohlbegründeten Fokus auf diejenigen Werte, die uns besonders wichtig sind.
-Uneser Bekenntnis zu unseren Werten schießt ein Bekenntins zu weiteren Werten *nicht* aus.
+Unser Bekenntnis zu unseren Werten schießt ein Bekenntnis zu weiteren Werten *nicht* aus.
 
 ## Überlegungsgleichgewicht, Wertekonflikte, Werteeinklang
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern, dass sie einerseits ihre motivationale Kraft (ihre Lebendigkeit) betonen sowie andererseits uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner 2005) verlangt.
