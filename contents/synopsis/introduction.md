@@ -1,9 +1,9 @@
 # Was ist es?
-Dies ist die Formulierung des gemeinsame Ethos des Instituts für Philosophie und Fachgruppe Philosophie der Universität Stuttgart.
-In dieser Formulierung unseres Ethos’ bekennen wir uns dazu frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, forschen, lehren, arbeiten und zusammenzuleben.
+Dies ist die Formulierung des gemeinsamen Ethos des Instituts für Philosophie und der Fachgruppe Philosophie der Universität Stuttgart.
+In dieser Formulierung unseres Ethos’ bekennen wir uns dazu frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, zu forschen, zu lehren, zu arbeiten und zusammenzuleben.
 
 # Warum ist es?
-Unser Ziel ist es die positive Atmosphere in der wir am Institut für Philosophie studieren, forschen, lehren, arbeiten und zusammenleben zu erhalten und zu verbessern.
+Unser Ziel ist es die positive Atmosphäre in der wir am Institut für Philosophie studieren, forschen, lehren, arbeiten und zusammenleben zu erhalten und zu verbessern.
 Unser Ethos soll unserer globalen Wissenschaftsgemeinschaft, unserer Weltgemeinschaft und unserer persönliche Entfaltung dienen.
 Wir wollen auf höchstem Niveau studieren, forschen, lehren, arbeiten und zusammenzuleben.
 Wir verschreiben uns den höchsten Idealen der Wissenschaften.
@@ -31,7 +31,7 @@ Im dritten Kapitel "XYZ NAME" geben wir einige Gründe dafür an, warum wir tun 
 Hier finden sich auch einige zusammengefasste Argumente für die konkrete Haltung, die wir entwickeln, aber ebenso einige Gründe, warum wir keine tiefere Begründung unserer Werte ausarbeiten.
 
 Zuletzt wollen wir betonen, dass wir den Ethos als ein lebendiges und offenes Projekt verstehen.
-Alle, die am Institut für Philosophie beteiligt sind, können uns sollen sich einbringen und das Ethos ständig hinterfragen, mitgestalten und verbessern. Noch einmal:
+Alle, die am Institut für Philosophie beteiligt sind, können und sollen sich einbringen und das Ethos ständig hinterfragen, mitgestalten und verbessern. Noch einmal:
 Die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
 
 # Wer macht es?
