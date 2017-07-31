@@ -1,8 +1,8 @@
-# Was ist es?
+# Was?
 Dies ist die Formulierung des gemeinsamen Ethos des Instituts für Philosophie und der Fachgruppe Philosophie der Universität Stuttgart.
 In dieser Formulierung unseres Ethos’ bekennen wir uns dazu frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, zu forschen, zu lehren, zu arbeiten und zusammenzuleben.
 
-# Warum ist es?
+# Warum?
 Unser Ziel ist es die positive Atmosphäre in der wir am Institut für Philosophie studieren, forschen, lehren, arbeiten und zusammenleben zu erhalten und zu verbessern.
 Unser Ethos soll unserer globalen Wissenschaftsgemeinschaft, unserer Weltgemeinschaft und unserer persönliche Entfaltung dienen.
 Wir wollen auf höchstem Niveau studieren, forschen, lehren, arbeiten und zusammenzuleben.
@@ -14,7 +14,7 @@ Dabei soll unser Ethos *kein* strenges Regelwerk oder verbindliches Dokument sei
 Wir möchten uns selbst und andere dazu motivieren eine Haltung einzunehmen sowie
 sich aktiv und kritisch mit derselben auseinanderzusetzen.
 
-# Architektur
+# Wie?
 Unsere allgemeine Haltung ergibt sich aus bestimmten Haltungen, die wir wiederum als eine Komposition von *pradigmatischen Handlungen* und *Werten* begreifen.
 Wir haben fünf Handlungen gewählt, die unserer Meinung nach paradigmatische Handlungen am Institut für Philosophie sind:
 *Studieren, Forschen, Lehren, Rollenwahrnehmung* und *Zusammenleben*.
@@ -34,7 +34,7 @@ Zuletzt wollen wir betonen, dass wir den Ethos als ein lebendiges und offenes Pr
 Alle, die am Institut für Philosophie beteiligt sind, können und sollen sich einbringen und das Ethos ständig hinterfragen, mitgestalten und verbessern. Noch einmal:
 Die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
 
-# Wer macht es?
+# Wer?
 In alphabetischer Reihenfolge.
 
 1. Sabrina Bressel <sabrina.bressel@arcor.de>
