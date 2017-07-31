@@ -15,7 +15,7 @@ Wir möchten uns selbst und andere dazu motivieren eine Haltung einzunehmen sowi
 sich aktiv und kritisch mit derselben auseinanderzusetzen.
 
 # Wie?
-Unsere allgemeine Haltung ergibt sich aus bestimmten Haltungen, die wir wiederum als eine Komposition von *pradigmatischen Handlungen* und *Werten* begreifen.
+Unsere allgemeine Haltung ergibt sich aus bestimmten Haltungen, die wir wiederum als eine Komposition von *paradigmatischen Handlungen* und *Werten* begreifen.
 Wir haben fünf Handlungen gewählt, die unserer Meinung nach paradigmatische Handlungen am Institut für Philosophie sind:
 *Studieren, Forschen, Lehren, Rollenwahrnehmung* und *Zusammenleben*.
 Zudem haben wir sechs Werte gewählt, die uns besonders wichtig für unsere Tätigkeiten am Institut erscheinen:
