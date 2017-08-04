@@ -59,7 +59,7 @@ Wir haben uns für genau diese sechs Werte,
 [Fairness](/../contents/values/v1_fairness.md),
 [Freiheit](../contents/values/v2_freedom.md),
 [Lebendigkeit](../contents/values/v3_liveliness.md),
-[Offenheit](../contents/values/v4_openness.md),
+[Offenheit](../contents/values/v4_openness.md), erstens
 [Professionalität](../contents/values/v5_quality.md),
 [Verantwortung](../contents/values/v6_responsibility.md),
 entschieden, weil wir davon überzeugt sind, dass sie für uns *besonders wichtig* sind.
@@ -86,6 +86,8 @@ häufig wesentlich *verbessern*.
 Grundpfeiler sowohl der Wissenschaften als auch unserer Gemeinschaft angesehen werden.
 
 ## Instrumentalität
+An einigen Stellen liefern wir in Boxen beispielhaft instrumentelle Gründe für einige unserer Werte.
+
 Wir sind uns darüber im Klaren, dass diese Art der Begründung einen *instrumentellen Charakter* hat.
 Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die Werte als Werte *nicht* unterminiert.
 
