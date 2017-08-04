@@ -22,12 +22,12 @@ Zudem haben wir sechs Werte gewählt, die uns besonders wichtig für unsere Tät
 *Fairness, Freiheit, Lebendigkeit, Offenheit, Professionalität* und *Verantwortung*.
 Aus der Verknüpfung jeder einzelnen Handlung mit allen sechs Werten ergibt sich im Gesamtbild die Haltung, die wir im Ethos vermitteln wollen.
 
-Im zweiten Kapitel "XYZ NAME" sind diese Verknüpfungen auf jeweils einer Doppelseite pro Handlung dargestellt.
+Im zweiten Kapitel *Unsere Haltung* sind diese Verknüpfungen auf jeweils einer Doppelseite pro Handlung dargestellt.
 
 An einigen Stellen werden wir deutlicher, an anderen Stellen formulieren wir unsere Haltung etwas vorsichtiger.
 Das bedeutet auch, dass an diesen Stellen Interpretationsbedarf besteht - die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
 
-Im dritten Kapitel "XYZ NAME" geben wir einige Gründe dafür an, warum wir tun was wir tun und warum wir nicht tun, was wir nicht tun.
+Im dritten Kapitel *Gründe über Gründe* geben wir einige Gründe dafür an, warum wir tun was wir tun und warum wir nicht tun, was wir nicht tun.
 Hier finden sich auch einige zusammengefasste Argumente für die konkrete Haltung, die wir entwickeln, aber ebenso einige Gründe, warum wir keine tiefere Begründung unserer Werte ausarbeiten.
 
 Zuletzt wollen wir betonen, dass wir den Ethos als ein lebendiges und offenes Projekt verstehen.
