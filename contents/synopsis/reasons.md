@@ -123,7 +123,7 @@ in allen Facetten.
 
 ## Instrumentalität
 Wir sind uns darüber im Klaren, dass diese Art der Begründung einen *instrumentellen Charakter* hat.
-Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die werte als Werte *nicht* unterminiert.
+Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die Werte als Werte *nicht* unterminiert.
 
 Im Gegenteil sind wir erstens davon überzeugt, dass indem wir uns für diese Werte entscheiden, indem wir uns zu ihnen bekennen, indem wir sie leben, sie zu dem machen, was sie für uns sind: Werte.
 Zweitens sind wir davon überzeugt, dass wir unsere Entscheidungen grundsätzlich begründen sollten, um nicht einem dogmatischen Abbruch anheimzufallen.
