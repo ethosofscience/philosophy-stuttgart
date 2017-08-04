@@ -1,5 +1,5 @@
 # Was?
-Dies ist die Formulierung des gemeinsamen Ethos des Instituts für Philosophie und der Fachgruppe Philosophie der Universität Stuttgart.
+Dies ist die Formulierung des gemeinsamen Ethos der philosophischen Gemeinschaft der Universität Stuttgart.
 In dieser Formulierung unseres Ethos’ bekennen wir uns dazu frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, zu forschen, zu lehren, zu arbeiten und zusammenzuleben.
 
 # Warum?
