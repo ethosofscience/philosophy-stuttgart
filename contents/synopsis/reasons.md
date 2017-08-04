@@ -73,7 +73,7 @@ Diese Werte sind für uns besonders wichtig, weil sie in Kombination mit unseren
 [Rollenwahrnehmung](../contents/actions/a3_roles.md),
 [Studieren](../contents/actions/a4_study.md),
 [Zusammenleben](../contents/actions/a5_live.md),
-zu einer *Haltung* führt, die besonders *wertvoll für uns* sind.
+zu einer *Haltung* führt, die besonders *wertvoll für uns* ist.
 Wertvoll sind diese Haltungen in zweierlei Hinsicht.
 
 Einerseits sind diese Haltungen wertvoll, weil sie unser
