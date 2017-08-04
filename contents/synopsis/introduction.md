@@ -38,7 +38,7 @@ Die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch 
 In alphabetischer Reihenfolge.
 
 1. Sabrina Bressel <sabrina.bressel@arcor.de>
-2. Michael Czechowski <michaelwerner@mailoo.org>
+2. Michael Czechowski <mail@dailysh.it>
 3. Alexandra Haas <haasalexandra@gmx.de>
 4. Simon Hollnaicher <simonhollnaicher@posteo.de>
 5. Louis Kohlmann <louiskohlmann@posteo.de>
