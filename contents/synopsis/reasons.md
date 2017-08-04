@@ -45,9 +45,6 @@ Auch erklären wir *nicht* was Werte im Wesen sind.
 Vielmehr entscheiden wir, uns zu *einer bestimmten Auswahl von Werten* zu *bekennen*.
 Unser *Entscheidung* zu dieser Auswahl von Werten wollen wir begründen.
 
-Wir begründen, warum wir gerade diejenigen Werte auswählen, die wir auswählen.
-Wir begründen, warum und inwiefern jene Werte *für uns* wichtig sind, warum jene Werte, *Werte für uns* sind.
-
 Besonders wertvoll sind diese Werte spätestens dadurch, dass wir uns zu ihnen bekennen und dadurch, dass wir sie leben.
 Dadurch dass wir uns zu ihnen bekennen und sie leben machen wir sie zu Werten.
 *Irrelevant* ist für uns in diesem Sinne, ob die Werte im Vorfeld bereits einen besonderen Wertcharakter haben oder nicht, ob sie intrinsisch wertvoll sind oder, inwiefern sie als Werte begründet sind.
@@ -76,24 +73,9 @@ Diese Werte sind für uns besonders wichtig, weil sie in Kombination mit unseren
 zu einer *Haltung* führt, die besonders *wertvoll für uns* ist.
 Wertvoll sind diese Haltungen in zweierlei Hinsicht.
 
-Einerseits sind diese Haltungen wertvoll, weil sie unser
-[Forschen](../contents/actions/a1_research.md),
-[Lehren](../contents/actions/a2_teach.md),
-unsere
-[Rollenwahrnehmung](../contents/actions/a3_roles.md),
-unser
-[Studieren](../contents/actions/a4_study.md) und unser
-[Zusammenleben](../contents/actions/a5_live.md),
+Einerseits sind diese Haltungen wertvoll, weil sie unsere Handlungen
 häufig überhaupt erst *ermöglichen*.
-
-Andererseits sind diese Haltungen wertvoll, weil sie unser
-[Forschen](../contents/actions/a1_research.md),
-[Lehren](../contents/actions/a2_teach.md),
-unsere
-[Rollenwahrnehmung](../contents/actions/a3_roles.md),
-unser
-[Studieren](../contents/actions/a4_study.md) und unser
-[Zusammenleben](../contents/actions/a5_live.md)
+Andererseits sind diese Haltungen wertvoll, weil sie unsere Handlungen
 häufig wesentlich *verbessern*.
 
 [Fairness](/../contents/values/v1_fairness.md),
@@ -103,32 +85,12 @@ häufig wesentlich *verbessern*.
 [Verantwortung](../contents/values/v6_responsibility.md) können als
 Grundpfeiler sowohl der Wissenschaften als auch unserer Gemeinschaft angesehen werden.
 
-Insbesondere [Freiheit](../contents/values/v2_freedom.md) und [Offenheit](../contents/values/v4_openness.md) können als konstitutiv für die Wissenschaften angesehen werden.
-
-Insbesondere [Fairness](/../contents/values/v1_fairness.md) und
-[Verantwortung](../contents/values/v6_responsibility.md) können als konstitutiv für unsere Gemeinschaft angesehen werden.
-
-Insbesondere [Professionalität](../contents/values/v5_quality.md) verbessert
-unser
-[Forschen](../contents/actions/a1_research.md),
-unser
-[Lehren](../contents/actions/a2_teach.md),
-unsere
-[Rollenwahrnehmung](../contents/actions/a3_roles.md),
-unser
-[Studieren](../contents/actions/a4_study.md)
-und unser
-[Zusammenleben](../contents/actions/a5_live.md)
-in allen Facetten.
-
 ## Instrumentalität
 Wir sind uns darüber im Klaren, dass diese Art der Begründung einen *instrumentellen Charakter* hat.
 Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die Werte als Werte *nicht* unterminiert.
 
 Im Gegenteil sind wir erstens davon überzeugt, dass indem wir uns für diese Werte entscheiden, indem wir uns zu ihnen bekennen, indem wir sie leben, sie zu dem machen, was sie für uns sind: Werte.
 Zweitens sind wir davon überzeugt, dass wir unsere Entscheidungen grundsätzlich begründen sollten, um nicht einem dogmatischen Abbruch anheimzufallen.
-
-Die instrumentelle Begründung, die wir im vorliegenden Kapitel liefern sind in diesem Sinne die besten Gründe, die wir im Vorfeld unsere Entscheidung erwägen.
 
 ## Inklusivität
 Unsere sechs Werte sind nicht exklusiv zu lesen.
@@ -160,7 +122,7 @@ Wir sind uns darüber bewusst, dass wir uns häufig auf unsere Intuitionen beruf
 Wir versuchen unsere Intuitionen immer explizit (siehe [Professionalität](../contents/v4_quality.md) und [Offenheit](../contents/v5_openness.md)) zu machen.
 Wir sind uns jedoch darüber bewusst, dass wir uns nicht über jeden unserer Hintergrundanahmen, Voraussetzungen und grundlegenden Intuitionen bewusst sind. (siehe [Ehrlichkeit](../contents/v5_openness.md))
 
-Wenn wir uns implizit oder explizit auf unsere Intuitionen berufen, dann soll das keine Rechtfertigung oder Prüfstein sein, sondern es soll erstens unseren Ausgangspunkt klarstellen (ihn transparent machen) und zweitens die Richtschnur verdeutlichen an der wir uns orientieren.
+Wenn wir uns implizit oder explizit auf unsere Intuitionen berufen, dann soll das keine Rechtfertigung sein, sondern es soll unseren Ausgangspunkt und unsere Orientierung transparent machen.
 
 # Quellen
 1. [Stanford Encyclopedia of Philosophy. 2017. Intrinsic vs. Extrinsic Value](https://plato.stanford.edu/entries/value-intrinsic-extrinsic)
