@@ -11,4 +11,4 @@ meta/templates/example_flield_reasons_freedom.md
   2. Alexandra: Offenheit (contents/field_reasons/openness.md)
   3. Simon: Verantwortung (contents/field_reasons/responsibility.md)
   4. Micha: Lebendigkeit (contents/field_reasons/liveliness.md)
-  5. Martin: (contents/field_reasons/fairness.md)
+  5. Martin: Fairness (contents/field_reasons/fairness.md)
