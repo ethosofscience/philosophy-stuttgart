@@ -1,4 +1,3 @@
-Wir verstehen unter Freiheit die Unabhängigkeit von äußeren Faktoren, welche nicht willentlich als Faktoren in eine Entscheidungen mitaufgenommen wurden. Wir sind frei
-bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen.
+Wir verstehen unter Freiheit die Unabhängigkeit von äußeren Faktoren, welche nicht willentlich als Faktoren in eine Entscheidungen mitaufgenommen wurden. Wir sind frei bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen.
 
 Für Freiheit in Bezug auf Forschen und Lehren spricht, dass die freie Wahl von Inhalten und Methoden zu einer Vielfältigkeit derselben führt und diese Vielfalt erstens den verschiedenen Themen, Fragestellungen und Phänomenen gerecht wird und zweitens die Hinterfragen, Rechtfertigung, Entwicklung und Produktion von Wissen fördert. Die Studienfreiheit sehen wir darin begründet, dass die Entscheidung zu einem Studium (im Gegensatz zur Schule) eine freiwillige Entscheidung ist und so auch alle frei entscheiden sollten, was und wie sie studieren. Die dahinterliegende Prämisse vom Recht auf Bildung ist hiermit explizit gemacht.
