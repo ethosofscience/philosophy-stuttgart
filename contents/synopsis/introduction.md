@@ -37,7 +37,7 @@ Alle, die am Institut für Philosophie beteiligt sind, können und sollen sich e
 Die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
 
 # Wer?
-In alphabetischer Reihenfolge.
+Im Namen der Fachgruppe Philosophie der Universität Stuttgart, in alphabetischer Reihenfolge.
 
 1. Sabrina Bressel <sabrina.bressel@arcor.de>
 2. Michael Czechowski <mail@dailysh.it>
