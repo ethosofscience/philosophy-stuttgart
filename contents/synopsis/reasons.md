@@ -45,12 +45,8 @@ Auch erklären wir *nicht* was Werte im Wesen sind.
 Vielmehr entscheiden wir uns zu *einer bestimmten Auswahl von Werten* zu *bekennen*.
 Unser *Entscheidung* zu dieser Auswahl von Werten wollen wir begründen.
 
-Besonders wertvoll sind diese Werte spätestens dadurch, dass wir uns zu ihnen bekennen und dadurch, dass wir sie leben.
-Dadurch dass wir uns zu ihnen bekennen und sie leben machen wir sie zu Werten.
-*Irrelevant* ist für uns in diesem Sinne, ob die Werte im Vorfeld bereits einen besonderen Wertcharakter haben oder nicht, ob sie intrinsisch wertvoll sind oder, inwiefern sie als Werte begründet sind.
-Unser Werte sind Werte *spätestens* dadurch, dass wir uns zu ihnen bekennen.
-
-Wir verleihen den mit unserer Haltung verbunden Werten ihre *motivationale und normative Kraft* indem wir uns zu ihnen *bekennen* und indem wir sie *leben*.
+Durch unsere Entscheidung verleihen wir den mit unserer Haltung verbunden Werten ihre *motivationale und normative Kraft*.
+Indem wir uns zu ihnen *bekennen* und indem wir sie *leben*, machen wir sie zu Werten.
 
 ## Unsere Auswahl
 Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses, sowie das Resultat umfassender und genauer Auseinandersetzung mit ihren jeweiligen moralischen Kontexten.
@@ -122,7 +118,7 @@ Zweitens sind wir davon überzeugt, dass wir unsere Entscheidungen grundsätzlic
 Unsere sechs Werte sind nicht exklusiv zu lesen.
 Unsere Auswahl ist *keine* fixe Menge von Werten, sondern eine Einladung, sich mit diesen Werten auseinanderzusetzen.
 Wenn wir davon sprechen, dass wir unsere Werte leben, dann sprechen wir auch davon, sich mit ihnen gründlich auseinanderzusetzen, sie zu ergänzen, sie weiter zu entwickeln.
-Wir begreifen unser Ethos als eine lebendige, sich stetig entwickelnde Verständigung darüber, wie wir gemeinsam studieren, forschen und lehren.
+Wir begreifen unser Ethos als eine lebendige, sich stetig entwickelnde Verständigung darüber, wie wir gemeinsam studieren, forschen, lehren und leben.
 
 Werte, die nicht in unserer Auswahl sind, schließen wir *nicht* aus.
 Vielmehr legen wir einen wohlbegründeten Fokus auf diejenigen Werte, die uns besonders wichtig sind.
