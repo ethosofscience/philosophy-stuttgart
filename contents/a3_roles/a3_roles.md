@@ -30,13 +30,12 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 --->
 # Rollenwahrnehmung
-Unter *Rollenwahrnehmung* verstehen wir dreierlei.
-
+Unter *Rollenwahrnehmung* verstehen wir dreierlei:
 Erstens das aufmerksame, proaktive und kritische *Erkennen* unserer Rollen und den damit verbundenen Freiheiten, Rechten und Pflichten.
 Zweitens das aufmerksame, proaktive und kritische *Einnehmen* unserer Rollen und den damit einhergehenden angemessenen Haltungen.
 Drittens die aufmerksame, proaktive und kritische *Auseinandersetzung* mit den eigenen Rollen sowie der Rollen der anderen.
 
-Konflikte zwischen mehreren Rollen sind möglich, in diesen Fällen wollen wir zwischen den Rechten und Pflichten, die mit der Rolle verbunden sind, eigenverantwortlich abwägen und im Zweifel absprechen.
+Konflikte zwischen mehreren Rollen sind möglich, in diesen Fällen wollen wir zwischen den Rechten und Pflichten, die mit der Rolle verbunden sind, eigenverantwortlich abwägen.
 
 Beispiele häufiger Rollen am Institut für Philosophie sind:
 Dozentin, Gastdozentin, Fachgruppensprecherin, Gasthörerin, (stellvertretende) Institutsleiterin, Professorin, Studentin, Wissenschaftliche Hilfskraft, Tutorin, Verwaltungsfachangestellte, Wissenschaftliche Mitarbeiterin, Fachgruppensprecherin, Autorin, Koautorin, et cetera.

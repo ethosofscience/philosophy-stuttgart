@@ -42,7 +42,7 @@ Eine Begründung oder Rechtfertigung der Aussagen, Begriffe, Haltungen oder Wert
 Wir begründen *nicht* die mit unserer Haltung verbundenen Werte an und für sich oder was Werte im Allgemeinen wertvoll macht.
 Auch erklären wir *nicht* was Werte im Wesen sind.
 
-Vielmehr entscheiden wir, uns zu *einer bestimmten Auswahl von Werten* zu *bekennen*.
+Vielmehr entscheiden wir uns zu *einer bestimmten Auswahl von Werten* zu *bekennen*.
 Unser *Entscheidung* zu dieser Auswahl von Werten wollen wir begründen.
 
 Besonders wertvoll sind diese Werte spätestens dadurch, dass wir uns zu ihnen bekennen und dadurch, dass wir sie leben.
@@ -53,7 +53,7 @@ Unser Werte sind Werte *spätestens* dadurch, dass wir uns zu ihnen bekennen.
 Wir verleihen den mit unserer Haltung verbunden Werten ihre *motivationale und normative Kraft* indem wir uns zu ihnen *bekennen* und indem wir sie *leben*.
 
 ## Unsere Auswahl
-Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses sowie das Resultat umfassender und genauer Auseinandersetzung mit ihren jeweiligen moralischen Kontexten.
+Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses, sowie das Resultat umfassender und genauer Auseinandersetzung mit ihren jeweiligen moralischen Kontexten.
 
 Wir haben uns für genau diese sechs Werte,
 [Fairness](/../contents/values/v1_fairness.md),
@@ -70,7 +70,7 @@ Diese Werte sind für uns besonders wichtig, weil sie in Kombination mit unseren
 [Rollenwahrnehmung](../contents/actions/a3_roles.md),
 [Studieren](../contents/actions/a4_study.md),
 [Zusammenleben](../contents/actions/a5_live.md),
-zu einer *Haltung* führt, die besonders *wertvoll für uns* ist.
+zu *Haltungen* führen, die besonders *wertvoll für uns* sind.
 Wertvoll sind diese Haltungen in zweierlei Hinsicht.
 
 Einerseits sind diese Haltungen wertvoll, weil sie unsere Handlungen
@@ -83,7 +83,7 @@ häufig wesentlich *verbessern*.
 [Offenheit](../contents/values/v4_openness.md),
 [Professionalität](../contents/values/v5_quality.md) und
 [Verantwortung](../contents/values/v6_responsibility.md) können als
-Grundpfeiler sowohl der Wissenschaften als auch unserer Gemeinschaft angesehen werden.
+Grundpfeiler, sowohl der Wissenschaften, als auch unserer Gemeinschaft angesehen werden.
 
 ## Instrumentalität
 In diesem Abschnitt geben wir expemplarisch, instrumentelle Gründe für unsere Werte in Bezug auf unsere paradigmatischen Handlungen an.
