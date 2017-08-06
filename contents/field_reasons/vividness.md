@@ -8,17 +8,3 @@ Persönliches und intellektuelles Wachstum setzt zudem einen lebendigen und kons
 Insbesondere unsere Forschung und unser Studium lebt vom wechselseitigen Austausch von Ideen, Argumenten und Meinungen.
 Durch diesen Austausch erhöhen wir die Robustheit von Erkenntnissen und eröffnen neue kreative Wege.
 Zur Wahrung von Pluralität stehen wir ein für lebendige Kommunikation, in der wir aktiv versuchen die Gedanken anderer zu verstehen und die eigenen Gedanken verständlich zu formulieren.
-
-
-
-
-
-Wir sehen Lebendigkeit als Wert, welcher sich vor allem in vier Aspekten ausdrückt:
-
-    Selbstständigkeit: Die Fähigkeit das eigene Wohlergehen aus sich selbst heraus befördern. Dies umfasst ein Haltung der Authentizität.
-
-    Anpassungsfähigkeit: Die Fähigkeit auf die Umwelt zu reagieren.
-
-    Aktivität: Die Fähigkeit durch Initiative Veränderungen hervorzubringen.
-
-    Relationalität: Die positive Bezogenheit auf und der produktive Austausch mit der Umwelt und den Anderen.
