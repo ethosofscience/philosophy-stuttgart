@@ -1,3 +1,4 @@
+# Offenheit
 Offenheit meint die Aufgeschlossenheit gegenüber neuen Erfahrungen und die Bereitschaft für Wachstum in allen das Institutsleben umfassenden Bereichen.
 
 Die Philosophie, als dialogische Wissenschaft, zielt auf wachsende Erkenntnis ab. Dafür bedarf es beim Studieren, Forschen und Lehren, zweierlei. Erstens, das Bemühen um Transparenz. Das meint den stetigen Versuch, die eigenen Überzeugungen und Informationen unter der bestmöglichen Klarheit für die Anderen verständlich und öffentlich zugänglich zu machen. Und zweitens, die Bereitschaft zur Integration neuer, gegebenfalls besserer Information, in das eigene Überzeugungssystem.
