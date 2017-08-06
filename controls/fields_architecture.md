@@ -1,4 +1,4 @@
-<!---
+<!--
    NAME - The NAME of this project is:
 ethos
 
@@ -28,7 +28,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
   SUBFILE – This is a SUBFILE! For more INFORMATION on this project go to:
 /README.md
---->
+-->
 # Repräsentative Handlungen (alphabetisch)
 1. **Forschen** (Lesen, Schreiben, Seminar, Zuhören, Reden, … )
   [a1](../contents/actions/a1_research.md)

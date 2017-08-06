@@ -1,4 +1,4 @@
-<!---
+<!--
    NAME - The NAME of this project is:
 ethos
 
@@ -28,7 +28,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
   INFO - For more INFORMATION on this project go to:
 /LICENSE.md and /VERSION.md
---->
+-->
 
 # ethos
 *Institute for Philosophy and

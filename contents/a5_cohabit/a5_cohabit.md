@@ -1,4 +1,4 @@
-<!---
+<!--
    NAME - The NAME of this project is:
 ethos
 
@@ -28,7 +28,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
   SUBFILE – This is a SUBFILE! For more INFORMATION on this project go to:
 /README.md
---->
+-->
 # Zusammenleben
 
 Zusammenleben bedeutet für uns erstens das persönliche Miteinandersein und Kommunizieren jenseits der eingenommenen Rolle und zweitens die Selbstorganisation als Institut sowie die Gestaltung der eigenen Strukturen innerhalb der gegebenen Rahmenbedingungen.

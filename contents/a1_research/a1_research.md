@@ -1,4 +1,4 @@
-<!---
+<!--
    NAME - The NAME of this project is:
 ethos
 
@@ -28,7 +28,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
   SUBFILE – This is a SUBFILE! For more INFORMATION on this project go to:
 /README.md
---->
+-->
 # Forschen
 
 *Forschen* begreifen wir als das gemeinsame, systematische Streben nach Erkenntnis. *Forschen* umfasst damit auch die Dokumentation und die Zugänglichmachung aller relevanten Objekte unseres eigenen Forschens. Philosophische Forschung im Speziellen umfasst einen lebendigen Diskurs und Austausch.
