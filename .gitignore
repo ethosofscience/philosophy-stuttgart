@@ -26,4 +26,4 @@
 *.swp
 *.swo
 # Do not track html output files
-html/*.md
+html/*.html
