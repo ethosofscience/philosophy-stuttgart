@@ -55,7 +55,7 @@ Wir haben uns für genau diese sechs Werte,
 [Fairness](/../contents/values/v1_fairness.md),
 [Freiheit](../contents/values/v2_freedom.md),
 [Lebendigkeit](../contents/values/v3_liveliness.md),
-[Offenheit](../contents/values/v4_openness.md), erstens
+[Offenheit](../contents/values/v4_openness.md), 
 [Professionalität](../contents/values/v5_quality.md),
 [Verantwortung](../contents/values/v6_responsibility.md),
 entschieden, weil wir davon überzeugt sind, dass sie für uns *besonders wichtig* sind.
