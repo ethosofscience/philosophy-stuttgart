@@ -25,7 +25,7 @@ Aus der Verknüpfung jeder einzelnen Handlung mit allen sechs Werten ergibt sich
 Im zweiten Kapitel *Unsere Haltung* sind diese Verknüpfungen auf jeweils einer Doppelseite pro paradigmatischer Handlung dargestellt.
 
 Dem zweiten Kapitel vorangestellt ist eine Doppelseite, auf welcher wir die gewählten Werte erläutern und kurze Begründungen für unsere Auswahl angeben.
-Diese Begründungen sollen verdeutlichen, warum wir diese Werte als besonders relevant für unsere Tätigkeiten am Institut betrachte.
+Diese Begründungen sollen verdeutlichen, warum wir diese Werte als besonders relevant für unsere Tätigkeiten am Institut betrachten.
 
 An einigen Stellen werden wir deutlicher, an anderen Stellen formulieren wir unsere Haltung etwas vorsichtiger.
 Das bedeutet auch, dass an diesen Stellen Interpretationsbedarf besteht - die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden
