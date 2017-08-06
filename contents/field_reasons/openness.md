@@ -1,4 +1,5 @@
-Offenheit ist für uns die Aufgeschlossenheit gegenüber neuen Erfahrungen und die Bereitschaft zu persönlicher Entfaltung und intellektuellem Wachstum unserer Wissenschaftsgemeinschaft.
+# Offenheit
+Offenheit ist für uns die Aufgeschlossenheit gegenüber neuen Erfahrungen und die Bereitschaft zu persönlicher Entfaltung und intellektuellem Wachstum.
 
 Unser Erkenntnisinteresse, unser Wunsch zu studieren, zu forschen, zu lehren, unsere Rollen wahrzunehmen sowie am Leben der Wissenschaftsgemeinschaft teilzunehmen setzt Offenheit in mindestens dreierlei Hinsicht voraus.
 
