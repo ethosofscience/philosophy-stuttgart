@@ -42,7 +42,7 @@ Eine Begründung oder Rechtfertigung der Aussagen, Begriffe, Haltungen oder Wert
 Wir begründen *nicht* die mit unserer Haltung verbundenen Werte an und für sich oder was Werte im Allgemeinen wertvoll macht.
 Auch erklären wir *nicht* was Werte im Wesen sind.
 
-Vielmehr entscheiden wir, uns zu *einer bestimmten Auswahl von Werten* zu *bekennen*.
+Vielmehr entscheiden wir uns zu *einer bestimmten Auswahl von Werten* zu *bekennen*.
 Unser *Entscheidung* zu dieser Auswahl von Werten wollen wir begründen.
 
 Besonders wertvoll sind diese Werte spätestens dadurch, dass wir uns zu ihnen bekennen und dadurch, dass wir sie leben.
