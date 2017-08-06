@@ -53,7 +53,7 @@ Unser Werte sind Werte *spätestens* dadurch, dass wir uns zu ihnen bekennen.
 Wir verleihen den mit unserer Haltung verbunden Werten ihre *motivationale und normative Kraft* indem wir uns zu ihnen *bekennen* und indem wir sie *leben*.
 
 ## Unsere Auswahl
-Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses sowie das Resultat umfassender und genauer Auseindandersetzung mit ihren jeweiligen moralischen Kontexten.
+Unsere sechs Werte sind das Resultat eines gründlichen, gewissenhaften, deliberierten Entscheidungs- und Findungsprozesses sowie das Resultat umfassender und genauer Auseinandersetzung mit ihren jeweiligen moralischen Kontexten.
 
 Wir haben uns für genau diese sechs Werte,
 [Fairness](/../contents/values/v1_fairness.md),
