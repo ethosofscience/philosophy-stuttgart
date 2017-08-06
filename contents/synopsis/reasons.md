@@ -86,13 +86,37 @@ häufig wesentlich *verbessern*.
 Grundpfeiler sowohl der Wissenschaften als auch unserer Gemeinschaft angesehen werden.
 
 ## Instrumentalität
-An einigen Stellen liefern wir in Boxen beispielhaft instrumentelle Gründe für einige unserer Werte.
+In diesem Abschnitt geben wir expemplarisch, instrumentelle Gründe für unsere Werte in Bezug auf unsere paradigmatischen Handlungen an.
+Die gemeinsame Stoßrichtung unserer hier dargelegten Begründungen liegt die Idee einer reductio ad absurdum zugrunde.
+Wir sind davon überzeugt, dass die Annahme der jeweiligen Abwesenheit beziehungsweise die Annahme des jeweiligen Gegenteils jedes unserer Werte absurde Konsequenzen hätte, die wir nicht akzeptieren würden, beispielsweise, weil unsere eigentlichen Absichten unterminiert werden würden.
+
+Angenommen, arguendo, die wir würden uns statt zur Offenheit zur Verschlossenheit bekennen.
+Wir würden beispielsweise weder Gedanken mit anderen teilen, noch würden wir uns mit andere Gedanken auseinandersetzen.
+Eine derartige Haltung widerspräche ipso facto beispielsweise direkt der Absicht zu forschen oder zu lehren.
 
 Wir sind uns darüber im Klaren, dass diese Art der Begründung einen *instrumentellen Charakter* hat.
 Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die Werte als Werte *nicht* unterminiert.
 
 Im Gegenteil sind wir erstens davon überzeugt, dass indem wir uns für diese Werte entscheiden, indem wir uns zu ihnen bekennen, indem wir sie leben, sie zu dem machen, was sie für uns sind: Werte.
 Zweitens sind wir davon überzeugt, dass wir unsere Entscheidungen grundsätzlich begründen sollten, um nicht einem dogmatischen Abbruch anheimzufallen.
+
+### Fairness
+…
+
+### Freiheit
+…
+
+### Offenheit
+…
+
+### Verantwortung
+…
+
+### Professionalität
+…
+
+### Lebendigkeit
+…
 
 ## Inklusivität
 Unsere sechs Werte sind nicht exklusiv zu lesen.
