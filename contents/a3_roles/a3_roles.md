@@ -31,24 +31,9 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 # Rollenwahrnehmung
 
-Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir zum einen das *Wahrnehmen* einer oder mehrerer Rollen als das reflektierte und aufmerksame Erkennen der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten und zum anderen das aktive *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
+Unter der Handlung *Rollenwahrnehmung* verstehen wir zweierlei. Erstens, das *Wahrnehmen* einer oder mehrerer Rollen, im Sinne eines reflektierten und aufmerksamen Erkennens der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten. 
+Und zweitens, das aktive *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
 
 Konflikte zwischen mehreren Rollen sind möglich, in diesen Fällen wollen wir zwischen den Rechten und Pflichten, die mit der Rolle verbunden sind, eigenverantwortlich abwägen.
 
-Mögliche Rollen am Institut können sein (nach alphabetischer Reihenfolge und unvollständig):
-
-1. Dozentin und Gastdozentin
-
-2. Fachgruppensprecherin: Die Fachgruppensprecherin repräsentiert die Studierenden und kommuniziert und vermittelt zwischen Studierenden und Lehrpersonen.
-
-3. Gasthörerin: Gasthörerinnen studieren Philosophie wie Studierende auch. Grundsätzlich gilt das, was für Studierende gilt, auch für sie.
-
-4. Institutsleiterin / stellvertretende Institutsleiterin
-
-5. Professorin
-
-6. Studierende
-
-7. Studentische Hilfskraft und Tutorin
-
-8. Verwaltungsfachangestellte
+Beispiele möglicher Rollen am Institut sind: Dozentin, Gastdozentin, Fachgruppensprecherin, Gasthörerin, (stellvertretende) Institutsleiterin, Professorin, Studentin, studentische Hilfskraft, Tutorin, Verwaltungsfachangestellte, et cetera.
