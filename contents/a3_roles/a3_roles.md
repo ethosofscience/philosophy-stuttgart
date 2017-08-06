@@ -31,7 +31,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 --->
 # Rollenwahrnehmung
 
-Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir zum Einen das *Wahrnehmen* einer oder mehrerer Rollen als das reflektierte und aufmerksame Erkennen der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten, sowie das aktive *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
+Unter dem Ausdruck *Rollenwahrnehmung* verstehen wir zum einen das *Wahrnehmen* einer oder mehrerer Rollen als das reflektierte und aufmerksame Erkennen der Rolle und den damit verbundenen Freiheiten, Rechten und Pflichten und zum anderen das aktive *Einnehmen* der Rolle und den damit einhergehenden Handlungen.
 
 Konflikte zwischen mehreren Rollen sind möglich, in diesen Fällen wollen wir zwischen den Rechten und Pflichten, die mit der Rolle verbunden sind, eigenverantwortlich abwägen.
 
