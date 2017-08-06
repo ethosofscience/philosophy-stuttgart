@@ -1,3 +1,4 @@
+# Freiheit
 Wir verstehen unter Freiheit die Unabhängigkeit von äußeren Faktoren, welche nicht willentlich als Faktoren in eine Entscheidungen mitaufgenommen wurden. Wir sind frei
 bestimmte Dinge zu tun und wir sind frei bestimmte Dinge zu unterlassen.
 
