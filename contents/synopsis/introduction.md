@@ -11,8 +11,7 @@ Zu diesem Zwecke bekennen wir uns zu einer Haltung, die wir hier ausformulieren.
 Diese Ausformulierung soll uns Orientierung bieten und ein Bezugspunkt für uns sein.
 
 Dabei soll unser Ethos *kein* strenges Regelwerk oder verbindliches Dokument sein, sondern Orientierung für diejenigen Bereiche bieten, die gerade *nicht* durch offizielle Gesetze, Normen, Regelwerke, Prüfungsordnungen oder Modulhandbücher abgedeckt sind.
-Wir möchten uns selbst und andere dazu motivieren eine Haltung einzunehmen sowie
-sich aktiv und kritisch mit derselben auseinanderzusetzen.
+Wir möchten uns selbst und andere dazu motivieren eine Haltung einzunehmen sowie sich aktiv und kritisch mit derselben auseinanderzusetzen.
 
 # Wie?
 Unsere allgemeine Haltung ergibt sich aus bestimmten Haltungen, die wir wiederum als eine Komposition von *paradigmatischen Handlungen* und *Werten* begreifen.
@@ -22,12 +21,15 @@ Zudem haben wir sechs Werte gewählt, die uns besonders wichtig für unsere Tät
 *Fairness, Freiheit, Lebendigkeit, Offenheit, Professionalität* und *Verantwortung*.
 Aus der Verknüpfung jeder einzelnen Handlung mit allen sechs Werten ergibt sich im Gesamtbild die Haltung, die wir im Ethos vermitteln wollen.
 
-Im zweiten Kapitel *Unsere Haltung* sind diese Verknüpfungen auf jeweils einer Doppelseite pro Handlung dargestellt.
+
+Im zweiten Kapitel *Unsere Haltung* sind diese Verknüpfungen auf jeweils einer Doppelseite pro paradigmatischer Handlung dargestellt.
+
+Dem zweiten Kapitel vorangestellt ist eine Doppelseite, auf welcher wir die gewählten Werte erläutern und kurze Begründungen für unsere Auswahl angeben.
+Diese Begründungen sollen verdeutlichen, warum wir diese Werte als besonders relevant für unsere Tätigkeiten am Institut betrachte.
 
 An einigen Stellen werden wir deutlicher, an anderen Stellen formulieren wir unsere Haltung etwas vorsichtiger.
 Das bedeutet auch, dass an diesen Stellen Interpretationsbedarf besteht - die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden
 
-Auch finden sich hier einige beispielhafte Argumente für einige der Werte, auf Basis derer wir unsere Haltung entwickeln. Die Begründungen, die wir hier nennen, sind instrumenteller Art.
 
 Im dritten Kapitel *Gründe über Gründe* geben wir einige Gründe dafür an, warum wir tun was wir tun und warum wir nicht tun, was wir nicht tun.
 Zuletzt wollen wir betonen, dass wir den Ethos als ein lebendiges und offenes Projekt verstehen.
