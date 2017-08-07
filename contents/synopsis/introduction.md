@@ -14,7 +14,7 @@ Zudem haben wir sechs Werte gewählt, die uns besonders wichtig für unsere Tät
 *Fairness, Freiheit, Lebendigkeit, Offenheit, Professionalität* und *Verantwortung*.
 Aus der Verknüpfung jeder einzelnen Handlung mit allen sechs Werten ergibt sich im Gesamtbild die Haltung, die wir im Ethos vermitteln wollen.
 
-Im dem Kapitel *Unsere Haltung* sind diese Verknüpfungen auf jeweils einer Doppelseite pro paradigmatischer Handlung dargestellt.
+Im Kapitel *Unsere Haltung* sind diese Verknüpfungen auf jeweils einer Doppelseite pro paradigmatischer Handlung dargestellt.
 An einigen Stellen werden wir deutlicher, an anderen Stellen formulieren wir unsere Haltung etwas vorsichtiger.
 Das bedeutet auch, dass an diesen Stellen Interpretationsbedarf besteht - die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
 
