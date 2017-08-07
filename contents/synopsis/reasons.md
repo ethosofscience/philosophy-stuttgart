@@ -42,8 +42,8 @@ Eine Begründung oder Rechtfertigung der Aussagen, Begriffe, Haltungen oder Wert
 Wir begründen *nicht* die mit unserer Haltung verbundenen Werte an und für sich oder was Werte im Allgemeinen wertvoll macht.
 Auch erklären wir *nicht* was Werte im Wesen sind.
 
-Vielmehr entscheiden wir uns zu *einer bestimmten Auswahl von Werten* zu *bekennen*.
-Unser *Entscheidung* zu dieser Auswahl von Werten wollen wir begründen.
+Vielmehr entscheiden wir uns, uns zu *einer bestimmten Auswahl von Werten* zu *bekennen*.
+Unsere *Entscheidung* zu dieser Auswahl von Werten wollen wir begründen.
 
 Durch unsere Entscheidung verleihen wir den mit unserer Haltung verbunden Werten ihre *motivationale und normative Kraft*.
 Indem wir uns zu ihnen *bekennen* und indem wir sie *leben*, machen wir sie zu Werten.
@@ -55,7 +55,7 @@ Wir haben uns für genau diese sechs Werte,
 [Fairness](/../contents/values/v1_fairness.md),
 [Freiheit](../contents/values/v2_freedom.md),
 [Lebendigkeit](../contents/values/v3_liveliness.md),
-[Offenheit](../contents/values/v4_openness.md), 
+[Offenheit](../contents/values/v4_openness.md),
 [Professionalität](../contents/values/v5_quality.md),
 [Verantwortung](../contents/values/v6_responsibility.md),
 entschieden, weil wir davon überzeugt sind, dass sie für uns *besonders wichtig* sind.
@@ -82,37 +82,17 @@ häufig wesentlich *verbessern*.
 Grundpfeiler, sowohl der Wissenschaften, als auch unserer Gemeinschaft angesehen werden.
 
 ## Instrumentalität
-In diesem Abschnitt geben wir expemplarisch, instrumentelle Gründe für unsere Werte in Bezug auf unsere paradigmatischen Handlungen an.
-Die gemeinsame Stoßrichtung unserer hier dargelegten Begründungen liegt die Idee einer reductio ad absurdum zugrunde.
-Wir sind davon überzeugt, dass die Annahme der jeweiligen Abwesenheit beziehungsweise die Annahme des jeweiligen Gegenteils jedes unserer Werte absurde Konsequenzen hätte, die wir nicht akzeptieren würden, beispielsweise, weil unsere eigentlichen Absichten unterminiert werden würden.
-
-Angenommen, arguendo, die wir würden uns statt zur Offenheit zur Verschlossenheit bekennen.
-Wir würden beispielsweise weder Gedanken mit anderen teilen, noch würden wir uns mit andere Gedanken auseinandersetzen.
-Eine derartige Haltung widerspräche ipso facto beispielsweise direkt der Absicht zu forschen oder zu lehren.
-
+Im vorherigen Abschnitt *Wertebegründungen* geben wir expemplarisch instrumentelle Gründe für unsere Werte in Bezug auf unsere paradigmatischen Handlungen an.
 Wir sind uns darüber im Klaren, dass diese Art der Begründung einen *instrumentellen Charakter* hat.
-Wir glauben, dass eine derartige Begründung zu unserer Werteauswahl die Werte als Werte *nicht* unterminiert.
+Wir glauben allerdings auch, dass eine derartige Begründung die Werte als Werte *nicht* unterminiert.
+Über die Tatsache hinaus, dass die Werte ihre Kraft durch unser Bekenntnis zu ihnen erlangen, wollen wir mit den instrumentellen Begründungen exemplarisch zeigen, wie für die Werte auch *funktional* argumentiert werden kann.
 
-Im Gegenteil sind wir erstens davon überzeugt, dass indem wir uns für diese Werte entscheiden, indem wir uns zu ihnen bekennen, indem wir sie leben, sie zu dem machen, was sie für uns sind: Werte.
-Zweitens sind wir davon überzeugt, dass wir unsere Entscheidungen grundsätzlich begründen sollten, um nicht einem dogmatischen Abbruch anheimzufallen.
+Einer weiteren gemeinsamen Stoßrichtung dieser Begründungen liegt die Idee einer *reductio ad absurdum* zugrunde.
+Wir sind davon überzeugt, dass die Annahme der jeweiligen *Abwesenheit* beziehungsweise die Annahme des jeweiligen Gegenteils jedes unserer Werte absurde Konsequenzen hätte, die wir nicht akzeptieren würden, beispielsweise, weil unsere eigentlichen Absichten unterminiert werden würden.
 
-### Fairness
-…
-
-### Freiheit
-…
-
-### Offenheit
-…
-
-### Verantwortung
-…
-
-### Professionalität
-…
-
-### Lebendigkeit
-…
+Angenommen wir würden uns statt zur Offenheit zur Verschlossenheit bekennen.
+Wir würden beispielsweise weder Gedanken mit anderen teilen wollen, noch würden wir uns mit andere Gedanken auseinandersetzen wollen.
+Eine derartige Haltung widerspräche ipso facto beispielsweise direkt der Absicht zu forschen oder zu lehren.
 
 ## Inklusivität
 Unsere sechs Werte sind nicht exklusiv zu lesen.
