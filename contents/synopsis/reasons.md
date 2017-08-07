@@ -110,7 +110,7 @@ Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nich
 Wir glauben, dass es im Wertcharakter der Werte selbst liegt, dass sie sowohl in Harmonie als auch im gegenseitigen Wettstreit stehen können.
 Wir sehen den Wettstreit unserer Werte als eine positive Eigenschaft funktionierender, offener, pluralistischer Wertesysteme sowie lebendiger Gemeinschaften und wir bejahen die daraus erwachsende Herausforderung Überlegungsgleichgewichte zu erreichen.
 
-## Unsere Definitionen, Listen Intuitionen
+## Unsere Definitionen, Listen, Intuitionen
 Wir definieren in unserem Ethos Begriffe, Handlungen und Werte.
 Mit diesen Definitionen verbinden wir selbstverständlich *keine* allgemeinen Geltungsansprüche.
 Wir möchten mit unseren Definitionen unser eigenes Verständnis der jeweiligen Begriffe, Handlungen und Werte transparent machen.
