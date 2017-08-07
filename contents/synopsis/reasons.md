@@ -102,7 +102,7 @@ Wir begreifen unser Ethos als eine lebendige, sich stetig entwickelnde Verständ
 
 Werte, die nicht in unserer Auswahl sind, schließen wir *nicht* aus.
 Vielmehr legen wir einen wohlbegründeten Fokus auf diejenigen Werte, die uns besonders wichtig sind.
-Unser Bekenntnis zu unseren Werten schießt ein Bekenntnis zu weiteren Werten *nicht* aus.
+Unser Bekenntnis zu unseren Werten schließt ein Bekenntnis zu weiteren Werten *nicht* aus.
 
 ## Überlegungsgleichgewicht, Wertekonflikte, Werteeinklang
 Wir glauben, dass Konflikte zwischen Werten den Wertcharakter unserer Werte nicht in Abrede stellen, sondern, dass sie einerseits ihre motivationale Kraft (ihre Lebendigkeit) betonen sowie andererseits uns aufzeigen, dass sowohl ihre Umsetzung als auch die Auseinandersetzung mit ihnen von uns Achtsamkeit und Klugheit (vgl. Luckner 2005) verlangt.
