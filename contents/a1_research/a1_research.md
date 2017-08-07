@@ -30,6 +30,6 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 -->
 # Forschen
-Unser *Forschen* begreifen wir als das gemeinsames, systematisches Streben nach Erkenntnis.
+Unser *Forschen* begreifen wir als das gemeinsame, systematische Streben nach Erkenntnis.
 
 Forschung ist untrennbar eingebunden in die globale wissenschaftliche Gemeinschaft und lebt vom konsequenten, aktiven, direkten, wertschätzenden Austausch und Diskurs mit anderen Wissenschaftlerinnen, der durch die höchsten Ideale der Wissenschaften, insbesondere durch Fairness, Freiheit, Offenheit, Lebendigkeit, Professionalität und Verantwortung geprägt ist.
