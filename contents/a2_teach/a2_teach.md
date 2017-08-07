@@ -31,5 +31,5 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 -->
 
 # Lehren
-Lehren ist für uns das systematische Vermitteln von Wissen sonwie den unvoreingenommen Austausch von Wissen auf Augenhöhe.
-Es umfasst neben der Lehrveranstaltungen die Vor- und Nachbereitung von Sitzungsinhalten, Prüfungsvorbereitung und -durchführung, eine offene Feedbackkultur, sowie eine angemessene Betreuung der Studierenden.
+Lehren ist für uns das systematische Vermitteln von Wissen sowie der unvoreingenommene Austausch von Wissen auf Augenhöhe.
+Es umfasst neben der Lehrveranstaltungen die Vor- und Nachbereitung von Sitzungsinhalten, Prüfungsvorbereitungen und -durchführungen, eine offene Feedbackkultur, sowie eine angemessene Betreuung der Studierenden.
