@@ -98,7 +98,7 @@ Eine derartige Haltung widerspräche ipso facto beispielsweise direkt der Absich
 Unsere sechs Werte sind nicht exklusiv zu lesen.
 Unsere Auswahl ist *keine* fixe Menge von Werten, sondern eine Einladung, sich mit diesen Werten auseinanderzusetzen.
 Wenn wir davon sprechen, dass wir unsere Werte leben, dann sprechen wir auch davon, sich mit ihnen gründlich auseinanderzusetzen, sie zu ergänzen, sie weiter zu entwickeln.
-Wir begreifen unser Ethos als eine lebendige, sich stetig entwickelnde Verständigung darüber, wie wir gemeinsam studieren, forschen, lehren und leben.
+Wir begreifen unser Ethos als eine lebendige, sich stetig entwickelnde Verständigung darüber, wie wir gemeinsam studieren, forschen, lehren und leben wollen.
 
 Werte, die nicht in unserer Auswahl sind, schließen wir *nicht* aus.
 Vielmehr legen wir einen wohlbegründeten Fokus auf diejenigen Werte, die uns besonders wichtig sind.
