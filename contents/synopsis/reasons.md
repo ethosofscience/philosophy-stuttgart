@@ -91,7 +91,7 @@ Einer weiteren gemeinsamen Stoßrichtung dieser Begründungen liegt die Idee ein
 Wir sind davon überzeugt, dass die Annahme der jeweiligen *Abwesenheit* beziehungsweise die Annahme des jeweiligen Gegenteils jedes unserer Werte absurde Konsequenzen hätte, die wir nicht akzeptieren würden, beispielsweise, weil unsere eigentlichen Absichten unterminiert werden würden.
 
 Angenommen wir würden uns statt zur Offenheit zur Verschlossenheit bekennen.
-Wir würden beispielsweise weder Gedanken mit anderen teilen wollen, noch würden wir uns mit andere Gedanken auseinandersetzen wollen.
+Wir würden beispielsweise weder Gedanken mit anderen teilen wollen, noch würden wir uns mit anderen Gedanken auseinandersetzen wollen.
 Eine derartige Haltung widerspräche ipso facto beispielsweise direkt der Absicht zu forschen oder zu lehren.
 
 ## Inklusivität
