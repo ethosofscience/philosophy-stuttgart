@@ -28,7 +28,7 @@ Ebenso gehen wir kurz auf die Möglichkeit von Wertekonflikten ein.
 
 Wir wollen an dieser Stelle betonen, dass wir den Ethos als ein lebendiges und offenes Projekt verstehen.
 Alle, die am Institut für Philosophie beteiligt sind, können und sollen sich einbringen und das Ethos ständig hinterfragen, mitgestalten und verbessern.
-Noch einmal: Die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
+Die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
 Wir möchten uns selbst und andere dazu motivieren eine Haltung einzunehmen, sowie sich aktiv und kritisch mit derselben auseinanderzusetzen.
 
 # Wer?
