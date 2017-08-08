@@ -26,7 +26,7 @@ Diese Begründungen sollen verdeutlichen, warum wir diese Werte als besonders re
 Im Kapitel *Gründe über Gründe* geben wir einige Gründe dafür an, warum wir tun was wir tun und warum wir *nicht* tun, was wir nicht tun.
 Ebenso gehen wir kurz auf die Möglichkeit von Wertekonflikten ein.
 
-Zuletzt wollen wir betonen, dass wir den Ethos als ein lebendiges und offenes Projekt verstehen.
+Wir wollen an dieser Stelle betonen, dass wir den Ethos als ein lebendiges und offenes Projekt verstehen.
 Alle, die am Institut für Philosophie beteiligt sind, können und sollen sich einbringen und das Ethos ständig hinterfragen, mitgestalten und verbessern.
 Noch einmal: Die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
 Wir möchten uns selbst und andere dazu motivieren eine Haltung einzunehmen, sowie sich aktiv und kritisch mit derselben auseinanderzusetzen.
