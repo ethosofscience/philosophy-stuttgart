@@ -31,5 +31,5 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 -->
 
 # Studieren
-Studieren ist für uns die eigenverantwortliche, wissenschaftliche Beschäftigung mit einem Forschungsfach.
-Ziel des Philosophiestudiums ist es, im Austausch mit Lehrenden und anderen Studierenden Wissen über Inhalte und Methoden zu erlangen, Fähigkeiten zu erwerben, sowie ganz grundsätzlich sich "im Denken zu orientieren". {Kant2006denken}
+Studieren ist für uns die eigenverantwortliche, wissenschaftliche Beschäftigung mit einem Fach.
+Ziel des Philosophiestudiums ist es, im Austausch mit Lehrenden und anderen Studierenden Wissen über Inhalte und Methoden zu erlangen, Fähigkeiten zu erwerben, sowie ganz grundsätzlich sich „im Denken zu orientieren“. {Kant2006denken}
