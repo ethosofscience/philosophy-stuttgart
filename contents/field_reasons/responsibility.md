@@ -1,5 +1,5 @@
 # Verantwortung
-Wir verstehen unter Verantwortung die *Selbstverpflichtung* für die eigenen und gemeinschaftlichen Entscheidungen, Handlungen und Folgen von Handlungen *einzustehen*.
+Wir verstehen unter Verantwortung die *Selbstverpflichtung* für die eigenen und gemeinschaftlichen Entscheidungen, Handlungen und deren Folgen *einzustehen*.
 Verantwortlich handeln heißt vorrauschauend, ethisch und technisch wohlüberlegt zu handeln.
 Wir kommen den gerechtfertigten Ansprüchen an uns unaufgefordert und selbstständig nach und streben nach Integrität.
 
