@@ -27,3 +27,5 @@
 *.swo
 # Do not track html output files
 html/*.html
+# Do not track fix script
+fix_commits.sh
