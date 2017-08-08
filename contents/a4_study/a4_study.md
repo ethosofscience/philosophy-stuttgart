@@ -32,4 +32,6 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # Studieren
 Studieren ist für uns die eigenverantwortliche, wissenschaftliche Beschäftigung mit einem Fach.
+Wir sehen Studieren als ein Privileg, die eigenen Interessen vertiefen zu können, Wissen auf hohem Niveau vermittelt zu bekommen und sich frei entfalten zu können.
+Mit dem Wissen um dieses Privileg wollen wir Studieren und unser Studium gestalten.
 Ziel des Philosophiestudiums ist es, im Austausch mit Lehrenden und anderen Studierenden Wissen über Inhalte und Methoden zu erlangen, Fähigkeiten zu erwerben, sowie ganz grundsätzlich sich „im Denken zu orientieren“. {Kant2006denken}
