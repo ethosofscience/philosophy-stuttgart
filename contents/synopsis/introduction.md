@@ -6,7 +6,7 @@ Unser Ziel ist es die positive Atmosphäre, in der wir am Institut für Philosop
 
 Unser Ethos soll *kein* strenges Regelwerk oder verbindliches Dokument sein, sondern Orientierung für diejenigen Bereiche bieten, die gerade *nicht* durch offizielle Gesetze, Normen, Regelwerke, Prüfungsordnungen oder Modulhandbücher abgedeckt sind.
 Unser Ethos soll ein gemeinsamer Bezugspunkt sein.
-Unser Ethos erhält seine seine Geltung dadurch, dass wir uns zu ihm bekennen.
+Unser Ethos erhält seine seine Geltung dadurch, dass wir uns zu ihm bekennen und es leben.
 
 # Wie?
 Unsere allgemeine Haltung ergibt sich aus bestimmten Haltungen, die wir als eine Komposition von *paradigmatischen Handlungen* und *Werten* begreifen.
@@ -20,7 +20,7 @@ Im Kapitel *Unsere Haltung* sind diese Verknüpfungen auf jeweils einer Doppelse
 An einigen Stellen werden wir deutlicher, an anderen Stellen formulieren wir unsere Haltung etwas vorsichtiger.
 Das bedeutet auch, dass an diesen Stellen Interpretationsbedarf besteht - die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
 
-Anschließend an dieses Kapitel folgt eine weitere Doppelseite, auf welcher wir die gewählten Werte erläutern und kurze Begründungen für unsere Auswahl angeben.
+Im Kapitel *Ausgewählte Werte* erläutern wir auf einer weiteren Doppelseite, welche Werte wir ausgewählt haben und begründen unsere Auswahl kurz.
 Diese Begründungen sollen verdeutlichen, warum wir diese Werte als besonders relevant für unsere Tätigkeiten am Institut betrachten.
 
 Im Kapitel *Gründe über Gründe* geben wir einige Gründe dafür an, warum wir tun was wir tun und warum wir nicht tun, was wir nicht tun. Ebenso formulieren wir hier einige Worte zu möglichen Wertekonflikten.
