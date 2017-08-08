@@ -23,7 +23,8 @@ Das bedeutet auch, dass an diesen Stellen Interpretationsbedarf besteht - die Ha
 Im Kapitel *Ausgewählte Werte* erläutern wir auf einer weiteren Doppelseite, welche Werte wir ausgewählt haben und begründen unsere Auswahl kurz.
 Diese Begründungen sollen verdeutlichen, warum wir diese Werte als besonders relevant für unsere Tätigkeiten am Institut erachten.
 
-Im Kapitel *Gründe über Gründe* geben wir einige Gründe dafür an, warum wir tun was wir tun und warum wir nicht tun, was wir nicht tun. Ebenso formulieren wir hier einige Worte zu möglichen Wertekonflikten.
+Im Kapitel *Gründe über Gründe* geben wir einige Gründe dafür an, warum wir tun was wir tun und warum wir *nicht* tun, was wir nicht tun.
+Ebenso gehen wir kurz auf die Möglichkeit von Wertekonflikten ein.
 
 Zuletzt wollen wir betonen, dass wir den Ethos als ein lebendiges und offenes Projekt verstehen.
 Alle, die am Institut für Philosophie beteiligt sind, können und sollen sich einbringen und das Ethos ständig hinterfragen, mitgestalten und verbessern.
