@@ -1,5 +1,6 @@
 # Lebendigkeit
-Lebendigkeit beschreibt die *Anpassungsfähigkeit* gegenüber einer sich verändernen Umwelt und die Fähigkeit *inneres Wachstum* aus sich selbst heraus und durch eigene Initiative zu befördern.
+Lebendigkeit ist für uns *Spontanität*, *Entwicklung*, *Beweglichkeit*, *Austausch*, *Selbsterhaltung*, *Erfindung*, *Entdeckung*, *Kritik* sowie die
+*Anpassungsfähigkeit* gegenüber einer sich verändernden Umwelt und die Fähigkeit zu *innerem Wachstum* sowie *persönlicher Entfaltung* aus sich selbst heraus und durch die eigene Initiative.
 Lebendigkeit schließt einen konstruktiven Umgang mit Fehlern ein.
 
 Für Lebendigkeit spricht, dass unser Wohlergehen als Individuen und als Gemeinschaft von unserer Fähigkeit zur Selbsterhaltung und zu innerem Wachstum abhängt und Lebendigkeit diese Fähigkeiten fördert.
