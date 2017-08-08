@@ -30,6 +30,5 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 -->
 # Zusammenleben
-
-Zusammenleben bedeutet für uns erstens das persönliche Miteinandersein und Kommunizieren jenseits der eingenommenen Rolle und zweitens die Selbstorganisation als Institut sowie die Gestaltung der eigenen Strukturen innerhalb der gegebenen Rahmenbedingungen.
-Beispielhafte politische Organe des Instituts sind die Fachgruppe, das Jour Fixe oder der runde Tisch.
+Zusammenleben bedeutet für uns erstens das persönliche Miteinandersein und Kommunizieren jenseits der normalerweise eingenommenen Rollen in unseren professionellen Kontexten.
+Zweitens die Gestaltung der Strukturen, Umwelten und Rahmenbedingungen in der wir arbeiten und leben.
