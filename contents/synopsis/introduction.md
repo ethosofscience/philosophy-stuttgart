@@ -9,12 +9,12 @@ Unser Ethos soll ein gemeinsamer Bezugspunkt sein.
 Unser Ethos erhält seine seine Geltung dadurch, dass wir uns zu ihm bekennen.
 
 # Wie?
-Unsere allgemeine Haltung ergibt sich aus bestimmten Haltungen, die wir wiederum als eine Komposition von *paradigmatischen Handlungen* und *Werten* begreifen.
+Unsere allgemeine Haltung ergibt sich aus bestimmten Haltungen, die wir als eine Komposition von *paradigmatischen Handlungen* und *Werten* begreifen.
 Wir haben fünf Handlungen gewählt, die unserer Meinung nach paradigmatische Handlungen am Institut für Philosophie sind:
 *Studieren, Forschen, Lehren, Rollenwahrnehmung* und *Zusammenleben*.
-Zudem haben wir sechs Werte gewählt, die uns besonders wichtig für unsere Tätigkeiten am Institut erscheinen:
+Zudem haben wir sechs Werte gewählt, die uns besonders wichtig erscheinen:
 *Fairness, Freiheit, Lebendigkeit, Offenheit, Professionalität* und *Verantwortung*.
-Aus der Verknüpfung jeder einzelnen Handlung mit allen sechs Werten ergibt sich im Gesamtbild die Haltung, die wir im Ethos vermitteln wollen.
+Aus der Verknüpfung jeder einzelnen Handlung mit allen sechs Werten ergibt sich im Gesamtbild diejenige Haltung, die wir im Ethos vermitteln wollen.
 
 Im Kapitel *Unsere Haltung* sind diese Verknüpfungen auf jeweils einer Doppelseite pro paradigmatischer Handlung dargestellt.
 An einigen Stellen werden wir deutlicher, an anderen Stellen formulieren wir unsere Haltung etwas vorsichtiger.
