@@ -1,8 +1,8 @@
 # Was?
-Dies ist die Formulierung des gemeinsamen Ethos der philosophischen Gemeinschaft der Universität Stuttgart. In dieser Formulierung unseres Ethos’ bekennen wir uns dazu frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, zu forschen, zu lehren, unsere Rollen wahrzunehmen und zusammenzuleben.
+Dies ist die Formulierung des gemeinsamen Ethos der philosophischen Gemeinschaft der Universität Stuttgart. In dieser Formulierung unseres Ethos’ bekennen wir uns dazu *frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, zu forschen, zu lehren, unsere Rollen wahrzunehmen und zusammenzuleben*.
 
 # Warum?
-Unser Ziel ist es die positive Atmosphäre in der wir am Institut für Philosophie studieren, forschen, lehren, arbeiten und zusammenleben zu erhalten und zu verbessern. Unser Ethos soll unserer globalen Wissenschaftsgemeinschaft, unserer Weltgemeinschaft und unserer persönliche Entfaltung dienen. Zu diesem Zwecke bekennen wir uns zu einer Haltung, welche wir im Folgenden ausformulieren.
+Unser Ziel ist es die positive Atmosphäre, in der wir am Institut für Philosophie studieren, forschen, lehren, arbeiten und zusammenleben, zu erhalten und zu verbessern. Unser Ethos soll unserer globalen Wissenschaftsgemeinschaft, unserer Weltgemeinschaft und unserer persönliche Entfaltung dienen. Zu diesem Zwecke bekennen wir uns zu einer Haltung, welche wir im Folgenden ausformulieren.
 
 Unser Ethos soll *kein* strenges Regelwerk oder verbindliches Dokument sein, sondern Orientierung für diejenigen Bereiche bieten, die gerade *nicht* durch offizielle Gesetze, Normen, Regelwerke, Prüfungsordnungen oder Modulhandbücher abgedeckt sind. Das Ethos soll also ein gemeinsamer Bezugspunkt sein, das seine Geltung dadurch erhält, dass wir uns dazu bekennen und nicht dadurch, dass wir ihm unterliegen.
 
