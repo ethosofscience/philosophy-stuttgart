@@ -93,7 +93,7 @@ Wir sind davon überzeugt, dass die Annahme der jeweiligen *Abwesenheit* beziehu
 
 Angenommen wir würden uns statt zur Offenheit zur Verschlossenheit bekennen.
 Wir würden beispielsweise weder Gedanken mit anderen teilen wollen, noch würden wir uns mit anderen Gedanken auseinandersetzen wollen.
-Eine derartige Haltung widerspräche ipso facto beispielsweise direkt der Absicht zu forschen oder zu lehren.
+Eine derartige Haltung widerspräche ipso facto der Absicht zu forschen oder zu lehren.
 
 ## Inklusivität
 Unsere sechs Werte sind nicht exklusiv zu lesen.
