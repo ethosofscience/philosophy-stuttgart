@@ -80,7 +80,7 @@ häufig wesentlich *verbessern*.
 [Offenheit](../contents/values/v4_openness.md),
 [Professionalität](../contents/values/v5_quality.md) und
 [Verantwortung](../contents/values/v6_responsibility.md)
-können als Grundpfeiler, sowohl der Wissenschaften, als auch unserer philosophischen Gemeinschaft angesehen werden.
+können als Grundpfeiler sowohl der Wissenschaften, als auch unserer philosophischen Gemeinschaft angesehen werden.
 
 ## Instrumentalität
 Im vorherigen Abschnitt *Wertebegründungen* geben wir expemplarisch instrumentelle Gründe für unsere Werte in Bezug auf unsere paradigmatischen Handlungen an.
