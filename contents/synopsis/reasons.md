@@ -76,10 +76,11 @@ häufig wesentlich *verbessern*.
 
 [Fairness](/../contents/values/v1_fairness.md),
 [Freiheit](../contents/values/v2_freedom.md),
+[Lebendigkeit](../contents/values/v3_liveliness.md),
 [Offenheit](../contents/values/v4_openness.md),
 [Professionalität](../contents/values/v5_quality.md) und
-[Verantwortung](../contents/values/v6_responsibility.md) können als
-Grundpfeiler, sowohl der Wissenschaften, als auch unserer philosophischen Gemeinschaft angesehen werden.
+[Verantwortung](../contents/values/v6_responsibility.md)
+können als Grundpfeiler, sowohl der Wissenschaften, als auch unserer philosophischen Gemeinschaft angesehen werden.
 
 ## Instrumentalität
 Im vorherigen Abschnitt *Wertebegründungen* geben wir expemplarisch instrumentelle Gründe für unsere Werte in Bezug auf unsere paradigmatischen Handlungen an.
