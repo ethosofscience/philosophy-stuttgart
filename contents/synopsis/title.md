@@ -4,7 +4,7 @@ Institut für Philosophie und Fachgruppe Philosophie der Universität Stuttgart
 
 contact@philosophyethos.org
 
-Stuttgart, 2017-07-29
+Stuttgart, 2017-08-09
 
 Work in Progress!
 
@@ -20,7 +20,7 @@ Institute for Philosophy and Student Council of Philosophy University of Stuttga
 
 contact@philosophyethos.org
 
-Stuttgart, 2017-07-29
+Stuttgart, 2017-08-09
 
 Work in Progress!
 
