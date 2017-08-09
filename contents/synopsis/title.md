@@ -9,7 +9,7 @@ Stuttgart, 2017-08-09
 Work in progress!
 
 Abstract: Dies ist die Formulierung des gemeinsamen Ethos der philosophischen Gemeinschaft der Universität Stuttgart.
-In dieser Formulierung unseres Ethos’ bekennen wir uns dazu frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, forschen, lehren, arbeiten und zusammenzuleben.
+In dieser Formulierung unseres Ethos bekennen wir uns dazu frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, forschen, lehren, arbeiten und zusammenzuleben.
 
 Keywords: Ethos, Haltung, Kooperation, Kommunikation, Arbeiten, Lehren, Studieren, Forschen, Werte, Integrität, Freiheit, Offenheit, Professionalität, Fairness, Verantwortung, Lebendigkeit, Orientierung, Wissenschaftlichkeit, Gerechtigkeit, .
 
