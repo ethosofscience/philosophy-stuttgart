@@ -36,7 +36,7 @@ In diesem Sinne führen wir hier Gründe *gegen* weitere Gründe an.
 
 Eine Begründung oder Rechtfertigung der Aussagen, Begriffe, Haltungen oder Werte unseres Ethos oder ihren jeweiligen besonderen Charakter wollen und können wir hier *nicht* leisten, weil dies *nicht* im Fokus der vorliegenden Formulierung unseres Ethos liegt.
 
-*Im Fokus der vorliegenden Formulierung unseres Ehtos liegt unser gemeinsames Bekenntnis zu einer gemeinsamen Haltung und den damit verbundenen Werten selbst.*
+*Im Fokus der vorliegenden Formulierung unseres Ethos liegt unser gemeinsames Bekenntnis zu einer gemeinsamen Haltung und den damit verbundenen Werten selbst.*
 
 ## Was wir tun und was wir *nicht* tun
 Wir begründen *nicht* die mit unserer Haltung verbundenen Werte an und für sich oder was Werte im Allgemeinen wertvoll macht.
