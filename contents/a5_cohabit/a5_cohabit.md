@@ -30,5 +30,4 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /README.md
 -->
 # Zusammenleben
-Zusammenleben bedeutet für uns erstens das persönliche Miteinandersein und Kommunizieren jenseits der normalerweise eingenommenen Rollen in unseren professionellen Kontexten.
-Zweitens die Gestaltung der Strukturen, Umwelten und Rahmenbedingungen in der wir arbeiten und leben.
+Zusammenleben bedeutet für uns erstens das persönliche Miteinandersein und Kommunizieren jenseits der normalerweise eingenommenen Rollen in unseren professionellen Kontexten und zweitens die Gestaltung der Strukturen, Umwelten und Rahmenbedingungen, in denen wir arbeiten und leben.
