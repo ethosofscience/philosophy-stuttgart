@@ -20,7 +20,7 @@ Im Kapitel *Unsere Haltung* sind diese Verknüpfungen auf jeweils einer Doppelse
 An einigen Stellen werden wir deutlicher, an anderen Stellen formulieren wir unsere Haltung etwas vorsichtiger.
 Das bedeutet auch, dass an diesen Stellen Interpretationsbedarf besteht - die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
 
-Im Kapitel *Ausgewählte Werte* erläutern wir auf einer weiteren Doppelseite, welche Werte wir ausgewählt haben und begründen unsere Auswahl kurz.
+Im Kapitel *Unsere Werte* erläutern wir auf einer weiteren Doppelseite, welche Werte wir ausgewählt haben und begründen unsere Auswahl kurz.
 Diese Begründungen sollen verdeutlichen, warum wir diese Werte als besonders relevant für unsere Tätigkeiten am Institut erachten.
 
 Im Kapitel *Gründe über Gründe* geben wir einige Gründe dafür an, warum wir tun was wir tun und warum wir *nicht* tun, was wir nicht tun.
