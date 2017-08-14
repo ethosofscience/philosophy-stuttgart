@@ -19,9 +19,12 @@ meta/templates/example_flield_reasons_freedom.md~~
   2. Vereinfachung der Verzeichnisse und Namen
   3. Lösche alte Dateiinhalte
   4. Prüfe Datein nach korrekten (Kontact) Angaben
+  5. Anpassen unserer README.md an uneser Titelbläter
 
 6. Umziehen unseres Repositoriums auf GitHub und Umbenennung zu „philosphyethos“ zur bessern Sichtbarkeit und Verfügbarkeit
+    1. ~~Erstellen einer Oragnisation auf GitHub~~
+    2. Spiegeln des alten Repositoriums auf das GitHub
 
 7. DOI über zenodo.org
 
-8. 
+8. …
