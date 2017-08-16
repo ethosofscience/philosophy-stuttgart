@@ -13,13 +13,14 @@ meta/templates/example_flield_reasons_freedom.md~~
   4. ~~Micha: Lebendigkeit (contents/field_reasons/liveliness.md)~~
   5. ~~Martin: Fairness (contents/field_reasons/fairness.md)~~
 
-4. Erstelle tidy branch um repository aufräumen.
+4. ~~Erstelle tidy branch um repository aufräumen.~~
 5. Räume respository auf.
   1. Lösche alte nicht (mehr) gebrauchte Dateien und Verzeichnisse
   2. Vereinfachung der Verzeichnisse und Namen
   3. Lösche alte Dateiinhalte
   4. Prüfe Datein nach korrekten (Kontact) Angaben
   5. Anpassen unserer README.md an uneser Titelbläter
+  6. ~~Lösche HTML-Kommentare aus den headern~~
 
 6. Umziehen unseres Repositoriums auf GitHub und Umbenennung zu „philosphyethos“ zur bessern Sichtbarkeit und Verfügbarkeit
     1. ~~Erstellen einer Oragnisation auf GitHub~~
