@@ -4,19 +4,19 @@ VERSIONING
 # Current version
 ## Creation
 This project was CREATED on:
-*2016-09-18-20:33:25 UTC*.
+*2017-01-28T16:40:49 UTC*.
 
 ## Modification
 This project was last MODIFIED on:
-*2016-09-18-20:33:25 UTC*.
+*2017-01-28T16:40:49 UTC*.
 
 ## Version
 The current Version, expressed in the unique *version name*, of this project is:
-*gff8ce47848b52006ae9ff7cc87b1ae4ceb8e9362-2016-09-18T20:33:25*.
+*…*
 
 ## Git hash
 The current git commit hash of this project is:
-*gff8ce47848b52006ae9ff7cc87b1ae4ceb8e9362*.
+*_*
 
 # Versioning sheme
 The *version name* of this project is a unique description of the project that
@@ -25,60 +25,34 @@ bijection between the set of project states and the set of all project names.
 
 Roughly speaking the *version name* mainly consists of two subnames:
 
-  1. A hexadecimal <NUMBER> and  
-  2. A <TIMESTAMP>.  
+1. A hexadecimal <NUMBER> and  
+2. A <TIMESTAMP>.  
 
 Where <NUMBER> denotes a long *hexeadecimal number* and
 <TIMESTAMP> denotes a simple *time stamp*.
 Both subnames are concatenated (combined) to one string:
 
-  1. <NUMBER><TIMESTAMP>.
+1. <NUMBER><TIMESTAMP>.
 
-In more detail the *version name* of this project has the following structure:
+2. <CURRENT GIT COMMIT NUMBER>
+is a unique natural number that is a simple counter that represents the number
+of the total commits of this project so far.
 
-  <TAG>-<CURRENT COMMIT NUMBER>-<CURRENT COMMIT HASH><YYY-MM-DDTHH:MM:SS>
+3. <CURRENT UNIQUE GIT COMMIT HASH>
+is a unique 11 digit abbreviated git commit hash that uniquely identifies
+exactly one state of the project.
+It is important to note that this subname, the 10 digit git hash is suficient
+at its own to uniquely identify every single project state.
 
-The above versioning structure or versioning scheme respectivly is composed of
-the following four *subnames*:
-
-  1. <TAG>
-  is one and only one of the following strings (without quotation marks):
-
-     “*alpha*”, *“beta”*, *“*stable*”.
-
-     Where:
-
-     *alpha* denotes the project state in which the *set of the main features*
-     of the project is *not* fully specified yet and the main features are *not*
-     fully implemented yet.
-
-     *beta* denotes the successor state of the *alpha state* and it denotes
-     the project state in which the *set of the main features* of the project
-     *is* fully specified and this features *are* fully implemented and the main
-     *bugs* are known but *not* all of them are fixed yet.
-
-     *stable* denotes the successor state of the *beta state* and it describes
-     the project state in which most of the known bugs are fixed.
-
-  2. <CURRENT GIT COMMIT NUMBER>
-  is a unique natural number that is a simple counter that represents the number
-  of the total commits of this project so far.
-
-  3. <CURRENT UNIQUE GIT COMMIT HASH>
-  is a unique 11 digit abbreviated git commit hash that uniquely identifies
-  exactly one state of the project.
-  It is important to note that this subname, the 10 digit git hash is suficient
-  at its own to uniquely identify every single project state.
-
-  4. the current date and time stamp in ISO format (Coordinated
-    Universal Time (former Greenwich Mean Time (GMT)).
+4. the current date and time stamp in ISO format (Coordinated
+Universal Time (former Greenwich Mean Time (GMT)).
 
 # Examples and Explanations
 Here are three examples of valid version names:
 
-  1. alpha-2-gff8ce47848b
-  2. beta-314-gff8ce47848b
-  3. stable-31415926-gff8ce47848b
+1. alpha-2-gff8ce47848b
+2. beta-314-gff8ce47848b
+3. stable-31415926-gff8ce47848b
 
 Where in example 1. the verion name tells you (a) by <TAG> subname that the
 project is in its *alpha state* and (b) by the <CURRENT GIT COMMIT NUMBER>
@@ -145,15 +119,11 @@ Too simple and focused on deployment not on small continous iterations.
 ## Pro git commit hash
 The main reasons to use git commit hashes as version names are:
 
-  1. that it is *simple* (short),
-  2. that it is *unique*,
-  3. that it is *easy to generate*,
-  4. that it is *easy to integrate* into the *de facto* standard versioning
-  workflow.
+1. that it is *simple* (short),
+2. that it is *unique*,
+3. that it is *easy to generate*,
+4. that it is *easy to integrate* into the *de facto* standard versioning workflow.
 
 ### Why 100 digits
-Instead of using the default 7 hexadecimal digits as the abbreviated object
-name, using 100 hexadecimal digits (a) garanties that there is no hash collision
-for more objects than there are in the linux kernel and (b) it garanties that
-you do not have to mess around with abbreviation schemes in near future.
+Instead of using the default 7 or 12 hexadecimal digits as the abbreviated object name, using 100 hexadecimal digits (a) garanties that there is no hash collision for more objects than there are in the linux kernel and (b) it garanties that you do not have to mess around with abbreviation schemes in near future.
 For more information on this topic see (Linus Torvalds)[https://lkml.org/lkml/2010/10/28/264].
