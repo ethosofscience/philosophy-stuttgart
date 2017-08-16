@@ -1,41 +1,7 @@
-<!--
-   NAME - The NAME of this project is:
-ethos
-
-  FILE - The FILENAME of the current file is:
-/LICESE.md
-
-  CREATION - This project was CREATED on:
-2017-01-28-16:15:00 UTC
-
-  MODIFICATION - This project was last MODIFIED on:
-2017-01-28-16:15:00 UTC
-
-  VERSION - The current VERSION of this project is:
-<git-commit-hash>-2017-01-28-16:15:00 UTC
-
-  CREATOR(S) - This project was CREATED by:
-Michael Czechowski, Martin Maga
-
-  CONTACT - You can CONTACT the creator(s) or developer(s) of this project at:
-E-Mail: develop@martinmaga.de, …
-
-  COPYRIGHT - The COPYRIGHT holder of this project is:
-COPYRIGHT (c) 2016 Martin Maga
-
-  LICENSE - This project ist LICENSED under the following license:
-Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
-
-  SUBFILE – This is a SUBFILE! For more INFORMATION on this project go to:
-/README.md
--->
-
 LICENSE
 =======
-This project ist LICENSED under the following license:
-
-Martin Maga 2016 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
-[Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)
+**Philosophy Ethos 2016 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+[Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)**
 
 Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
