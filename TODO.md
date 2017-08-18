@@ -18,7 +18,7 @@ meta/templates/example_flield_reasons_freedom.md~~
   1. Lösche alte nicht (mehr) gebrauchte Dateien und Verzeichnisse
   2. Vereinfachung der Verzeichnisse und Namen
   3. Lösche alte Dateiinhalte
-  4. Prüfe Datein nach korrekten (Kontact) Angaben
+  4. Prüfe Datein nach korrekten (Kontakt-) Angaben
   5. Anpassen unserer README.md an uneser Titelbläter
   6. ~~Lösche HTML-Kommentare aus den headern~~
 
