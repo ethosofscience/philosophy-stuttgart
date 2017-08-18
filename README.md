@@ -82,14 +82,14 @@ Die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch 
 Wir möchten uns selbst und andere dazu motivieren eine Haltung einzunehmen, sowie sich aktiv und kritisch mit derselben auseinanderzusetzen.
 
 # Wer?
-Im Namen der Fachgruppe Philosophie der Universität Stuttgart, in alphabetischer Reihenfolge.
+Im Namen der *Fachgruppe Philosophie der Universität Stuttgart*, in alphabetischer Reihenfolge.
 
-1. Sabrina Bressel <sabrina.bressel@philosophyethos.org>
-2. Michael Czechowski <michael.czechowski@philosophyethos.org>
-3. Alexandra Haas <alexandra.haas@philosophyethos.org>
-4. Simon Hollnaicher <simon.hollnaicher@philosophyethos.org>
-5. Louis Kohlmann <louis.kohlmann@philosophyethos.org>
-6. Martin Maga <martin.maga@philosophyethos.org>
+1. Sabrina Bressel [sabrina.bressel@philosophyethos.org](sabrina.bressel@philosophyethos.org)
+2. Michael Czechowski [michael.czechowski@philosophyethos.org](michael.czechowski@philosophyethos.org)
+3. Alexandra Haas [alexandra.haas@philosophyethos.org](alexandra.haas@philosophyethos.org)
+4. Simon Hollnaicher [simon.hollnaicher@philosophyethos.org](simon.hollnaicher@philosophyethos.org)
+5. Louis Kohlmann [louis.kohlmann@philosophyethos.org](louis.kohlmann@philosophyethos.org)
+6. Martin Maga [martin.maga@philosophyethos.org](martin.maga@philosophyethos.org)
 
 # Contribution
 We want you to *be part of this project*. If you want to contribute, then
@@ -97,9 +97,9 @@ please let us know (see [Contact](#contact)).
 If you do contribute, then please stick to the following three simple rules:
 
 1. Fork it!
-2. Keep it super simple! [(KISS)](https://en.wikipedia.org/wiki/KISS_principle),
-3. Don’t repeat yourself! [(DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
-4. Tell others (and your future self) why you are doing what you are doing.
+2. Keep it super simple [(KISS)](https://en.wikipedia.org/wiki/KISS_principle)!
+3. Connect, tell others (and your future self) why you are doing what you are doing!
+4. Don’t repeat yourself [(DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)!
 
 Go to:
 [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
@@ -217,3 +217,6 @@ The current VERSION of this project is:
 Go to:
 [/VERSION.md](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/VERSION.md).
 For more information.
+
+# Kontakt
+[contact@philosophyethos.org](contact@philosophyethos.org)
