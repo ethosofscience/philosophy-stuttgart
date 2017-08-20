@@ -30,20 +30,6 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /LICENSE.md and /VERSION.md
 -->
 
-#ETHOS
-*Institut für Philosophie und Fachgruppe Philosophie der Universität Stuttgart*
-
-[contact@philosophyethos.org](contact@philosophyethos.org)
-
-Stuttgart, 2017-08-18
-
-**Work in progress!**
-
-**Abstract** Dies ist die Formulierung des gemeinsamen Ethos der philosophischen Gemeinschaft der Universität Stuttgart.
-In dieser Formulierung unseres Ethos bekennen wir uns dazu frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, forschen, lehren, arbeiten und zusammenzuleben.
-
-**Keywords** Ethos, Haltung, Kooperation, Kommunikation, Arbeiten, Lehren, Studieren, Forschen, Werte, Integrität, Freiheit, Offenheit, Professionalität, Fairness, Verantwortung, Lebendigkeit, Orientierung, Wissenschaftlichkeit, Gerechtigkeit, …
-
 # ETHOS
 *Institute for Philosophy and Student Council of Philosophy University of Stuttgart*
 
@@ -58,9 +44,29 @@ Stuttgart, 2017-08-18
 **Keywords** Ethos, Mindset, Communication, Cooperation, Integrity, Values, Ethics, Attitude, Freedom, Openness, Professionalism, Responsibility, Liveliness, Fairness, Study, Research, Work, Lecture, Roles, …
 
 # You are reading …
-… the *README.md* file of the ethos project, this is the *landing page* of this project.
+… the *README.md* file of the ethos project.
+This is the *landing page* of this project.
 The README.md file is a [Markdown](https://en.wikipedia.org/wiki/Markdown) file
-that contains the most important information on this project and its development.
+that contains the most important information on the project at hand and its development.
+
+# ETHOS
+*Institut für Philosophie und Fachgruppe Philosophie der Universität Stuttgart*
+
+[contact@philosophyethos.org](contact@philosophyethos.org)
+
+Stuttgart, 2017-08-18
+
+**Work in progress!**
+
+**Abstract** Dies ist die Formulierung des gemeinsamen Ethos der philosophischen Gemeinschaft der Universität Stuttgart.
+In dieser Formulierung unseres Ethos bekennen wir uns dazu frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, forschen, lehren, arbeiten und zusammenzuleben.
+
+**Keywords** Ethos, Haltung, Kooperation, Kommunikation, Arbeiten, Lehren, Studieren, Forschen, Werte, Integrität, Freiheit, Offenheit, Professionalität, Fairness, Verantwortung, Lebendigkeit, Orientierung, Wissenschaftlichkeit, Gerechtigkeit, …
+
+# Du liest …
+… die *README.md* Datei des ethos projekts.
+Das ist die *landing page* dieses Projekts.
+Die README.md Datei ist eine [Markdown](https://en.wikipedia.org/wiki/Markdown) Datei, die die wichtigsten Informationen über das vorliegenden Projekt und seine Entwicklung enthält.
 
 # Was?
 Dies ist die Formulierung des gemeinsamen Ethos der philosophischen Gemeinschaft der Universität Stuttgart. In dieser Formulierung unseres Ethos bekennen wir uns dazu *frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, zu forschen, zu lehren, unsere Rollen wahrzunehmen und zusammenzuleben*.
