@@ -30,94 +30,86 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 /LICENSE.md and /VERSION.md
 -->
 
-# ethos
-*Institute for Philosophy and
-Student Council of Philosophy
-University of Stuttgart*
+#ETHOS
+*Institut für Philosophie und Fachgruppe Philosophie der Universität Stuttgart*
 
-[contact@martinmaga.de](contact@martinmaga.de)
+[contact@philosophyethos.org](contact@philosophyethos.org)
 
-Stuttgart, 2017-01-28
+Stuttgart, 2017-08-18
+
+**Work in progress!**
+
+**Abstract** Dies ist die Formulierung des gemeinsamen Ethos der philosophischen Gemeinschaft der Universität Stuttgart.
+In dieser Formulierung unseres Ethos bekennen wir uns dazu frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, forschen, lehren, arbeiten und zusammenzuleben.
+
+**Keywords** Ethos, Haltung, Kooperation, Kommunikation, Arbeiten, Lehren, Studieren, Forschen, Werte, Integrität, Freiheit, Offenheit, Professionalität, Fairness, Verantwortung, Lebendigkeit, Orientierung, Wissenschaftlichkeit, Gerechtigkeit, …
+
+# ETHOS
+*Institute for Philosophy and Student Council of Philosophy University of Stuttgart*
+
+[contact@philosophyethos.org](contact@philosophyethos.org)
+
+Stuttgart, 2017-08-18
 
 **Work in Progress!**
-**Go to:**
-  1. [Projects Tab](https://github.tik.uni-stuttgart.de/martinmaga/ethos/projects/1)
-  2. [Contents](../contents/)
 
-**Abstract**: This is the joint ethos of the Institute for Philosophy and the
-Student Council of Philosophy at the University of Stuttgart.
-In this ethos we declare our commitment. …
+**Abstract** This is the formulation of the joint ethos of the philosophical community at the University of Stuttgart. In this ethos we declare our shared commitment to study, research, teach, live and work in a free, open, fair, responsible, professional and vivid way.
 
-**Keywords**: Ethos, Communication, Cooperation, Integrity, Values, Ethics,
-Attitude, …
+**Keywords** Ethos, Mindset, Communication, Cooperation, Integrity, Values, Ethics, Attitude, Freedom, Openness, Professionalism, Responsibility, Liveliness, Fairness, Study, Research, Work, Lecture, Roles, …
 
 # You are reading …
-… the *README.md* file of this project, this is the *landing page* of this project.
+… the *README.md* file of the ethos project, this is the *landing page* of this project.
 The README.md file is a [Markdown](https://en.wikipedia.org/wiki/Markdown) file
-that contains the most important information and meta information on this project
-and its development.
+that contains the most important information on this project and its development.
 
-# Project Description - What it is and why it is
-## Characteristics and aim
-This project is a joint project of the Institute of Philosophy and the
-Student Council of Philosophy at the University of Stuttgart.
-Jointly, we want to
+# Was?
+Dies ist die Formulierung des gemeinsamen Ethos der philosophischen Gemeinschaft der Universität Stuttgart. In dieser Formulierung unseres Ethos bekennen wir uns dazu *frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, zu forschen, zu lehren, unsere Rollen wahrzunehmen und zusammenzuleben*.
 
-  1. develop a set of values and rules and
-  2. voluntarily commit ourselves to this set of values and rules.
+# Warum?
+Unser Ziel ist es die *positive Atmosphäre*, in der wir am Institut für Philosophie studieren, forschen, lehren, arbeiten und zusammenleben, zu erhalten und zu verbessern.
+Unser Ethos soll unserer globalen Wissenschaftsgemeinschaft, unserer Weltgemeinschaft und unserer persönlichen Entfaltung dienen.
+Zu diesem Zwecke bekennen wir uns zu einer Haltung, welche wir im Folgenden ausformulieren.
 
-# Main content
-## Leading question
-The leading question for now is:
+Unser Ethos soll *kein* strenges Regelwerk oder verbindliches Dokument sein, sondern Orientierung für diejenigen Bereiche bieten, die gerade *nicht* durch offizielle Gesetze, Normen, Regelwerke, Prüfungsordnungen oder Modulhandbücher abgedeckt sind.
+Unser Ethos soll ein gemeinsamer Bezugspunkt sein.
+Unser Ethos erhält seine Geltung dadurch, dass wir uns zu ihm bekennen und es leben.
 
-  1. Which values and rules do we want ourselves to commit to?
-  2. What is a good or effective procedure to develop those values and rules?
-  3. How do we argue for our set of values and rules?
-  4. How do we deploy those values and norms?
+# Wie?
+Unsere allgemeine Haltung ergibt sich aus bestimmten Haltungen, die wir als eine Komposition von *paradigmatischen Handlungen* und *Werten* begreifen.
+Wir haben fünf Handlungen gewählt, die unserer Meinung nach paradigmatische Handlungen am Institut für Philosophie sind:
+*Studieren, Forschen, Lehren, Rollenwahrnehmung* und *Zusammenleben*.
+Zudem haben wir sechs Werte gewählt, die uns besonders wichtig erscheinen:
+*Fairness, Freiheit, Lebendigkeit, Offenheit, Professionalität* und *Verantwortung*.
+Aus der Verknüpfung jeder einzelnen Handlung mit allen sechs Werten ergibt sich im Gesamtbild diejenige Haltung, die wir im Ethos vermitteln wollen.
 
-## Main concepts, values and rules
-  For now the main concepts, values and rules we want to operate with are:
+Wir wollen an dieser Stelle betonen, dass wir unseren Ethos als ein lebendiges und offenes Projekt verstehen.
+Alle, die am Institut für Philosophie beteiligt sind, können und sollen sich einbringen und das Ethos ständig hinterfragen, mitgestalten und verbessern.
+Die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
+Wir möchten uns selbst und andere dazu motivieren eine Haltung einzunehmen, sowie sich aktiv und kritisch mit derselben auseinanderzusetzen.
 
-  1. Openness,
-  2. Transparency,
-  3. Intellectual integrity,
-  4. Liveliness (social),
-  7. Coherence,
-  6. …
+# Wer?
+Im Namen der *Fachgruppe Philosophie der Universität Stuttgart*, in alphabetischer Reihenfolge.
 
-## Main arguments
-For now the best reasons that support those concepts, values and rules in
-[Main concepts, values and rules](#main-concepts-values-and-rules) are the
-following:
-
-  1. …
-  2. …
-  3. …
-  4. …
-
-
-## Discussion
-  1. Can we do it this way?
-  2. Are there better ways?
-  3. …
-
+1. Sabrina Bressel [sabrina.bressel@philosophyethos.org](sabrina.bressel@philosophyethos.org)
+2. Michael Czechowski [michael.czechowski@philosophyethos.org](michael.czechowski@philosophyethos.org)
+3. Alexandra Haas [alexandra.haas@philosophyethos.org](alexandra.haas@philosophyethos.org)
+4. Simon Hollnaicher [simon.hollnaicher@philosophyethos.org](simon.hollnaicher@philosophyethos.org)
+5. Louis Kohlmann [louis.kohlmann@philosophyethos.org](louis.kohlmann@philosophyethos.org)
+6. Martin Maga [martin.maga@philosophyethos.org](martin.maga@philosophyethos.org)
 
 # Contribution
 We want you to *be part of this project*. If you want to contribute, then
 please let us know (see [Contact](#contact)).
 If you do contribute, then please stick to the following three simple rules:
 
-  1. Keep it super simple! [(KISS)](https://en.wikipedia.org/wiki/KISS_principle),
-  2. Don’t repeat yourself! [(DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself),
-  3. Tell others (and your future self) why you are doing what you are doing.
+1. Fork it!
+2. Keep it super simple [(KISS)](https://en.wikipedia.org/wiki/KISS_principle)!
+3. Connect, tell others (and your future self) why you are doing what you are doing!
+4. Don’t repeat yourself [(DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)!
 
 Go to:
 [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 to get inspired.
-
-Go to:
-[guidlines](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/meta/guidlines/)
-to see the fine print.
 
 # Requirements – What you will need
 ## Standards, formats and norms
@@ -128,6 +120,8 @@ This project uses the following standards, formats and norms:
   2. Line Ending: Unix/Linux.  
   3. Times are coded in ISO format: Coordinated Universal Time (UTC)
      (former Greenwich Mean Time (GMT))
+  4. Indention: 2 Soft tabs
+  5. Soft line wrap at 80 Characters.
 
 ## Tools
 This project is designed to be handled with the following tools:
@@ -191,40 +185,6 @@ in directory "/main/" to see all packages you need.
 Please read the section *Project Structure and File Dependency* in the current
 README file.
 
-# Project structure and file dependency
-1. ethos [The root directory "/" of this project]
-    1. README.md (You are here!)
-    2. LICENSE.md (The full license text)
-    3. VERSION.md (The current version and description of the versioning scheme of this project)
-    4. sketches [Contains sketches, ideas, concepts, …]
-        1. alexandra_struc
-        2. louis_struc
-        3. martin_struc
-            1. values.md
-            2. reasons.md
-            3. rules.md
-        4. michale_struc
-        5. simon_struc
-    5. controls [The main directory of this project]
-    6. contents [Contains the actual contents in LaTeX (sub)files.]
-    7. meta [Contains meta information on this project]
-    8. guidlines [Contains guidelines we commit to]
-        1. Hübl, Philipp
-        2. typokurz
-    9. how2 [Contains how-tos related to this project]
-      1. join_ethos_on_github_tik
-      2. join_ethos_on_github_tik.md
-      3. join_ethos_on_github_tik.pdf
-      4. 1.png
-      5. 2.png
-      6. 3.png
-      7. 4.png
-      8. 5.png
-      9. 6.png
-     10. 7.png
-     11. 8.png
-     12. 9.png
-
 ## Key – Filename extensions
 ### Generic filename suffix (filename extensions)
   1. \*.txt                (Plain text file)  
@@ -240,31 +200,11 @@ Go to:
 [Filename extension - Wikipedia, the free encyclopedia](en.wikipedia.org/wiki/Filename_extension)
 for more Information.
 
-# Creation and development
-## Author(s) and creator(s)
-The project at hand was originally created by:
-1. ALEXANDRA HAAS <haasalexandra@gmx.de>;
-2. LOUIS KOHLMANN <louiskohlmann@posteo.de>;
-3. SIMON HOLLNAICHER <simonhollnaicher@posteo.de>;
-4. MARTIN MAGA <contact@martinmaga.de>;
-5. MICHAEL CZECHOWSKI <michaelwerner@mailoo.org>.
-
-## Development
-The project at hand is currently maintained and developed by
-the following contributors (alphabetical):
-1. ALEXANDRA HAAS <haasalexandra@gmx.de>;
-2. LOUIS KOHLMANN <louiskohlmann@posteo.de>;
-3. SIMON HOLLNAICHER <simonhollnaicher@posteo.de>;
-4. MARTIN MAGA <contact@martinmaga.de>;
-5. MICHAEL CZECHOWSKI <michaelwerner@mailoo.org>.
-
 Go to:
 [Contact](#contact)
 for more information.
 
 # Copyright and license
-## Copyright
-*Copyright (c) 2016 Martin Maga*
 
 ## License
 The project at hand is hereby released under the following License:
@@ -284,36 +224,5 @@ Go to:
 [/VERSION.md](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/VERSION.md).
 For more information.
 
-## Versioning
-The current versioning scheme of this project roughly speaking mainly consists
-of two parts:
-
-  1. A unique *hexadecimal number* and  
-  2. A **timestamp**.  
-
-Go to:
-[/VERSION.md](../VERSION.md)
-for more information.
-
-# Contact
-# Contributors (alphabetical)
-  1. Alexandra Haas <haasalexandra@gmx.de>
-  2. Louis Kohlmann <louiskohlmann@posteo.de>
-  3. Simon Hollnaicher <simonhollnaicher@posteo.de>
-  4. Martin Maga <contact@martinmaga.de>
-  5. Michael Czechowski <michaelwerner@mailoo.org>
-
-University of Stuttgart  
-Faculty 9: Philosophisch – Historische Fakultät  
-Institute of Philosophie  
-Seidenstraße 36  
-D-70174 Stuttgart
-
-## Index
-**Ethos**: „vom Bewusstsein sittlicher Werte geprägte Gesinnung, Gesamthaltung;
-ethisches Bewusstsein“. [(Duden 2017)](http://www.duden.de/rechtschreibung/Ethos)
-
-## References
-1. Just for reference the original logo of this project [ethos auf Overleaf](https://www.overleaf.com/661442shqnsp#/1393290/).
-2. [Duden](http://www.duden.de/rechtschreibung/Ethos).
-3. [...](...)
+# Kontakt
+[contact@philosophyethos.org](contact@philosophyethos.org)

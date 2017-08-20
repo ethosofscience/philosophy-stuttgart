@@ -2,7 +2,9 @@
 Dies ist die Formulierung des gemeinsamen Ethos der philosophischen Gemeinschaft der Universität Stuttgart. In dieser Formulierung unseres Ethos bekennen wir uns dazu *frei, offen, fair, verantwortungsvoll, lebendig und professionell zu studieren, zu forschen, zu lehren, unsere Rollen wahrzunehmen und zusammenzuleben*.
 
 # Warum?
-Unser Ziel ist es die positive Atmosphäre, in der wir am Institut für Philosophie studieren, forschen, lehren, arbeiten und zusammenleben, zu erhalten und zu verbessern. Unser Ethos soll unserer globalen Wissenschaftsgemeinschaft, unserer Weltgemeinschaft und unserer persönlichen Entfaltung dienen. Zu diesem Zwecke bekennen wir uns zu einer Haltung, welche wir im Folgenden ausformulieren.
+Unser Ziel ist es die *positive Atmosphäre*, in der wir am Institut für Philosophie studieren, forschen, lehren, arbeiten und zusammenleben, zu erhalten und zu verbessern.
+Unser Ethos soll unserer globalen Wissenschaftsgemeinschaft, unserer Weltgemeinschaft und unserer persönlichen Entfaltung dienen.
+Zu diesem Zwecke bekennen wir uns zu einer Haltung, welche wir im Folgenden ausformulieren.
 
 Unser Ethos soll *kein* strenges Regelwerk oder verbindliches Dokument sein, sondern Orientierung für diejenigen Bereiche bieten, die gerade *nicht* durch offizielle Gesetze, Normen, Regelwerke, Prüfungsordnungen oder Modulhandbücher abgedeckt sind.
 Unser Ethos soll ein gemeinsamer Bezugspunkt sein.
@@ -26,17 +28,17 @@ Diese Begründungen sollen verdeutlichen, warum wir diese Werte als besonders re
 Im Kapitel *Gründe über Gründe* geben wir einige Gründe dafür an, warum wir tun, was wir tun und warum wir *nicht* tun, was wir nicht tun.
 Ebenso gehen wir kurz auf die Möglichkeit von Wertekonflikten ein.
 
-Wir wollen an dieser Stelle betonen, dass wir den Ethos als ein lebendiges und offenes Projekt verstehen.
+Wir wollen an dieser Stelle betonen, dass wir unseren Ethos als ein lebendiges und offenes Projekt verstehen.
 Alle, die am Institut für Philosophie beteiligt sind, können und sollen sich einbringen und das Ethos ständig hinterfragen, mitgestalten und verbessern.
 Die Haltung, die wir vertreten und besonders die Frage wie sich diese praktisch realisieren lässt, kann und soll diskutiert werden.
 Wir möchten uns selbst und andere dazu motivieren eine Haltung einzunehmen, sowie sich aktiv und kritisch mit derselben auseinanderzusetzen.
 
 # Wer?
-Im Namen der Fachgruppe Philosophie der Universität Stuttgart, in alphabetischer Reihenfolge.
+Im Namen der *Fachgruppe Philosophie der Universität Stuttgart*, in alphabetischer Reihenfolge.
 
-1. Sabrina Bressel <sabrina.bressel@arcor.de>
-2. Michael Czechowski <mail@dailysh.it>
-3. Alexandra Haas <haasalexandra@gmx.de>
-4. Simon Hollnaicher <simonhollnaicher@posteo.de>
-5. Louis Kohlmann <louiskohlmann@posteo.de>
-6. Martin Maga <contact@martinmaga.de>
+1. Sabrina Bressel [sabrina.bressel@philosophyethos.org](sabrina.bressel@philosophyethos.org)
+2. Michael Czechowski [michael.czechowski@philosophyethos.org](michael.czechowski@philosophyethos.org)
+3. Alexandra Haas [alexandra.haas@philosophyethos.org](alexandra.haas@philosophyethos.org)
+4. Simon Hollnaicher [simon.hollnaicher@philosophyethos.org](simon.hollnaicher@philosophyethos.org)
+5. Louis Kohlmann [louis.kohlmann@philosophyethos.org](louis.kohlmann@philosophyethos.org)
+6. Martin Maga [martin.maga@philosophyethos.org](martin.maga@philosophyethos.org)

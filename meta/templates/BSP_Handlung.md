@@ -1,3 +1,0 @@
-# Studieren
-[600-700 Zeichen]
-Wir studieren ....
