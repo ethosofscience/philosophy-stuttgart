@@ -1,6 +1,0 @@
-# Wir x-en y-haft.
-[Im Durchschnitt über die gesamte Handlung ca. 400 Zeichen, max. 3-4  Bulletpoints, nur eine Ebene benutzen]
-
-1. Wir ...
-
-2. Wir vertreten ...
