@@ -33,7 +33,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # ETHOS
 *Institute for Philosophy and Student Council of Philosophy University of Stuttgart*
 
-[contact@philosophyethos.org](contact@philosophyethos.org)
+[contact@ethosofscience.org](contact@ethosofscience.org)
 
 Stuttgart, 2017-08-18
 
@@ -52,7 +52,7 @@ that contains the most important information on the project at hand and its deve
 # ETHOS
 *Institut für Philosophie und Fachgruppe Philosophie der Universität Stuttgart*
 
-[contact@philosophyethos.org](contact@philosophyethos.org)
+[contact@ethosofscience.org](contact@ethosofscience.org)
 
 Stuttgart, 2017-08-18
 
@@ -90,12 +90,12 @@ Aus der Verknüpfung jeder einzelnen Handlung mit allen sechs Werten ergibt sich
 # Wer?
 Im Namen der *Fachgruppe Philosophie der Universität Stuttgart*, in alphabetischer Reihenfolge.
 
-1. Sabrina Bressel [sabrina.bressel@ethosofscience.org](sabrina.bressel@philosophyethos.org)
-2. Michael Czechowski [michael.czechowski@ethosofscience.org](michael.czechowski@philosophyethos.org)
-3. Alexandra Haas [alexandra.haas@ethosofscience.org](alexandra.haas@philosophyethos.org)
-4. Simon Hollnaicher [simon.hollnaicher@ethosofscience.org](simon.hollnaicher@philosophyethos.org)
-5. Louis Kohlmann [louis.kohlmann@ethosofscience.org](louis.kohlmann@philosophyethos.org)
-6. Martin Maga [martin.maga@ethosofscience.org](martin.maga@philosophyethos.org)
+1. Sabrina Bressel [sabrina.bressel@ethosofscience.org](sabrina.bressel@ethosofscience.org)
+2. Michael Czechowski [michael.czechowski@ethosofscience.org](michael.czechowski@ethosofscience.org)
+3. Alexandra Haas [alexandra.haas@ethosofscience.org](alexandra.haas@ethosofscience.org)
+4. Simon Hollnaicher [simon.hollnaicher@ethosofscience.org](simon.hollnaicher@ethosofscience.org)
+5. Louis Kohlmann [louis.kohlmann@ethosofscience.org](louis.kohlmann@ethosofscience.org)
+6. Martin Maga [martin.maga@ethosofscience.org](martin.maga@ethosofscience.org)
 
 # Contribution
 We want you to *be part of this project*.
@@ -221,4 +221,4 @@ Go to:
 For more information.
 
 # Kontakt
-[contact@ethosofscience.org](contact@philosophyethos.org)
+[contact@ethosofscience.org](contact@ethosofscience.org)
