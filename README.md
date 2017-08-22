@@ -1,6 +1,6 @@
 <!--
    NAME - The NAME of this project is:
-ethos
+ethosofscience
 
   FILE - The FILENAME of the current file is:
 /README.md
@@ -15,13 +15,13 @@ ethos
 <git-commit-hash>-2017-01-28-16:15:00 UTC
 
   CREATOR(S) - This project was CREATED by:
-Michael Czechowski, Martin Maga
+The Student Council of Philosophy at the University of Stuttgart
 
   CONTACT - You can CONTACT the creator(s) or developer(s) of this project at:
-E-Mail: contact@martinmaga.de, …
+E-Mail: contact@ethosofscience.org
 
   COPYRIGHT - The COPYRIGHT holder of this project is:
-COPYRIGHT (c) 2016 Martin Maga
+COPYRIGHT (c) 2017 ethosofscience.org
 
   LICENSE - This project is LICENSED under the following license:
 Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
@@ -31,7 +31,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 -->
 
 # ETHOS
-*Institute for Philosophy and Student Council of Philosophy University of Stuttgart*
+*The Institute of Philosophy and the Student Council of Philosophy at the University of Stuttgart*
 
 [contact@ethosofscience.org](contact@ethosofscience.org)
 
