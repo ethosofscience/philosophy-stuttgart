@@ -90,12 +90,12 @@ Aus der Verknüpfung jeder einzelnen Handlung mit allen sechs Werten ergibt sich
 # Wer?
 Im Namen der *Fachgruppe Philosophie der Universität Stuttgart*, in alphabetischer Reihenfolge.
 
-1. Sabrina Bressel [sabrina.bressel@philosophyethos.org](sabrina.bressel@philosophyethos.org)
-2. Michael Czechowski [michael.czechowski@philosophyethos.org](michael.czechowski@philosophyethos.org)
-3. Alexandra Haas [alexandra.haas@philosophyethos.org](alexandra.haas@philosophyethos.org)
-4. Simon Hollnaicher [simon.hollnaicher@philosophyethos.org](simon.hollnaicher@philosophyethos.org)
-5. Louis Kohlmann [louis.kohlmann@philosophyethos.org](louis.kohlmann@philosophyethos.org)
-6. Martin Maga [martin.maga@philosophyethos.org](martin.maga@philosophyethos.org)
+1. Sabrina Bressel [sabrina.bressel@ethosofscience.org](sabrina.bressel@philosophyethos.org)
+2. Michael Czechowski [michael.czechowski@ethosofscience.org](michael.czechowski@philosophyethos.org)
+3. Alexandra Haas [alexandra.haas@ethosofscience.org](alexandra.haas@philosophyethos.org)
+4. Simon Hollnaicher [simon.hollnaicher@ethosofscience.org](simon.hollnaicher@philosophyethos.org)
+5. Louis Kohlmann [louis.kohlmann@ethosofscience.org](louis.kohlmann@philosophyethos.org)
+6. Martin Maga [martin.maga@ethosofscience.org](martin.maga@philosophyethos.org)
 
 # Contribution
 We want you to *be part of this project*.
@@ -204,7 +204,7 @@ for more information.
 
 ## License
 The project at hand is hereby released under the following License:
-*Martin Maga 2016 Creative Commons Attribution-ShareAlike 4.0 International*
+*Ethos of science 2017 Creative Commons Attribution-ShareAlike 4.0 International*
 *(CC BY-SA 4.0) [Creative Commons](https://creativecommons.org)*
 
 Go to: [/LICENSE.md](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/LICENSE.md)
@@ -221,4 +221,4 @@ Go to:
 For more information.
 
 # Kontakt
-[contact@philosophyethos.org](contact@philosophyethos.org)
+[contact@ethosofscience.org](contact@philosophyethos.org)
