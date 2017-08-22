@@ -1,4 +1,4 @@
-Mit besten Grüßen
+Mit besten Grüßen / With kind regards
 
 [name einfügen]
 mail: vorname.nachname@philosophyethos.org
@@ -10,6 +10,8 @@ Fachgruppe Philosophie in Zusammenarbeit
 mit dem Instituts für Philosophie
 der Universität Stuttgart
 
+Institute for Philosophy and Student Council
+of Philosophy University of Stuttgart
 
 mail: contact@philosophyethos.org
 site: http://philosophyethos.org/ [in Arbeit]
@@ -24,6 +26,7 @@ dazu frei, offen, fair, verantwortungsvoll, lebendig
 und professionell zu studieren, forschen, lehren,
 arbeiten und zusammenzuleben.
 
+Abstract
 This is the formulation of the joint ethos of the
 philosophical community at the University of Stuttgart.
 In this ethos we declare our shared commitment to study,
