@@ -29,3 +29,9 @@ meta/templates/example_flield_reasons_freedom.md~~
 7. DOI über zenodo.org
 
 8. Übersetze README.md von Deutsch nach Englisch.
+
+9. Create CODE_Of_CONDUCT.md file.
+
+10. Create CONTRIBUTING.md file.
+
+11. …
