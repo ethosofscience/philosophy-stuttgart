@@ -32,7 +32,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 
 # ETHOS
 *The Institute of Philosophy and the Student Council of Philosophy at the University of Stuttgart*
-
+martinmaga.de, …
 [contact@ethosofscience.org](contact@ethosofscience.org)
 
 Stuttgart, 2017-08-18
@@ -220,5 +220,5 @@ Go to:
 [/VERSION.md](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/VERSION.md).
 For more information.
 
-# Kontakt
+# Contact
 [contact@ethosofscience.org](contact@ethosofscience.org)
