@@ -15,7 +15,7 @@ of Philosophy University of Stuttgart
 
 mail: contact@philosophyethos.org
 site: http://philosophyethos.org/ [in Arbeit]
-git:  https://github.tik.uni-stuttgart.de/martinmaga/philosophyethos
+git:  https://github.com/ethosofscience
 
 
 Was ist das Ethos?
