@@ -99,24 +99,25 @@ Im Namen der *Fachgruppe Philosophie der Universität Stuttgart*, in alphabetisc
 
 # Contribution
 We want you to *be part of this project*.
-If you want to contribute, then please let us know (see [Contact](#contact)).
-If you do contribute, then please stick to the following three simple rules:
+If you want to contribute to this project, then we encourage you to start with the following three steps:
 
-1. Fork it!
-2. Keep it super simple [(KISS)](https://en.wikipedia.org/wiki/KISS_principle)!
-3. Connect, tell everyone including your future self *why* you are doing what you are doing!
+1. Fork it.
+2. Keep it super simple [(KISS)](https://en.wikipedia.org/wiki/KISS_principle).
+3. Connect, tell everyone, including your future self, *why* you are doing what you are doing.
+
+You will need some tools (see next section).
 
 # Requirements – What you will need
 ## Standards, formats and norms
 This project uses the following standards, formats and norms:
 
-1. Character Encoding: 8-Bit Universal Character Set Transformation
- Format (UTF-8);  
-2. Line Ending: Unix/Linux.  
-3. Times are coded in ISO format: Coordinated Universal Time (UTC)
- (former Greenwich Mean Time (GMT))
-4. Indention: 2 Soft tabs
-5. Soft line wrap at 80 Characters.
+1. Character encoding: 8-Bit Universal Character Set Transformation
+ Format (UTF-8);
+2. Line ending: Unix/Linux;
+3. Indention: 2 soft tabs;
+4. Soft line wrap at 80 characters;
+5. Times are encoded in ISO format: Coordinated Universal Time (UTC)
+ (former Greenwich Mean Time (GMT));
 
 ## Tools
 This project is designed to be handled with the following tools:
@@ -142,8 +143,8 @@ Go to:
 [PDFreaders.org](https://pdfreaders.org/pdfreaders.en.html)
 for more information on PDF readers.
 
-### Writing
-To *write* to this project you need:
+### Editing
+To *edit* this project you need:
 
   1. A simple text editor like [Vim](http://www.vim.org/) or
   2. A [gedit](www.gedit.org) or
