@@ -1,7 +1,7 @@
 # ETHOS
 *Institut für Philosophie und Fachgruppe Philosophie der Universität Stuttgart*
 
-[contact@philosophyethos.org](contact@philosophyethos.org)
+[contact@ethosofscience.org](contact@ethosofscience.org)
 
 Stuttgart, 2017-08-18
 
@@ -16,7 +16,7 @@ In dieser Formulierung unseres Ethos bekennen wir uns dazu frei, offen, fair, ve
 # ETHOS
 *Institute for Philosophy and Student Council of Philosophy University of Stuttgart*
 
-[contact@philosophyethos.org](contact@philosophyethos.org)
+[contact@ethosofscience.org](contact@ethosofscience.org)
 
 Stuttgart, 2017-08-18
 

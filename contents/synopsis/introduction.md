@@ -36,9 +36,9 @@ Wir möchten uns selbst und andere dazu motivieren eine Haltung einzunehmen, sow
 # Wer?
 Im Namen der *Fachgruppe Philosophie der Universität Stuttgart*, in alphabetischer Reihenfolge.
 
-1. Sabrina Bressel [sabrina.bressel@philosophyethos.org](sabrina.bressel@philosophyethos.org)
-2. Michael Czechowski [michael.czechowski@philosophyethos.org](michael.czechowski@philosophyethos.org)
-3. Alexandra Haas [alexandra.haas@philosophyethos.org](alexandra.haas@philosophyethos.org)
-4. Simon Hollnaicher [simon.hollnaicher@philosophyethos.org](simon.hollnaicher@philosophyethos.org)
-5. Louis Kohlmann [louis.kohlmann@philosophyethos.org](louis.kohlmann@philosophyethos.org)
-6. Martin Maga [martin.maga@philosophyethos.org](martin.maga@philosophyethos.org)
+1. Sabrina Bressel [sabrina.bressel@ethosofscience.org](sabrina.bressel@ethosofscience.org)
+2. Michael Czechowski [michael.czechowski@ethosofscience.org](michael.czechowski@ethosofscience.org)
+3. Alexandra Haas [alexandra.haas@ethosofscience.org](alexandra.haas@ethosofscience.org)
+4. Simon Hollnaicher [simon.hollnaicher@ethosofscience.org](simon.hollnaicher@ethosofscience.org)
+5. Louis Kohlmann [louis.kohlmann@ethosofscience.org](louis.kohlmann@ethosofscience.org)
+6. Martin Maga [martin.maga@ethosofscience.org](martin.maga@ethosofscience.org)

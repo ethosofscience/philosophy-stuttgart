@@ -33,7 +33,7 @@ Martin Maga 2016 CC BY-SA 4.0 https://creativecommons.org
 # ETHOS
 *Institute for Philosophy and Student Council of Philosophy University of Stuttgart*
 
-[contact@philosophyethos.org](contact@philosophyethos.org)
+[contact@ethosofscience.org](contact@ethosofscience.org)
 
 Stuttgart, 2017-08-18
 
@@ -52,7 +52,7 @@ that contains the most important information on the project at hand and its deve
 # ETHOS
 *Institut für Philosophie und Fachgruppe Philosophie der Universität Stuttgart*
 
-[contact@philosophyethos.org](contact@philosophyethos.org)
+[contact@ethosofscience.org](contact@ethosofscience.org)
 
 Stuttgart, 2017-08-18
 
@@ -90,33 +90,34 @@ Aus der Verknüpfung jeder einzelnen Handlung mit allen sechs Werten ergibt sich
 # Wer?
 Im Namen der *Fachgruppe Philosophie der Universität Stuttgart*, in alphabetischer Reihenfolge.
 
-1. Sabrina Bressel [sabrina.bressel@philosophyethos.org](sabrina.bressel@philosophyethos.org)
-2. Michael Czechowski [michael.czechowski@philosophyethos.org](michael.czechowski@philosophyethos.org)
-3. Alexandra Haas [alexandra.haas@philosophyethos.org](alexandra.haas@philosophyethos.org)
-4. Simon Hollnaicher [simon.hollnaicher@philosophyethos.org](simon.hollnaicher@philosophyethos.org)
-5. Louis Kohlmann [louis.kohlmann@philosophyethos.org](louis.kohlmann@philosophyethos.org)
-6. Martin Maga [martin.maga@philosophyethos.org](martin.maga@philosophyethos.org)
+1. Sabrina Bressel [sabrina.bressel@ethosofscience.org](sabrina.bressel@ethosofscience.org)
+2. Michael Czechowski [michael.czechowski@ethosofscience.org](michael.czechowski@ethosofscience.org)
+3. Alexandra Haas [alexandra.haas@ethosofscience.org](alexandra.haas@ethosofscience.org)
+4. Simon Hollnaicher [simon.hollnaicher@ethosofscience.org](simon.hollnaicher@ethosofscience.org)
+5. Louis Kohlmann [louis.kohlmann@ethosofscience.org](louis.kohlmann@ethosofscience.org)
+6. Martin Maga [martin.maga@ethosofscience.org](martin.maga@ethosofscience.org)
 
 # Contribution
 We want you to *be part of this project*.
-If you want to contribute, then please let us know (see [Contact](#contact)).
-If you do contribute, then please stick to the following three simple rules:
+If you want to contribute to this project, then we encourage you to start with the following three steps:
 
-1. Fork it!
-2. Keep it super simple [(KISS)](https://en.wikipedia.org/wiki/KISS_principle)!
-3. Connect, tell everyone including your future self *why* you are doing what you are doing!
+1. Fork it.
+2. Keep it super simple [(KISS)](https://en.wikipedia.org/wiki/KISS_principle).
+3. Connect, tell everyone, including your future self, *why* you are doing what you are doing.
+
+You will need some tools (see next section).
 
 # Requirements – What you will need
 ## Standards, formats and norms
 This project uses the following standards, formats and norms:
 
-1. Character Encoding: 8-Bit Universal Character Set Transformation
- Format (UTF-8);  
-2. Line Ending: Unix/Linux.  
-3. Times are coded in ISO format: Coordinated Universal Time (UTC)
- (former Greenwich Mean Time (GMT))
-4. Indention: 2 Soft tabs
-5. Soft line wrap at 80 Characters.
+1. Character encoding: 8-Bit Universal Character Set Transformation
+ Format (UTF-8);
+2. Line ending: Unix/Linux;
+3. Indention: 2 soft tabs;
+4. Soft line wrap at 80 characters;
+5. Times are encoded in ISO format: Coordinated Universal Time (UTC)
+ (former Greenwich Mean Time (GMT));
 
 ## Tools
 This project is designed to be handled with the following tools:
@@ -142,8 +143,8 @@ Go to:
 [PDFreaders.org](https://pdfreaders.org/pdfreaders.en.html)
 for more information on PDF readers.
 
-### Writing
-To *write* to this project you need:
+### Editing
+To *edit* this project you need:
 
   1. A simple text editor like [Vim](http://www.vim.org/) or
   2. A [gedit](www.gedit.org) or
@@ -203,7 +204,7 @@ for more information.
 
 ## License
 The project at hand is hereby released under the following License:
-*Martin Maga 2016 Creative Commons Attribution-ShareAlike 4.0 International*
+*Ethos of science 2017 Creative Commons Attribution-ShareAlike 4.0 International*
 *(CC BY-SA 4.0) [Creative Commons](https://creativecommons.org)*
 
 Go to: [/LICENSE.md](https://github.tik.uni-stuttgart.de/martinmaga/ethos/blob/master/sketches/LICENSE.md)
@@ -220,4 +221,4 @@ Go to:
 For more information.
 
 # Kontakt
-[contact@philosophyethos.org](contact@philosophyethos.org)
+[contact@ethosofscience.org](contact@ethosofscience.org)
