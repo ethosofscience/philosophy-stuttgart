@@ -22,16 +22,18 @@ meta/templates/example_flield_reasons_freedom.md~~
   5. Anpassen unserer README.md an uneser Titelbläter
   6. ~~Lösche HTML-Kommentare aus den headern~~
 
-6. Umziehen unseres Repositoriums auf GitHub und Umbenennung zu „ethosofscience“ zur bessern Sichtbarkeit und Verfügbarkeit
+6. ~~Umziehen unseres Repositoriums auf GitHub und Umbenennung zu „ethosofscience“ zur bessern Sichtbarkeit und Verfügbarkeit~~
     1. ~~Erstellen einer Oragnisation auf GitHub~~
     2. ~~Spiegeln des alten Repositoriums auf das GitHub~~
+    3. ~~Konfigurieren der Einstellungen auf github~~    
 
 7. DOI über zenodo.org
 
-8. Übersetze README.md von Deutsch nach Englisch.
+8. Übersetze README.md vom Deutschen ins Englische.
 
-9. Create CODE_Of_CONDUCT.md file.
+9. Implementierung von Best Practisise
+  1. Create CODE_Of_CONDUCT.md file.
+  2. Create CONTRIBUTING.md file.
+  3. … ?
 
-10. Create CONTRIBUTING.md file.
-
-11. …
+12. …
