@@ -3,7 +3,7 @@
 ## Welcome!
 Thank you for taking the time to contribute.
 The *ethos of science project* exists because there are people like you.
-We are eager for your contribution and we would love to collaborate with you.
+We would love to collaborate with you.
 If you want to help us, then please read on in order to see how we are working together.
 
 ## Contributor code of conduct
@@ -17,7 +17,7 @@ Following our guidelines helps us to communicate and collaborate in an positive,
 
 Furthermore our guidelines are the result of trial and error and of continuous deliberation.
 Our guidelines help us to sidestep many common pitfalls we encountered.
-They may not show us the perfect route but it is at least a route that is working quite good.
+This guidelines are not perfect but they give us at least some good hints and helpfull directions.
 
 ## Guidelines
 ### Golden rules
@@ -26,7 +26,7 @@ They may not show us the perfect route but it is at least a route that is workin
 3. Tell everyone, including your future self, *why* you are doing what you are doing.
 4. If you can improve it, improve it.
 5. If it is not from you, indicate clearly from whom you have it.
-6. Be grateful and honour the thoughts and works of others on whom you build upon by calling their names.
+6. Be grateful and honour the thoughts and works of others on whom you build upon by prominently mentioning their names.
 7. Be noble, share it.
 
 ### Rules of thumb
@@ -38,7 +38,7 @@ Do you need more inspiration? Go to: [The Zen of Python](https://www.python.org/
 
 ### Workflow
 1. Fork (or clone) it.
-2. …
+2.
 
 # Attribution
 [Source: Read The Docs](http://read-the-docs.readthedocs.io/en/latest/contribute.html)
