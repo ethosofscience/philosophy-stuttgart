@@ -1,5 +1,13 @@
 # Posterentwurf
 
+## Unsere X-Gebote
+
+### 1. Du sollst ...
+
+### 2. Du solltest unter Umständen nicht ...
+
+### 3. Freilich ist es erlaubt ...
+
 ## Arbeitsanweisungen vom Meeting am 18.1.2017
 
 1. Wir erstellen einen Snapshot des Ethos in Form eines Posters. 
