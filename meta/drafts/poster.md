@@ -1,6 +1,6 @@
 # Posterentwurf
 
-## Unsere X-Regeln
+## Unsere X-Regeln :pray:
 
 ### 1. Du sollst ...
 
@@ -23,4 +23,4 @@ Jeder trägt im von Micha erstellten Dokument hierzu bei.
    - gut durchdacht
    - und einladend ist. 
 
-3. Wir treffen uns wieder am 1.2. um 16:30 Uhr per Skype.
+3. Wir treffen uns wieder am 1.2. um 16:30 Uhr per Skype.  :telephone_receiver:
